@@ -32,10 +32,14 @@ python3 tools/build.py
 reassembles `dashboard.html` from whatever is currently in `data/quotes.json` and
 `data/news.json`. To actually refresh those:
 
-1. Re-fetch a price snapshot for every entry in `data/tickers.json` (WebSearch /
-   WebFetch against a quote page per ticker works well — see the agent prompt used
-   originally, preserved in git history) and overwrite `data/quotes.json` in the
-   same shape.
+1. Re-fetch a price snapshot for every entry in `data/tickers.json` and overwrite
+   `data/quotes.json` in the same shape. Use **WebSearch only** — this
+   environment's network egress policy blocks WebFetch for essentially every
+   finance domain (stockanalysis.com, finance.yahoo.com, investing.com,
+   tradingview.com, cnbc.com, marketwatch.com, wsj.com, google.com,
+   wallstreetzen.com all return `EGRESS_BLOCKED`), so search-snippet prices are
+   the only reliable source. See the agent prompt used originally, preserved in
+   git history / the "Market Monitor refresh" Routine, for the exact method.
 2. Optionally refresh `data/news.json` with current headlines for the
    largest-weighted holdings.
 3. Run `python3 tools/build.py`.
