@@ -3,14 +3,13 @@
     "exchange": "ASX",
     "ticker": "BHP",
     "name": "BHP Group Limited",
-    "price": 65.16,
+    "price": 67.52,
     "currency": "AUD",
-    "change": null,
-    "changePercent": null,
+    "change": 1.94,
+    "changePercent": 2.96,
     "asOfDate": "2026-08-24",
     "displaySymbol": "BHP.AX",
-    "sourceUrl": "https://www.marketindex.com.au/asx/bhp",
-    "note": "Change/percent not reliably found in current search"
+    "sourceUrl": "https://www.tradingview.com/symbols/ASX-BHP/"
   },
   {
     "exchange": "BIT",
@@ -22,20 +21,20 @@
     "changePercent": -0.79,
     "asOfDate": "2026-08-24",
     "displaySymbol": "ISP.MI",
-    "sourceUrl": "https://www.investing.com/equities/intesa-sanpaolo"
+    "sourceUrl": "https://www.investing.com/equities/intesa-sanpaolo",
+    "note": "Search results wildly inconsistent (EUR 5.93-6.85 range) across sources; kept previous confirmed snapshot"
   },
   {
     "exchange": "BME",
     "ticker": "BBVA",
     "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
-    "price": 24.81,
+    "price": 24.93,
     "currency": "EUR",
-    "change": 0.52,
-    "changePercent": 2.14,
+    "change": 0.04,
+    "changePercent": 0.16,
     "asOfDate": "2026-08-24",
     "displaySymbol": "BBVA.MC",
-    "sourceUrl": "https://www.investing.com/equities/bbva",
-    "note": "Timestamped 12:04pm GMT+2"
+    "sourceUrl": "https://www.tradingview.com/symbols/BME-BBVA/"
   },
   {
     "exchange": "CPSE",
@@ -47,7 +46,8 @@
     "changePercent": 1.587,
     "asOfDate": "2026-08-23",
     "displaySymbol": "NOVO-B.CO",
-    "sourceUrl": "https://www.investing.com/equities/novo-nordisk"
+    "sourceUrl": "https://www.investing.com/equities/novo-nordisk",
+    "note": "No data fresher than Aug 23 close found in search; unchanged"
   },
   {
     "exchange": "ENXTAM",
@@ -59,7 +59,7 @@
     "changePercent": 0.04,
     "asOfDate": "2026-08-24",
     "displaySymbol": "ASML.AS",
-    "sourceUrl": "https://www.investing.com/equities/asml-holdings"
+    "sourceUrl": "https://www.investing.com/equities/asml-holding"
   },
   {
     "exchange": "ENXTPA",
@@ -67,7 +67,7 @@
     "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
     "price": 452.5,
     "currency": "EUR",
-    "change": 9.41,
+    "change": 9.4,
     "changePercent": 2.12,
     "asOfDate": "2026-08-24",
     "displaySymbol": "MC.PA",
@@ -77,14 +77,14 @@
     "exchange": "ENXTPA",
     "ticker": "RMS",
     "name": "Hermès International Société en commandite par actions",
-    "price": 1573.0,
+    "price": 1581.0,
     "currency": "EUR",
-    "change": 23.56,
+    "change": 23.6,
     "changePercent": 1.52,
     "asOfDate": "2026-08-24",
     "displaySymbol": "RMS.PA",
     "sourceUrl": "https://www.etoro.com/markets/rms.pa",
-    "note": "Conflicting figures across sources (€1,573-€1,640)"
+    "note": "Conflicting figures across sources (EUR 1,573-1,644); used cross-validated 1.52% change figure"
   },
   {
     "exchange": "ENXTPA",
@@ -109,16 +109,16 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "HLMA.L",
     "sourceUrl": "https://www.stockopedia.com/share-prices/halma-LON:HLMA/",
-    "note": "Price quoted in GBX (pence); data delayed ~15 min"
+    "note": "Search returned inconsistent price (4549 GBX) likely stale/wrong-date data; kept previous confirmed snapshot"
   },
   {
     "exchange": "LSE",
     "ticker": "RR.",
     "name": "Rolls-Royce Holdings plc",
-    "price": 1516.58,
+    "price": 1501.3,
     "currency": "GBP",
-    "change": 14.38,
-    "changePercent": 0.96,
+    "change": 3.15,
+    "changePercent": 0.21,
     "asOfDate": "2026-08-24",
     "displaySymbol": "RR.L",
     "sourceUrl": "https://www.investing.com/equities/rolls-royce",
@@ -128,14 +128,13 @@
     "exchange": "NYSE",
     "ticker": "AME",
     "name": "AMETEK, Inc.",
-    "price": 239.08,
+    "price": 239.55,
     "currency": "USD",
-    "change": null,
-    "changePercent": null,
+    "change": 0.48,
+    "changePercent": 0.2,
     "asOfDate": "2026-08-24",
     "displaySymbol": "AME",
-    "sourceUrl": "https://www.investing.com/equities/ametek-inc",
-    "note": "Change/percent not found in current search snippets"
+    "sourceUrl": "https://www.tradingview.com/symbols/NYSE-AME/"
   },
   {
     "exchange": "NYSE",
@@ -160,7 +159,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "BRK.B",
     "sourceUrl": "https://stockanalysis.com/stocks/brk.b/",
-    "note": "Trading essentially flat vs Friday close at Monday open"
+    "note": "Trading flat vs previous close"
   },
   {
     "exchange": "NYSE",
@@ -172,7 +171,7 @@
     "changePercent": 2.5,
     "asOfDate": "2026-08-24",
     "displaySymbol": "CSL",
-    "sourceUrl": "https://www.wallstreetzen.com/stocks/us/nyse/csl"
+    "sourceUrl": "https://www.tradingview.com/symbols/NYSE-CSL/"
   },
   {
     "exchange": "NYSE",
@@ -184,7 +183,8 @@
     "changePercent": 2.09,
     "asOfDate": "2026-08-24",
     "displaySymbol": "DHR",
-    "sourceUrl": "https://www.investing.com/equities/danaher-corp"
+    "sourceUrl": "https://www.investing.com/equities/danaher-corp",
+    "note": "Conflicting direction across sources (previous +2.09% vs new search -1.48%); kept previous confirmed value"
   },
   {
     "exchange": "NYSE",
@@ -196,8 +196,8 @@
     "changePercent": 0.57,
     "asOfDate": "2026-08-24",
     "displaySymbol": "EQNR",
-    "sourceUrl": "https://www.kraken.com/stocks/eqnr",
-    "note": "Conflicting prices across sources ($40.35-$41.18); used mid-range figure with explicit % change"
+    "sourceUrl": "https://stockanalysis.com/stocks/eqnr/",
+    "note": "Conflicting prices across sources ($40.77-$41.18); used cross-validated 0.57% change"
   },
   {
     "exchange": "NYSE",
@@ -210,20 +210,20 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "HCA",
     "sourceUrl": "https://www.coinbase.com/stock/HCA",
-    "note": "Large % move likely earnings-related; figure reconfirmed across multiple sources"
+    "note": "Conflicting data: new search shows -2.62% vs previous +5.64% figure; kept previous confirmed snapshot pending clearer data"
   },
   {
     "exchange": "NYSE",
     "ticker": "HDB",
     "name": "HDFC Bank Limited",
-    "price": 23.68,
+    "price": 23.6,
     "currency": "USD",
-    "change": null,
-    "changePercent": null,
-    "asOfDate": "2026-08-21",
+    "change": 0.26,
+    "changePercent": 1.11,
+    "asOfDate": "2026-08-22",
     "displaySymbol": "HDB",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403853/HDB/hdfc-bank-ltd-adr/",
-    "note": "Most recent explicit data point dated Aug 21, 8:25pm"
+    "note": "Most recent explicit data point dated Aug 22; no Aug 24 data found"
   },
   {
     "exchange": "NYSE",
@@ -235,7 +235,7 @@
     "changePercent": 0.75,
     "asOfDate": "2026-08-24",
     "displaySymbol": "HEI",
-    "sourceUrl": "https://www.tradingview.com/symbols/NYSE-HEI/",
+    "sourceUrl": "https://www.investing.com/equities/heico-corp",
     "note": "Move since market open vs previous close of 371.89"
   },
   {
@@ -248,8 +248,7 @@
     "changePercent": 0.92,
     "asOfDate": "2026-08-24",
     "displaySymbol": "IBN",
-    "sourceUrl": "https://tradersunion.com/currencies/price/ibn-usd/",
-    "note": "Price differs substantially from prior snapshot; multiple current sources agree near $29.5"
+    "sourceUrl": "https://tradersunion.com/currencies/price/ibn-usd/"
   },
   {
     "exchange": "NYSE",
@@ -261,14 +260,14 @@
     "changePercent": 1.21,
     "asOfDate": "2026-08-24",
     "displaySymbol": "ICE",
-    "sourceUrl": "https://www.investing.com/equities/intercontintlex",
+    "sourceUrl": "https://www.tradingview.com/symbols/NYSE-ICE/",
     "note": "Conflicting day-range figures across sources; used figure reconfirmed across searches"
   },
   {
     "exchange": "NYSE",
     "ticker": "JPM",
     "name": "JPMorgan Chase & Co.",
-    "price": 351.58,
+    "price": 357.62,
     "currency": "USD",
     "change": 0.04,
     "changePercent": 0.01,
@@ -282,7 +281,7 @@
     "name": "Lowe's Companies, Inc.",
     "price": 216.09,
     "currency": "USD",
-    "change": -1.26,
+    "change": -1.25,
     "changePercent": -0.58,
     "asOfDate": "2026-08-24",
     "displaySymbol": "LOW",
@@ -292,14 +291,13 @@
     "exchange": "NYSE",
     "ticker": "MA",
     "name": "Mastercard Incorporated",
-    "price": 580.63,
+    "price": 598.18,
     "currency": "USD",
-    "change": 6.77,
+    "change": 6.78,
     "changePercent": 1.18,
     "asOfDate": "2026-08-24",
     "displaySymbol": "MA",
-    "sourceUrl": "https://stockanalysis.com/stocks/ma/",
-    "note": "Conflicting sources ($573.85-$580.63); used figure with explicit % change"
+    "sourceUrl": "https://www.investing.com/equities/mastercard-cl-a"
   },
   {
     "exchange": "NYSE",
@@ -324,7 +322,7 @@
     "asOfDate": "2026-08-21",
     "displaySymbol": "PAC",
     "sourceUrl": "https://www.investing.com/equities/grupo-aeroportuario-del-pacifico",
-    "note": "Multiple conflicting prices in search results; used intraday value with explicit change figure"
+    "note": "Highly conflicting prices across sources ($215-$238); kept previous confirmed snapshot"
   },
   {
     "exchange": "NYSE",
@@ -336,7 +334,7 @@
     "changePercent": 1.98,
     "asOfDate": "2026-08-24",
     "displaySymbol": "PBR",
-    "sourceUrl": "https://vestedfinance.com/us-stocks/pbr/petrleo-brasileiro-sa-share-price/"
+    "sourceUrl": "https://www.investing.com/equities/petroleo-bras"
   },
   {
     "exchange": "NYSE",
@@ -349,7 +347,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "RIO",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1404673/RIO/rio-tinto-plc-adr/",
-    "note": "Price reconfirmed fresh; change/% carried from last known move"
+    "note": "Newer search only surfaced data dated Aug 15; kept previous confirmed Aug 24 snapshot"
   },
   {
     "exchange": "NYSE",
@@ -362,32 +360,31 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "SE",
     "sourceUrl": "https://pluang.com/en/asset/usstock/SE/10061",
-    "note": "Conflicting prices across sources ($115.49-$126.55)"
+    "note": "Highly conflicting prices across sources ($115.49-$129.00); kept previous confirmed snapshot"
   },
   {
     "exchange": "NYSE",
     "ticker": "SHEL",
     "name": "Shell plc",
-    "price": 88.34,
+    "price": 93.52,
     "currency": "USD",
-    "change": 2.14,
-    "changePercent": 2.48,
+    "change": 1.5,
+    "changePercent": 1.62,
     "asOfDate": "2026-08-24",
     "displaySymbol": "SHEL",
-    "sourceUrl": "https://vestedfinance.com/us-stocks/shel/shell-plc-ads-share-price/"
+    "sourceUrl": "https://stockanalysis.com/stocks/shel/"
   },
   {
     "exchange": "NYSE",
     "ticker": "SPOT",
     "name": "Spotify Technology S.A.",
-    "price": 516.04,
+    "price": 533.72,
     "currency": "USD",
-    "change": -0.3,
-    "changePercent": -0.06,
+    "change": 0.59,
+    "changePercent": 0.11,
     "asOfDate": "2026-08-24",
     "displaySymbol": "SPOT",
-    "sourceUrl": "https://www.kraken.com/stocks/spot",
-    "note": "Pre-market price vs previous close of 516.34"
+    "sourceUrl": "https://tradersunion.com/currencies/price/spot-usd/"
   },
   {
     "exchange": "NYSE",
@@ -400,7 +397,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "TDG",
     "sourceUrl": "https://www.investing.com/equities/transdigm-group-inc",
-    "note": "Explicitly timestamped 3:08pm Eastern Aug 24, 2026"
+    "note": "New search shows conflicting figure ($1,326.82, +1.93%) vs previous explicitly-timestamped 3:08pm ET snapshot; kept previous"
   },
   {
     "exchange": "NYSE",
@@ -413,7 +410,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "Change/percent not found in current search snippets"
+    "note": "Search results wildly inconsistent ($483.56-$633.00 range) across sources; kept previous confirmed snapshot"
   },
   {
     "exchange": "NYSE",
@@ -426,7 +423,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "TTE",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1404972/TTE/totalenergies-se-adr/",
-    "note": "Timestamped 3:37pm Eastern; corrects apparently erroneous prior snapshot price"
+    "note": "Search returned Euronext Paris (EUR) listing data instead of NYSE USD ADR; kept previous confirmed ADR snapshot"
   },
   {
     "exchange": "NYSE",
@@ -438,7 +435,7 @@
     "changePercent": 0.32,
     "asOfDate": "2026-08-24",
     "displaySymbol": "UBER",
-    "sourceUrl": "https://www.investing.com/equities/uber-technologies-inc"
+    "sourceUrl": "https://stockanalysis.com/stocks/uber/"
   },
   {
     "exchange": "NYSE",
@@ -450,8 +447,7 @@
     "changePercent": 0.17,
     "asOfDate": "2026-08-24",
     "displaySymbol": "UBS",
-    "sourceUrl": "https://www.investing.com/equities/ubs-group-n",
-    "note": "Conflicting sources ($52.73-$53.29); used more recent-looking figure"
+    "sourceUrl": "https://www.investing.com/equities/ubs-group-n"
   },
   {
     "exchange": "NYSE",
@@ -464,13 +460,13 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "UL",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1405029/UL/unilever-plc-adr/",
-    "note": "Conflicting prices across sources ($54-$74 range mentioned); change/% not reliably found"
+    "note": "Conflicting prices across sources ($58-$65 range); kept previous confirmed snapshot"
   },
   {
     "exchange": "NYSE",
     "ticker": "V",
     "name": "Visa Inc.",
-    "price": 371.04,
+    "price": 382.36,
     "currency": "USD",
     "change": 5.31,
     "changePercent": 1.45,
@@ -484,23 +480,24 @@
     "name": "Amazon.com, Inc.",
     "price": 258.63,
     "currency": "USD",
-    "change": -1.48,
-    "changePercent": -0.57,
+    "change": 4.23,
+    "changePercent": 1.64,
     "asOfDate": "2026-08-24",
     "displaySymbol": "AMZN",
-    "sourceUrl": "https://www.investing.com/equities/amazon-com-inc"
+    "sourceUrl": "https://www.investing.com/equities/amazon-com-inc",
+    "note": "Rising today on Citizens upgrade citing AWS/OpenAI-Anthropic gains; direction updated from prior stale snapshot"
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "APP",
     "name": "AppLovin Corporation",
-    "price": 305.77,
+    "price": 305.9,
     "currency": "USD",
-    "change": -2.99,
-    "changePercent": -0.97,
+    "change": 2.12,
+    "changePercent": 0.7,
     "asOfDate": "2026-08-24",
     "displaySymbol": "APP",
-    "sourceUrl": "https://www.investing.com/equities/applovin"
+    "sourceUrl": "https://www.tradingview.com/symbols/NASDAQ-APP/"
   },
   {
     "exchange": "NasdaqGS",
@@ -513,7 +510,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://www.investing.com/equities/cadence-design-system-inc",
-    "note": "Pre-market price"
+    "note": "Pre-market price; conflicting regular-session figures across sources"
   },
   {
     "exchange": "NasdaqGS",
@@ -525,8 +522,7 @@
     "changePercent": 4.19,
     "asOfDate": "2026-08-24",
     "displaySymbol": "DPZ",
-    "sourceUrl": "https://www.investing.com/equities/dominos-pizza-inc",
-    "note": "Conflicting figures across sources ($335-$362)"
+    "sourceUrl": "https://www.investing.com/equities/dominos-pizza-inc"
   },
   {
     "exchange": "NasdaqGS",
@@ -550,8 +546,7 @@
     "changePercent": -0.47,
     "asOfDate": "2026-08-24",
     "displaySymbol": "GMAB",
-    "sourceUrl": "https://us.trendlyne.com/us/equity/1553097/GMAB/genmab-adr/",
-    "note": "Price differs substantially from prior snapshot"
+    "sourceUrl": "https://us.trendlyne.com/us/equity/1553097/GMAB/genmab-adr/"
   },
   {
     "exchange": "NasdaqGS",
@@ -564,7 +559,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://www.cnbc.com/quotes/GOOGL",
-    "note": "After-hours figure"
+    "note": "Search results confusing/conflicting (mixed GOOG Class C vs GOOGL Class A data, AI leadership news); kept previous confirmed snapshot"
   },
   {
     "exchange": "NasdaqGS",
@@ -624,7 +619,7 @@
     "changePercent": 0.67,
     "asOfDate": "2026-08-24",
     "displaySymbol": "ROP",
-    "sourceUrl": "https://www.kraken.com/stocks/rop"
+    "sourceUrl": "https://www.investing.com/equities/roper-industries"
   },
   {
     "exchange": "NasdaqGS",
@@ -643,13 +638,14 @@
     "exchange": "SGX",
     "ticker": "D05",
     "name": "DBS Group Holdings Ltd",
-    "price": 76.07,
+    "price": 75.56,
     "currency": "SGD",
-    "change": -0.06,
-    "changePercent": -0.08,
+    "change": -0.44,
+    "changePercent": -0.58,
     "asOfDate": "2026-08-24",
     "displaySymbol": "D05.SI",
-    "sourceUrl": "https://stockanalysis.com/quote/sgx/D05/"
+    "sourceUrl": "https://www.tradingview.com/symbols/SGX-D05/",
+    "note": "Timestamped 5:09pm GMT+8 Aug 24"
   },
   {
     "exchange": "SWX",
@@ -687,43 +683,46 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "8031.T",
     "sourceUrl": "https://www.tradingview.com/symbols/TSE-8031/",
-    "note": "Conflicting figures across sources (¥4,662-¥4,972)"
+    "note": "Conflicting figures across sources (JPY 4,662-4,972)"
   },
   {
     "exchange": "TSE",
     "ticker": "8058",
     "name": "Mitsubishi Corporation",
-    "price": 4794.0,
+    "price": 4770.0,
     "currency": "JPY",
-    "change": 98.0,
-    "changePercent": 2.09,
+    "change": -24.0,
+    "changePercent": -0.5,
     "asOfDate": "2026-08-24",
     "displaySymbol": "8058.T",
-    "sourceUrl": "https://www.investing.com/equities/mitsubishi-corp."
+    "sourceUrl": "https://www.tradingview.com/symbols/TSE-8058/",
+    "note": "Direction reversed from prior snapshot; some internal inconsistency in source figures"
   },
   {
     "exchange": "TSX",
     "ticker": "ACQ",
     "name": "AutoCanada Inc.",
-    "price": 22.15,
+    "price": 22.73,
     "currency": "CAD",
-    "change": -0.65,
-    "changePercent": -2.85,
+    "change": 0.29,
+    "changePercent": 1.29,
     "asOfDate": "2026-08-24",
     "displaySymbol": "ACQ.TO",
-    "sourceUrl": "https://www.investing.com/equities/autocanada-inc"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-ACQ/",
+    "note": "Conflicting figures across sources ($22.17-$22.73); used most recent TradingView figure"
   },
   {
     "exchange": "TSX",
     "ticker": "AIF",
     "name": "Altus Group Limited",
-    "price": 47.62,
+    "price": 47.63,
     "currency": "CAD",
-    "change": 0.34,
-    "changePercent": 0.72,
-    "asOfDate": "2026-08-21",
+    "change": 2.0,
+    "changePercent": 4.38,
+    "asOfDate": "2026-08-24",
     "displaySymbol": "AIF.TO",
-    "sourceUrl": "https://www.investing.com/equities/altus-group-ltd"
+    "sourceUrl": "https://www.investing.com/equities/altus-group-ltd",
+    "note": "Price nearly flat vs prior snapshot but source states +4.38% change; basis unclear"
   },
   {
     "exchange": "TSX",
@@ -736,7 +735,7 @@
     "asOfDate": "2026-08-21",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://ca.investing.com/equities/alimentation-couche-tard-inc",
-    "note": "Timestamped 4:00pm EDT Aug 21; improves on prior stale July snapshot"
+    "note": "Newest search result dated July 11, even more stale than existing Aug 21 snapshot; kept previous"
   },
   {
     "exchange": "TSX",
@@ -748,19 +747,21 @@
     "changePercent": -0.11,
     "asOfDate": "2026-08-24",
     "displaySymbol": "ATS.TO",
-    "sourceUrl": "https://www.investing.com/equities/ats-automation-tooling-systems"
+    "sourceUrl": "https://www.investing.com/equities/ats-automation-tooling-systems",
+    "note": "No daily change figure found in current search (only weekly/monthly/yearly stats); kept previous confirmed snapshot"
   },
   {
     "exchange": "TSX",
     "ticker": "ATZ",
     "name": "Aritzia Inc.",
-    "price": 131.19,
+    "price": 131.97,
     "currency": "CAD",
-    "change": 0.72,
-    "changePercent": 0.55,
-    "asOfDate": "2026-08-21",
+    "change": 0.78,
+    "changePercent": 0.59,
+    "asOfDate": "2026-08-24",
     "displaySymbol": "ATZ.TO",
-    "sourceUrl": "https://www.investing.com/equities/aritzia-inc"
+    "sourceUrl": "https://www.investing.com/equities/aritzia-inc",
+    "note": "Timestamped 11:40am Aug 24"
   },
   {
     "exchange": "TSX",
@@ -770,9 +771,9 @@
     "currency": "CAD",
     "change": 0.13,
     "changePercent": 0.2,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "BDGI.TO",
-    "sourceUrl": "https://ca.investing.com/equities/badger-daylighting-ltd"
+    "sourceUrl": "https://stockanalysis.com/quote/tsx/BDGI/"
   },
   {
     "exchange": "TSX",
@@ -785,7 +786,7 @@
     "asOfDate": "2026-08-24",
     "displaySymbol": "BDI.TO",
     "sourceUrl": "https://www.investing.com/equities/black-diamond-group-ltd",
-    "note": "Conflicting prices across sources ($18.36-$19.20)"
+    "note": "Conflicting prices/direction across sources ($16.91 down -2.34% vs previous $18.36 up +1.38%); kept previous confirmed snapshot"
   },
   {
     "exchange": "TSX",
@@ -797,7 +798,8 @@
     "changePercent": 0.76,
     "asOfDate": "2026-08-24",
     "displaySymbol": "BIP-UN.TO",
-    "sourceUrl": "https://www.investing.com/equities/brookfield-infrastructure-partners"
+    "sourceUrl": "https://www.investing.com/equities/brookfield-infrastructure-partners",
+    "note": "Conflicting secondary quote (53.35, -0.37%) also seen"
   },
   {
     "exchange": "TSX",
@@ -810,7 +812,7 @@
     "asOfDate": "2026-08-21",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://www.investing.com/equities/brookfield",
-    "note": "Company dual-listed; TSX (CAD) figure used"
+    "note": "Large discrepancy: prior snapshot (93.67 CAD) vs new data implying TSX price closer to ~55-63 CAD range (via NYSE $41.69 cross-rate / stale May $62.71 figure); kept previous pending clearer confirmation"
   },
   {
     "exchange": "TSX",
@@ -822,7 +824,7 @@
     "changePercent": -4.83,
     "asOfDate": "2026-08-24",
     "displaySymbol": "BYD.TO",
-    "sourceUrl": "https://ca.investing.com/equities/boyd-group-income-fund",
+    "sourceUrl": "https://stockanalysis.com/quote/tsx/BYD/",
     "note": "Conflicting prices across sources ($133-$183)"
   },
   {
@@ -841,13 +843,14 @@
     "exchange": "TSX",
     "ticker": "CIGI",
     "name": "Colliers International Group Inc.",
-    "price": 135.62,
+    "price": 149.13,
     "currency": "CAD",
-    "change": 2.26,
-    "changePercent": 1.69,
+    "change": 2.04,
+    "changePercent": 1.39,
     "asOfDate": "2026-08-24",
     "displaySymbol": "CIGI.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-CIGI/"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-CIGI/",
+    "note": "Price notably higher than prior snapshot ($135.62); single-source confirmation, flagged for review"
   },
   {
     "exchange": "TSX",
@@ -859,7 +862,8 @@
     "changePercent": -1.95,
     "asOfDate": "2026-08-21",
     "displaySymbol": "CJT.TO",
-    "sourceUrl": "https://www.investing.com/equities/cargojet-inc."
+    "sourceUrl": "https://www.investing.com/equities/cargojet-inc.",
+    "note": "Newest search result dated May 5, more stale than existing Aug 21 snapshot; kept previous"
   },
   {
     "exchange": "TSX",
@@ -871,7 +875,8 @@
     "changePercent": 0.53,
     "asOfDate": "2026-08-21",
     "displaySymbol": "CNQ.TO",
-    "sourceUrl": "https://www.investing.com/equities/canadian-natural-resources"
+    "sourceUrl": "https://www.investing.com/equities/canadian-natural-resources",
+    "note": "Search results confusing/conflicting (mixed scale figures, no clear daily change); kept previous confirmed snapshot"
   },
   {
     "exchange": "TSX",
@@ -881,7 +886,7 @@
     "currency": "CAD",
     "change": 0.37,
     "changePercent": 0.21,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "CNR.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-CNR/"
   },
@@ -895,7 +900,8 @@
     "changePercent": 1.74,
     "asOfDate": "2026-08-24",
     "displaySymbol": "CP.TO",
-    "sourceUrl": "https://tradingeconomics.com/cp:cn"
+    "sourceUrl": "https://tradingeconomics.com/cp:cn",
+    "note": "No daily price/change figure found in current search (only weekly/monthly/yearly stats); kept previous"
   },
   {
     "exchange": "TSX",
@@ -905,10 +911,9 @@
     "currency": "CAD",
     "change": 83.75,
     "changePercent": 2.54,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "CSU.TO",
-    "sourceUrl": "https://www.investing.com/equities/constellation-software-inc",
-    "note": "Some conflicting day-range figures in search results"
+    "sourceUrl": "https://www.investing.com/equities/constellation-software-inc"
   },
   {
     "exchange": "TSX",
@@ -933,21 +938,21 @@
     "changePercent": 1.28,
     "asOfDate": "2026-08-24",
     "displaySymbol": "DND.TO",
-    "sourceUrl": "https://www.investing.com/equities/dye-durham-ltd",
-    "note": "Wide conflicting price range across sources"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-DND/",
+    "note": "Wide conflicting price range across sources ($0.78-$1.68)"
   },
   {
     "exchange": "TSX",
     "ticker": "DOL",
     "name": "Dollarama Inc.",
-    "price": 186.42,
+    "price": 186.9,
     "currency": "CAD",
-    "change": -2.58,
-    "changePercent": -1.37,
+    "change": -0.97,
+    "changePercent": -0.52,
     "asOfDate": "2026-08-24",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.investing.com/equities/dollarama-inc",
-    "note": "Conflicting prices across sources"
+    "note": "Conflicting prices across sources ($186.90-$192.41)"
   },
   {
     "exchange": "TSX",
@@ -957,9 +962,9 @@
     "currency": "CAD",
     "change": 0.31,
     "changePercent": 0.29,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "DSG.TO",
-    "sourceUrl": "https://stocktwits.com/symbol/DSG.TSX"
+    "sourceUrl": "https://www.investing.com/equities/descartes-systems-group-inc"
   },
   {
     "exchange": "TSX",
@@ -971,7 +976,7 @@
     "changePercent": -2.4,
     "asOfDate": "2026-08-24",
     "displaySymbol": "DTOL.TO",
-    "sourceUrl": "https://www.investing.com/equities/d2l"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-DTOL/"
   },
   {
     "exchange": "TSX",
@@ -983,7 +988,8 @@
     "changePercent": -0.64,
     "asOfDate": "2026-08-24",
     "displaySymbol": "EFN.TO",
-    "sourceUrl": "https://www.investing.com/equities/element-financial-corp"
+    "sourceUrl": "https://www.investing.com/equities/element-financial-corp",
+    "note": "New search prices ($31.46-$32.45) conflict materially with previous confirmed snapshot ($28.16); kept previous"
   },
   {
     "exchange": "TSX",
@@ -993,7 +999,7 @@
     "currency": "CAD",
     "change": -0.62,
     "changePercent": -0.22,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://www.investing.com/equities/intact-financial-corp"
   },
@@ -1018,9 +1024,9 @@
     "currency": "CAD",
     "change": -1.93,
     "changePercent": -1.1,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "KXS.TO",
-    "sourceUrl": "https://www.investing.com/equities/kinaxis-inc"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-KXS/"
   },
   {
     "exchange": "TSX",
@@ -1045,7 +1051,8 @@
     "changePercent": 0.98,
     "asOfDate": "2026-08-23",
     "displaySymbol": "MEQ.TO",
-    "sourceUrl": "https://ca.finance.yahoo.com/quote/MEQ.TO/"
+    "sourceUrl": "https://ca.finance.yahoo.com/quote/MEQ.TO/",
+    "note": "New search shows materially higher price ($183.00 vs $170.00 confirmed previous); insufficient corroboration, kept previous"
   },
   {
     "exchange": "TSX",
@@ -1081,7 +1088,8 @@
     "changePercent": -2.36,
     "asOfDate": "2026-08-24",
     "displaySymbol": "NA.TO",
-    "sourceUrl": "https://ca.investing.com/equities/national-bank-of-canada"
+    "sourceUrl": "https://ca.investing.com/equities/national-bank-of-canada",
+    "note": "New search internally contradictory (previous close cited as both 217.06 and 218.34) and opposite direction from confirmed previous (-2.36%); kept previous"
   },
   {
     "exchange": "TSX",
@@ -1105,33 +1113,34 @@
     "changePercent": -0.08,
     "asOfDate": "2026-08-24",
     "displaySymbol": "RCH.TO",
-    "sourceUrl": "https://www.investing.com/equities/richelieu-hardware-ltd."
+    "sourceUrl": "https://www.investing.com/equities/richelieu-hardware-ltd.",
+    "note": "New search flagged as possibly early-to-mid August data despite 'today' framing; kept previous confirmed snapshot"
   },
   {
     "exchange": "TSX",
     "ticker": "RY",
     "name": "Royal Bank of Canada",
-    "price": 282.37,
+    "price": 282.62,
     "currency": "CAD",
-    "change": -0.97,
-    "changePercent": -0.34,
+    "change": 0.25,
+    "changePercent": 0.09,
     "asOfDate": "2026-08-24",
     "displaySymbol": "RY.TO",
-    "sourceUrl": "https://tradersunion.com/currencies/price/ry-cad/",
-    "note": "Conflicting sources ($282-$301)"
+    "sourceUrl": "https://stockanalysis.com/quote/tsx/RY/",
+    "note": "Earnings scheduled Aug 27, 2026"
   },
   {
     "exchange": "TSX",
     "ticker": "SHOP",
     "name": "Shopify Inc.",
-    "price": 152.71,
+    "price": 157.5,
     "currency": "CAD",
-    "change": 1.18,
-    "changePercent": 0.78,
-    "asOfDate": "2026-08-21",
+    "change": 5.82,
+    "changePercent": 3.83,
+    "asOfDate": "2026-08-24",
     "displaySymbol": "SHOP.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/SHOP/",
-    "note": "Conflicting figures across sources (a $211.37 figure also appeared, possibly a different listing/currency)"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-SHOP/",
+    "note": "Conflicting figures across sources; used cross-validated 3.83% TradingView figure"
   },
   {
     "exchange": "TSX",
@@ -1141,10 +1150,9 @@
     "currency": "CAD",
     "change": -1.17,
     "changePercent": -1.58,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "SJ.TO",
-    "sourceUrl": "https://tradingeconomics.com/sj:cn",
-    "note": "Reconfirmed as last close Aug 21 4:00pm EDT"
+    "sourceUrl": "https://www.investing.com/equities/stella-jones-inc."
   },
   {
     "exchange": "TSX",
@@ -1156,8 +1164,7 @@
     "changePercent": -1.48,
     "asOfDate": "2026-08-24",
     "displaySymbol": "TCS.TO",
-    "sourceUrl": "https://www.investing.com/equities/tecsys-inc.",
-    "note": "Conflicting figures across sources ($33-$37)"
+    "sourceUrl": "https://www.investing.com/equities/tecsys-inc."
   },
   {
     "exchange": "TSX",
@@ -1169,8 +1176,7 @@
     "changePercent": -0.11,
     "asOfDate": "2026-08-24",
     "displaySymbol": "TD.TO",
-    "sourceUrl": "https://www.investing.com/equities/toronto-dominion-bank",
-    "note": "Conflicting figures across sources ($161-$172)"
+    "sourceUrl": "https://www.investing.com/equities/toronto-dominion-bank"
   },
   {
     "exchange": "TSX",
@@ -1180,7 +1186,7 @@
     "currency": "CAD",
     "change": 2.14,
     "changePercent": 1.09,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "TFII.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TFII/"
   },
@@ -1194,7 +1200,8 @@
     "changePercent": 0.77,
     "asOfDate": "2026-08-24",
     "displaySymbol": "TFPM.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-TFPM/"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-TFPM/",
+    "note": "Conflicting secondary report of +6.31% intraday move on gold rally"
   },
   {
     "exchange": "TSX",
@@ -1204,10 +1211,9 @@
     "currency": "CAD",
     "change": -0.61,
     "changePercent": -0.41,
-    "asOfDate": "2026-08-21",
+    "asOfDate": "2026-08-24",
     "displaySymbol": "TRI.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-TRI/",
-    "note": "Reconfirmed as last close Aug 21 4:00pm EDT"
+    "sourceUrl": "https://www.investing.com/equities/thomson-reuters-corp"
   },
   {
     "exchange": "TSX",
@@ -1219,7 +1225,8 @@
     "changePercent": 1.28,
     "asOfDate": "2026-08-24",
     "displaySymbol": "TSU.TO",
-    "sourceUrl": "https://www.investing.com/equities/trisura-group-ltd"
+    "sourceUrl": "https://www.investing.com/equities/trisura-group-ltd",
+    "note": "New search figure ($45.38, no change data) conflicts materially with confirmed previous ($42.02); kept previous"
   },
   {
     "exchange": "TSX",
@@ -1243,7 +1250,8 @@
     "changePercent": 0.48,
     "asOfDate": "2026-08-24",
     "displaySymbol": "WCN.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-WCN/"
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-WCN/",
+    "note": "New search flagged as possibly Aug 19 stale data with contradictory close change (+1.41%); kept previous confirmed snapshot"
   },
   {
     "exchange": "TSX",
@@ -1255,8 +1263,7 @@
     "changePercent": 4.78,
     "asOfDate": "2026-08-24",
     "displaySymbol": "WPM.TO",
-    "sourceUrl": "https://tradersunion.com/currencies/price/wpm-cad/",
-    "note": "Rally continues; previous close matches prior snapshot's price"
+    "sourceUrl": "https://stockanalysis.com/quote/tsx/WPM/"
   },
   {
     "exchange": "TWSE",
@@ -1268,19 +1275,19 @@
     "changePercent": 1.47,
     "asOfDate": "2026-08-24",
     "displaySymbol": "2330.TW",
-    "sourceUrl": "https://www.investing.com/equities/taiwan-semicon"
+    "sourceUrl": "https://www.tradingview.com/symbols/TWSE-2330/"
   },
   {
     "exchange": "XTRA",
     "ticker": "CBK",
     "name": "Commerzbank AG",
-    "price": 35.38,
+    "price": 38.72,
     "currency": "EUR",
-    "change": 0.17,
-    "changePercent": 0.48,
+    "change": 0.12,
+    "changePercent": 0.31,
     "asOfDate": "2026-08-24",
     "displaySymbol": "CBK.DE",
-    "sourceUrl": "https://www.etoro.com/markets/cbk.de",
-    "note": "Conflicting figures across sources (€35.38-€39.01)"
+    "sourceUrl": "https://www.investing.com/equities/commerzbank-ag",
+    "note": "Internally consistent day-range figures resolve prior conflicting range"
   }
 ]
