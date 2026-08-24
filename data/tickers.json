@@ -1,0 +1,517 @@
+[
+  {
+    "exchange": "ASX",
+    "ticker": "BHP",
+    "name": "BHP Group Limited"
+  },
+  {
+    "exchange": "BIT",
+    "ticker": "ISP",
+    "name": "Intesa Sanpaolo S.p.A."
+  },
+  {
+    "exchange": "BME",
+    "ticker": "BBVA",
+    "name": "Banco Bilbao Vizcaya Argentaria, S.A."
+  },
+  {
+    "exchange": "CPSE",
+    "ticker": "NOVO B",
+    "name": "Novo Nordisk A/S"
+  },
+  {
+    "exchange": "ENXTAM",
+    "ticker": "ASML",
+    "name": "ASML Holding N.V."
+  },
+  {
+    "exchange": "ENXTPA",
+    "ticker": "MC",
+    "name": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne"
+  },
+  {
+    "exchange": "ENXTPA",
+    "ticker": "RMS",
+    "name": "Herm\u00e8s International Soci\u00e9t\u00e9 en commandite par actions"
+  },
+  {
+    "exchange": "ENXTPA",
+    "ticker": "SAF",
+    "name": "Safran SA"
+  },
+  {
+    "exchange": "LSE",
+    "ticker": "HLMA",
+    "name": "Halma plc"
+  },
+  {
+    "exchange": "LSE",
+    "ticker": "RR.",
+    "name": "Rolls-Royce Holdings plc"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "AME",
+    "name": "AMETEK, Inc."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "APG",
+    "name": "APi Group Corporation"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "BRK.B",
+    "name": "Berkshire Hathaway Inc."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "CSL",
+    "name": "Carlisle Companies Incorporated"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "DHR",
+    "name": "Danaher Corporation"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "EQNR",
+    "name": "Equinor ASA"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "HCA",
+    "name": "HCA Healthcare, Inc."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "HDB",
+    "name": "HDFC Bank Limited"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "HEI",
+    "name": "HEICO Corporation"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "IBN",
+    "name": "ICICI Bank Limited"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "ICE",
+    "name": "Intercontinental Exchange, Inc."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "JPM",
+    "name": "JPMorgan Chase & Co."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "LOW",
+    "name": "Lowe's Companies, Inc."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "MA",
+    "name": "Mastercard Incorporated"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "NVS",
+    "name": "Novartis AG"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "PAC",
+    "name": "Grupo Aeroportuario del Pac\u00edfico, S.A.B. de C.V."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "PBR",
+    "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "RIO",
+    "name": "Rio Tinto Group"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SE",
+    "name": "Sea Limited"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SHEL",
+    "name": "Shell plc"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "SPOT",
+    "name": "Spotify Technology S.A."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TDG",
+    "name": "TransDigm Group Incorporated"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TMO",
+    "name": "Thermo Fisher Scientific Inc."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "TTE",
+    "name": "TotalEnergies SE"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc."
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UBS",
+    "name": "UBS Group AG"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "UL",
+    "name": "Unilever PLC"
+  },
+  {
+    "exchange": "NYSE",
+    "ticker": "V",
+    "name": "Visa Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "AMZN",
+    "name": "Amazon.com, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "APP",
+    "name": "AppLovin Corporation"
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "DPZ",
+    "name": "Domino's Pizza, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "GMAB",
+    "name": "Genmab A/S"
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "MELI",
+    "name": "MercadoLibre, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "META",
+    "name": "Meta Platforms, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation"
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "NFLX",
+    "name": "Netflix, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "ROP",
+    "name": "Roper Technologies, Inc."
+  },
+  {
+    "exchange": "NasdaqGS",
+    "ticker": "TXN",
+    "name": "Texas Instruments Incorporated"
+  },
+  {
+    "exchange": "SGX",
+    "ticker": "D05",
+    "name": "DBS Group Holdings Ltd"
+  },
+  {
+    "exchange": "SWX",
+    "ticker": "ROP",
+    "name": "Roche Holding AG"
+  },
+  {
+    "exchange": "TSE",
+    "ticker": "8001",
+    "name": "ITOCHU Corporation"
+  },
+  {
+    "exchange": "TSE",
+    "ticker": "8031",
+    "name": "Mitsui & Co., Ltd."
+  },
+  {
+    "exchange": "TSE",
+    "ticker": "8058",
+    "name": "Mitsubishi Corporation"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "ACQ",
+    "name": "AutoCanada Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "AIF",
+    "name": "Altus Group Limited"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "ATD",
+    "name": "Alimentation Couche-Tard Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "ATS",
+    "name": "ATS Corporation"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "ATZ",
+    "name": "Aritzia Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "BDGI",
+    "name": "Badger Infrastructure Solutions Ltd."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "BDI",
+    "name": "Black Diamond Group Limited"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "BIP.UN",
+    "name": "Brookfield Infrastructure Partners L.P."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "BN",
+    "name": "Brookfield Corporation"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "BYD",
+    "name": "Boyd Group Services Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "CGY",
+    "name": "Calian Group Ltd."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "CIGI",
+    "name": "Colliers International Group Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "CJT",
+    "name": "Cargojet Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "CNQ",
+    "name": "Canadian Natural Resources Limited"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "CNR",
+    "name": "Canadian National Railway Company"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "CP",
+    "name": "Canadian Pacific Kansas City Limited"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "CSU",
+    "name": "Constellation Software Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "DHT.UN",
+    "name": "DRI Healthcare Trust"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "DND",
+    "name": "Dye & Durham Limited"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "DOL",
+    "name": "Dollarama Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "DSG",
+    "name": "The Descartes Systems Group Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "DTOL",
+    "name": "D2L Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "EFN",
+    "name": "Element Fleet Management Corp."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "IFC",
+    "name": "Intact Financial Corporation"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "JWEL",
+    "name": "Jamieson Wellness Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "KXS",
+    "name": "Kinaxis Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "MAL",
+    "name": "Magellan Aerospace Corporation"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "MEQ",
+    "name": "Mainstreet Equity Corp."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "MTY",
+    "name": "MTY Food Group Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "MX",
+    "name": "Methanex Corporation"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "NA",
+    "name": "National Bank of Canada"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "PET",
+    "name": "Pet Valu Holdings Ltd."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "RCH",
+    "name": "Richelieu Hardware Ltd."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "RY",
+    "name": "Royal Bank of Canada"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "SHOP",
+    "name": "Shopify Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "SJ",
+    "name": "Stella-Jones Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "TCS",
+    "name": "Tecsys Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "TD",
+    "name": "The Toronto-Dominion Bank"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "TFII",
+    "name": "TFI International Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "TFPM",
+    "name": "Triple Flag Precious Metals Corp."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "TRI",
+    "name": "Thomson Reuters Corporation"
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "TSU",
+    "name": "Trisura Group Ltd."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "TVK",
+    "name": "TerraVest Industries Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "WCN",
+    "name": "Waste Connections, Inc."
+  },
+  {
+    "exchange": "TSX",
+    "ticker": "WPM",
+    "name": "Wheaton Precious Metals Corp."
+  },
+  {
+    "exchange": "TWSE",
+    "ticker": "2330",
+    "name": "Taiwan Semiconductor Manufacturing Company Limited"
+  },
+  {
+    "exchange": "XTRA",
+    "ticker": "CBK",
+    "name": "Commerzbank AG"
+  }
+]

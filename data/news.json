@@ -1,0 +1,107 @@
+[
+  {
+    "ticker": "MSFT", "exchange": "NasdaqGS", "company": "Microsoft Corporation",
+    "headline": "MSFT up ~30% in 30 days after blowout Azure earnings",
+    "summary": "Fiscal Q4 earnings (reported July 29) beat across the board: Azure revenue grew 43% YoY and topped $100B annualized for the first time; Copilot passed 30M paid seats. Shares jumped 15.5% in a single day — the biggest since 2020 — adding ~$483B in market value, and capex guidance for 2026 was trimmed slightly, easing AI-spend worries.",
+    "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-down-more-135834038.html",
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "JWEL", "exchange": "TSX", "company": "Jamieson Wellness Inc.",
+    "headline": "Kirin to acquire Jamieson Wellness at $45.75/share",
+    "summary": "Japan's Kirin announced August 6 it will acquire all outstanding Jamieson shares for C$45.75 each. The deal follows a strong Q1 (revenue +16%, adjusted EBITDA +18%, led by China) and a raised quarterly dividend to $0.25/share. Stock is up ~36% year-to-date.",
+    "url": "https://wealthawesome.com/whats-going-on-with-jamieson-wellness-inc-stock-friday-08212026-wgo",
+    "date": "2026-08-06"
+  },
+  {
+    "ticker": "TD", "exchange": "TSX", "company": "The Toronto-Dominion Bank",
+    "headline": "TD reports Q3 earnings Aug 27; price targets raised across the Street",
+    "summary": "TD posted a Q2 beat (EPS ~$2.38 vs. ~$2.25 expected; revenue ~$16.0B) and is on track to exceed FY26 guidance of 6-8% EPS growth and 13% ROE. Barclays lifted its target to C$164 (from C$140), BofA to $135, and CIBC to C$184 ahead of Thursday's Q3 print.",
+    "url": "https://kalkine.ca/news/financial/td-bank-stock-a-record-canadian-franchise-sets-up-a-key-august-test",
+    "date": "2026-08-21"
+  },
+  {
+    "ticker": "DHT.UN", "exchange": "TSX", "company": "DRI Healthcare Trust",
+    "headline": "DRI Healthcare posts record Q2 with 92% EBITDA margin",
+    "summary": "Q2 (ended June 30) results showed record growth and major portfolio milestones; the trust marked its 5th anniversary on the TSX in April and holds a pipeline of $3B+ in potential royalty deals under evaluation. Stifel raised its target to C$22 from C$21.",
+    "url": "https://www.tradingview.com/news/prnewswire:3d3919f826f36:0-dri-healthcare-reports-second-quarter-2026-results-and-new-board-appointment/",
+    "date": "2026-07-09"
+  },
+  {
+    "ticker": "RY", "exchange": "TSX", "company": "Royal Bank of Canada",
+    "headline": "RBC slides on volatility even as Barclays hikes target to C$300",
+    "summary": "RY fell 3.15% on Aug 19 amid broader market volatility, trading ~7.6% below its July peak despite a 49.7% one-year gain. Barclays raised its target to C$300 (from C$260) on Aug 21, well above the C$266 street consensus. Q3 results land Aug 27, with EPS seen at C$4.06.",
+    "url": "https://kalkine.ca/news/financial/royal-bank-of-canada-stock-slides-as-market-volatility-and-valuation-concerns-pressure-tsxry",
+    "date": "2026-08-21"
+  },
+  {
+    "ticker": "WPM", "exchange": "TSX", "company": "Wheaton Precious Metals Corp.",
+    "headline": "Wheaton hits record H1 on Antamina silver stream ramp-up",
+    "summary": "H1 2026 production, sales, revenue and cash flow all hit all-time highs, driven by the Antamina silver stream and new asset ramp-ups. Guidance reaffirmed with a 50% production growth outlook by 2030 (to ~1.2M gold-equivalent oz). Scotiabank, RBC and BofA nudged targets higher while maintaining Buy ratings.",
+    "url": "https://stockanalysis.com/stocks/wpm/",
+    "date": "2026-08-21"
+  },
+  {
+    "ticker": "AMZN", "exchange": "NasdaqGS", "company": "Amazon.com, Inc.",
+    "headline": "AWS reacceleration drives Amazon to record highs, but antitrust suit and Bezos sale add noise",
+    "summary": "Q2 net sales rose 20% YoY to $200.6B and operating income jumped 43% to $27.5B as AWS growth re-accelerated to 37% ($169B annualized run-rate); shares ripped ~15-17% post-earnings. Separately, New Jersey's AG filed an antitrust suit over delivery-contractor practices (Aug 4), Jeff Bezos filed to sell $4B+ of stock under a 10b5-1 plan, and FY26 capex guidance was lifted to $220B.",
+    "url": "https://www.fool.com/investing/2026/08/03/whats-going-on-with-amazon-stock/",
+    "date": "2026-08-19"
+  },
+  {
+    "ticker": "SPOT", "exchange": "NYSE", "company": "Spotify Technology S.A.",
+    "headline": "Spotify jumps 6% and expands buyback to $2.2B",
+    "summary": "SPOT rallied against a broader tech selloff on Aug 18, adding nearly $7B in market value on subscriber growth and analyst support, then upsized its buyback by $1.5B to $2.2B total on Aug 20. Morgan Stanley raised its target to $640 from $610. Shares have cleared the 200-day moving average, a historically bullish signal.",
+    "url": "https://www.digitalmusicnews.com/2026/08/20/spotify-stock-repurchase-program-august-2026/",
+    "date": "2026-08-20"
+  },
+  {
+    "ticker": "GOOGL", "exchange": "NasdaqGS", "company": "Alphabet Inc.",
+    "headline": "Alphabet's Q2 beat overshadowed by AI leadership shakeup and rising capex",
+    "summary": "Q2 sales grew 24% to $120B with Google Cloud up 82% to $25B, but shares fell on news of an AI-division leadership shakeup (including Jeff Dean's departure) and concern over 2026 AI capex projected at $180-190B, which is squeezing free cash flow margins. Separately, Google deepened ties with Marvell via a deal to buy up to $12.2B in shares.",
+    "url": "https://www.fool.com/investing/2026/08/03/why-alphabet-stock-popped-today/",
+    "date": "2026-08-03"
+  },
+  {
+    "ticker": "BRK.B", "exchange": "NYSE", "company": "Berkshire Hathaway Inc.",
+    "headline": "Berkshire beats on earnings; Abel adds to Alphabet stake",
+    "summary": "Berkshire reported EPS of $6.02 vs. $5.13 expected on Aug 8. Under new CEO Greg Abel, the company added roughly $17B more to its Alphabet position in mid-August and increased its Delta stake, continuing a string of sizeable equity purchases.",
+    "url": "https://www.morningstar.com/stocks/xnys/brk.b/news",
+    "date": "2026-08-08"
+  },
+  {
+    "ticker": "CSU", "exchange": "TSX", "company": "Constellation Software Inc.",
+    "headline": "Constellation's Q1 eased AI-disruption fears; July saw a valuation-driven pullback",
+    "summary": "Q1 EPS of $27.37 beat estimates by 8.3% on revenue of $3.18B, quieting market fears that AI would disrupt vertical-market software. A 4.4% single-day drop on July 17 was attributed to profit-taking on premium tech valuations rather than fundamentals. Jefferies trimmed its target to C$3,185 (from C$3,500) while keeping a Buy and raising 2026 revenue/EPS estimates.",
+    "url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
+    "date": "2026-07-20"
+  },
+  {
+    "ticker": "MELI", "exchange": "NasdaqGS", "company": "MercadoLibre, Inc.",
+    "headline": "MercadoLibre tops $10B in quarterly revenue for the first time, but margins compress",
+    "summary": "Q2 revenue rose 49.8% YoY to $10.17B with fintech payment volume above $100B and monthly active users up 30%, but profit margin fell to 4.6% (from 7.7%) on higher expenses, and EPS of $9.19 was down from $10.32 a year ago. Cantor Fitzgerald raised its target to $2,300 from $2,150 despite an 8.3% pullback in the shares.",
+    "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-mercadolibre-nasdaqmeli-surprises-with-strong-q2-cy2026-increases-its-unique-active-buyers",
+    "date": "2026-08-05"
+  },
+  {
+    "ticker": "SE", "exchange": "NYSE", "company": "Sea Limited",
+    "headline": "Sea Limited surges after Q2 revenue jumps 48% on Shopee and Monee strength",
+    "summary": "Q2 GAAP revenue reached $7.8B (+48.1% YoY) with net income of $458M, powered by Shopee e-commerce, the Monee fintech unit and Garena gaming. Shares climbed from ~$102-105 in mid-July to ~$114-115 by Aug 10 (+13.6% on the day). Benchmark, Morgan Stanley and Barclays all raised targets post-earnings even as TD Cowen trimmed its own.",
+    "url": "https://stockstotrade.com/news/sea-limited-se-news-2026_08_11-2/",
+    "date": "2026-08-11"
+  },
+  {
+    "ticker": "CNQ", "exchange": "TSX", "company": "Canadian Natural Resources Limited",
+    "headline": "CNQ raises production and capex guidance after a Q2 beat",
+    "summary": "Q2 delivered earnings and revenue surprises of +10.5% and +15.1% respectively; capex guidance was raised to C$7.6B and production guidance to 1,660 mboe/d on the back of recent M&A. 2026 marks CNQ's 26th straight year of dividend increases (20% CAGR over that span). Consensus rating remains Buy with a 12-month target of ~$70.38.",
+    "url": "https://www.quiverquant.com/news/Canadian+Natural+Resources+Limited+(CNQ)+Stock+Rises+on+Q1+2026+Earnings",
+    "date": "2026-08-15"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / S&P-TSX Composite",
+    "headline": "Markets pull back as oil rises on geopolitical concerns",
+    "summary": "The S&P/TSX Composite slipped to 36,365.42 (-36.37 pts) and the S&P 500 fell to 7,641.16 (-66.82 pts) on Aug 20 as crude oil jumped (WTI October contract +$2.44 to $86.83/bbl) on geopolitical tension, pressuring broader equities heading into a heavy week of bank earnings (RY, TD both report Aug 27).",
+    "url": "https://www.bnnbloomberg.ca/markets/2026/08/20/sptsx-composite-down-in-late-morning-trading-us-stocks-also-lower/",
+    "date": "2026-08-20"
+  }
+]

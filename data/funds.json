@@ -1,0 +1,728 @@
+{
+  "Canadian Equity": {
+    "currency": "CAD",
+    "cash_fx_weight": 0.0,
+    "holdings": [
+      {
+        "name": "The Toronto-Dominion Bank",
+        "exchange": "TSX",
+        "ticker": "TD",
+        "weight": 0.08369169422634841
+      },
+      {
+        "name": "Royal Bank of Canada",
+        "exchange": "TSX",
+        "ticker": "RY",
+        "weight": 0.07993838700560797
+      },
+      {
+        "name": "Wheaton Precious Metals Corp.",
+        "exchange": "TSX",
+        "ticker": "WPM",
+        "weight": 0.0789959018475154
+      },
+      {
+        "name": "Constellation Software Inc.",
+        "exchange": "TSX",
+        "ticker": "CSU",
+        "weight": 0.0621311715241381
+      },
+      {
+        "name": "Canadian Natural Resources Limited",
+        "exchange": "TSX",
+        "ticker": "CNQ",
+        "weight": 0.04537015924420598
+      },
+      {
+        "name": "Brookfield Infrastructure Partners L.P.",
+        "exchange": "TSX",
+        "ticker": "BIP.UN",
+        "weight": 0.043856709613264426
+      },
+      {
+        "name": "Element Fleet Management Corp.",
+        "exchange": "TSX",
+        "ticker": "EFN",
+        "weight": 0.04366238897930178
+      },
+      {
+        "name": "DRI Healthcare Trust",
+        "exchange": "TSX",
+        "ticker": "DHT.UN",
+        "weight": 0.04168783307023291
+      },
+      {
+        "name": "Methanex Corporation",
+        "exchange": "TSX",
+        "ticker": "MX",
+        "weight": 0.038413751747712124
+      },
+      {
+        "name": "TFI International Inc.",
+        "exchange": "TSX",
+        "ticker": "TFII",
+        "weight": 0.036227772582221984
+      },
+      {
+        "name": "Intact Financial Corporation",
+        "exchange": "TSX",
+        "ticker": "IFC",
+        "weight": 0.03594179643966191
+      },
+      {
+        "name": "Alimentation Couche-Tard Inc.",
+        "exchange": "TSX",
+        "ticker": "ATD",
+        "weight": 0.035884876002563515
+      },
+      {
+        "name": "Brookfield Corporation",
+        "exchange": "TSX",
+        "ticker": "BN",
+        "weight": 0.03546353814846242
+      },
+      {
+        "name": "Badger Infrastructure Solutions Ltd.",
+        "exchange": "TSX",
+        "ticker": "BDGI",
+        "weight": 0.035337497792716645
+      },
+      {
+        "name": "Jamieson Wellness Inc.",
+        "exchange": "TSX",
+        "ticker": "JWEL",
+        "weight": 0.03198298610104357
+      },
+      {
+        "name": "National Bank of Canada",
+        "exchange": "TSX",
+        "ticker": "NA",
+        "weight": 0.02798924312847196
+      },
+      {
+        "name": "Dollarama Inc.",
+        "exchange": "TSX",
+        "ticker": "DOL",
+        "weight": 0.0267707901621486
+      },
+      {
+        "name": "Boyd Group Services Inc.",
+        "exchange": "TSX",
+        "ticker": "BYD",
+        "weight": 0.02487465756729923
+      },
+      {
+        "name": "Stella-Jones Inc.",
+        "exchange": "TSX",
+        "ticker": "SJ",
+        "weight": 0.02259526279134667
+      },
+      {
+        "name": "Canadian Pacific Kansas City Limited",
+        "exchange": "TSX",
+        "ticker": "CP",
+        "weight": 0.022019224555468488
+      },
+      {
+        "name": "Triple Flag Precious Metals Corp.",
+        "exchange": "TSX",
+        "ticker": "TFPM",
+        "weight": 0.02157122699518519
+      },
+      {
+        "name": "Waste Connections, Inc.",
+        "exchange": "TSX",
+        "ticker": "WCN",
+        "weight": 0.018859581284562978
+      },
+      {
+        "name": "Thomson Reuters Corporation",
+        "exchange": "TSX",
+        "ticker": "TRI",
+        "weight": 0.01778905096081974
+      },
+      {
+        "name": "Aritzia Inc.",
+        "exchange": "TSX",
+        "ticker": "ATZ",
+        "weight": 0.015786551189616145
+      },
+      {
+        "name": "Canadian National Railway Company",
+        "exchange": "TSX",
+        "ticker": "CNR",
+        "weight": 0.015566035570244325
+      },
+      {
+        "name": "Kinaxis Inc.",
+        "exchange": "TSX",
+        "ticker": "KXS",
+        "weight": 0.01339765293334839
+      },
+      {
+        "name": "The Descartes Systems Group Inc.",
+        "exchange": "TSX",
+        "ticker": "DSG",
+        "weight": 0.012778339539881311
+      },
+      {
+        "name": "Shopify Inc.",
+        "exchange": "TSX",
+        "ticker": "SHOP",
+        "weight": 0.011771949662927586
+      },
+      {
+        "name": "TerraVest Industries Inc.",
+        "exchange": "TSX",
+        "ticker": "TVK",
+        "weight": 0.010959718777928498
+      },
+      {
+        "name": "MTY Food Group Inc.",
+        "exchange": "TSX",
+        "ticker": "MTY",
+        "weight": 0.008684250555753848
+      }
+    ]
+  },
+  "US Equity": {
+    "currency": "USD",
+    "cash_fx_weight": 0.0,
+    "holdings": [
+      {
+        "name": "Microsoft Corporation",
+        "exchange": "NasdaqGS",
+        "ticker": "MSFT",
+        "weight": 0.09403174405364917
+      },
+      {
+        "name": "Amazon.com, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "AMZN",
+        "weight": 0.0717267762564716
+      },
+      {
+        "name": "Alphabet Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "GOOGL",
+        "weight": 0.067041419854398
+      },
+      {
+        "name": "Berkshire Hathaway Inc.",
+        "exchange": "NYSE",
+        "ticker": "BRK.B",
+        "weight": 0.06410607048144891
+      },
+      {
+        "name": "Visa Inc.",
+        "exchange": "NYSE",
+        "ticker": "V",
+        "weight": 0.06146526032941069
+      },
+      {
+        "name": "Intercontinental Exchange, Inc.",
+        "exchange": "NYSE",
+        "ticker": "ICE",
+        "weight": 0.05670792326482089
+      },
+      {
+        "name": "Thermo Fisher Scientific Inc.",
+        "exchange": "NYSE",
+        "ticker": "TMO",
+        "weight": 0.04515492511270835
+      },
+      {
+        "name": "Roper Technologies, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "ROP",
+        "weight": 0.043591541260258465
+      },
+      {
+        "name": "AMETEK, Inc.",
+        "exchange": "NYSE",
+        "ticker": "AME",
+        "weight": 0.04181239643050294
+      },
+      {
+        "name": "Uber Technologies, Inc.",
+        "exchange": "NYSE",
+        "ticker": "UBER",
+        "weight": 0.03806600157295289
+      },
+      {
+        "name": "Cadence Design Systems, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "CDNS",
+        "weight": 0.032430503011526016
+      },
+      {
+        "name": "Danaher Corporation",
+        "exchange": "NYSE",
+        "ticker": "DHR",
+        "weight": 0.03179738251495936
+      },
+      {
+        "name": "Texas Instruments Incorporated",
+        "exchange": "NasdaqGS",
+        "ticker": "TXN",
+        "weight": 0.03157368779405743
+      },
+      {
+        "name": "HCA Healthcare, Inc.",
+        "exchange": "NYSE",
+        "ticker": "HCA",
+        "weight": 0.030658929904880835
+      },
+      {
+        "name": "Carlisle Companies Incorporated",
+        "exchange": "NYSE",
+        "ticker": "CSL",
+        "weight": 0.030543461531488836
+      },
+      {
+        "name": "JPMorgan Chase & Co.",
+        "exchange": "NYSE",
+        "ticker": "JPM",
+        "weight": 0.03000151686400862
+      },
+      {
+        "name": "Fortinet, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "FTNT",
+        "weight": 0.029548372266175734
+      },
+      {
+        "name": "Meta Platforms, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "META",
+        "weight": 0.02950576859639735
+      },
+      {
+        "name": "Domino's Pizza, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "DPZ",
+        "weight": 0.028894980238558278
+      },
+      {
+        "name": "Netflix, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "NFLX",
+        "weight": 0.02831155190217811
+      },
+      {
+        "name": "Lowe's Companies, Inc.",
+        "exchange": "NYSE",
+        "ticker": "LOW",
+        "weight": 0.021582824200485635
+      },
+      {
+        "name": "TransDigm Group Incorporated",
+        "exchange": "NYSE",
+        "ticker": "TDG",
+        "weight": 0.020563587845526508
+      },
+      {
+        "name": "Methanex Corporation",
+        "exchange": "TSX",
+        "ticker": "MX",
+        "weight": 0.02027177622976072
+      },
+      {
+        "name": "HEICO Corporation",
+        "exchange": "NYSE",
+        "ticker": "HEI",
+        "weight": 0.019394523494266985
+      },
+      {
+        "name": "Mastercard Incorporated",
+        "exchange": "NYSE",
+        "ticker": "MA",
+        "weight": 0.013231336438157394
+      },
+      {
+        "name": "APi Group Corporation",
+        "exchange": "NYSE",
+        "ticker": "APG",
+        "weight": 0.009140021714121517
+      },
+      {
+        "name": "AppLovin Corporation",
+        "exchange": "NasdaqGS",
+        "ticker": "APP",
+        "weight": 0.008845716836828792
+      }
+    ]
+  },
+  "International Equity": {
+    "currency": "CAD",
+    "cash_fx_weight": 0.01903097819183321,
+    "holdings": [
+      {
+        "name": "Spotify Technology S.A.",
+        "exchange": "NYSE",
+        "ticker": "SPOT",
+        "weight": 0.06791111802443804
+      },
+      {
+        "name": "MercadoLibre, Inc.",
+        "exchange": "NasdaqGS",
+        "ticker": "MELI",
+        "weight": 0.06124540706182402
+      },
+      {
+        "name": "Sea Limited",
+        "exchange": "NYSE",
+        "ticker": "SE",
+        "weight": 0.05232438241807243
+      },
+      {
+        "name": "Taiwan Semiconductor Manufacturing Company Limited",
+        "exchange": "TWSE",
+        "ticker": "2330",
+        "weight": 0.043445336285745685
+      },
+      {
+        "name": "Roche Holding AG",
+        "exchange": "SWX",
+        "ticker": "ROP",
+        "weight": 0.042697565836658076
+      },
+      {
+        "name": "ASML Holding N.V.",
+        "exchange": "ENXTAM",
+        "ticker": "ASML",
+        "weight": 0.04190918610943371
+      },
+      {
+        "name": "Genmab A/S",
+        "exchange": "NasdaqGS",
+        "ticker": "GMAB",
+        "weight": 0.03996806559884293
+      },
+      {
+        "name": "Safran SA",
+        "exchange": "ENXTPA",
+        "ticker": "SAF",
+        "weight": 0.03859260769222289
+      },
+      {
+        "name": "Herm\u00e8s International Soci\u00e9t\u00e9 en commandite par actions",
+        "exchange": "ENXTPA",
+        "ticker": "RMS",
+        "weight": 0.03712851199547034
+      },
+      {
+        "name": "ITOCHU Corporation",
+        "exchange": "TSE",
+        "ticker": "8001",
+        "weight": 0.03649259331697704
+      },
+      {
+        "name": "Rolls-Royce Holdings plc",
+        "exchange": "LSE",
+        "ticker": "RR.",
+        "weight": 0.03292001577002398
+      },
+      {
+        "name": "Grupo Aeroportuario del Pac\u00edfico, S.A.B. de C.V.",
+        "exchange": "NYSE",
+        "ticker": "PAC",
+        "weight": 0.032482940069998335
+      },
+      {
+        "name": "HDFC Bank Limited",
+        "exchange": "NYSE",
+        "ticker": "HDB",
+        "weight": 0.03063896669512313
+      },
+      {
+        "name": "Novartis AG",
+        "exchange": "NYSE",
+        "ticker": "NVS",
+        "weight": 0.030343095242514696
+      },
+      {
+        "name": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne",
+        "exchange": "ENXTPA",
+        "ticker": "MC",
+        "weight": 0.029887595183604496
+      },
+      {
+        "name": "Commerzbank AG",
+        "exchange": "XTRA",
+        "ticker": "CBK",
+        "weight": 0.02968984771590626
+      },
+      {
+        "name": "Mitsui & Co., Ltd.",
+        "exchange": "TSE",
+        "ticker": "8031",
+        "weight": 0.02965339405799762
+      },
+      {
+        "name": "Unilever PLC",
+        "exchange": "NYSE",
+        "ticker": "UL",
+        "weight": 0.029549966733684718
+      },
+      {
+        "name": "ICICI Bank Limited",
+        "exchange": "NYSE",
+        "ticker": "IBN",
+        "weight": 0.02669201394363534
+      },
+      {
+        "name": "Mitsubishi Corporation",
+        "exchange": "TSE",
+        "ticker": "8058",
+        "weight": 0.026679083640660444
+      },
+      {
+        "name": "Rio Tinto Group",
+        "exchange": "NYSE",
+        "ticker": "RIO",
+        "weight": 0.02510326093245712
+      },
+      {
+        "name": "Novo Nordisk A/S",
+        "exchange": "CPSE",
+        "ticker": "NOVO B",
+        "weight": 0.024557276170186635
+      },
+      {
+        "name": "BHP Group Limited",
+        "exchange": "ASX",
+        "ticker": "BHP",
+        "weight": 0.02319564389403638
+      },
+      {
+        "name": "Halma plc",
+        "exchange": "LSE",
+        "ticker": "HLMA",
+        "weight": 0.022526577540864595
+      },
+      {
+        "name": "DBS Group Holdings Ltd",
+        "exchange": "SGX",
+        "ticker": "D05",
+        "weight": 0.020454911650753943
+      },
+      {
+        "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+        "exchange": "BME",
+        "ticker": "BBVA",
+        "weight": 0.02038797179257712
+      },
+      {
+        "name": "Intesa Sanpaolo S.p.A.",
+        "exchange": "BIT",
+        "ticker": "ISP",
+        "weight": 0.020198572768326976
+      },
+      {
+        "name": "UBS Group AG",
+        "exchange": "NYSE",
+        "ticker": "UBS",
+        "weight": 0.019592026820856295
+      },
+      {
+        "name": "Equinor ASA",
+        "exchange": "NYSE",
+        "ticker": "EQNR",
+        "weight": 0.012544403861289596
+      },
+      {
+        "name": "Shell plc",
+        "exchange": "NYSE",
+        "ticker": "SHEL",
+        "weight": 0.010910366806602739
+      },
+      {
+        "name": "TotalEnergies SE",
+        "exchange": "NYSE",
+        "ticker": "TTE",
+        "weight": 0.010740596163467835
+      },
+      {
+        "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
+        "exchange": "NYSE",
+        "ticker": "PBR",
+        "weight": 0.010505720013913407
+      }
+    ]
+  },
+  "Small Cap Equity": {
+    "currency": "CAD",
+    "cash_fx_weight": 0.00270179461176072,
+    "holdings": [
+      {
+        "name": "Jamieson Wellness Inc.",
+        "exchange": "TSX",
+        "ticker": "JWEL",
+        "weight": 0.08389426331884227
+      },
+      {
+        "name": "DRI Healthcare Trust",
+        "exchange": "TSX",
+        "ticker": "DHT.UN",
+        "weight": 0.08298878076945379
+      },
+      {
+        "name": "Triple Flag Precious Metals Corp.",
+        "exchange": "TSX",
+        "ticker": "TFPM",
+        "weight": 0.0669569622613988
+      },
+      {
+        "name": "Element Fleet Management Corp.",
+        "exchange": "TSX",
+        "ticker": "EFN",
+        "weight": 0.0594445573907522
+      },
+      {
+        "name": "Methanex Corporation",
+        "exchange": "TSX",
+        "ticker": "MX",
+        "weight": 0.05886229446697738
+      },
+      {
+        "name": "Badger Infrastructure Solutions Ltd.",
+        "exchange": "TSX",
+        "ticker": "BDGI",
+        "weight": 0.05647384918859481
+      },
+      {
+        "name": "Boyd Group Services Inc.",
+        "exchange": "TSX",
+        "ticker": "BYD",
+        "weight": 0.04871990249322646
+      },
+      {
+        "name": "Stella-Jones Inc.",
+        "exchange": "TSX",
+        "ticker": "SJ",
+        "weight": 0.04777668212168456
+      },
+      {
+        "name": "Kinaxis Inc.",
+        "exchange": "TSX",
+        "ticker": "KXS",
+        "weight": 0.044300174912293995
+      },
+      {
+        "name": "AutoCanada Inc.",
+        "exchange": "TSX",
+        "ticker": "ACQ",
+        "weight": 0.04374968129011009
+      },
+      {
+        "name": "TFI International Inc.",
+        "exchange": "TSX",
+        "ticker": "TFII",
+        "weight": 0.043693563338968976
+      },
+      {
+        "name": "Trisura Group Ltd.",
+        "exchange": "TSX",
+        "ticker": "TSU",
+        "weight": 0.042807561030507174
+      },
+      {
+        "name": "Colliers International Group Inc.",
+        "exchange": "TSX",
+        "ticker": "CIGI",
+        "weight": 0.037746723460443984
+      },
+      {
+        "name": "MTY Food Group Inc.",
+        "exchange": "TSX",
+        "ticker": "MTY",
+        "weight": 0.03351216088112292
+      },
+      {
+        "name": "TerraVest Industries Inc.",
+        "exchange": "TSX",
+        "ticker": "TVK",
+        "weight": 0.033157913001543915
+      },
+      {
+        "name": "Pet Valu Holdings Ltd.",
+        "exchange": "TSX",
+        "ticker": "PET",
+        "weight": 0.031458091645877484
+      },
+      {
+        "name": "Aritzia Inc.",
+        "exchange": "TSX",
+        "ticker": "ATZ",
+        "weight": 0.025890032681705057
+      },
+      {
+        "name": "Calian Group Ltd.",
+        "exchange": "TSX",
+        "ticker": "CGY",
+        "weight": 0.024585874963485133
+      },
+      {
+        "name": "Tecsys Inc.",
+        "exchange": "TSX",
+        "ticker": "TCS",
+        "weight": 0.024422863898124855
+      },
+      {
+        "name": "Cargojet Inc.",
+        "exchange": "TSX",
+        "ticker": "CJT",
+        "weight": 0.023909432801694643
+      },
+      {
+        "name": "Altus Group Limited",
+        "exchange": "TSX",
+        "ticker": "AIF",
+        "weight": 0.02046231000300264
+      },
+      {
+        "name": "D2L Inc.",
+        "exchange": "TSX",
+        "ticker": "DTOL",
+        "weight": 0.01897579085282188
+      },
+      {
+        "name": "Richelieu Hardware Ltd.",
+        "exchange": "TSX",
+        "ticker": "RCH",
+        "weight": 0.014264465007608482
+      },
+      {
+        "name": "Mainstreet Equity Corp.",
+        "exchange": "TSX",
+        "ticker": "MEQ",
+        "weight": 0.011694012070170328
+      },
+      {
+        "name": "Black Diamond Group Limited",
+        "exchange": "TSX",
+        "ticker": "BDI",
+        "weight": 0.0077974984600832796
+      },
+      {
+        "name": "Dye & Durham Limited",
+        "exchange": "TSX",
+        "ticker": "DND",
+        "weight": 0.0044437625345150784
+      },
+      {
+        "name": "ATS Corporation",
+        "exchange": "TSX",
+        "ticker": "ATS",
+        "weight": 0.002812524341319072
+      },
+      {
+        "name": "Magellan Aerospace Corporation",
+        "exchange": "TSX",
+        "ticker": "MAL",
+        "weight": 0.002496476201910231
+      }
+    ]
+  }
+}
