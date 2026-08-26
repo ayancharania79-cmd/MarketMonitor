@@ -106,9 +106,9 @@
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "S&P 500 / S&P-TSX Composite",
-    "headline": "TSX extends its record run on gold as US stocks edge back up",
-    "summary": "The TSX Composite rose another 0.26% on Aug 25 (bank earnings and US tariffs in focus, with financials, base metals and gold miners leading), building on Monday's record close, while gold pushed to fresh highs. The S&P 500 rebounded 0.32% to 7,677.25 after Monday's chip-driven dip, with Moderna surging on cancer-vaccine news even as DICK'S Sporting Goods cratered ~29% on results.",
-    "url": "https://easternherald.com/2026/08/25/sp-500-today-august-25-2026/",
-    "date": "2026-08-25"
+    "headline": "TSX sets a fresh record on bank earnings; US markets flat ahead of Nvidia",
+    "summary": "The TSX Composite jumped 0.7% to a fresh record (~36,958) on Aug 26, past its prior Aug 13 peak, as strong results from Bank of Montreal and Bank of Nova Scotia lifted financials ahead of RY and TD's own Q3 reports Thursday. US markets were essentially flat (S&P 500 ~7,676, Nasdaq roughly unchanged) as a sticky PCE inflation reading kept investors cautious into Nvidia's Q2 FY27 report after the bell (consensus: revenue ~$91.9B, EPS ~$2.08, both roughly double a year ago).",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
+    "date": "2026-08-26"
   }
 ]
