@@ -22,10 +22,10 @@
   },
   {
     "ticker": "DHT.UN", "exchange": "TSX", "company": "DRI Healthcare Trust",
-    "headline": "DRI Healthcare posts record Q2 with 92% EBITDA margin",
-    "summary": "Q2 (ended June 30) results showed record growth and major portfolio milestones; the trust marked its 5th anniversary on the TSX in April and holds a pipeline of $3B+ in potential royalty deals under evaluation. Stifel raised its target to C$22 from C$21.",
-    "url": "https://www.tradingview.com/news/prnewswire:3d3919f826f36:0-dri-healthcare-reports-second-quarter-2026-results-and-new-board-appointment/",
-    "date": "2026-07-09"
+    "headline": "DRI Healthcare exits EKTERLY royalty for ~US$178M after Chiesi's KalVista buyout",
+    "summary": "DRI exercised its contractual put option on the EKTERLY royalty and received a ~US$178M put price after Chiesi Group completed its acquisition of KalVista Pharmaceuticals, terminating that royalty right. The stock fell 3.76% on Aug 14 as investors weighed the portfolio shift, closing near $17.99 on Aug 19. This follows record Q2 results (total income +13% YoY to $50.1M, adjusted EBITDA +40% to $42.6M, 92% margin) with FY26 guidance reaffirmed at the high end.",
+    "url": "https://kalkine.ca/news/healthcare/dri-healthcare-stock-falls-376-why-tsxdhtun-is-in-focus-after-178-million-ekterly-exit-and-new-royalty-catalysts",
+    "date": "2026-08-14"
   },
   {
     "ticker": "RY", "exchange": "TSX", "company": "Royal Bank of Canada",
@@ -71,10 +71,10 @@
   },
   {
     "ticker": "CSU", "exchange": "TSX", "company": "Constellation Software Inc.",
-    "headline": "Constellation's Q1 eased AI-disruption fears; July saw a valuation-driven pullback",
-    "summary": "Q1 EPS of $27.37 beat estimates by 8.3% on revenue of $3.18B, quieting market fears that AI would disrupt vertical-market software. A 4.4% single-day drop on July 17 was attributed to profit-taking on premium tech valuations rather than fundamentals. Jefferies trimmed its target to C$3,185 (from C$3,500) while keeping a Buy and raising 2026 revenue/EPS estimates.",
-    "url": "https://www.levelheadedinvesting.com/p/constellation-software-csu-q1-2026-results-the-market-feared-ai-constellation-deployed-1-6-billion",
-    "date": "2026-07-20"
+    "headline": "Constellation's profit quadruples in Q2, but shares slip on valuation",
+    "summary": "Q2 (reported Aug 12) profit jumped to $274M from $56M a year earlier on revenue of US$3.18B and EPS of US$17.32, yet the stock still fell 3.19% on Aug 17 (from $3,089 to $2,991 CAD) after a run of +21% over three months left valuation stretched (P/E ~63x). Jefferies raised its target to C$3,294 (from C$3,185, Buy) citing broad AI-tooling adoption and token-cost tracking across the portfolio; consensus 12-month target sits near C$3,951.",
+    "url": "https://simplywall.st/stocks/ca/software/tsx-csu/constellation-software-shares/news/constellation-software-tsxcsu-stock-faces-margin-pressure-be",
+    "date": "2026-08-17"
   },
   {
     "ticker": "MELI", "exchange": "NasdaqGS", "company": "MercadoLibre, Inc.",
@@ -96,13 +96,6 @@
     "summary": "Q2 delivered earnings and revenue surprises of +10.5% and +15.1% respectively; capex guidance was raised to C$7.6B and production guidance to 1,660 mboe/d on the back of recent M&A. 2026 marks CNQ's 26th straight year of dividend increases (20% CAGR over that span). Consensus rating remains Buy with a 12-month target of ~$70.38.",
     "url": "https://www.quiverquant.com/news/Canadian+Natural+Resources+Limited+(CNQ)+Stock+Rises+on+Q1+2026+Earnings",
     "date": "2026-08-15"
-  },
-  {
-    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / S&P-TSX Composite",
-    "headline": "TSX hits a fresh record on metals and mining as US tech slides on new Iran sanctions",
-    "summary": "The TSX Composite closed at a record 36,620 (+255 pts) on Aug 24, led by mining, metals and industrials, while US indices split: the S&P 500 slipped 0.28% to 7,652.86 and the Nasdaq fell 0.76% to 25,980.19 as chip stocks sank, but the Dow rose 0.26% to 53,417.16. Treasury Secretary Bessent's newly announced \"Operation Economic Outcast\" sanctions package targeting Iran weighed on sentiment. RY and TD both report Q3 earnings Thursday Aug 27.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-    "date": "2026-08-24"
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "US-Canada trade",
