@@ -15,10 +15,10 @@
   },
   {
     "ticker": "TD", "exchange": "TSX", "company": "The Toronto-Dominion Bank",
-    "headline": "TD reports Q3 earnings Aug 27; price targets raised across the Street",
-    "summary": "TD posted a Q2 beat (EPS ~$2.38 vs. ~$2.25 expected; revenue ~$16.0B) and is on track to exceed FY26 guidance of 6-8% EPS growth and 13% ROE. Barclays lifted its target to C$164 (from C$140), BofA to $135, and CIBC to C$184 ahead of Thursday's Q3 print.",
-    "url": "https://kalkine.ca/news/financial/td-bank-stock-a-record-canadian-franchise-sets-up-a-key-august-test",
-    "date": "2026-08-21"
+    "headline": "TD's Q3 profit jumps 38% to $4.6B, shares rise on the beat",
+    "summary": "Fiscal Q3 profit came in at $4.62B, up from $3.34B a year ago, on revenue of $16.89B (from $15.30B) — helped by record earnings in the Canadian retail business and wholesale banking. Diluted EPS reached $2.74 (adjusted $2.77) vs. $1.89 a year earlier, adjusted ROE improved to 16% (from 14.4%), and credit provisions eased to $917M (from $971M). Shares rose on the print, extending the run that had already drawn raised price targets from Barclays, BofA and CIBC.",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/27/td-bank-reports-46b-q3-profit-up-from-33b-a-year-ago-revenue-also-up/",
+    "date": "2026-08-27"
   },
   {
     "ticker": "DHT.UN", "exchange": "TSX", "company": "DRI Healthcare Trust",
@@ -29,10 +29,10 @@
   },
   {
     "ticker": "RY", "exchange": "TSX", "company": "Royal Bank of Canada",
-    "headline": "RBC slides on volatility even as Barclays hikes target to C$300",
-    "summary": "RY fell 3.15% on Aug 19 amid broader market volatility, trading ~7.6% below its July peak despite a 49.7% one-year gain. Barclays raised its target to C$300 (from C$260) on Aug 21, well above the C$266 street consensus. Q3 results land Aug 27, with EPS seen at C$4.06.",
-    "url": "https://kalkine.ca/news/financial/royal-bank-of-canada-stock-slides-as-market-volatility-and-valuation-concerns-pressure-tsxry",
-    "date": "2026-08-21"
+    "headline": "RBC posts $6.0B Q3 profit, tops estimates, shares rise pre-market",
+    "summary": "Q3 profit reached $6.02B, up from $5.41B a year ago, on revenue of $18.54B (from $16.99B), driven by strength in wealth management, capital markets and commercial banking. Diluted EPS was $4.23 (adjusted $4.28) vs. $3.75 a year earlier — ahead of the ~C$4.06 street estimate. Credit provisions rose to $1.00B (from $881M). The board raised the quarterly dividend to $1.76/share, payable Nov 24. This follows Barclays' Aug 21 target hike to C$300 from C$260.",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/08/27/rbc-reports-6b-q3-profit-up-from-54b-a-year-ago-revenue-also-up/",
+    "date": "2026-08-27"
   },
   {
     "ticker": "WPM", "exchange": "TSX", "company": "Wheaton Precious Metals Corp.",
