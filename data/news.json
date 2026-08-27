@@ -106,9 +106,9 @@
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "S&P 500 / S&P-TSX Composite",
-    "headline": "TSX sets a fresh record on bank earnings; US markets flat ahead of Nvidia",
-    "summary": "The TSX Composite jumped 0.7% to a fresh record (~36,958) on Aug 26, past its prior Aug 13 peak, as strong results from Bank of Montreal and Bank of Nova Scotia lifted financials ahead of RY and TD's own Q3 reports Thursday. US markets were essentially flat (S&P 500 ~7,676, Nasdaq roughly unchanged) as a sticky PCE inflation reading kept investors cautious into Nvidia's Q2 FY27 report after the bell (consensus: revenue ~$91.9B, EPS ~$2.08, both roughly double a year ago).",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
-    "date": "2026-08-26"
+    "headline": "Nvidia's 8% surge powers a US tech rally; TSX pulls back despite bank beats",
+    "summary": "The S&P 500 gained 0.7% and the Nasdaq jumped 1.5% on Aug 27 after Nvidia leapt ~8-9% on an earnings beat and ~70% revenue-growth guidance for next fiscal year, easing AI-bubble fears; a software-stock ETF climbed 6.5% on strong Salesforce and CrowdStrike forecasts too. The TSX bucked the trend, giving back ~95-145 points from Wednesday's record close as financials were the day's worst-performing sector — a \"sell the news\" reaction even as RY and TD both posted strong Q3 beats (see below).",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html",
+    "date": "2026-08-27"
   }
 ]
