@@ -1,10 +1,10 @@
 [
   {
     "ticker": "MSFT", "exchange": "NasdaqGS", "company": "Microsoft Corporation",
-    "headline": "MSFT up ~30% in 30 days after blowout Azure earnings",
-    "summary": "Fiscal Q4 earnings (reported July 29) beat across the board: Azure revenue grew 43% YoY and topped $100B annualized for the first time; Copilot passed 30M paid seats. Shares jumped 15.5% in a single day — the biggest since 2020 — adding ~$483B in market value, and capex guidance for 2026 was trimmed slightly, easing AI-spend worries.",
-    "url": "https://finance.yahoo.com/news/microsoft-corporation-msft-down-more-135834038.html",
-    "date": "2026-08-03"
+    "headline": "MSFT presses to fresh highs near $505 as commercial backlog grows 84%",
+    "summary": "Shares extended their post-earnings rally to a range of $490-$505.56 on Aug 27, with the commercial backlog up 84% YoY to $678B and Azure past $100B in annual revenue. Roughly 97 analysts remain overwhelmingly bullish, with an average price target of $589-592 — implying meaningful further upside even after the ~30% post-earnings run.",
+    "url": "https://easternherald.com/2026/08/25/msft-stock-price-today-august-24-2026/",
+    "date": "2026-08-27"
   },
   {
     "ticker": "JWEL", "exchange": "TSX", "company": "Jamieson Wellness Inc.",
@@ -36,10 +36,10 @@
   },
   {
     "ticker": "WPM", "exchange": "TSX", "company": "Wheaton Precious Metals Corp.",
-    "headline": "Wheaton hits record H1 on Antamina silver stream ramp-up",
-    "summary": "H1 2026 production, sales, revenue and cash flow all hit all-time highs, driven by the Antamina silver stream and new asset ramp-ups. Guidance reaffirmed with a 50% production growth outlook by 2030 (to ~1.2M gold-equivalent oz). Scotiabank, RBC and BofA nudged targets higher while maintaining Buy ratings.",
-    "url": "https://stockanalysis.com/stocks/wpm/",
-    "date": "2026-08-21"
+    "headline": "Wheaton's record H1 revenue rides gold near $4,300/oz",
+    "summary": "H1 2026 revenue hit a record US$1.8B (operating cash flow US$1.4B) as gold held near US$4,300/oz and Wheaton's average realized gold-equivalent price rose 78% YoY; silver production climbed 14.5% to 6.4M oz. The stock has gained ~20% over the past year (52-week range $90.95-$165.76) and Berenberg raised its target to $180 (Buy); bank targets across the Street now span $157-$179.43.",
+    "url": "https://www.streetwisereports.com/article/2026/08/17/wheaton-precious-metals-hits-record-revenue-as-gold-holds-near-4-300.html",
+    "date": "2026-08-17"
   },
   {
     "ticker": "AMZN", "exchange": "NasdaqGS", "company": "Amazon.com, Inc.",
@@ -57,10 +57,10 @@
   },
   {
     "ticker": "GOOGL", "exchange": "NasdaqGS", "company": "Alphabet Inc.",
-    "headline": "Alphabet's Q2 beat overshadowed by AI leadership shakeup and rising capex",
-    "summary": "Q2 sales grew 24% to $120B with Google Cloud up 82% to $25B, but shares fell on news of an AI-division leadership shakeup (including Jeff Dean's departure) and concern over 2026 AI capex projected at $180-190B, which is squeezing free cash flow margins. Separately, Google deepened ties with Marvell via a deal to buy up to $12.2B in shares.",
-    "url": "https://www.fool.com/investing/2026/08/03/why-alphabet-stock-popped-today/",
-    "date": "2026-08-03"
+    "headline": "Alphabet slips as AI capex concerns offset cloud strength",
+    "summary": "Shares fell over 1% on Aug 26 as investors weighed reiterated plans for a significant step-up in fiscal 2027 capital spending against Q2's 82% Google Cloud growth. BNP Paribas reiterated an Outperform rating and $420 target, citing Alphabet's positioning across AI-driven advertising and cloud, and highlighted a new AI-accessibility partnership with Clearlake Capital. The tension between elevated AI infrastructure spend and monetization remains the key debate on the stock.",
+    "url": "https://www.benzinga.com/markets/tech/26/08/61443206/alphabet-stock-dips-wednesday-as-investors-weigh-ai-spending-against-cloud-growth",
+    "date": "2026-08-26"
   },
   {
     "ticker": "BRK.B", "exchange": "NYSE", "company": "Berkshire Hathaway Inc.",
@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / S&P-TSX Composite",
-    "headline": "Nvidia's 8% surge powers a US tech rally; TSX pulls back despite bank beats",
-    "summary": "The S&P 500 gained 0.7% and the Nasdaq jumped 1.5% on Aug 27 after Nvidia leapt ~8-9% on an earnings beat and ~70% revenue-growth guidance for next fiscal year, easing AI-bubble fears; a software-stock ETF climbed 6.5% on strong Salesforce and CrowdStrike forecasts too. The TSX bucked the trend, giving back ~95-145 points from Wednesday's record close as financials were the day's worst-performing sector — a \"sell the news\" reaction even as RY and TD both posted strong Q3 beats (see below).",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-27-dow-sp-500-nasdaq-082144520.html",
-    "date": "2026-08-27"
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve",
+    "headline": "Markets hold their breath for new Fed Chair Warsh's first Jackson Hole speech",
+    "summary": "US futures were roughly flat on Aug 28 as traders await Fed Chair Kevin Warsh's Jackson Hole address for clarity on rate strategy, after his stance at the last FOMC meeting left officials sounding divided with inflation still above target. CME FedWatch was pricing a notable 33.7% chance of a September hike (unusual, since cuts are the more typical late-cycle debate) — the 10-year Treasury sat at 4.67%, the 2-year at 4.23%. Separately, PayPal slumped ~16% premarket after Advent and Stripe abandoned their pursuit of the company (not a fund holding, but a read on deal-market sentiment).",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html",
+    "date": "2026-08-28"
   }
 ]
