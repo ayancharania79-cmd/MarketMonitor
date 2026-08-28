@@ -106,9 +106,9 @@
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "Federal Reserve",
-    "headline": "Markets hold their breath for new Fed Chair Warsh's first Jackson Hole speech",
-    "summary": "US futures were roughly flat on Aug 28 as traders await Fed Chair Kevin Warsh's Jackson Hole address for clarity on rate strategy, after his stance at the last FOMC meeting left officials sounding divided with inflation still above target. CME FedWatch was pricing a notable 33.7% chance of a September hike (unusual, since cuts are the more typical late-cycle debate) — the 10-year Treasury sat at 4.67%, the 2-year at 4.23%. Separately, PayPal slumped ~16% premarket after Advent and Stripe abandoned their pursuit of the company (not a fund holding, but a read on deal-market sentiment).",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-fed-warsh-jackson-hole-081514091.html",
+    "headline": "Warsh flags hike risk at Jackson Hole; stocks dip Friday but the week still closes higher",
+    "summary": "In his first keynote as Fed Chair, Kevin Warsh said inflation is still too high and the Fed may need to raise rates, cautioning that recent cooler readings \"do not tell me that underlying trends have meaningfully improved,\" while noting the economy \"appears to have strengthened.\" Stocks slipped modestly on the news (S&P 500 -0.3%, Nasdaq -0.5%, Dow roughly flat) but all three major US indexes still closed the week higher, powered by Thursday's Nvidia-led 8.7% chip rally. Markets are now pricing meaningfully higher odds of a September hike than a cut — an unusual late-cycle setup worth watching into the next FOMC meeting.",
+    "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-warsh-speaks-at-jackson-hole-economic-policy-symposium",
     "date": "2026-08-28"
   }
 ]
