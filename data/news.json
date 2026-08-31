@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve",
-    "headline": "Warsh flags hike risk at Jackson Hole; stocks dip Friday but the week still closes higher",
-    "summary": "In his first keynote as Fed Chair, Kevin Warsh said inflation is still too high and the Fed may need to raise rates, cautioning that recent cooler readings \"do not tell me that underlying trends have meaningfully improved,\" while noting the economy \"appears to have strengthened.\" Stocks slipped modestly on the news (S&P 500 -0.3%, Nasdaq -0.5%, Dow roughly flat) but all three major US indexes still closed the week higher, powered by Thursday's Nvidia-led 8.7% chip rally. Markets are now pricing meaningfully higher odds of a September hike than a cut — an unusual late-cycle setup worth watching into the next FOMC meeting.",
-    "url": "https://www.pbs.org/newshour/economy/watch-live-fed-chair-warsh-speaks-at-jackson-hole-economic-policy-symposium",
-    "date": "2026-08-28"
+    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / Federal Reserve / Oil",
+    "headline": "US strikes on Iran jolt markets to start the week; oil jumps, hike odds rise further",
+    "summary": "Stocks opened the week lower (Dow -0.5%, S&P 500 -0.3%, Nasdaq -0.2%) after the US struck Iranian rocket launchers near the Strait of Hormuz, its first such action in weeks — Brent crude jumped above $90/bbl on escalation fears. That compounds Friday's hawkish Jackson Hole speech from Fed Chair Warsh, and traders are now pricing meaningfully higher odds of a September rate hike. All three major US indexes were still on track for monthly gains despite the pullback. Watch for a read-through to energy names (CNQ) and, separately, Canada's dollar-for-dollar tariff retaliation is still set to begin Sept. 8.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-31-dow-sp-500-nasdaq-113851714.html",
+    "date": "2026-08-31"
   }
 ]
