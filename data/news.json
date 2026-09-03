@@ -91,11 +91,11 @@
     "date": "2026-08-11"
   },
   {
-    "ticker": "CNQ", "exchange": "TSX", "company": "Canadian Natural Resources Limited",
-    "headline": "CNQ raises production and capex guidance after a Q2 beat",
-    "summary": "Q2 delivered earnings and revenue surprises of +10.5% and +15.1% respectively; capex guidance was raised to C$7.6B and production guidance to 1,660 mboe/d on the back of recent M&A. 2026 marks CNQ's 26th straight year of dividend increases (20% CAGR over that span). Consensus rating remains Buy with a 12-month target of ~$70.38.",
-    "url": "https://www.quiverquant.com/news/Canadian+Natural+Resources+Limited+(CNQ)+Stock+Rises+on+Q1+2026+Earnings",
-    "date": "2026-08-15"
+    "ticker": "SHOP", "exchange": "TSX", "company": "Shopify Inc.",
+    "headline": "Shopify gives back its post-earnings rally, now down ~26% from the August peak",
+    "summary": "After running hard on a well-received Q2 report (Aug 5) and rallying toward the top of its 52-week range (~$213 CAD in late August), Shopify has cooled sharply on profit-taking — down roughly 26% over the past month with consecutive daily declines (-4.2% Aug 31, -3.6% Sep 1) and no fresh negative catalyst on the fundamentals. Shares remain a premium-multiple growth name and stay sensitive to momentum shifts in tech/e-commerce; Q3 results (guided to ~30%+ revenue growth) are the next real checkpoint.",
+    "url": "https://www.tradingview.com/news/zacks:413a3cb90094b:0-shopify-stock-slips-26-in-a-month-should-you-buy-sell-or-hold/",
+    "date": "2026-09-03"
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "US-Canada trade",
@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / Federal Reserve / Labor market",
-    "headline": "Weak ADP jobs report shifts focus from Iran/oil to the labor market ahead of Friday's payrolls",
-    "summary": "Private payrolls grew just 38,000 in August per ADP — down from 46,000 and below the 47,000 estimate, the slowest pace since January — turning investor attention toward Friday's official jobs report even as Trump described a \"very heavy\" new US attack on Iran and oil stayed elevated (WTI ~$91/bbl, Brent above $95, up ~9% over three sessions). Stocks were regrouping Thursday as oil edged off its highs. A softening labor market alongside a hawkish Fed creates a genuinely two-sided setup into the September rate decision.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html",
+    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / Federal Reserve",
+    "headline": "Best day since August: Fed's Waller signals a hold, yields drop, stocks rip higher",
+    "summary": "The S&P 500 jumped 1.06% to 7,747.71, the Nasdaq surged 1.4% to 26,584.06, and the Dow gained 624 pts (+1.18%) to 53,686.11 — their best session since Aug. 4 — after Fed Governor Christopher Waller said he'd lean toward holding rates steady absent a major inflation surprise, a notably softer tone than Chair Warsh's Jackson Hole hawkishness. The 10-year Treasury yield eased to ~4.75% from Wednesday's spike and the dollar weakened, reversing this week's rate-hike-fear trade. Weak ADP jobs data (38,000 in August, below estimates) had already turned attention toward Friday's official payrolls report as the next catalyst.",
+    "url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/",
     "date": "2026-09-03"
   }
 ]
