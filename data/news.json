@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / Federal Reserve",
-    "headline": "Best day since August: Fed's Waller signals a hold, yields drop, stocks rip higher",
-    "summary": "The S&P 500 jumped 1.06% to 7,747.71, the Nasdaq surged 1.4% to 26,584.06, and the Dow gained 624 pts (+1.18%) to 53,686.11 — their best session since Aug. 4 — after Fed Governor Christopher Waller said he'd lean toward holding rates steady absent a major inflation surprise, a notably softer tone than Chair Warsh's Jackson Hole hawkishness. The 10-year Treasury yield eased to ~4.75% from Wednesday's spike and the dollar weakened, reversing this week's rate-hike-fear trade. Weak ADP jobs data (38,000 in August, below estimates) had already turned attention toward Friday's official payrolls report as the next catalyst.",
-    "url": "https://www.fool.com/coverage/stock-market-today/2026/09/03/stock-market-midday-sept-3-stocks-rally-as-treasury-yields-fall-broadcom-falls-despite-earnings-beat/",
-    "date": "2026-09-03"
+    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / Federal Reserve / Jobs",
+    "headline": "August payrolls blow past estimates, complicating the Fed's rate-hold case",
+    "summary": "Nonfarm payrolls rose 162,000 in August — the strongest gain since March and triple the 53-55K consensus — while unemployment held at 4.1% and June/July were revised up a combined 55,000. That reverses the weak ADP print from earlier in the week and cuts against Fed Governor Waller's Thursday comments favoring a hold, since a hot labor market strengthens the case Chair Warsh made at Jackson Hole for a possible hike. Futures were mixed premarket (Dow -0.07%, S&P 500 +0.06%, Nasdaq +0.42%) as investors weighed good economic news against renewed rate uncertainty, following Thursday's best session since Aug. 4 (S&P 500 +1.06% to 7,747.71).",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026",
+    "date": "2026-09-04"
   }
 ]
