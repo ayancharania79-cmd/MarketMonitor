@@ -78,10 +78,10 @@
   },
   {
     "ticker": "MELI", "exchange": "NasdaqGS", "company": "MercadoLibre, Inc.",
-    "headline": "MercadoLibre tops $10B in quarterly revenue for the first time, but margins compress",
-    "summary": "Q2 revenue rose 49.8% YoY to $10.17B with fintech payment volume above $100B and monthly active users up 30%, but profit margin fell to 4.6% (from 7.7%) on higher expenses, and EPS of $9.19 was down from $10.32 a year ago. Cantor Fitzgerald raised its target to $2,300 from $2,150 despite an 8.3% pullback in the shares.",
-    "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-mercadolibre-nasdaqmeli-surprises-with-strong-q2-cy2026-increases-its-unique-active-buyers",
-    "date": "2026-08-05"
+    "headline": "MercadoLibre holds a Street-wide Buy rating with ~14% upside seen from here",
+    "summary": "Shares trade around $1,991, within a 52-week range of $1,495-$2,548.50; all 19 covering analysts rate the stock Buy (none Sell), with an average 12-month target of $2,265 implying roughly 14% upside. That follows the Q2 report (revenue +49.8% YoY to a record $10.17B, fintech payment volume above $100B, active users +30%) even as margins compressed on heavier logistics and fintech investment — 2026 is shaping up as another heavy capex year for Mercado Envios and Mercado Pago.",
+    "url": "https://www.investing.com/equities/mercadolibre",
+    "date": "2026-09-04"
   },
   {
     "ticker": "SE", "exchange": "NYSE", "company": "Sea Limited",
@@ -110,5 +110,12 @@
     "summary": "Markets closed out the week with the classic good-news-is-bad-news reaction: the Dow fell 0.5%, S&P 500 0.4%, and Nasdaq 0.3% after August payrolls smashed estimates (+162,000 vs. ~55,000 consensus), pushing bond yields higher and the market-implied odds of a September Fed rate hike to 58-60% (from 49.4% Thursday) as a resilient economy strengthens the case for the hawkish camp. Lululemon tanked 17% after cutting guidance and posting a 4% revenue decline, one of the week's biggest single-stock movers (not a fund holding, but a read on consumer-discretionary sentiment). Net for the week: a volatile stretch — Iran-conflict selloffs, a Waller-driven rally, and now a hawkish jobs surprise — that leaves the Fed's Sept. 16-17 decision as the key event to watch, alongside Canada's Sept. 8 tariff retaliation deadline.",
     "url": "https://www.local10.com/news/2026/09/04/stocks-fall-after-a-surprisingly-strong-jobs-report-raises-prospects-of-an-interest-rate-hike/",
     "date": "2026-09-04"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Oil / Iran conflict",
+    "headline": "Iran conflict escalates over the weekend; US and Canadian markets closed for Labor Day",
+    "summary": "The US struck three Iranian oil tankers over the weekend and said Tehran had targeted US warships with ballistic missiles; Iran responded by targeting three oil tankers via an unauthorized Strait of Hormuz route plus other US-linked vessels. Oil (Brent) advanced ~0.6% on the renewed supply-disruption risk. Asian markets rallied Monday (Nikkei +2.1%, Kospi +4.6%) while Europe's Stoxx 600 was roughly flat to slightly lower (Germany's DAX -0.4%). US and Canadian markets are closed today for Labor Day and reopen Tuesday Sept. 8 — the same day Canada's dollar-for-dollar tariff retaliation against the US is set to take effect.",
+    "url": "https://www.cnbc.com/2026/09/07/stock-market-today-live-updates.html",
+    "date": "2026-09-07"
   }
 ]
