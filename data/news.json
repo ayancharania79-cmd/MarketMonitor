@@ -113,9 +113,9 @@
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "Oil / Iran conflict",
-    "headline": "Markets reopen lower as Mideast tensions persist; Canada's counter-tariffs take effect",
-    "summary": "US markets reopened Tuesday after the long weekend with the S&P 500 slipping ~0.15%, led down by mega-cap tech (Apple -2.6%, Alphabet -2.1%, Microsoft -2.1%) while industrials like Caterpillar and Home Depot gained — continuing the post-jobs-report rate-hike-odds overhang. Oil stayed elevated on Mideast tensions after the weekend's US-Iran tanker strikes, though Iran's floated Hormuz shipping deal with Oman offers a possible de-escalation path. Separately, Canada's retaliatory tariffs against the US took effect at 12:01am today — 15-50% counter-tariffs on $27.6B of US goods (steel, dairy, appliances, farm equipment, pulp/paper, electronics) across 700+ products, paired with a C$7.5B relief package for affected small/mid-size Canadian businesses.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-08-2026",
+    "headline": "Dow drops 628 points as Mideast tensions and oil weigh on a shortened week",
+    "summary": "The Dow fell 1.18% (628 pts) to 52,786.07, the S&P 500 dropped 0.58% to 7,673.52, and the Nasdaq slipped 0.32% to 26,421.41 as markets reopened from the long weekend under pressure from rising oil prices and escalating Mideast tensions (the weekend's US-Iran tanker strikes), on top of the post-jobs-report rate-hike overhang. Mega-cap tech (Apple, Alphabet, Microsoft) each fell roughly 2%. Canada's retaliatory tariffs against the US took effect at 12:01am today — 15-50% counter-tariffs on $27.6B of US goods across 700+ products, paired with a C$7.5B relief package for affected Canadian businesses.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-8-133744027.html",
     "date": "2026-09-08"
   }
 ]

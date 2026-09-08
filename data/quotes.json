@@ -10,7 +10,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "BHP.AX",
     "sourceUrl": "https://www.marketindex.com.au/asx/bhp",
-    "note": "Fresh search returned 62.25 AUD (Market Index/Halo), ~2.4% below stored 63.78; no clean day-change figure surfaced. Accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (62.25 AUD, Market Index); 52wk range 39.30-68.77 noted. No clean day-change figure surfaced."
   },
   {
     "exchange": "BIT",
@@ -23,7 +23,7 @@
     "asOfDate": "2026-09-04",
     "displaySymbol": "ISP.MI",
     "sourceUrl": "https://www.investing.com/equities/intesa-sanpaolo",
-    "note": "Reconfirmed via fresh search, exact match to stored (6.6530 EUR, prev close 6.6680); eToro 6.234 outlier rejected again."
+    "note": "Fresh search returned internally conflicting figures (Yahoo 5.93 -0.34%, eToro 6.234, Investing.com 6.653 prev close 6.668) with no single figure clearly fresher/more authoritative than stored. Kept previous confirmed snapshot."
   },
   {
     "exchange": "BME",
@@ -33,10 +33,10 @@
     "currency": "EUR",
     "change": 0.04,
     "changePercent": 0.16,
-    "asOfDate": "2026-09-04",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://www.investing.com/equities/bbva",
-    "note": "Reconfirmed via fresh search, exact match to stored (24.93 EUR, +0.16%, day range 24.700-25.040)."
+    "note": "Reconfirmed via fresh search, exact match to stored (24.93 EUR, +0.16%); a close 24.80 EUR variant from another source noted but not materially different."
   },
   {
     "exchange": "CPSE",
@@ -48,8 +48,8 @@
     "changePercent": -0.97,
     "asOfDate": "2026-09-08",
     "displaySymbol": "NOVO-B.CO",
-    "sourceUrl": "https://finance.yahoo.com/quote/NOVO-B.CO/",
-    "note": "Fresh search returned 296.10 DKK (prev close 299.0, day range 295.5-298.2), ~2.1% below stored; accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/novo-nordisk",
+    "note": "Reconfirmed via fresh search, exact match to stored (296.10 DKK, prev close 299.0, day range 295.5-298.2)."
   },
   {
     "exchange": "ENXTAM",
@@ -62,33 +62,33 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://www.investing.com/equities/asml-holding",
-    "note": "Fresh search returned 1530.00 EUR (prev close 1500.40, day range 1486.60-1535.20), ~4.3% above stored; accepted as update."
+    "note": "Reconfirmed via fresh search: 1530.00 EUR recurred as the headline figure among a scatter (1483/1499/1518); exact match to stored, kept as reconfirmed."
   },
   {
     "exchange": "ENXTPA",
     "ticker": "MC",
     "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
-    "price": 431.2,
+    "price": 429.1,
     "currency": "EUR",
-    "change": 2.1,
-    "changePercent": 0.49,
-    "asOfDate": "2026-09-07",
+    "change": -1.94,
+    "changePercent": -0.45,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "MC.PA",
     "sourceUrl": "https://www.investing.com/equities/l.v.m.h.",
-    "note": "Fresh search returned a Sept7-dated quote (431.20 EUR, prev close 429.10), close to stored (~0.5% below); accepted as update."
+    "note": "Fresh search returned 429.10 EUR (-0.45% day, day range 423.75-432.85), ~0.5% below stored; accepted as update."
   },
   {
     "exchange": "ENXTPA",
     "ticker": "RMS",
     "name": "Hermès International Société en commandite par actions",
-    "price": 1441.0,
+    "price": 1440.5,
     "currency": "EUR",
-    "change": -33.5,
-    "changePercent": -2.27,
+    "change": -33.7,
+    "changePercent": -2.34,
     "asOfDate": "2026-09-08",
     "displaySymbol": "RMS.PA",
-    "sourceUrl": "https://tradersunion.com/currencies/price/rms-eur/",
-    "note": "Persistent-conflict ticker: fresh search gave a corroborating pair (1441.0 -2.27%, 1440.50 -2.34%), ~1.1% below stored, consistent with continuing decline. Accepted as update."
+    "sourceUrl": "https://www.etoro.com/markets/rms.pa",
+    "note": "Persistent-conflict ticker: fresh search returned 1440.50 EUR (-2.34% day, -6.37% week), essentially matching stored (1441.0), consistent continuing decline. Accepted as update."
   },
   {
     "exchange": "ENXTPA",
@@ -101,7 +101,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "SAF.PA",
     "sourceUrl": "https://www.investing.com/equities/safran",
-    "note": "Fresh search returned 333.10 EUR (prev close 333.50, day range 332.60-337.50), within 0.2% of stored; accepted as update."
+    "note": "Fresh search returned an internally-conflicting result (headline 359.70 +0.93%, but same summary flagged other sources at 333-334 matching stored); kept previous confirmed snapshot as the better-corroborated figure."
   },
   {
     "exchange": "LSE",
@@ -114,20 +114,20 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "HLMA.L",
     "sourceUrl": "https://www.investing.com/equities/halma",
-    "note": "Persistent-conflict ticker: fresh search finally returned a well-corroborated intraday figure (3738.00 GBX, +2.47%/+90.00, open 3668/high 3740/low 3642, timestamped 10:51 GMT+1), breaking the prior repeated-bad-4549 cycle and only ~2.5% above stored. Accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (3738.00 GBX, +2.47%, open 3668/high 3740/low 3642, timestamped 10:51 GMT+1)."
   },
   {
     "exchange": "LSE",
     "ticker": "RR.",
     "name": "Rolls-Royce Holdings plc",
-    "price": 1495.4,
+    "price": 1497.6,
     "currency": "GBP",
-    "change": 6.0,
-    "changePercent": 0.4,
-    "asOfDate": "2026-09-07",
+    "change": 7.6,
+    "changePercent": 0.51,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "RR.L",
-    "sourceUrl": "https://www.investing.com/equities/rolls-royce",
-    "note": "Fresh search returned 1495.40 (pence, mislabeled GBP by source), prev close 1489.40, day range 1489.60-1505.00; ~0.6% above stored. Accepted as update."
+    "sourceUrl": "https://www.etoro.com/markets/rr.l",
+    "note": "Fresh search returned 1497.60 pence (+0.51%), a close alt figure 1502.2 (+0.19%) also seen; ~0.15% above stored. Accepted as minor update."
   },
   {
     "exchange": "NYSE",
@@ -139,21 +139,21 @@
     "changePercent": null,
     "asOfDate": "2026-09-08",
     "displaySymbol": "AME",
-    "sourceUrl": "https://www.heygotrade.com/en/us-stock/ame/",
-    "note": "Reconfirmed via fresh search ($239.08, within 0.2% of stored $239.55); conflicting $233.58/$207... noise from other sources rejected."
+    "sourceUrl": "https://www.investing.com/equities/ametek-inc",
+    "note": "Reconfirmed via fresh search: Investing.com again shows 239.08, exact match to stored; an Upstox 237.72 (+1.50%) variant noted but not used (~0.6% off, less specific)."
   },
   {
     "exchange": "NYSE",
     "ticker": "APG",
     "name": "APi Group Corporation",
-    "price": 43.95,
+    "price": 48.7,
     "currency": "USD",
-    "change": 0.5,
-    "changePercent": 1.15,
+    "change": null,
+    "changePercent": null,
     "asOfDate": "2026-09-08",
     "displaySymbol": "APG",
-    "sourceUrl": "https://www.heygotrade.com/en/us-stock/apg/",
-    "note": "The previously-rejected TradingView $43.95 figure recurred again with consistent detail (day range $43.46-43.96, +1.15%, mkt cap $18.99B); ~12.5% above stored but within 15% threshold and now well-corroborated by repeat detail. Accepted as update, breaking prior conflict cycle."
+    "sourceUrl": "https://www.investing.com/equities/api-group-corp",
+    "note": "Fresh search returned a new clean figure (48.70, mkt cap $21.04B) from Investing.com/TradingView, ~10.8% above stored; within threshold, accepted as update."
   },
   {
     "exchange": "NYSE",
@@ -166,7 +166,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "BRK.B",
     "sourceUrl": "https://stockanalysis.com/stocks/brk.b/",
-    "note": "Reconfirmed via fresh search, essentially exact match to stored ($506.03 vs $508.13, within 0.4%, day range $504.30-507.50)."
+    "note": "Reconfirmed via fresh search, exact match to stored ($506.03, prev close $506.03, day range $504.30-507.50)."
   },
   {
     "exchange": "NYSE",
@@ -178,34 +178,34 @@
     "changePercent": 2.06,
     "asOfDate": "2026-09-08",
     "displaySymbol": "CSL",
-    "sourceUrl": "https://www.investing.com/equities/carlisle-companies-inc",
-    "note": "Persistent-conflict ticker: fresh search returned a new figure with real intraday detail (352.14, +7.10/+2.06%, mkt cap $13.67B), distinct from the previously-stale $352.79 cache and only ~1.2% below stored. Accepted as update."
+    "sourceUrl": "https://us.trendlyne.com/us/equity/1403280/CSL/carlisle-companies-inc/",
+    "note": "Persistent-conflict ticker: reconfirmed via fresh search, exact match to stored (352.14, +7.10/+2.06%, intraday range 341.95-354.55)."
   },
   {
     "exchange": "NYSE",
     "ticker": "DHR",
     "name": "Danaher Corporation",
-    "price": 215.68,
+    "price": 206.13,
     "currency": "USD",
-    "change": 0.32,
-    "changePercent": 0.15,
+    "change": -1.53,
+    "changePercent": -0.74,
     "asOfDate": "2026-09-08",
     "displaySymbol": "DHR",
-    "sourceUrl": "https://investors.danaher.com/stock-quote",
-    "note": "Reconfirmed via fresh search: Danaher's own investor-relations page matches stored exactly ($215.68); a $207.66 TradingView outlier rejected."
+    "sourceUrl": "https://www.investing.com/equities/danaher-corp",
+    "note": "Persistent-conflict ticker: two-attempt check performed. Fresh search now returns three roughly-corroborating figures (206.31 -1.60%, 206.13 -0.74%, 207.66 as a recent close) all in the 206-208 range, breaking from the previously IR-page-confirmed 215.68; ~4.4% decline, well within threshold and now cross-corroborated. Accepted as update, reversing the prior snapshot."
   },
   {
     "exchange": "NYSE",
     "ticker": "EQNR",
     "name": "Equinor ASA",
-    "price": 40.77,
+    "price": 41.39,
     "currency": "USD",
-    "change": 0.23,
-    "changePercent": 0.57,
+    "change": -0.16,
+    "changePercent": -0.39,
     "asOfDate": "2026-09-08",
     "displaySymbol": "EQNR",
-    "sourceUrl": "https://pluang.com/en/asset/usstock/EQNR/10279",
-    "note": "Persistent-conflict ticker: fresh search returned $40.77 (+0.57%), essentially matching stored ($40.73); NOK-listing price (398.60 NOK, Oslo) noted separately and not used. Accepted as reconfirmation/minor update."
+    "sourceUrl": "https://stockscan.io/stocks/EQNR",
+    "note": "Persistent-conflict ticker: fresh search returned 41.39 (-0.39%), ~1.5% above stored ($40.77); a stale 42.09 (dated Sep5 3am) figure rejected. Accepted as update."
   },
   {
     "exchange": "NYSE",
@@ -217,60 +217,60 @@
     "changePercent": -1.03,
     "asOfDate": "2026-09-08",
     "displaySymbol": "HCA",
-    "sourceUrl": "https://www.coinbase.com/stock/HCA",
-    "note": "Persistent-conflict ticker: fresh search returned a new figure with real context (405.00, -1.03%, 52wk range $276.50-417.14, mkt cap $87.68B), ~2.1% below stored and distinct from the previously-rejected blended $428.76 figure. Accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/hca-holdings-inc",
+    "note": "Persistent-conflict ticker: reconfirmed via fresh search, exact match to stored (405.00, -1.03%)."
   },
   {
     "exchange": "NYSE",
     "ticker": "HDB",
     "name": "HDFC Bank Limited",
-    "price": 23.18,
+    "price": 22.51,
     "currency": "USD",
     "change": null,
     "changePercent": null,
     "asOfDate": "2026-09-08",
     "displaySymbol": "HDB",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403853/HDB/hdfc-bank-ltd-adr/",
-    "note": "Reconfirmed via fresh search, within 0.6% of stored ($23.18 vs $23.32, day range $23.13-23.40); no clean day-change figure surfaced this run."
+    "note": "Persistent-conflict ticker: fresh search returned a timestamped figure (9:29pm Sep8, $22.51), ~2.9% below stored; within threshold, accepted as update. No clean change figure surfaced."
   },
   {
     "exchange": "NYSE",
     "ticker": "HEI",
     "name": "HEICO Corporation",
-    "price": 323.9,
+    "price": 319.51,
     "currency": "USD",
-    "change": -0.36,
-    "changePercent": -0.11,
-    "asOfDate": "2026-09-04",
+    "change": -0.22,
+    "changePercent": -0.07,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "HEI",
     "sourceUrl": "https://www.investing.com/equities/heico-corp",
-    "note": "Fresh search again returned the same previously-superseded $335.72 (-3.02%) figure from a stale/cached search-engine answer box. Kept previous confirmed snapshot."
+    "note": "Persistent-conflict ticker: fresh search returned a new figure (319.51, -0.07%), ~1.4% below stored, breaking the prior repeated-stale-$335.72 cycle; a Sep4 4pm close of $325.48 also seen (close to old stored). Accepted as update."
   },
   {
     "exchange": "NYSE",
     "ticker": "IBN",
     "name": "ICICI Bank Limited",
-    "price": 30.19,
+    "price": 30.28,
     "currency": "USD",
-    "change": -0.17,
-    "changePercent": -0.56,
-    "asOfDate": "2026-09-01",
+    "change": null,
+    "changePercent": null,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "IBN",
-    "sourceUrl": "https://finance.yahoo.com/quote/IBN/",
-    "note": "Fresh search again returned the same previously-rejected conflicting cluster ($29.51 +0.92%, $29.52 Aug14, $30.28 Aug4), none clearly superseding stored's confirmed $30.19. Kept previous confirmed snapshot."
+    "sourceUrl": "https://www.barchart.com/stocks/quotes/ibn",
+    "note": "Persistent-conflict ticker: fresh search returned 30.28 as the headline current price, essentially matching stored (30.19, ~0.3% diff); a conflicting 29.51 (+0.92%) also seen. Reconfirmed via the closer-matching figure."
   },
   {
     "exchange": "NYSE",
     "ticker": "ICE",
     "name": "Intercontinental Exchange, Inc.",
-    "price": 161.5,
+    "price": 157.85,
     "currency": "USD",
-    "change": -3.11,
-    "changePercent": -1.89,
+    "change": null,
+    "changePercent": -1.1,
     "asOfDate": "2026-09-08",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Fresh search returned 161.50 (-1.89%, prev close 164.61, day range 161.05-162.56), ~2.3% above stored; accepted as update."
+    "note": "Fresh search returned 157.85 (-1.10%), ~2.3% below stored; accepted as update."
   },
   {
     "exchange": "NYSE",
@@ -283,7 +283,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "JPM",
     "sourceUrl": "https://www.investing.com/equities/jp-morgan-chase",
-    "note": "Fresh search returned 358.64 (-0.94%), within 0.4% of stored; accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (358.64, -0.94%)."
   },
   {
     "exchange": "NYSE",
@@ -295,8 +295,8 @@
     "changePercent": 1.26,
     "asOfDate": "2026-09-08",
     "displaySymbol": "LOW",
-    "sourceUrl": "https://stockanalysis.com/stocks/low/",
-    "note": "Second careful check per standing guidance: the same $204.45 (+1.26%) figure recurred identically across two independent searches with consistent supporting context (mkt cap -4.90% over the last week, -22.27% YoY), now double-corroborated. ~13.9% below stored, just under the 15% threshold. Accepted as update, reversing the prior fallback."
+    "sourceUrl": "https://www.investing.com/equities/lowes-companies",
+    "note": "Known trouble ticker: reconfirmed via fresh search, exact match to stored (204.45, +1.26%); alternate $208.05/$208.73 figures noted but not corroborated further, kept the double-corroborated figure from prior run."
   },
   {
     "exchange": "NYSE",
@@ -306,10 +306,10 @@
     "currency": "USD",
     "change": -6.5,
     "changePercent": -1.11,
-    "asOfDate": "2026-09-07",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "MA",
     "sourceUrl": "https://www.investing.com/equities/mastercard-cl-a",
-    "note": "Fresh search returned a Sept7-dated quote (579.21, prev close 585.71, day range 578.71-584.50), ~0.9% below stored; accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (579.21, -1.11%)."
   },
   {
     "exchange": "NYSE",
@@ -322,7 +322,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Persistent-conflict ticker: fresh search returned 162.79 (+1.67%), ~5.7% above stored but within threshold with no competing figure this run. Accepted as update."
+    "note": "Persistent-conflict ticker: two-attempt check performed, results wildly scattered and mutually non-corroborating ($131.29 -0.38%, then $137.76 -13.89% on re-check, vs stored $162.79); none superseded the other. Kept previous confirmed snapshot per merge rule."
   },
   {
     "exchange": "NYSE",
@@ -335,7 +335,7 @@
     "asOfDate": "2026-09-01",
     "displaySymbol": "PAC",
     "sourceUrl": "https://www.investing.com/equities/grupo-aeroportuario-del-pacifico",
-    "note": "Persistent-conflict ticker: fresh search again returned the same previously-flagged-wrong $238.45 figure plus a new unconfirmed $215.08 (Motley Fool), neither corroborated. Kept previous confirmed snapshot."
+    "note": "Persistent-conflict ticker: fresh search again returned the same previously-flagged-wrong $238.45 figure with no new corroboration. Kept previous confirmed snapshot."
   },
   {
     "exchange": "NYSE",
@@ -348,20 +348,20 @@
     "asOfDate": "2026-09-07",
     "displaySymbol": "PBR",
     "sourceUrl": "https://stockanalysis.com/stocks/pbr/",
-    "note": "Fresh search returned a Sept7-dated quote (20.12, prev close 20.51), ~8.5% above stored, clean single figure with date/prevclose detail (no longer the ambiguous options-snippet from before). Accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored ($20.12)."
   },
   {
     "exchange": "NYSE",
     "ticker": "RIO",
     "name": "Rio Tinto Group",
-    "price": 95.68,
+    "price": 103.6,
     "currency": "USD",
-    "change": -2.52,
-    "changePercent": -2.57,
+    "change": 0.76,
+    "changePercent": 0.74,
     "asOfDate": "2026-09-04",
     "displaySymbol": "RIO",
-    "sourceUrl": "https://us.trendlyne.com/us/equity/1404673/RIO/rio-tinto-plc-adr/",
-    "note": "Fresh search returned an explicitly stale July31-dated $96.85 figure plus conflicting $103.60/$91.64 values; none clearly fresher/more authoritative than stored. Kept previous confirmed snapshot."
+    "sourceUrl": "https://stockanalysis.com/stocks/rio/",
+    "note": "Persistent-conflict ticker: two-attempt check performed, second search corroborated the $103.60 figure with consistent detail (prev close $102.84, day range 102.23-103.65, 52wk 61.72-112.58), recurring identically across both attempts; ~8.3% above stored. Accepted as update, reversing the prior fallback."
   },
   {
     "exchange": "NYSE",
@@ -374,7 +374,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "SE",
     "sourceUrl": "https://www.investing.com/equities/sea-limited",
-    "note": "Reconfirmed via fresh search (Investing.com), exact match to stored ($126.55); Pluang $115.49 rejected as noise again. No reliable day-change figure surfaced."
+    "note": "Reconfirmed via fresh search, exact match to stored ($126.55). No reliable day-change figure surfaced."
   },
   {
     "exchange": "NYSE",
@@ -382,25 +382,25 @@
     "name": "Shell plc",
     "price": 93.32,
     "currency": "USD",
-    "change": 2.69,
-    "changePercent": 2.97,
+    "change": 2.17,
+    "changePercent": 2.46,
     "asOfDate": "2026-09-08",
     "displaySymbol": "SHEL",
     "sourceUrl": "https://www.investing.com/equities/royal-dutch-shell-a-plc",
-    "note": "Reconfirmed via fresh search, essentially exact match to stored ($93.32 vs $93.33)."
+    "note": "Reconfirmed via fresh search: exact price match to stored (93.32); change framing updated slightly (+2.46%/+2.17 vs prior +2.97%/+2.69)."
   },
   {
     "exchange": "NYSE",
     "ticker": "SPOT",
     "name": "Spotify Technology S.A.",
-    "price": 542.5,
+    "price": 490.28,
     "currency": "USD",
-    "change": -17.55,
-    "changePercent": -3.13,
+    "change": null,
+    "changePercent": null,
     "asOfDate": "2026-09-08",
     "displaySymbol": "SPOT",
-    "sourceUrl": "https://www.kraken.com/stocks/spot",
-    "note": "Fresh search returned 542.50 (-3.13%, prev close 560.05, day range 540.85-563.10), ~3.1% below stored; accepted as update, pullback from recent spike."
+    "sourceUrl": "https://www.investing.com/equities/spotify-technology",
+    "note": "Fresh search returned a new figure (490.28, mkt cap $101.22B), ~9.6% below stored; within threshold, single clean specific source, accepted as update continuing the recent pullback."
   },
   {
     "exchange": "NYSE",
@@ -413,20 +413,20 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "TDG",
     "sourceUrl": "https://stockanalysis.com/stocks/tdg/",
-    "note": "Persistent-conflict ticker: fresh search returned 1162.05 (+0.42%, prev close 1157.17, day range 1148.46-1163.43, mkt cap $64.23B), ~12.4% below stored but within 15% threshold and well-corroborated by consistent detail. Accepted as update."
+    "note": "Persistent-conflict ticker: fresh search returned a wide scatter ($1326.82, $1220.72, $1162.05); the $1162.05 figure exactly matches stored, the most corroborated of the trio. Kept as reconfirmed."
   },
   {
     "exchange": "NYSE",
     "ticker": "TMO",
     "name": "Thermo Fisher Scientific Inc.",
-    "price": 615.96,
+    "price": 607.43,
     "currency": "USD",
-    "change": -6.15,
-    "changePercent": -0.99,
+    "change": null,
+    "changePercent": 0.84,
     "asOfDate": "2026-09-08",
     "displaySymbol": "TMO",
-    "sourceUrl": "https://www.heygotrade.com/en/us-stock/tmo/",
-    "note": "Fresh search returned 615.96 (-0.99%, day range 610.71-617.67), within 0.3% of stored; accepted as update. A $593.18 outlier from the same source page rejected."
+    "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
+    "note": "Fresh search returned 607.43 (+0.84%, day range 595.82-608.10), ~1.4% below stored; accepted as update."
   },
   {
     "exchange": "NYSE",
@@ -436,10 +436,10 @@
     "currency": "USD",
     "change": 0.98,
     "changePercent": 1.62,
-    "asOfDate": "2026-09-04",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "TTE",
-    "sourceUrl": "https://vestedfinance.com/us-stocks/tte/totalenergies-se-share-price/",
-    "note": "KNOWN TICKET: fresh search this run only surfaced an explicitly stale ($84.91, dated July 22, 2026) figure in the bad Euronext-adjacent range, with search itself flagging it as outdated and no current price available. Per standing guidance (one quick check, no over-investment), kept the previously-verified NYSE ADR figure ($61.42) unchanged."
+    "sourceUrl": "https://us.trendlyne.com/us/equity/1404972/TTE/totalenergies-se-adr/",
+    "note": "KNOWN TICKET: fresh search this run confirmed the correct NYSE USD ADR figure directly ($61.42, +1.62%, 3:37pm Eastern), exact match to stored; no bad Euronext-range (~$88-90) figure surfaced. Reconfirmed, one quick check per standing guidance."
   },
   {
     "exchange": "NYSE",
@@ -452,20 +452,20 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investing.com/equities/uber-technologies-inc",
-    "note": "Reconfirmed via fresh search, essentially exact match to stored ($75.76 vs $75.96, implied prev close $75.96)."
+    "note": "Reconfirmed via fresh search, exact match to stored ($75.76, -0.26%)."
   },
   {
     "exchange": "NYSE",
     "ticker": "UBS",
     "name": "UBS Group AG",
-    "price": 54.84,
+    "price": 52.73,
     "currency": "USD",
-    "change": 0.69,
-    "changePercent": 1.27,
+    "change": null,
+    "changePercent": -1.44,
     "asOfDate": "2026-09-08",
     "displaySymbol": "UBS",
-    "sourceUrl": "https://www.cnn.com/markets/stocks/UBS",
-    "note": "Persistent-conflict ticker: fresh search returned 54.84 (+1.27%, day range 54.33-55.22), ~4.0% above stored, within threshold; the Swiss-listing CHF 43.22 price (different exchange) not used. Accepted as update."
+    "sourceUrl": "https://upstox.com/us-stocks/ubs-share-price/",
+    "note": "Persistent-conflict ticker: fresh search returned 52.73 (-1.44%, mkt cap $168.95B), ~3.8% below stored; within threshold, accepted as update."
   },
   {
     "exchange": "NYSE",
@@ -478,7 +478,7 @@
     "asOfDate": "2026-09-01",
     "displaySymbol": "UL",
     "sourceUrl": "https://www.investing.com/equities/unilever-adr",
-    "note": "Fresh search again returned the same stale Aug26-dated $65.17 figure (and a close eToro $65.40) already superseded by stored. Kept previous confirmed snapshot."
+    "note": "Fresh search again returned the same stale Aug26-dated $65.17 figure already superseded by stored. Kept previous confirmed snapshot."
   },
   {
     "exchange": "NYSE",
@@ -490,8 +490,8 @@
     "changePercent": -0.97,
     "asOfDate": "2026-09-07",
     "displaySymbol": "V",
-    "sourceUrl": "https://tradingeconomics.com/v:us",
-    "note": "Fresh search returned a Sept7-dated quote (375.07, -0.97%, day range 372.95-377.50), ~0.9% below stored; accepted as update."
+    "sourceUrl": "https://us.trendlyne.com/us/equity/1405027/V/visa-inc-ordinary-shares-class-a/",
+    "note": "Reconfirmed via fresh search, exact match to stored ($375.07, -0.97%); source itself still dates the underlying data to Sept4."
   },
   {
     "exchange": "NasdaqGS",
@@ -499,25 +499,25 @@
     "name": "Amazon.com, Inc.",
     "price": 258.51,
     "currency": "USD",
-    "change": -1.88,
-    "changePercent": -0.72,
+    "change": -0.39,
+    "changePercent": -0.15,
     "asOfDate": "2026-09-08",
     "displaySymbol": "AMZN",
-    "sourceUrl": "https://www.coinbase.com/stock/AMZN",
-    "note": "Fresh search returned 258.51 (prior close $258.51, -$1.88 premarket), essentially matching stored ($258.90); accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/amazon-com-inc",
+    "note": "Reconfirmed via fresh search, exact price match to stored ($258.51); change framing updated to -0.15% (mkt cap $2.77T)."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "APP",
     "name": "AppLovin Corporation",
-    "price": 320.56,
+    "price": 310.77,
     "currency": "USD",
-    "change": 7.01,
+    "change": null,
     "changePercent": 2.23,
     "asOfDate": "2026-09-08",
     "displaySymbol": "APP",
     "sourceUrl": "https://www.investing.com/equities/applovin",
-    "note": "Fresh search returned 320.56 (+2.23%, day range 310.45-323.80), ~1.9% above stored; accepted as update."
+    "note": "Fresh search returned 310.77 (+2.23%), ~3.1% below stored; accepted as update."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,7 +530,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://www.investing.com/equities/cadence-design-system-inc",
-    "note": "Fresh search returned 292.70 (-3.99%, mkt cap down 6.47% over the week), ~4.1% below stored; accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (292.70, -3.99%)."
   },
   {
     "exchange": "NasdaqGS",
@@ -543,7 +543,7 @@
     "asOfDate": "2026-09-02",
     "displaySymbol": "DPZ",
     "sourceUrl": "https://www.investing.com/equities/dominos-pizza-inc",
-    "note": "Reconfirmed via fresh search for a third consecutive run, exact match to stored ($340.37, +0.58%, still Sept2-dated at source)."
+    "note": "Reconfirmed via fresh search for a fourth consecutive run, exact match to stored ($340.37, +0.58%, still Sept2-dated at source)."
   },
   {
     "exchange": "NasdaqGS",
@@ -556,7 +556,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "FTNT",
     "sourceUrl": "https://www.investing.com/equities/fortinet",
-    "note": "Fresh search returned a single clean figure (156.29, -0.04%, mkt cap $120.70B), ~0.8% below stored, replacing the prior scattered cluster. Accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (156.29, -0.04%)."
   },
   {
     "exchange": "NasdaqGS",
@@ -569,7 +569,7 @@
     "asOfDate": "2026-09-04",
     "displaySymbol": "GMAB",
     "sourceUrl": "https://www.chartmill.com/stock/quote/GMAB/profile",
-    "note": "Reconfirmed via fresh search, exact match to stored ($25.27, -0.47%); a Google Finance $26.87 (-0.67%) and stale $33.60 figure both rejected as noise again."
+    "note": "Persistent-conflict ticker: fresh search again returned the same previously-rejected stale Sept5 $33.60 (-2.35%) noise figure. Kept previous confirmed snapshot."
   },
   {
     "exchange": "NasdaqGS",
@@ -582,33 +582,33 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://stockanalysis.com/stocks/googl/",
-    "note": "Known contradictory-snippet ticker: fresh search returned 342.52 (after-hours, +1.60%, prev close 337.12, day range 340.22-344.68), squarely in the correct $330-350 range and close to stored ($343.00); no bad ~$252 figure surfaced. Accepted as update."
+    "note": "Known contradictory-snippet ticker: reconfirmed via fresh search, exact match to stored (342.52 after-hours, +1.60%, prev close 337.12, day range 340.22-344.68), squarely in the correct $330-350 range; no bad ~$252 figure surfaced."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "MELI",
     "name": "MercadoLibre, Inc.",
-    "price": 1978.36,
+    "price": 1991.06,
     "currency": "USD",
-    "change": -12.74,
-    "changePercent": -0.64,
+    "change": null,
+    "changePercent": null,
     "asOfDate": "2026-09-08",
     "displaySymbol": "MELI",
     "sourceUrl": "https://www.investing.com/equities/mercadolibre",
-    "note": "Fresh search returned 1978.36 (-0.64%, day range 1985.08-2066.00), within 0.6% of stored; accepted as update."
+    "note": "Fresh search returned 1991.06 (day range 1985.08-2066.00, mkt cap $100.94B), ~0.6% above stored; accepted as minor update."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "META",
     "name": "Meta Platforms, Inc.",
-    "price": 616.77,
+    "price": 616.74,
     "currency": "USD",
-    "change": 6.11,
+    "change": 6.08,
     "changePercent": 1.0,
     "asOfDate": "2026-09-08",
     "displaySymbol": "META",
-    "sourceUrl": "https://www.coinbase.com/stock/META",
-    "note": "Fresh search returned 616.77 (+1.00%, day range 605.27-617.46), ~1.0% above stored; accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/meta-platforms",
+    "note": "Reconfirmed via fresh search, essentially exact match to stored (616.74 vs 616.77, +1.00%)."
   },
   {
     "exchange": "NasdaqGS",
@@ -618,10 +618,10 @@
     "currency": "USD",
     "change": -10.41,
     "changePercent": -2.04,
-    "asOfDate": "2026-09-07",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "MSFT",
-    "sourceUrl": "https://www.coinbase.com/stock/MSFT",
-    "note": "Fresh search returned a Sept7-dated quote (499.70, -2.04%, day range 499.03-511.00), ~1.9% below stored; accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/microsoft-corp",
+    "note": "Reconfirmed via fresh search, exact match to stored (499.70, -2.04%, day range 499.36-511.00), consistent with reported mega-cap tech pullback today."
   },
   {
     "exchange": "NasdaqGS",
@@ -634,7 +634,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NFLX",
     "sourceUrl": "https://www.investing.com/equities/netflix,-inc.",
-    "note": "Fresh search returned 78.25 (-5.35%, mkt cap $325.83B), within 0.5% of stored ($78.61), consistent continuing decline; accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (78.25, -5.35%, mkt cap $325.83B)."
   },
   {
     "exchange": "NasdaqGS",
@@ -647,7 +647,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "ROP",
     "sourceUrl": "https://www.investing.com/equities/roper-industries",
-    "note": "Fresh search returned 410.45 (+0.67%, mkt cap $40.59B, +2.47% wk), ~1.9% below stored; accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (410.45, +0.67%, mkt cap $40.59B)."
   },
   {
     "exchange": "NasdaqGS",
@@ -659,8 +659,8 @@
     "changePercent": 1.82,
     "asOfDate": "2026-09-08",
     "displaySymbol": "TXN",
-    "sourceUrl": "https://www.investing.com/equities/texas-instru",
-    "note": "Persistent-conflict ticker: fresh search returned a consistent figure (258.44, +1.82%, mkt cap $236.02B) corroborated across two source mentions (Investing.com and Pluang), ~9.1% below stored but within threshold. Accepted as update."
+    "sourceUrl": "https://pluang.com/en/asset/usstock/TXN/10211",
+    "note": "Persistent-conflict ticker: reconfirmed via fresh search, exact match to stored (258.44, +1.82%, mkt cap $236.02B, day range 255.50-261.02)."
   },
   {
     "exchange": "SGX",
@@ -672,8 +672,8 @@
     "changePercent": 0.9,
     "asOfDate": "2026-09-08",
     "displaySymbol": "D05.SI",
-    "sourceUrl": "https://simplywall.st/stocks/sg/banks/sgx-d05/dbs-group-holdings-shares",
-    "note": "Fresh search returned 78.32 SGD (+0.90%), within 0.5% of stored; accepted as update."
+    "sourceUrl": "https://www.tradingview.com/symbols/SGX-D05/",
+    "note": "Reconfirmed via fresh search, exact match to stored (78.32 SGD, +0.90%, mkt cap 223.68B SGD)."
   },
   {
     "exchange": "SWX",
@@ -685,8 +685,8 @@
     "changePercent": -0.54,
     "asOfDate": "2026-09-08",
     "displaySymbol": "ROG.SW",
-    "sourceUrl": "https://www.google.com/finance/beta/quote/RO:SWX",
-    "note": "Per known ticket guidance, one careful re-check performed: fresh search again returned the same conflicting trio (363.8 -0.99%, 375.00, and 371.60 -0.54%), but this time the 371.60/-0.54% figure (Google Finance) exactly matches stored, a strong reconfirmation. Kept stored snapshot, now reconfirmed rather than merely defaulted. Input ticker 'ROP' remains a data error for SWX; Roche's actual ticker is ROG."
+    "sourceUrl": "https://tradingeconomics.com/rog:vx",
+    "note": "Per known ticket guidance, one careful re-check performed: fresh search again returned a similar CHF-300s-400s cluster (374.60 headline, 363.8 -0.99%) bracketing stored's 371.60, neither exactly matching. Kept stored snapshot as the best-corroborated central figure. Input ticker 'ROP' remains a data error for SWX; Roche's actual ticker is ROG."
   },
   {
     "exchange": "TSE",
@@ -698,8 +698,8 @@
     "changePercent": 2.55,
     "asOfDate": "2026-09-04",
     "displaySymbol": "8001.T",
-    "sourceUrl": "https://coindataflow.com/en/stock/8001.T",
-    "note": "Reconfirmed via fresh search, exact match to stored (2212.0 JPY); conflicting 1970.0/1891.5 figures rejected again."
+    "sourceUrl": "https://www.investing.com/equities/itochu-corp.",
+    "note": "Reconfirmed via fresh search, exact match to stored (2212.0 JPY, Investing.com); conflicting 1970.0 (TradingView) and 1891.5 (CoinDataFlow) rejected again."
   },
   {
     "exchange": "TSE",
@@ -712,20 +712,20 @@
     "asOfDate": "2026-09-04",
     "displaySymbol": "8031.T",
     "sourceUrl": "https://www.investing.com/equities/mitsui---co.,-ltd.",
-    "note": "Reconfirmed via fresh search, exact match to stored (4662.0 JPY, -1.60%); conflicting 5892.00 (+2.97%, 3:30pm JST) and 4935.0 figures rejected as noise."
+    "note": "Reconfirmed via fresh search: new conflicting figures (5307.00 +3.67% Sep3, 4972.00 CNBC) neither corroborate each other nor clearly supersede stored. Kept previous confirmed snapshot."
   },
   {
     "exchange": "TSE",
     "ticker": "8058",
     "name": "Mitsubishi Corporation",
-    "price": 4943.0,
+    "price": 4927.0,
     "currency": "JPY",
-    "change": 139.0,
-    "changePercent": 2.89,
-    "asOfDate": "2026-09-02",
+    "change": -63.0,
+    "changePercent": -1.26,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "8058.T",
-    "sourceUrl": "https://www.investing.com/equities/mitsubishi-corp.",
-    "note": "Fresh search again returned the same previously-rejected conflicting figure (4860.0 JPY, prev close 4956.0, -1.94%, day range 4815.0-4917.0). Kept previous confirmed snapshot."
+    "sourceUrl": "https://finance.yahoo.com/quote/8058.T/",
+    "note": "Fresh search returned 4927.00 JPY (-1.26%, Yahoo Finance), only ~0.3% below stored (4943.0), the closest-matching of the usual scatter (also saw 4860.0 Investing.com, 4769 TradingView). Accepted as update."
   },
   {
     "exchange": "TSX",
@@ -737,8 +737,8 @@
     "changePercent": 1.29,
     "asOfDate": "2026-09-08",
     "displaySymbol": "ACQ.TO",
-    "sourceUrl": "https://www.investing.com/equities/autocanada-inc",
-    "note": "Fresh search returned an exact match to stored (22.73 CAD, +1.29%, day range 21.82-22.56), breaking the prior stale-24.04 cycle. Reconfirmed."
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-ACQ/",
+    "note": "Reconfirmed via fresh search, exact match to stored (22.73 CAD, +1.29%)."
   },
   {
     "exchange": "TSX",
@@ -751,20 +751,20 @@
     "asOfDate": "2026-08-28",
     "displaySymbol": "AIF.TO",
     "sourceUrl": "https://www.investing.com/equities/altus-group-ltd",
-    "note": "Fresh search again returned the same 47.63 CAD (+4.38%) figure already superseded by stored's current 48.32. Kept previous confirmed snapshot."
+    "note": "Fresh search again returned the same previously-rejected 47.63 CAD (+4.38%) figure already superseded by stored's current 48.32. Kept previous confirmed snapshot."
   },
   {
     "exchange": "TSX",
     "ticker": "ATD",
     "name": "Alimentation Couche-Tard Inc.",
-    "price": 84.28,
+    "price": 82.52,
     "currency": "CAD",
-    "change": -0.92,
-    "changePercent": -1.08,
-    "asOfDate": "2026-09-01",
+    "change": null,
+    "changePercent": 0.74,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://www.investing.com/equities/alimentation-couche-tard-inc",
-    "note": "Fresh search again returned the same perennial stale 91.19 CAD figure. Kept previous confirmed snapshot."
+    "note": "Fresh search returned a new, well-detailed figure (82.52 CAD, +0.74%, day range 81.91-82.72, mkt cap 83.10B), distinct from the perennial stale 91.19 figure; ~2.1% below stored. Accepted as update, breaking the prior stale cycle."
   },
   {
     "exchange": "TSX",
@@ -777,20 +777,20 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "ATS.TO",
     "sourceUrl": "https://www.investing.com/equities/ats-automation-tooling-systems",
-    "note": "Reconfirmed via fresh search, exact match to stored (28.41 CAD, -0.11%, day range 28.26-28.45, mkt cap 2.78B)."
+    "note": "Reconfirmed via fresh search, exact match to stored (28.41 CAD, -0.11%, mkt cap 2.75B, day range 28.26-28.45)."
   },
   {
     "exchange": "TSX",
     "ticker": "ATZ",
     "name": "Aritzia Inc.",
-    "price": 128.67,
+    "price": 128.21,
     "currency": "CAD",
-    "change": 2.58,
+    "change": null,
     "changePercent": 2.05,
     "asOfDate": "2026-09-08",
     "displaySymbol": "ATZ.TO",
     "sourceUrl": "https://www.investing.com/equities/aritzia-inc",
-    "note": "Fresh search returned 128.67 (+2.05%, mkt cap 14.74B CAD), ~2.1% above stored; a stale July2 153.11 figure rejected. Accepted as update."
+    "note": "Fresh search returned a tight cluster (128.21 +2.05%, Yahoo 129.60 +0.72%, Stockopedia 130.68), all close to stored (128.67); accepted as minor update using the +2.05% framing consistent with prior run."
   },
   {
     "exchange": "TSX",
@@ -803,7 +803,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "BDGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/BDGI/",
-    "note": "Reconfirmed via fresh search, exact match to stored (63.94 CAD, +0.20%, +3.20% wk); the previously-seen bad 91.97 figure did not resurface this run."
+    "note": "Fresh search again returned a stale-dated (Google Finance, July 16) figure (93.87, +3.19%) far from stored; not corroborated or fresher. Kept previous confirmed snapshot."
   },
   {
     "exchange": "TSX",
@@ -813,23 +813,23 @@
     "currency": "CAD",
     "change": -0.4,
     "changePercent": -2.34,
-    "asOfDate": "2026-09-04",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "BDI.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-BDI/",
-    "note": "Reconfirmed via fresh search for a third consecutive run: TradingView figure (16.91 CAD, -2.34%) exactly matches stored; Yahoo 18.36 and CoinDataFlow 17.1 outliers rejected."
+    "sourceUrl": "https://www.investing.com/equities/black-diamond-group-ltd",
+    "note": "Reconfirmed via fresh search for a fourth consecutive run: 16.91 CAD (-2.34%) recurred exactly matching stored; an $18.76 (-1.16%) outlier rejected again."
   },
   {
     "exchange": "TSX",
     "ticker": "BIP.UN",
     "name": "Brookfield Infrastructure Partners L.P.",
-    "price": 53.06,
+    "price": 51.1,
     "currency": "CAD",
-    "change": -0.48,
-    "changePercent": -0.9,
+    "change": 0.27,
+    "changePercent": 0.53,
     "asOfDate": "2026-09-08",
     "displaySymbol": "BIP-UN.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-BIP.UN/",
-    "note": "Reconfirmed via fresh search, exact match to stored (53.06 CAD); search itself flagged TradingView's 53.06 as the most recent among a 49.71-53.06 scatter."
+    "sourceUrl": "https://ca.finance.yahoo.com/quote/BIP-UN.TO/",
+    "note": "Fresh search returned a detailed, timestamped quote (51.10 CAD, +0.53%, prev close 50.83, day range 50.41-51.00, 2:37pm EDT), ~3.7% below stored; accepted as update."
   },
   {
     "exchange": "TSX",
@@ -839,10 +839,10 @@
     "currency": "CAD",
     "change": 0.21,
     "changePercent": 0.27,
-    "asOfDate": "2026-09-04",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "BN.TO",
-    "sourceUrl": "https://ca.finance.yahoo.com/quote/BN.TO/",
-    "note": "Fresh search finally returned a genuine TSX CAD quote timestamped 4:00pm Eastern (C$79.42, +0.21/+0.27%), exact match to stored - resolving the recurring TSX/NYSE cross-listing confusion. Reconfirmed."
+    "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BN-T/",
+    "note": "Reconfirmed via fresh search, exact match to stored (79.42 CAD, +0.27%, 4:00pm Eastern)."
   },
   {
     "exchange": "TSX",
@@ -854,8 +854,8 @@
     "changePercent": 5.16,
     "asOfDate": "2026-09-08",
     "displaySymbol": "BYD.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/BYD/",
-    "note": "Fresh search returned 125.26 (+5.16%, analyst target $238.97), ~6.1% below stored, direction flipped from the recent -4.83% decline; accepted as update, within threshold."
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-BYD/",
+    "note": "Reconfirmed via fresh search, exact match to stored (125.26 CAD, +5.16%, mkt cap 4.29B)."
   },
   {
     "exchange": "TSX",
@@ -880,21 +880,21 @@
     "changePercent": 1.39,
     "asOfDate": "2026-09-08",
     "displaySymbol": "CIGI.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/CIGI/",
-    "note": "Reconfirmed via fresh search for a third consecutive run, exact match to stored ($149.13, +1.39%, mkt cap 7.52B)."
+    "sourceUrl": "https://stockanalysis.com/stocks/cigi/",
+    "note": "Reconfirmed via fresh search for a fourth consecutive run, exact match to stored ($149.13, +1.39%, mkt cap 7.52B)."
   },
   {
     "exchange": "TSX",
     "ticker": "CJT",
     "name": "Cargojet Inc.",
-    "price": 86.29,
+    "price": 85.47,
     "currency": "CAD",
-    "change": -0.35,
-    "changePercent": -0.4,
+    "change": 0.36,
+    "changePercent": 0.42,
     "asOfDate": "2026-09-08",
     "displaySymbol": "CJT.TO",
-    "sourceUrl": "https://simplywall.st/stocks/ca/transportation/tsx-cjt/cargojet-shares",
-    "note": "Fresh search returned 86.29 (-0.4% last session, +9.17% over the month, 52wk range 65.60-104.49), ~7.3% above stored; accepted as update."
+    "sourceUrl": "https://www.tradingeconomics.com/cjt:cn",
+    "note": "Fresh search returned a detailed intraday quote (85.47, +0.42%, open 85.11, high 87.15, low 84.70), ~0.9% below stored; accepted as update."
   },
   {
     "exchange": "TSX",
@@ -907,7 +907,7 @@
     "asOfDate": "2026-08-21",
     "displaySymbol": "CNQ.TO",
     "sourceUrl": "https://www.investing.com/equities/canadian-natural-resources",
-    "note": "CAREFUL RE-CHECK ticker: fresh search again returned the same ~63.5-63.6 CAD cluster (63.60 \"today\", 63.46 Aug6 prev close 62.85), still ~10% below stored and not dated more recently or more authoritatively than stored's 70.81. One careful re-check performed per standing guidance; still unresolved. Kept previous confirmed snapshot."
+    "note": "CAREFUL RE-CHECK ticker: fresh search again returned the same ~63.5-63.6 CAD cluster (63.60 Investing.com, 63.46 Aug6 prev close 62.85), still ~10% below stored and not dated more recently/authoritatively than stored's 70.81. Still unresolved; kept previous confirmed snapshot per standing guidance."
   },
   {
     "exchange": "TSX",
@@ -919,8 +919,8 @@
     "changePercent": 0.42,
     "asOfDate": "2026-09-08",
     "displaySymbol": "CNR.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/CNR/",
-    "note": "Fresh search returned 170.58 (+0.42%, ex-div Sep8), essentially matching stored ($170.31); accepted as update."
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-CNR/",
+    "note": "Reconfirmed via fresh search, exact match to stored (170.58 CAD, +0.42%); ex-dividend (CAD 0.915) today."
   },
   {
     "exchange": "TSX",
@@ -933,72 +933,72 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "CP.TO",
     "sourceUrl": "https://stockanalysis.com/stocks/cp/",
-    "note": "Reconfirmed via fresh search for a third consecutive run, exact match to stored ($131.47, +1.74%, mkt cap 116.99B)."
+    "note": "Reconfirmed via fresh search for a fourth consecutive run, exact match to stored ($131.47, +1.74%)."
   },
   {
     "exchange": "TSX",
     "ticker": "CSU",
     "name": "Constellation Software Inc.",
-    "price": 3220.61,
+    "price": 2899.0,
     "currency": "CAD",
-    "change": 83.75,
-    "changePercent": 2.54,
+    "change": null,
+    "changePercent": -4.15,
     "asOfDate": "2026-09-08",
     "displaySymbol": "CSU.TO",
-    "sourceUrl": "https://stocktwits.com/symbol/CSU.TSX",
-    "note": "Reconfirmed via fresh search: today's closing figure (StockTwits, $3220.61 CAD, +2.54%) exactly matches stored; search itself flagged the competing 2770-2837 range as stale July20 Investing.com data, resolving the prior 2800.76 conflict."
+    "sourceUrl": "https://www.investing.com/equities/constellation-software-inc",
+    "note": "Persistent-conflict ticker: fresh search returned a new, detailed figure (2899.00, -4.15%, mkt cap 59.35B, analyst target $3949), ~10.0% below stored; within threshold, accepted as update reflecting today's tech pullback."
   },
   {
     "exchange": "TSX",
     "ticker": "DHT.UN",
     "name": "DRI Healthcare Trust",
-    "price": 17.6,
+    "price": 17.8,
     "currency": "CAD",
-    "change": -0.08,
-    "changePercent": -0.46,
+    "change": null,
+    "changePercent": 0.94,
     "asOfDate": "2026-09-08",
     "displaySymbol": "DHT-UN.TO",
     "sourceUrl": "https://ca.finance.yahoo.com/quote/DHT-UN.TO/",
-    "note": "Fresh search returned 17.60 CAD (Yahoo) / 17.39 (-0.46%, Barchart), ~1.1% below stored; accepted as minor update."
+    "note": "Fresh search returned a timestamped quote (17.80 CAD, +0.94%, 11:56am EDT, day range 17.76-18.17), ~1.1% above stored; accepted as update."
   },
   {
     "exchange": "TSX",
     "ticker": "DND",
     "name": "Dye & Durham Limited",
-    "price": 0.74,
+    "price": 0.77,
     "currency": "CAD",
-    "change": -0.03,
-    "changePercent": -3.9,
-    "asOfDate": "2026-09-04",
+    "change": null,
+    "changePercent": 1.32,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "DND.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-DND/",
-    "note": "Fresh search returned a Sept4-dated last trade (0.74/0.75 bid-ask, -3.896%), ~5.1% below stored; accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/dye-durham-ltd",
+    "note": "Fresh search returned 0.77 CAD (+1.32%, day range 0.76-0.80), ~4.1% above stored; accepted as update."
   },
   {
     "exchange": "TSX",
     "ticker": "DOL",
     "name": "Dollarama Inc.",
-    "price": 177.21,
+    "price": 174.3,
     "currency": "CAD",
-    "change": 0.32,
+    "change": null,
     "changePercent": 0.18,
-    "asOfDate": "2026-09-04",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "DOL.TO",
-    "sourceUrl": "https://www.investing.com/equities/dollarama-inc",
-    "note": "Fresh search returned a Sept4-dated quote (177.21, +0.18%, day range 176.00-178.06), within 0.3% of stored; accepted as update."
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-DOL/",
+    "note": "Fresh search returned 174.30 (+0.18%), close to a Yahoo intraday 173.10 (-2.32%); both ~1.6-2.3% below stored, accepted as update."
   },
   {
     "exchange": "TSX",
     "ticker": "DSG",
     "name": "The Descartes Systems Group Inc.",
-    "price": 105.3,
+    "price": 109.13,
     "currency": "CAD",
-    "change": -3.05,
-    "changePercent": -2.81,
+    "change": -2.35,
+    "changePercent": -2.11,
     "asOfDate": "2026-09-08",
     "displaySymbol": "DSG.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/DSG/",
-    "note": "Persistent-conflict ticker: the previously-seen 105.3 (-2.81%) figure recurred again, now as the sole clear figure this run (mkt cap 8.74B, analyst target $130.53), ~3.2% below stored. Accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/descartes-systems-group-inc",
+    "note": "Persistent-conflict ticker: fresh search returned a well-detailed market-close figure (109.13, -2.11%, prev close 111.48, day range 107.34-110.80, mkt cap 9.35B), ~3.6% above stored; accepted as update."
   },
   {
     "exchange": "TSX",
@@ -1011,7 +1011,7 @@
     "asOfDate": "2026-09-02",
     "displaySymbol": "DTOL.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-DTOL/",
-    "note": "Reconfirmed via fresh search, exact match to stored ($8.97, -2.40%); conflicting 10.60 (Sep1) and 9.81 (-0.51%) figures rejected again."
+    "note": "Fresh search again returned the same previously-rejected 9.81 (-0.51%) figure among a 9.43-9.97 scatter, none authoritatively superseding stored. Kept previous confirmed snapshot."
   },
   {
     "exchange": "TSX",
@@ -1024,20 +1024,20 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "EFN.TO",
     "sourceUrl": "https://www.investing.com/equities/element-financial-corp",
-    "note": "Reconfirmed via fresh search, exact match to stored (28.16 CAD, -0.64%, mkt cap 12.39B)."
+    "note": "Fresh search returned a new single-source Yahoo figure (32.45) ~15.2% above stored, exceeding the corroboration threshold with no second source agreeing; kept the previously double-confirmed Investing.com figure (28.16)."
   },
   {
     "exchange": "TSX",
     "ticker": "IFC",
     "name": "Intact Financial Corporation",
-    "price": 279.39,
+    "price": 260.67,
     "currency": "CAD",
-    "change": -0.62,
-    "changePercent": -0.22,
+    "change": -5.38,
+    "changePercent": -2.02,
     "asOfDate": "2026-09-08",
     "displaySymbol": "IFC.TO",
-    "sourceUrl": "https://www.investing.com/equities/intact-financial-corp",
-    "note": "Reconfirmed via fresh search, exact match to stored ($279.39, -0.22%, mkt cap 47.53B)."
+    "sourceUrl": "https://stockanalysis.com/quote/tsx/IFC/",
+    "note": "Fresh search returned a market-close figure (260.67, -2.02%, mkt cap 47.53B matching stored's prior mkt cap detail), ~6.7% below stored; accepted as update."
   },
   {
     "exchange": "TSX",
@@ -1050,20 +1050,20 @@
     "asOfDate": "2026-08-27",
     "displaySymbol": "JWEL.TO",
     "sourceUrl": "https://www.stockopedia.com/share-prices/jamieson-wellness-TSE:JWEL/",
-    "note": "Fresh search again returned the same stale Aug10-dated 45.48 CAD figure. Kept previous confirmed snapshot."
+    "note": "Fresh search again returned the same stale Aug10-dated 45.48 CAD (+9.59%) figure. Kept previous confirmed snapshot."
   },
   {
     "exchange": "TSX",
     "ticker": "KXS",
     "name": "Kinaxis Inc.",
-    "price": 173.56,
+    "price": 166.39,
     "currency": "CAD",
-    "change": -1.93,
-    "changePercent": -1.1,
+    "change": -10.78,
+    "changePercent": -6.08,
     "asOfDate": "2026-09-08",
     "displaySymbol": "KXS.TO",
-    "sourceUrl": "https://ca.investing.com/equities/kinaxis-inc",
-    "note": "Reconfirmed via fresh search, exact match to stored (173.56 CAD, -1.10%, mkt cap 4.65B)."
+    "sourceUrl": "https://www.investing.com/equities/kinaxis-inc",
+    "note": "Persistent-conflict ticker: fresh search returned a well-detailed timestamped quote (166.39, -6.08%, 11:28am EDT, prev close 177.17, day range 165.23-175.31), ~4.1% below stored; accepted as update."
   },
   {
     "exchange": "TSX",
@@ -1075,21 +1075,21 @@
     "changePercent": null,
     "asOfDate": "2026-08-27",
     "displaySymbol": "MAL.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/MAL/",
-    "note": "Fresh search again returned the same previously-flagged-wrong 20.96 CAD (-4.86%) figure alongside a mention of stored's 34.46. Kept previous confirmed snapshot."
+    "sourceUrl": "https://www.investing.com/equities/magellan-aerospace-corporation",
+    "note": "Persistent-conflict ticker: reconfirmed via fresh search, exact match to stored (34.46 CAD, Investing.com); TradingView's previously-flagged-wrong 20.96 rejected again."
   },
   {
     "exchange": "TSX",
     "ticker": "MEQ",
     "name": "Mainstreet Equity Corp.",
-    "price": 177.38,
+    "price": 173.5,
     "currency": "CAD",
     "change": null,
-    "changePercent": null,
-    "asOfDate": "2026-09-04",
+    "changePercent": -2.19,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "MEQ.TO",
-    "sourceUrl": "https://stockopedia.com/share-prices/mainstreet-equity-TSE:MEQ/",
-    "note": "Persistent-conflict ticker: fresh search returned a specifically-timestamped (21:53 UTC, 15-min delayed) $177.38 figure, ~4.5% above stored and distinct from the previously-flagged 170/183/197 cluster; accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/mainstreet-equity-corp",
+    "note": "Persistent-conflict ticker: fresh search returned 173.50 (-2.19%, mkt cap 1.57B), ~2.2% below stored; accepted as update."
   },
   {
     "exchange": "TSX",
@@ -1099,10 +1099,10 @@
     "currency": "CAD",
     "change": 0.33,
     "changePercent": 0.93,
-    "asOfDate": "2026-09-02",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "MTY.TO",
     "sourceUrl": "https://www.investing.com/equities/mty-food-group-inc.",
-    "note": "Fresh search again returned the same stale Aug31-dated $35.09 (-0.876%) figure, not clearly superseding stored's 35.64. Kept previous confirmed snapshot."
+    "note": "Fresh search returned an exact match to stored (35.64 CAD, +0.93%, day range 35.27-35.92), breaking the prior stale-Aug31 cycle. Reconfirmed."
   },
   {
     "exchange": "TSX",
@@ -1115,20 +1115,20 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "MX.TO",
     "sourceUrl": "https://ca.investing.com/equities/methanex",
-    "note": "Fresh search reconfirmed exact price match to stored (80.20 CAD); this run cleanly reported +2.29% without the prior competing -0.77%/-3.21% ambiguity, so the fresh change framing is used."
+    "note": "Reconfirmed via fresh search, exact match to stored (80.20 CAD, +2.29%)."
   },
   {
     "exchange": "TSX",
     "ticker": "NA",
     "name": "National Bank of Canada",
-    "price": 208.65,
+    "price": 209.99,
     "currency": "CAD",
-    "change": -0.31,
-    "changePercent": -0.15,
-    "asOfDate": "2026-08-27",
+    "change": -3.2,
+    "changePercent": -1.5,
+    "asOfDate": "2026-09-08",
     "displaySymbol": "NA.TO",
-    "sourceUrl": "https://www.investing.com/equities/national-bank-of-canada",
-    "note": "Reconfirmed via fresh search for a third consecutive run, exact match to stored ($208.65, -0.15%, mkt cap 80.76B); source itself still dates the underlying data to Aug27."
+    "sourceUrl": "https://www.tradersunion.com/currencies/price/na-cad/",
+    "note": "Fresh search returned a scatter (215.80 flat, 213.66, 209.99 -1.50%) all clustered ~1-4% above stored; the closest and most specific figure (209.99, -1.50%) accepted as update, breaking the prior stale-Aug27 cycle."
   },
   {
     "exchange": "TSX",
@@ -1141,7 +1141,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "PET.TO",
     "sourceUrl": "https://www.investing.com/equities/pet-valu-holdings",
-    "note": "Reconfirmed via fresh search for a third consecutive run, exact match to stored ($19.85, +0.15%, mkt cap 1.31B)."
+    "note": "Reconfirmed via fresh search for a fourth consecutive run, exact match to stored ($19.85, +0.15%, mkt cap 1.31B); an $18.50 outlier rejected."
   },
   {
     "exchange": "TSX",
@@ -1153,21 +1153,21 @@
     "changePercent": 1.3,
     "asOfDate": "2026-09-06",
     "displaySymbol": "RCH.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/RCH/",
-    "note": "Reconfirmed via fresh search, exact match to stored ($35.76, prev close $35.30, day range 35.02-35.83, now Sept6-dated)."
+    "sourceUrl": "https://www.investing.com/equities/richelieu-hardware-ltd.",
+    "note": "Reconfirmed via fresh search, exact match to stored ($35.76, prev close $35.30, day range 35.02-35.83)."
   },
   {
     "exchange": "TSX",
     "ticker": "RY",
     "name": "Royal Bank of Canada",
-    "price": 291.48,
+    "price": 289.05,
     "currency": "CAD",
-    "change": -0.89,
-    "changePercent": -0.3,
+    "change": -2.43,
+    "changePercent": -0.83,
     "asOfDate": "2026-09-08",
     "displaySymbol": "RY.TO",
-    "sourceUrl": "https://tradersunion.com/currencies/price/ry-cad/",
-    "note": "Per known ticket guidance: fresh search returned 291.48 (-0.30%, prev close 292.37, day range 290.65-293.87), right at the top edge of the trusted ~$285-291 CAD range and well-corroborated by prev-close/day-range detail. Accepted as update."
+    "sourceUrl": "https://tradingeconomics.com/ry:cn",
+    "note": "Per known ticket guidance: fresh search returned a well-corroborated timestamped quote (289.05, -0.83%, 12:02pm EDT, prev close 291.48 exactly matching stored, day range 287.75-290.50, mkt cap 400.169B), right in the trusted ~$285-291 CAD range. Accepted as update."
   },
   {
     "exchange": "TSX",
@@ -1179,8 +1179,8 @@
     "changePercent": 3.83,
     "asOfDate": "2026-09-08",
     "displaySymbol": "SHOP.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-SHOP/",
-    "note": "Known trouble ticker: the 157.50 CAD (+3.83%) figure recurred for a second consecutive run, now treated as corroborated; ~3.1% above stored and consistent with the genuine ~$150-155 CAD post-pullback range. A stale $201.97/$196.51 figure (matching the old pre-pullback peak) explicitly rejected per standing guidance. Accepted as update."
+    "sourceUrl": "https://ca.investing.com/equities/shopify-inc",
+    "note": "Known trouble ticker: the 157.50 CAD (+3.83%) figure recurred for a third consecutive run, exact match to stored and consistent with the genuine ~$150-157 CAD post-pullback range. Stale pre-pullback figures ($196.51, $173.41) explicitly rejected per standing guidance. Reconfirmed."
   },
   {
     "exchange": "TSX",
@@ -1192,8 +1192,8 @@
     "changePercent": -1.58,
     "asOfDate": "2026-09-08",
     "displaySymbol": "SJ.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/SJ/",
-    "note": "Fresh search returned an exact match to stored (72.80 CAD, -1.58%, mkt cap 4.46B), breaking the prior scattered 68-81 CAD conflict cycle. Reconfirmed."
+    "sourceUrl": "https://www.tradingeconomics.com/sj:cn",
+    "note": "Reconfirmed via fresh search, exact match to stored (72.80 CAD, -1.58%, mkt cap 3.95B)."
   },
   {
     "exchange": "TSX",
@@ -1206,20 +1206,20 @@
     "asOfDate": "2026-09-03",
     "displaySymbol": "TCS.TO",
     "sourceUrl": "https://www.investing.com/equities/tecsys-inc.",
-    "note": "Fresh search again returned the same previously-rejected 36.63 CAD (-1.48%) noise figure. Kept previous confirmed snapshot ($35.52)."
+    "note": "Fresh search again returned the same previously-rejected 36.63 CAD (-1.48%) figure plus new conflicting 31.01/29.51 values, none authoritative. Kept previous confirmed snapshot ($35.52)."
   },
   {
     "exchange": "TSX",
     "ticker": "TD",
     "name": "The Toronto-Dominion Bank",
-    "price": 168.24,
+    "price": 166.2,
     "currency": "CAD",
-    "change": -1.66,
-    "changePercent": -0.98,
+    "change": -2.04,
+    "changePercent": -1.15,
     "asOfDate": "2026-09-08",
     "displaySymbol": "TD.TO",
-    "sourceUrl": "https://tradersunion.com/currencies/price/td-cad/",
-    "note": "Fresh search returned 168.24 (-0.98%, mkt cap 279.43B, record Q3 EPS context), ~1.1% below stored; accepted as update."
+    "sourceUrl": "https://www.investing.com/equities/toronto-dominion-bank",
+    "note": "Fresh search returned a well-corroborated quote (166.20, -1.15%, prev close 168.24 exactly matching stored, day range 166.65-168.19, mkt cap 274.65B). Accepted as update."
   },
   {
     "exchange": "TSX",
@@ -1232,7 +1232,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "TFII.TO",
     "sourceUrl": "https://www.investing.com/equities/transforce-inc",
-    "note": "Fresh search returned 189.50 (+3.44%), ~5.1% below stored, within threshold; accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (189.50, +3.44%, mkt cap 16.30B)."
   },
   {
     "exchange": "TSX",
@@ -1245,7 +1245,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "TFPM.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TFPM/",
-    "note": "Reconfirmed via fresh search for a third consecutive run, exact match to stored ($39.22, +0.77%, mkt cap 8.07B)."
+    "note": "Reconfirmed via fresh search for a fourth consecutive run, exact match to stored ($39.22, +0.77%, mkt cap 8.07B)."
   },
   {
     "exchange": "TSX",
@@ -1258,7 +1258,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "TRI.TO",
     "sourceUrl": "https://www.investing.com/equities/thomson-reuters-corp",
-    "note": "Persistent-conflict ticker: fresh search returned 146.24 (+5.01%, wk +8.91%, month +10.36%, mkt cap 66.70B), only ~0.6% above stored's price with a consistent rally narrative; accepted as update."
+    "note": "Persistent-conflict ticker: fresh search reconfirmed the exact price (146.24 CAD, day range 145.70-151.78, mkt cap 63.36B) but this run's source mislabeled the day's direction as -5.02% versus the prior wk+8.91%/month+10.36% rally narrative; kept the previously-corroborated +5.01% framing as more consistent with context."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://www.investing.com/equities/trisura-group-ltd",
-    "note": "Reconfirmed via fresh search for a third consecutive run, exact match to stored ($44.37, +3.31%, mkt cap 2.08B); an unrelated Kalkine 40.63 figure (likely mismatched) rejected."
+    "note": "Reconfirmed via fresh search for a fourth consecutive run, exact match to stored ($44.37, +3.31%, mkt cap 2.08B); the unrelated Kalkine 40.63 figure rejected again."
   },
   {
     "exchange": "TSX",
@@ -1281,10 +1281,10 @@
     "currency": "CAD",
     "change": 4.81,
     "changePercent": 4.05,
-    "asOfDate": "2026-09-04",
+    "asOfDate": "2026-09-08",
     "displaySymbol": "TVK.TO",
     "sourceUrl": "https://www.investing.com/equities/terravest-capital-inc.",
-    "note": "Fresh search returned a Sept4 4:00pm ET-dated quote (123.77, +4.05%), within 0.2% of stored; accepted as update."
+    "note": "Reconfirmed via fresh search, exact match to stored (123.77, +4.05%); a close 124.05 variant noted but not materially different."
   },
   {
     "exchange": "TSX",
@@ -1296,8 +1296,8 @@
     "changePercent": -0.27,
     "asOfDate": "2026-09-08",
     "displaySymbol": "WCN.TO",
-    "sourceUrl": "https://ca.investing.com/equities/waste-connections-inc",
-    "note": "Fresh search returned an exact price match to stored (230.03 CAD) with a consistent -0.27% change this run (no longer conflicting with the prior +1.32% framing); accepted as update."
+    "sourceUrl": "https://www.tradingview.com/symbols/TSX-WCN/",
+    "note": "Reconfirmed via fresh search, exact match to stored (230.03 CAD, -0.27%)."
   },
   {
     "exchange": "TSX",
@@ -1309,8 +1309,8 @@
     "changePercent": -0.89,
     "asOfDate": "2026-09-08",
     "displaySymbol": "WPM.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-WPM/",
-    "note": "Known trouble ticker: fresh search returned 214.42 (-0.89%), within 0.3% of stored ($215.02); accepted as update."
+    "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/WPM-T/",
+    "note": "Known trouble ticker: reconfirmed via fresh search, exact match to stored (214.42, -0.89%, day range 211.08-216.39, mkt cap 97.38B)."
   },
   {
     "exchange": "TWSE",
@@ -1318,12 +1318,12 @@
     "name": "Taiwan Semiconductor Manufacturing Company Limited",
     "price": 2470.0,
     "currency": "TWD",
-    "change": 29.7,
-    "changePercent": 1.22,
+    "change": 10.0,
+    "changePercent": 0.41,
     "asOfDate": "2026-09-08",
     "displaySymbol": "2330.TW",
     "sourceUrl": "https://www.investing.com/equities/taiwan-semicon",
-    "note": "Known trouble ticker: fresh search returned 2470 TWD (+1.22%), ~3.6% above stored; a Bloomberg 2410.00 (Sept4) and 2385.00 figure also seen but older/matching stored. Accepted as update, now six runs in a broadly consistent 2385-2470 range."
+    "note": "Known trouble ticker: reconfirmed via fresh search, exact price match to stored (2470.00 TWD, day range 2460-2505, mkt cap 63.79T); change framing refined to +10.00/+0.41% from this run's more precise source."
   },
   {
     "exchange": "XTRA",
@@ -1336,6 +1336,6 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "CBK.DE",
     "sourceUrl": "https://www.investing.com/equities/commerzbank-ag",
-    "note": "Known trouble ticker: fresh search returned 42.750 EUR (day range 42.040-43.050, mkt cap 46.21B), ~1.6% above stored; source itself showed prev close equal to current price so no clean day-change figure surfaced. Accepted as update."
+    "note": "Known trouble ticker: reconfirmed via fresh search, exact match to stored (42.750 EUR, day range 42.040-43.050); conflicting eToro 40.410 and Google Finance 40.48 (+1.66%) figures rejected again."
   }
 ]
