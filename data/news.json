@@ -112,10 +112,10 @@
     "date": "2026-09-04"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Oil / Iran conflict",
-    "headline": "Third straight down day: Brent tops $101, Treasury yields hit 52-week highs",
-    "summary": "The S&P 500 fell 0.48% to 7,636.36, the Dow dropped 405 pts (-0.77%) to 52,380.66, and the Nasdaq slid 0.64% to 26,253.34 — a third consecutive losing session — as Brent crude passed $101/bbl on the escalating US-Iran conflict (tanker strikes, missile attacks on a US warship) and Treasury yields set new 52-week highs. Meta was a notable bright spot, gaining on the day even as the broader tape sold off. The combination of a genuine geopolitical risk premium, elevated oil, and rising rate-hike odds post-jobs-report continues to weigh on sentiment heading into next week's inflation data and the Fed's Sept. 16-17 meeting.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-09-2026",
-    "date": "2026-09-09"
+    "ticker": "MARKET", "exchange": "", "company": "Oil / Inflation data",
+    "headline": "Markets look to snap a 3-day losing streak as PPI comes in-line ahead of Friday's CPI",
+    "summary": "Futures were mixed Thursday (Dow +0.2%, S&P 500 flat, Nasdaq -0.3%) as markets tried to stabilize after the S&P 500's third straight down day — only its second 3-day losing streak of 2026. August PPI (wholesale inflation) rose 0.4%, matching consensus, a relatively benign print ahead of Friday's CPI release (also expected +0.4% m/m, 3.4% y/y) — the last major inflation read before the Fed's Sept. 16-17 meeting. Brent crude held above $102/bbl as the US-Iran conflict continues to support both oil and Treasury yields; the sustained price pressure is also becoming a political headwind domestically alongside the ongoing US-Canada trade dispute.",
+    "url": "https://uk.finance.yahoo.com/news/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
+    "date": "2026-09-10"
   }
 ]
