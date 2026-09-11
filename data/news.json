@@ -112,10 +112,10 @@
     "date": "2026-09-04"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Oil / Inflation data",
-    "headline": "Fourth straight down day as oil stays above $100 and yields keep climbing",
-    "summary": "The S&P 500 fell 0.58% to 7,591.70, the Dow lost 317 pts (-0.6%) to 52,064.10, and the Nasdaq dropped 0.65% to 26,081.72 — a fourth consecutive losing session, the longest streak in over a month — as US crude held above $100/bbl and Treasury yields kept climbing on inflation-from-the-oil-war fears. Friday's CPI release (expected +0.4% m/m, 3.4% y/y) is now the key near-term catalyst: a hot print would reinforce the case for a Fed rate hike at the Sept. 16-17 meeting, while an in-line or soft number could help stabilize the market's four-day slide.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
-    "date": "2026-09-10"
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve / Inflation data",
+    "headline": "Futures bounce after four down days as CPI comes in-line but core runs hot",
+    "summary": "August CPI rose 0.4% m/m (3.4% y/y), matching consensus, but core CPI (ex food/energy) rose 0.3% — 0.1pp above forecast — at 2.4% y/y. That's the last major inflation read before the Fed's Sept. 16-17 meeting, and economists (e.g. Nationwide's Kathy Bostjancic) now lean toward expecting a quarter-point hike, since \"today's report did not deliver\" the disinflation Chair Warsh said was a precondition for holding rates, with oil/gas/diesel price gains from the Iran conflict also risking spillover into broader prices. Despite the hawkish read-through, S&P 500 and Nasdaq futures rose ~0.5-0.6% premarket, bouncing after four straight down sessions — markets had already priced in a lot of bad news.",
+    "url": "https://ca.finance.yahoo.com/news/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html",
+    "date": "2026-09-11"
   }
 ]
