@@ -113,9 +113,9 @@
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "Federal Reserve / Inflation data",
-    "headline": "Futures bounce after four down days as CPI comes in-line but core runs hot",
-    "summary": "August CPI rose 0.4% m/m (3.4% y/y), matching consensus, but core CPI (ex food/energy) rose 0.3% — 0.1pp above forecast — at 2.4% y/y. That's the last major inflation read before the Fed's Sept. 16-17 meeting, and economists (e.g. Nationwide's Kathy Bostjancic) now lean toward expecting a quarter-point hike, since \"today's report did not deliver\" the disinflation Chair Warsh said was a precondition for holding rates, with oil/gas/diesel price gains from the Iran conflict also risking spillover into broader prices. Despite the hawkish read-through, S&P 500 and Nasdaq futures rose ~0.5-0.6% premarket, bouncing after four straight down sessions — markets had already priced in a lot of bad news.",
-    "url": "https://ca.finance.yahoo.com/news/stock-market-today-friday-september-11-dow-sp-500-nasdaq-cpi-inflation-082201751.html",
+    "headline": "Markets snap their losing streak with a strong Friday recovery",
+    "summary": "The Dow surged 509 pts (+0.98%) to 52,573.29, the S&P 500 climbed 0.86% to 7,656.98, and the Nasdaq jumped 0.96% to 26,333.04, decisively snapping the four-day losing streak despite August CPI running slightly hot on core (0.3% m/m, 2.4% y/y). Investors appear to be reading the in-line headline number as good enough, and week-over-week the market absorbed a lot: oil topping $100 on the Iran conflict, yields at 52-week highs, and rising Fed rate-hike odds, yet still closed with a comeback into the weekend. The Fed's Sept. 16-17 meeting is now the key event — a hike is increasingly priced in, so the actual decision and guidance will matter more than the CPI data itself.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-11-2026",
     "date": "2026-09-11"
   }
 ]
