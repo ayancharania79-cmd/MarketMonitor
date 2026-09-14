@@ -112,10 +112,10 @@
     "date": "2026-09-04"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve / Inflation data",
-    "headline": "Markets snap their losing streak with a strong Friday recovery",
-    "summary": "The Dow surged 509 pts (+0.98%) to 52,573.29, the S&P 500 climbed 0.86% to 7,656.98, and the Nasdaq jumped 0.96% to 26,333.04, decisively snapping the four-day losing streak despite August CPI running slightly hot on core (0.3% m/m, 2.4% y/y). Investors appear to be reading the in-line headline number as good enough, and week-over-week the market absorbed a lot: oil topping $100 on the Iran conflict, yields at 52-week highs, and rising Fed rate-hike odds, yet still closed with a comeback into the weekend. The Fed's Sept. 16-17 meeting is now the key event — a hike is increasingly priced in, so the actual decision and guidance will matter more than the CPI data itself.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-11-2026",
-    "date": "2026-09-11"
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve week / Oil",
+    "headline": "Fed week begins with oil surging toward $106 on fresh Hormuz shipping attacks",
+    "summary": "Stocks opened the week lower (S&P 500 -0.5% to 7,619) as Brent jumped over 3% toward $106/bbl — up almost 9% last week alone — after fresh attacks on shipping in the Strait of Hormuz over the weekend, and AI-related stocks sagged. All eyes are on the Fed's rate decision Wednesday Sept. 16 (current target range 3.5%-3.75%), with markets now leaning toward a hike given sticky core CPI and oil-driven inflation risk. Later in the week: August housing starts/permits (Sept. 17), the Bank of Japan rate decision, August industrial production, and Conference Board leading indicators (Sept. 18) round out a data-heavy stretch.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-14-2026",
+    "date": "2026-09-14"
   }
 ]
