@@ -112,10 +112,10 @@
     "date": "2026-09-04"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve week / Oil",
-    "headline": "Fed week begins with oil surging toward $106 on fresh Hormuz shipping attacks",
-    "summary": "Stocks opened the week lower (S&P 500 -0.5% to 7,619) as Brent jumped over 3% toward $106/bbl — up almost 9% last week alone — after fresh attacks on shipping in the Strait of Hormuz over the weekend, and AI-related stocks sagged. All eyes are on the Fed's rate decision Wednesday Sept. 16 (current target range 3.5%-3.75%), with markets now leaning toward a hike given sticky core CPI and oil-driven inflation risk. Later in the week: August housing starts/permits (Sept. 17), the Bank of Japan rate decision, August industrial production, and Conference Board leading indicators (Sept. 18) round out a data-heavy stretch.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-14-2026",
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve week / Oil / AI stocks",
+    "headline": "Oil tops $108 and AI stocks slide as markets head into Fed decision week",
+    "summary": "The S&P 500 fell 0.48% to 7,619.98, the Nasdaq dropped 0.56% to 26,186.41, and the Dow lost 152 pts (-0.29%) to 52,421.20 as Brent crude topped $108/bbl on the escalating Middle East conflict, raising fresh inflation concerns just ahead of Wednesday's Fed decision. Separately, AI-related stocks (relevant to MSFT, GOOGL, META exposure) fell after Anthropic's CEO publicly called for a slowdown in frontier AI capability development, a stance other tech figures echoed — a sentiment-driven pullback rather than a fundamentals-driven one. The Fed's Sept. 16-17 meeting remains the week's central event, with a hike increasingly priced in.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
     "date": "2026-09-14"
   }
 ]
