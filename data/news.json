@@ -105,11 +105,11 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "S&P 500 / Federal Reserve / Jobs",
-    "headline": "\"Good news is bad news\": stocks close the week lower as the jobs beat lifts rate-hike odds to 58-60%",
-    "summary": "Markets closed out the week with the classic good-news-is-bad-news reaction: the Dow fell 0.5%, S&P 500 0.4%, and Nasdaq 0.3% after August payrolls smashed estimates (+162,000 vs. ~55,000 consensus), pushing bond yields higher and the market-implied odds of a September Fed rate hike to 58-60% (from 49.4% Thursday) as a resilient economy strengthens the case for the hawkish camp. Lululemon tanked 17% after cutting guidance and posting a 4% revenue decline, one of the week's biggest single-stock movers (not a fund holding, but a read on consumer-discretionary sentiment). Net for the week: a volatile stretch — Iran-conflict selloffs, a Waller-driven rally, and now a hawkish jobs surprise — that leaves the Fed's Sept. 16-17 decision as the key event to watch, alongside Canada's Sept. 8 tariff retaliation deadline.",
-    "url": "https://www.local10.com/news/2026/09/04/stocks-fall-after-a-surprisingly-strong-jobs-report-raises-prospects-of-an-interest-rate-hike/",
-    "date": "2026-09-04"
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve / Treasury yields",
+    "headline": "Futures dip and 10-year yield hits highest since 2023 on the eve of the Fed's rate decision",
+    "summary": "Dow, S&P 500 and Nasdaq-100 futures each slipped about 0.1% Tuesday morning as investors braced for Wednesday's Fed decision, with CME FedWatch now pricing a roughly 92% probability of a rate hike (up from 58-60% two weeks earlier) as Treasury yields spiked, the 10-year hitting its highest level since October 2023. Brent crude held near $107/bbl, off Monday's four-month high of ~$109 after Saudi Arabia's East-West pipeline closure, keeping inflation risk in focus into the meeting. AI-safety jitters continued to weigh on tech sentiment following Monday's Amodei-led capex-slowdown call. Net effect: markets in a cautious holding pattern with the Sept. 16-17 FOMC meeting as the week's pivotal event.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+    "date": "2026-09-15"
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "Federal Reserve week / Oil / AI stocks",
