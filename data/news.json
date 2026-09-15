@@ -106,16 +106,9 @@
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "Federal Reserve / Treasury yields",
-    "headline": "Futures dip and 10-year yield hits highest since 2023 on the eve of the Fed's rate decision",
-    "summary": "Dow, S&P 500 and Nasdaq-100 futures each slipped about 0.1% Tuesday morning as investors braced for Wednesday's Fed decision, with CME FedWatch now pricing a roughly 92% probability of a rate hike (up from 58-60% two weeks earlier) as Treasury yields spiked, the 10-year hitting its highest level since October 2023. Brent crude held near $107/bbl, off Monday's four-month high of ~$109 after Saudi Arabia's East-West pipeline closure, keeping inflation risk in focus into the meeting. AI-safety jitters continued to weigh on tech sentiment following Monday's Amodei-led capex-slowdown call. Net effect: markets in a cautious holding pattern with the Sept. 16-17 FOMC meeting as the week's pivotal event.",
+    "headline": "10-year Treasury yield hits highest since 2007 as stocks slide into Wednesday's Fed decision",
+    "summary": "The Dow fell 328 pts (-0.63%) to 52,093.11, the S&P 500 dropped 0.45% to 7,585.73, and the Nasdaq lost 0.78% to 25,981.57 as the 10-year Treasury yield surged to 5.041%, its highest level since 2007, just ahead of the Fed's Sept. 16-17 meeting where a rate hike is now heavily priced in. Brent crude held near $107.46/bbl, still elevated on Saudi Arabia's East-West pipeline shutdown (repairs could take weeks, forcing more exports through the Strait of Hormuz) and the broader Middle East conflict. Rate-sensitive growth and tech names (relevant to MSFT, GOOGL, AMZN exposure) led the pullback as yields spiked; oil-and-gas holdings (CNQ, EQNR, TTE, WPM) remain a partial hedge against the inflation-risk backdrop.",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
     "date": "2026-09-15"
-  },
-  {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve week / Oil / AI stocks",
-    "headline": "Oil tops $108 and AI stocks slide as markets head into Fed decision week",
-    "summary": "The S&P 500 fell 0.48% to 7,619.98, the Nasdaq dropped 0.56% to 26,186.41, and the Dow lost 152 pts (-0.29%) to 52,421.20 as Brent crude topped $108/bbl on the escalating Middle East conflict, raising fresh inflation concerns just ahead of Wednesday's Fed decision. Separately, AI-related stocks (relevant to MSFT, GOOGL, META exposure) fell after Anthropic's CEO publicly called for a slowdown in frontier AI capability development, a stance other tech figures echoed — a sentiment-driven pullback rather than a fundamentals-driven one. The Fed's Sept. 16-17 meeting remains the week's central event, with a hike increasingly priced in.",
-    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
-    "date": "2026-09-14"
   }
 ]
