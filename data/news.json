@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve / Treasury yields",
-    "headline": "10-year Treasury yield hits highest since 2007 as stocks slide into Wednesday's Fed decision",
-    "summary": "The Dow fell 328 pts (-0.63%) to 52,093.11, the S&P 500 dropped 0.45% to 7,585.73, and the Nasdaq lost 0.78% to 25,981.57 as the 10-year Treasury yield surged to 5.041%, its highest level since 2007, just ahead of the Fed's Sept. 16-17 meeting where a rate hike is now heavily priced in. Brent crude held near $107.46/bbl, still elevated on Saudi Arabia's East-West pipeline shutdown (repairs could take weeks, forcing more exports through the Strait of Hormuz) and the broader Middle East conflict. Rate-sensitive growth and tech names (relevant to MSFT, GOOGL, AMZN exposure) led the pullback as yields spiked; oil-and-gas holdings (CNQ, EQNR, TTE, WPM) remain a partial hedge against the inflation-risk backdrop.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
-    "date": "2026-09-15"
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve rate decision",
+    "headline": "Fed set to hike for the first time since 2023 as it announces its decision at 2pm ET today",
+    "summary": "The FOMC announces its rate decision this afternoon, with CME FedWatch pricing an ~86-93% probability of a 25bp hike to 3.75-4.00% — the first Fed hike since 2023, driven by inflation that has stayed above the 2% target for five-plus years and Chair Kevin Warsh's hawkish Jackson Hole tone. A majority of economists surveyed now expect at least two more hikes over the coming year. Because the move itself is so heavily priced in, markets are expected to react more to the vote count, updated dot-plot rate projections, and Warsh's press conference than to the decision itself. Stocks edged higher Wednesday morning after Tuesday's selloff (10-year yield at a post-2007 high of 5.04%); rate-sensitive holdings across all four mandates (banks TD/RY/NA, growth names MSFT/AMZN/GOOGL/SHOP, REIT-like DHT.UN) are the ones most exposed to today's outcome and Warsh's tone.",
+    "url": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html",
+    "date": "2026-09-16"
   }
 ]
