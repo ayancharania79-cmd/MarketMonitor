@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve rate decision",
-    "headline": "Fed hikes for the first time since 2023; Dow sinks 631 points as Warsh signals more to come",
-    "summary": "The FOMC voted unanimously to raise rates 25bp to 3.75-4.00%, its first hike since 2023, as expected. Stocks were little changed on the announcement itself but sold off hard during Chair Kevin Warsh's press conference, where he stressed the Fed's focus is on price stability and 12 of 18 members' projections point to at least one more hike this year (average 4.125%). The Dow fell 631 pts (-1.21%) to 51,461.90, the S&P 500 dropped 0.45% to 7,551.81, and the Nasdaq was roughly flat (-0.01%) at 25,978.42. The 10-year Treasury yield closed back above 5.01% (highest since 2007) and the US dollar had its best day since June, up over 0.65%. Rate-sensitive names across the mandates (banks TD/RY/NA, growth names MSFT/AMZN/GOOGL/SHOP) are the most exposed to the hawkish forward guidance; the \"more hikes to come\" signal is the key overhang heading into Q4.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-16-dow-sp-500-nasdaq-fed-meeting-decision-080356525.html",
-    "date": "2026-09-16"
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve rate decision / relief rally",
+    "headline": "Stocks bounce back Thursday as tech leads a clawback of Wednesday's Fed-hike selloff",
+    "summary": "A day after the Fed's first rate hike since 2023 (25bp to 3.75-4.00%) sent the Dow down 631 pts on hawkish Warsh commentary, futures and then cash markets rallied Thursday as Treasury yields and oil both pulled back: Dow +410 pts (+0.8%), S&P 500 +1.2%, Nasdaq +1.5%. \"Magnificent Seven\" names led, with Amazon and Nvidia both +2% and Microsoft +1%, as markets took Warsh's inflation resolve as reassurance rather than pure hawkishness on reflection. Separately, the Bank of England held its rate at 3.75% (6-3 vote, sixth straight hold) despite inflation at 3.1% and rising — a modest read-through for the fund's UK-listed holdings (Rolls-Royce, Halma, Safran-adjacent Europe exposure). Net: a genuine relief bounce, though the Fed's \"more hikes likely this year\" signal remains the overhang into Q4.",
+    "url": "https://www.cnbc.com/2026/09/16/stock-market-today-live-updates.html",
+    "date": "2026-09-17"
   }
 ]
