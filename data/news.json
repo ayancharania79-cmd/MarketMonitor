@@ -106,9 +106,9 @@
   },
   {
     "ticker": "MARKET", "exchange": "", "company": "Federal Reserve rate decision / week wrap",
-    "headline": "Markets flatline Friday, on track for a losing week despite the post-Fed bounce",
-    "summary": "After Wednesday's Fed-hike selloff (Dow -631pts) and Thursday's relief rally (S&P +0.59%, chips +3%), Friday was quiet: the S&P 500 was roughly flat (+0.1%), the Nasdaq +0.4%, and the Dow -57pts (-0.1%), as the 10-year Treasury yield ticked up again to 4.98%. Despite Thursday's bounce, the index is on track to close the week lower overall — the Fed's 25bp hike (first since 2023) and Chair Warsh's signal of at least one more hike this year remain the dominant story, with the week serving as a reminder that the tightening cycle isn't over. No single fund holding saw a major idiosyncratic move tied to today's session; this was a broad-market digestion day heading into the weekend.",
-    "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+    "headline": "Stocks close the week mixed: Nasdaq eked out a gain, Dow lagged after the Fed's hike",
+    "summary": "Friday's close: S&P 500 +0.11%, Nasdaq +0.39%, Dow -0.13%, as the 10-year Treasury yield pulled back (-1.18% on the week) and the VIX eased, signaling some stabilization after a volatile week. For the week overall, tech held up best — the Nasdaq finished roughly flat-to-slightly-positive, buoyed by Thursday's chip-led relief rally and Friday's follow-through — while the Dow lagged, still digesting Wednesday's 631-point Fed-hike selloff. Net: the Fed's first rate hike since 2023 (25bp to 3.75-4.00%) and Chair Warsh's signal of at least one more hike this year remain the dominant story; markets head into next week having largely absorbed the shock without a fresh leg down. No single fund holding saw a major idiosyncratic move tied to Friday's session.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
     "date": "2026-09-18"
   }
 ]
