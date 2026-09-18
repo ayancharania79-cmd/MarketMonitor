@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve rate decision / relief rally",
-    "headline": "Relief rally holds into the close; S&P 500 gains 0.59% as chipmakers jump 3%",
-    "summary": "Thursday's post-Fed bounce held through the close, though it faded somewhat from the morning's stronger gains (S&P 500 was up as much as ~1% intraday): the S&P 500 finished +0.59% at 7,596, with a closely-watched chipmaker gauge up 3% as falling oil prices supported optimism that inflation can still be contained despite Wednesday's rate hike. This follows Wednesday's Fed decision (25bp hike to 3.75-4.00%, first since 2023) that had sent the Dow down 631 pts on hawkish Warsh commentary. The Bank of England separately held its rate at 3.75% (6-3 vote) despite UK inflation at 3.1%. Net for the week: a genuine two-way swing around the Fed decision, with tech/semis leading the recovery — the Fed's signal of at least one more hike this year remains the overhang into Q4.",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-16/stock-market-today-dow-s-p-live-updates",
-    "date": "2026-09-17"
+    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve rate decision / week wrap",
+    "headline": "Markets flatline Friday, on track for a losing week despite the post-Fed bounce",
+    "summary": "After Wednesday's Fed-hike selloff (Dow -631pts) and Thursday's relief rally (S&P +0.59%, chips +3%), Friday was quiet: the S&P 500 was roughly flat (+0.1%), the Nasdaq +0.4%, and the Dow -57pts (-0.1%), as the 10-year Treasury yield ticked up again to 4.98%. Despite Thursday's bounce, the index is on track to close the week lower overall — the Fed's 25bp hike (first since 2023) and Chair Warsh's signal of at least one more hike this year remain the dominant story, with the week serving as a reminder that the tightening cycle isn't over. No single fund holding saw a major idiosyncratic move tied to today's session; this was a broad-market digestion day heading into the weekend.",
+    "url": "https://www.cnbc.com/2026/09/17/stock-market-today-live-updates.html",
+    "date": "2026-09-18"
   }
 ]
