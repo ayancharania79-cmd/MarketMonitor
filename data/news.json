@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Federal Reserve rate decision / week wrap",
-    "headline": "Stocks close the week mixed: Nasdaq eked out a gain, Dow lagged after the Fed's hike",
-    "summary": "Friday's close: S&P 500 +0.11%, Nasdaq +0.39%, Dow -0.13%, as the 10-year Treasury yield pulled back (-1.18% on the week) and the VIX eased, signaling some stabilization after a volatile week. For the week overall, tech held up best — the Nasdaq finished roughly flat-to-slightly-positive, buoyed by Thursday's chip-led relief rally and Friday's follow-through — while the Dow lagged, still digesting Wednesday's 631-point Fed-hike selloff. Net: the Fed's first rate hike since 2023 (25bp to 3.75-4.00%) and Chair Warsh's signal of at least one more hike this year remain the dominant story; markets head into next week having largely absorbed the shock without a fresh leg down. No single fund holding saw a major idiosyncratic move tied to Friday's session.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
-    "date": "2026-09-18"
+    "ticker": "MARKET", "exchange": "", "company": "Oil retreats / Trump-Xi summit ahead",
+    "headline": "Futures jump as oil falls below $100 on US-Iran talk hopes, Trump-Xi summit looms",
+    "summary": "US futures rose broadly Monday (Dow +0.7%, S&P 500 +0.7%, Nasdaq-100 +1%) as oil prices retreated below $100/bbl on hopes that the US and Iran could resume diplomatic talks, easing the inflation-risk overhang that had dogged markets since the Fed's rate hike. Separately, Treasury Secretary Scott Bessent met his Chinese counterpart ahead of this week's planned Trump-Xi summit, covering trade and AI policy — a potential catalyst for names with China/trade exposure (GOOGL, AMZN, and Canadian materials/energy names sensitive to the tariff dispute). Markets have largely powered through a wall of worry this month, though rising bond yields, Middle East geopolitical risk, and AI-capex jitters remain live risks investors are watching heading into the Trump-Xi meeting.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+    "date": "2026-09-21"
   }
 ]
