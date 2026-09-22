@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Trump-Xi talks / AI trade continues",
-    "headline": "Markets hold near record highs as US-China talks are called \"very successful\"",
-    "summary": "After Monday's record Nasdaq close (+2.26%), Tuesday was calmer but still constructive: the Nasdaq added another 0.4%, while the S&P 500 and Dow each rose 0.2%, as confidence in the AI trade and falling oil prices continued to support risk appetite. Treasury Secretary Bessent called preliminary US-China talks \"very successful\" ahead of the planned Trump-Xi summit, lifting hopes for cooperation on AI policy alongside trade — a potential tailwind for GOOGL, AMZN, and China/trade-exposed names. Separately, Bessent announced Iranian airlines will be barred worldwide by Wednesday, with financial-system exclusion threatened for any entity servicing them — an escalation to watch for further oil-price volatility. Net: markets are consolidating gains near record levels rather than giving them back.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+    "ticker": "MARKET", "exchange": "", "company": "Nasdaq's 2nd straight record close",
+    "headline": "Nasdaq notches a second consecutive record close as oil keeps falling",
+    "summary": "Tuesday's close: Nasdaq +0.45% to a fresh record 27,244.28 (its second straight record close), S&P 500 essentially flat at 7,764.64 (-0.00%), and the Dow slipped 185 pts (-0.36%) to 51,863.69 as strength stayed concentrated in tech/AI names while broader cyclicals lagged. Oil kept falling, extending Monday's drop below $100/bbl on US-Iran diplomatic hopes. Treasury Secretary Bessent called preliminary US-China trade talks \"very successful\" ahead of the planned Trump-Xi summit, while separately announcing Iranian airlines will be barred worldwide by Wednesday — an escalation worth watching for oil-price volatility. Net: the AI/tech trade continues to lead, with the broader market (Dow, small caps) not fully participating in the rally.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026",
     "date": "2026-09-22"
   }
 ]
