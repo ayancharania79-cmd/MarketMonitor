@@ -49,11 +49,11 @@
     "date": "2026-08-21"
   },
   {
-    "ticker": "SPOT", "exchange": "NYSE", "company": "Spotify Technology S.A.",
-    "headline": "Spotify jumps 6% and expands buyback to $2.2B",
-    "summary": "SPOT rallied against a broader tech selloff on Aug 18, adding nearly $7B in market value on subscriber growth and analyst support, then upsized its buyback by $1.5B to $2.2B total on Aug 20. Morgan Stanley raised its target to $640 from $610. Shares have cleared the 200-day moving average, a historically bullish signal.",
-    "url": "https://www.digitalmusicnews.com/2026/08/20/spotify-stock-repurchase-program-august-2026/",
-    "date": "2026-08-20"
+    "ticker": "NFLX", "exchange": "NasdaqGS", "company": "Netflix, Inc.",
+    "headline": "Netflix slides ~11% in two sessions after Wells Fargo's rare Underweight downgrade",
+    "summary": "Wells Fargo analyst Steven Cahall downgraded Netflix from Equal Weight to Underweight (a rare sell-equivalent call) and slashed his price target to $57 from $80, citing weakening user engagement and a softer H2 2026 original-content slate. The firm's base case projects a 21% YoY decline in viewing hours across the platform's top 100 originals, with Netflix slipping in the Nielsen Gauge and facing potential margin-expansion headwinds and rising subscriber-churn risk into next year. Shares extended a multi-day slide to close at $71.79 (-10.7% on Sep 21), part of a stock that is now down ~26% for 2026 — a stark divergence from the broader Sep 21 tech rally that lifted most of the fund's other growth names.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-declines-wells-fargo-113815580.html",
+    "date": "2026-09-21"
   },
   {
     "ticker": "GOOGL", "exchange": "NasdaqGS", "company": "Alphabet Inc.",
@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Nasdaq record close / oil retreats",
-    "headline": "Nasdaq hits a record close, +2.26%, as tech surges and oil/yields slip",
-    "summary": "Monday delivered a sharp rally: the Nasdaq Composite jumped 2.26% to a record 27,122.09 (its first record close since June), the S&P 500 gained 1.49% to 7,764.70, and the Dow added 366 pts (+0.71%) to 52,048.83. The move was driven by tech and communication-services strength as oil prices and Treasury yields both slipped — oil fell below $100/bbl on hopes the US and Iran could resume diplomatic talks, easing the inflation overhang from the Fed's rate hike two weeks ago. Separately, Treasury Secretary Bessent met his Chinese counterpart ahead of this week's planned Trump-Xi summit on trade and AI policy — a potential catalyst for China/trade-exposed names (GOOGL, AMZN, and Canadian materials/energy sensitive to the tariff dispute). This snaps back sharply from last week's mostly-lower finish and is a genuinely strong session for the fund's large-cap tech and growth holdings (MSFT, GOOGL, AMZN, META, SHOP).",
-    "url": "https://www.cnbc.com/2026/09/20/stock-market-today-live-updates.html",
-    "date": "2026-09-21"
+    "ticker": "MARKET", "exchange": "", "company": "Trump-Xi talks / AI trade continues",
+    "headline": "Markets hold near record highs as US-China talks are called \"very successful\"",
+    "summary": "After Monday's record Nasdaq close (+2.26%), Tuesday was calmer but still constructive: the Nasdaq added another 0.4%, while the S&P 500 and Dow each rose 0.2%, as confidence in the AI trade and falling oil prices continued to support risk appetite. Treasury Secretary Bessent called preliminary US-China talks \"very successful\" ahead of the planned Trump-Xi summit, lifting hopes for cooperation on AI policy alongside trade — a potential tailwind for GOOGL, AMZN, and China/trade-exposed names. Separately, Bessent announced Iranian airlines will be barred worldwide by Wednesday, with financial-system exclusion threatened for any entity servicing them — an escalation to watch for further oil-price volatility. Net: markets are consolidating gains near record levels rather than giving them back.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+    "date": "2026-09-22"
   }
 ]
