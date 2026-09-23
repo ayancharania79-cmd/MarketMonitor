@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Nasdaq's 2nd straight record close",
-    "headline": "Nasdaq notches a second consecutive record close as oil keeps falling",
-    "summary": "Tuesday's close: Nasdaq +0.45% to a fresh record 27,244.28 (its second straight record close), S&P 500 essentially flat at 7,764.64 (-0.00%), and the Dow slipped 185 pts (-0.36%) to 51,863.69 as strength stayed concentrated in tech/AI names while broader cyclicals lagged. Oil kept falling, extending Monday's drop below $100/bbl on US-Iran diplomatic hopes. Treasury Secretary Bessent called preliminary US-China trade talks \"very successful\" ahead of the planned Trump-Xi summit, while separately announcing Iranian airlines will be barred worldwide by Wednesday — an escalation worth watching for oil-price volatility. Net: the AI/tech trade continues to lead, with the broader market (Dow, small caps) not fully participating in the rally.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-22-2026",
-    "date": "2026-09-22"
+    "ticker": "MARKET", "exchange": "", "company": "Trump-Xi summit this week / oil slides further",
+    "headline": "Futures dip modestly as markets await the Trump-Xi summit; oil keeps sliding",
+    "summary": "Wednesday opened softer (Dow and Nasdaq -0.2%, S&P 500 -0.1%) after Tuesday's second straight Nasdaq record close, as traders shift focus to this week's Washington summit between Trump and Xi Jinping — expected to cover AI cooperation, the Iran conflict, tariffs, and rare-earth minerals. Oil has kept falling hard: Brent is down to ~$96/bbl and WTI ~$90/bbl, a sharp drop from the ~$107-108 levels seen just a week ago during the Fed-hike selloff, as US-Iran diplomatic hopes ease the geopolitical risk premium. Lower oil is a mixed signal for the fund's energy holdings (CNQ, EQNR, TTE, WPM) but broadly supportive of the inflation outlook and rate-sensitive growth names. The summit outcome is this week's key catalyst — a positive AI/trade signal could extend the tech rally, while disappointment on tariffs or rare earths could hit materials and industrials.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
+    "date": "2026-09-23"
   }
 ]
