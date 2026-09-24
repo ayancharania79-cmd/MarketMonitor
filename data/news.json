@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "10Y yield hits 2007 high / Iran-UN volatility",
-    "headline": "Stocks tumble as 10-year yield hits 5.135%, its highest since 2007, on Iran volatility and Fed jitters",
-    "summary": "A sharp reversal from the week's record highs: the Nasdaq fell 1.13% to 26,936.04, the S&P 500 dropped 0.75% to 7,706.03, and the Dow lost 352 pts (-0.68%) to 51,511.59. The 10-year Treasury yield spiked to 5.135%, its highest since July 2007, after Richmond Fed President Barkin suggested the Fed could consider a more aggressive \"mid-cycle adjustment\" to rates. Markets whipsawed on Iran headlines: an early Japanese report suggested Iran might reopen the Strait of Hormuz in exchange for the US lifting its blockade, briefly easing oil prices, before multiple denials reversed the move. President Trump told the UN General Assembly he would soon decide whether to \"annihilate\" the Iranian regime or help it become \"one of the great countries\" of the Middle East, while separately touting three-hour US-Iran talks in New York as \"very productive.\" Rate-sensitive holdings across the mandates (banks TD/RY/NA, growth names MSFT/AMZN/GOOGL/SHOP/META) are the most exposed if Barkin's more-hawkish framing gains traction ahead of the Trump-Xi summit still to come this week.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-23-dow-sp-500-nasdaq-080556640.html",
-    "date": "2026-09-23"
+    "ticker": "MARKET", "exchange": "", "company": "Third straight down day / Trump-Xi summit today",
+    "headline": "Stocks slide a third straight day as yields and oil both climb; Xi lands for today's summit",
+    "summary": "Thursday extended the selloff: the Dow fell 0.2%, S&P 500 dropped 0.4%, and the Nasdaq lost 0.8% as inflation fears outweighed hopes for Middle East diplomacy and the AI trade. The 10-year Treasury yield pushed to a fresh post-2007 high after a strong S&P business-activity survey added to inflation pressure, while Brent crude rebounded sharply back above $105/bbl — reversing most of the week's earlier decline and undercutting the disinflation narrative that had supported stocks. Chinese leader Xi Jinping landed in the US ahead of today's much-anticipated summit with President Trump, covering AI cooperation, tariffs, rare earths, and the Iran conflict — the outcome is the key swing factor for the rest of the week. Futures pointed to further weakness (S&P -0.6%, Nasdaq -1.1%) as the week's earlier gains are largely at risk of being erased.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-24-dow-sp-500-nasdaq-080352893.html",
+    "date": "2026-09-24"
   }
 ]
