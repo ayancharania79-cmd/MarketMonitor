@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Trump rejects Iran's Hormuz offer / oil spikes",
-    "headline": "Oil jumps 3%+ and yields climb to fresh highs after Trump rejects Iran's truce offer",
-    "summary": "Monday reversed Friday's rally: futures for the S&P 500 and Dow both fell 0.5%, Nasdaq futures dropped 1%, after President Trump rejected Iran's proposed 7-day truce that would have reopened the Strait of Hormuz. Brent crude jumped over 3% to above $107/bbl and the 2-year Treasury yield rose to 4.90% while the 10-year climbed to a fresh 5.20% (yet another post-2007 high), reviving the inflation concerns that drove last week's bond selloff. Trump said he expects talks with Iran to resume this week, keeping the door open, but the immediate market reaction was negative. Consumer sentiment separately sits near historic lows (48.1), with households expecting 4.6% inflation over the next year and 30-year mortgage rates above 7%. Net: the Hormuz deal that had powered Friday's oil-driven relief rally is off the table for now — a clear headwind for the fund's rate-sensitive and oil-consuming names, while a modest positive for energy holdings (CNQ, EQNR, TTE, WPM) on higher crude.",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/bond-selloff-resumes-as-oil-rises-after-trump-spurns-iran-offer",
+    "ticker": "MARKET", "exchange": "", "company": "Iran standoff sends stocks lower to close the day",
+    "headline": "Stocks close broadly lower as the Iran-oil standoff sends yields higher across the board",
+    "summary": "Monday's morning fears played out through the close: the Dow fell 0.67% to 51,481.51, the S&P 500 dropped 0.77% to 7,683.69, and the Nasdaq lost 0.92% to 26,820.38 — all three indices declining as the US-Iran standoff over the Strait of Hormuz kept oil markets volatile. Brent crude's spike above $107/bbl and the fresh 10-year Treasury yield high (5.20%, another post-2007 peak) fed concerns that persistent inflation pressure could push the Fed toward further hikes, reversing Friday's weekly-gain relief rally in a single session. Trump's stated expectation that talks with Iran resume this week leaves room for a rebound, but for now the standoff is the dominant risk factor — a genuine headwind for rate-sensitive holdings (banks, growth/tech) even as it's a modest tailwind for the fund's energy names on higher crude prices.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
     "date": "2026-09-28"
   }
 ]
