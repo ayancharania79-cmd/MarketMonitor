@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Iran standoff sends stocks lower to close the day",
-    "headline": "Stocks close broadly lower as the Iran-oil standoff sends yields higher across the board",
-    "summary": "Monday's morning fears played out through the close: the Dow fell 0.67% to 51,481.51, the S&P 500 dropped 0.77% to 7,683.69, and the Nasdaq lost 0.92% to 26,820.38 — all three indices declining as the US-Iran standoff over the Strait of Hormuz kept oil markets volatile. Brent crude's spike above $107/bbl and the fresh 10-year Treasury yield high (5.20%, another post-2007 peak) fed concerns that persistent inflation pressure could push the Fed toward further hikes, reversing Friday's weekly-gain relief rally in a single session. Trump's stated expectation that talks with Iran resume this week leaves room for a rebound, but for now the standoff is the dominant risk factor — a genuine headwind for rate-sensitive holdings (banks, growth/tech) even as it's a modest tailwind for the fund's energy names on higher crude prices.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-28-dow-sp-500-nasdaq-080420627.html",
-    "date": "2026-09-28"
+    "ticker": "MARKET", "exchange": "", "company": "Markets steady as oil eases, labor data looms",
+    "headline": "Stocks edge higher as oil retreats from Monday's spike; jobs data and AI events ahead this week",
+    "summary": "Tuesday brought a calmer session after Monday's Iran-driven selloff: the S&P 500 gained ~0.1%, the Dow was roughly flat, and the Nasdaq added ~0.3% in early trading as oil prices eased back from Monday's spike and Treasuries firmed. Traders are holding off ahead of this week's first labor-market data release and a string of AI-related events/headlines (including questions raised by a leaked Anthropic IPO prospectus and a scrapped next-generation OpenAI model, adding to broader AI-safety scrutiny already weighing on META and MSFT). Geopolitical tension over the Strait of Hormuz standoff continues to underpin elevated oil and bond yields even as the immediate panic fades. Net: a tentative stabilization, with the week's jobs report as the next major catalyst for rate expectations.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html",
+    "date": "2026-09-29"
   }
 ]
