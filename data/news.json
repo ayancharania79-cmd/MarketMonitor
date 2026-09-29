@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Markets steady as oil eases, labor data looms",
-    "headline": "Stocks edge higher as oil retreats from Monday's spike; jobs data and AI events ahead this week",
-    "summary": "Tuesday brought a calmer session after Monday's Iran-driven selloff: the S&P 500 gained ~0.1%, the Dow was roughly flat, and the Nasdaq added ~0.3% in early trading as oil prices eased back from Monday's spike and Treasuries firmed. Traders are holding off ahead of this week's first labor-market data release and a string of AI-related events/headlines (including questions raised by a leaked Anthropic IPO prospectus and a scrapped next-generation OpenAI model, adding to broader AI-safety scrutiny already weighing on META and MSFT). Geopolitical tension over the Strait of Hormuz standoff continues to underpin elevated oil and bond yields even as the immediate panic fades. Net: a tentative stabilization, with the week's jobs report as the next major catalyst for rate expectations.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-29-dow-sp-500-nasdaq-080526442.html",
+    "ticker": "MARKET", "exchange": "", "company": "30-year yield hits highest since 2002",
+    "headline": "Long bond yields keep climbing: 30-year hits a 2002 high, mortgage rates top 7.5%",
+    "summary": "Tuesday's early-session calm gave way to renewed pressure by the close: the Dow fell 131 pts (-0.26%) to 51,349.92, the S&P 500 slipped 0.16% to 7,670.84, and the Nasdaq eased 0.09% to 26,797.54, as long-dated Treasury yields extended their rise for a sixth straight day. The 30-year yield surpassed 5.61%, its highest level since 2002, while the 30-year mortgage rate climbed to 7.55-7.58% — the highest since November 2023 — driven by persistent inflation angst and heavy corporate-debt issuance rather than just Fed policy. This is a genuine headwind beyond the earlier Iran/oil story: sustained high long-term rates weigh on housing-sensitive names (LOW), heavily-levered names, and growth/tech valuations broadly, even as short-term oil-driven volatility eases. The trend is now a multi-week story, not a one-day event.",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-29/us-30-year-treasury-yield-approaches-highest-level-since-2002",
     "date": "2026-09-29"
   }
 ]
