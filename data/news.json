@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "30-year yield hits highest since 2002",
-    "headline": "Long bond yields keep climbing: 30-year hits a 2002 high, mortgage rates top 7.5%",
-    "summary": "Tuesday's early-session calm gave way to renewed pressure by the close: the Dow fell 131 pts (-0.26%) to 51,349.92, the S&P 500 slipped 0.16% to 7,670.84, and the Nasdaq eased 0.09% to 26,797.54, as long-dated Treasury yields extended their rise for a sixth straight day. The 30-year yield surpassed 5.61%, its highest level since 2002, while the 30-year mortgage rate climbed to 7.55-7.58% — the highest since November 2023 — driven by persistent inflation angst and heavy corporate-debt issuance rather than just Fed policy. This is a genuine headwind beyond the earlier Iran/oil story: sustained high long-term rates weigh on housing-sensitive names (LOW), heavily-levered names, and growth/tech valuations broadly, even as short-term oil-driven volatility eases. The trend is now a multi-week story, not a one-day event.",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-29/us-30-year-treasury-yield-approaches-highest-level-since-2002",
-    "date": "2026-09-29"
+    "ticker": "MARKET", "exchange": "", "company": "Cool PCE print sparks a quarter-end rebound",
+    "headline": "Stocks rally as cooler-than-expected PCE inflation eases rate fears on the year's last trading day",
+    "summary": "Wednesday brought genuine relief: the Dow added 0.1%, the S&P 500 gained 0.3%, and the Nasdaq rose 0.5% after the PCE price index (the Fed's preferred inflation gauge) rose just 0.3% monthly with a 3.4% annual pace — both below the 3.7% annual estimate — easing the yield-driven anxiety that had dominated the past week (30-year Treasury at a 2002 high, mortgages above 7.5%). The rebound helps erase some of September's S&P 500 weakness heading into quarter-end: for the month, the Dow finished down ~3.5% (hit hardest by the Fed-hike and bank-selloff episodes), the S&P 500 was roughly flat, and the Nasdaq gained ~1.6% (powered by META's Meta Connect rally and the broader AI trade, despite late-month stumbles on the Muse vulnerability and MSFT's AI-tax scrutiny). Net: a constructive end to a genuinely volatile month, with the inflation data offering the first real counter-evidence to the \"yields keep climbing\" narrative.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026",
+    "date": "2026-09-30"
   }
 ]
