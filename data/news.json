@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Cool PCE print sparks a quarter-end rebound",
-    "headline": "Stocks rally as cooler-than-expected PCE inflation eases rate fears on the year's last trading day",
-    "summary": "Wednesday brought genuine relief: the Dow added 0.1%, the S&P 500 gained 0.3%, and the Nasdaq rose 0.5% after the PCE price index (the Fed's preferred inflation gauge) rose just 0.3% monthly with a 3.4% annual pace — both below the 3.7% annual estimate — easing the yield-driven anxiety that had dominated the past week (30-year Treasury at a 2002 high, mortgages above 7.5%). The rebound helps erase some of September's S&P 500 weakness heading into quarter-end: for the month, the Dow finished down ~3.5% (hit hardest by the Fed-hike and bank-selloff episodes), the S&P 500 was roughly flat, and the Nasdaq gained ~1.6% (powered by META's Meta Connect rally and the broader AI trade, despite late-month stumbles on the Muse vulnerability and MSFT's AI-tax scrutiny). Net: a constructive end to a genuinely volatile month, with the inflation data offering the first real counter-evidence to the \"yields keep climbing\" narrative.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-30-2026",
+    "ticker": "MARKET", "exchange": "", "company": "Quarter-end wrap: Dow's worst month in a while, Nasdaq leads Q3",
+    "headline": "Morning rally fades: Dow drops 444pts to close out a rough September despite cooler inflation",
+    "summary": "Wednesday's early cooler-PCE rally faded hard by the close: the Dow fell 444 pts (-0.86%) to 50,906.05, the S&P 500 slipped 0.25% to 7,651.54, while only the Nasdaq held gains, up 0.24% to 26,861.06. For the month, the Dow lost 4.3% (hit hardest by the Fed's first hike since 2023, the bank-sector selloff, and the Iran/oil volatility), the S&P 500 dipped 0.5%, and the Nasdaq rose 1.9% (powered by META's Meta Connect/Muse AI rally and the broader AI trade). For Q3 overall, the Nasdaq led with +2.5%, the S&P 500 gained 2%, while the Dow lagged with a 2.7% loss — a genuine divergence between AI/tech strength and the broader market's rate-sensitivity. Net: despite Wednesday's encouraging inflation data, elevated long-term yields (30-year at a 2002 high) remained the dominant story weighing on the broader index as the quarter closed.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html",
     "date": "2026-09-30"
   }
 ]
