@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Quarter-end wrap: Dow's worst month in a while, Nasdaq leads Q3",
-    "headline": "Morning rally fades: Dow drops 444pts to close out a rough September despite cooler inflation",
-    "summary": "Wednesday's early cooler-PCE rally faded hard by the close: the Dow fell 444 pts (-0.86%) to 50,906.05, the S&P 500 slipped 0.25% to 7,651.54, while only the Nasdaq held gains, up 0.24% to 26,861.06. For the month, the Dow lost 4.3% (hit hardest by the Fed's first hike since 2023, the bank-sector selloff, and the Iran/oil volatility), the S&P 500 dipped 0.5%, and the Nasdaq rose 1.9% (powered by META's Meta Connect/Muse AI rally and the broader AI trade). For Q3 overall, the Nasdaq led with +2.5%, the S&P 500 gained 2%, while the Dow lagged with a 2.7% loss — a genuine divergence between AI/tech strength and the broader market's rate-sensitivity. Net: despite Wednesday's encouraging inflation data, elevated long-term yields (30-year at a 2002 high) remained the dominant story weighing on the broader index as the quarter closed.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html",
-    "date": "2026-09-30"
+    "ticker": "MARKET", "exchange": "", "company": "Q4 kickoff: futures rise as Micron lifts chips, yields keep climbing",
+    "headline": "Stocks open October higher on Micron's upbeat forecast, even as long-term Treasury yields surge to decades-high levels",
+    "summary": "Futures climbed into Thursday's open (S&P 500 +0.4-0.48%, Nasdaq 100 +0.5%, Dow +0.26%, Russell 2000 +0.42%) as Micron's strong earnings and forecast boosted sentiment across chipmakers, while oil prices also firmed on the first trading day of Q4. The gains follow a mixed Wednesday close: the S&P 500 fell 0.2% and the Dow shed 444 points despite slower-than-expected PCE inflation, as a rebound in oil prices capped the relief rally; the Nasdaq bucked the trend, up 0.2%. The dominant cross-current remains the bond market — 30-year Treasury yields have surged to their highest levels in more than two decades, keeping rate-sensitive sectors (banks, industrials) under pressure even as AI/semiconductor strength continues to carry the Nasdaq.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html",
+    "date": "2026-10-01"
   }
 ]
