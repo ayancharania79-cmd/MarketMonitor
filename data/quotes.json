@@ -10,7 +10,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BHP.AX",
     "sourceUrl": "https://www.cnbc.com/quotes/BHP-AU",
-    "note": "Fresh reads scattered again this cycle (A$61.21, A$60.64, A$61.10), no source matched stored exactly and no 2-source agreement on a new level. Kept stored."
+    "note": "Fresh read (A$61.21, +1%) matches last cycle's figure again but remains single-sourced; no independent 2nd source agreeing on a new level. Kept stored."
   },
   {
     "exchange": "BIT",
@@ -23,20 +23,20 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ISP.MI",
     "sourceUrl": "https://tradingeconomics.com/isp:im",
-    "note": "Fresh single-source read (EUR 6.75, -0.30%) is close to but not a corroborated match for stored; continues the pattern of near-miss single-sourced reads. Kept stored."
+    "note": "Fresh single-source read (EUR 6.56, -1.35%, Lang&Schwarz) remains a near-miss versus stored, not 2-source corroborated. Kept stored."
   },
   {
     "exchange": "BME",
     "ticker": "BBVA",
     "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
-    "price": 25.41,
+    "price": 24.88,
     "currency": "EUR",
-    "change": null,
-    "changePercent": null,
-    "asOfDate": "2026-09-15",
+    "change": 0.1,
+    "changePercent": 0.4,
+    "asOfDate": "2026-10-01",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://www.investing.com/equities/bbva",
-    "note": "Fresh pre-market single-source read (EUR 25.33, +0.12%) is close to stored (~0.3% off) but not 2-source corroborated. Kept stored."
+    "note": "Accepted: two reasonably close fresh reads (EUR 24.93 and EUR 24.82, ~0.4% apart, different sources) corroborate a new slightly-lower level within the previously-flagged 24.6-25.6 lower cluster. Updating from 25.41."
   },
   {
     "exchange": "CPSE",
@@ -49,7 +49,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "NOVO-B.CO",
     "sourceUrl": "https://www.investing.com/equities/novo-nordisk",
-    "note": "Fresh single-source read (251.65 DKK, -0.30%) continues a newer ~251-253 cluster seen last cycle too, but still not 2-source corroborated in the same cycle; broader search remains scattered historically. Kept stored."
+    "note": "Fresh single-source read (DKK 250.45, -1.09%) continues the newer ~250-253 cluster seen the last two cycles, but still only one source this cycle. Kept stored."
   },
   {
     "exchange": "ENXTAM",
@@ -62,12 +62,12 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://stockanalysis.com/stocks/asml/",
-    "note": "New single-source figure (EUR 1595.10, Sep29) continues the escalating single-sourced cluster, still uncorroborated by a 2nd source. Kept stored."
+    "note": "Fresh single-source read (EUR 1602.70, Lang&Schwarz) extends the escalating single-sourced cluster (now above 1600) -- still uncorroborated by a 2nd source. Kept stored."
   },
   {
     "exchange": "ENXTPA",
     "ticker": "MC",
-    "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
+    "name": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne",
     "price": 405.5,
     "currency": "EUR",
     "change": 2.71,
@@ -75,12 +75,12 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "MC.PA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/lvmh-stock-heads-into-the-open-after-a-0-67-percent-gain/70152414",
-    "note": "Same recurring lower-cluster figure (EUR 393.00, -1.35%, Sep30) reappeared again, still single-sourced (Lang & Schwarz/ad-hoc-news). Kept stored."
+    "note": "New single-sourced figure (EUR 383.35, -1.8%, cited as near a 52-week low) continues the lower-cluster pattern below stored, still from an ad-hoc-news/Lang&Schwarz-type lineage. Kept stored."
   },
   {
     "exchange": "ENXTPA",
     "ticker": "RMS",
-    "name": "Hermès International Société en commandite par actions",
+    "name": "Herm\u00e8s International Soci\u00e9t\u00e9 en commandite par actions",
     "price": 1347.5,
     "currency": "EUR",
     "change": -16.0,
@@ -88,7 +88,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "RMS.PA",
     "sourceUrl": "https://stockanalysis.com/quote/epa/RMS/",
-    "note": "Accepted: fresh Sep30 read (EUR 1347.50, -0.52% intraday per aggregator) is a small plausible pullback from stored, single clean source, no known trouble pattern for this ticker. Updating from 1363.50."
+    "note": "Reconfirmed: fresh read (EUR 1347.50, -0.52% intraday) matches stored exactly again. Kept stored."
   },
   {
     "exchange": "ENXTPA",
@@ -101,7 +101,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "SAF.PA",
     "sourceUrl": "https://www.safran-group.com/finance/safran-share-price",
-    "note": "Fresh figure (EUR 339.45, +0.98%) continues the same single-source lineage as the previously-rejected ~336.3 figure. Kept stored."
+    "note": "Fresh single-source read (EUR 333.10, -0.21%, Oct1) sits almost exactly on stored, breaking from the previously-rejected ~336-339 cluster -- effectively reconfirms rather than conflicts. Kept stored."
   },
   {
     "exchange": "LSE",
@@ -114,20 +114,20 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "HLMA.L",
     "sourceUrl": "https://www.investing.com/equities/halma",
-    "note": "The same recurring figure (3518.7 GBP, +1.00%, day range 3456-3536) reappeared for a 5th consecutive cycle in identical form -- still looks like the same single source. Kept stored; unresolved watch item persists."
+    "note": "Fresh reads scattered again (GBP 3584.0; a range of 3456-3536 matching the known-bad 3518.70 cluster; an odd 4549 GBX outlier): no genuinely new corroborated level. Kept stored; 5+ cycle watch item persists."
   },
   {
     "exchange": "LSE",
     "ticker": "RR.",
     "name": "Rolls-Royce Holdings plc",
-    "price": 1489.0,
+    "price": 1480.61,
     "currency": "GBP",
-    "change": 14.4,
-    "changePercent": 0.98,
-    "asOfDate": "2026-09-29",
+    "change": 19.01,
+    "changePercent": 1.3,
+    "asOfDate": "2026-10-01",
     "displaySymbol": "RR.L",
-    "sourceUrl": "https://www.hl.co.uk/shares/shares-search-results/r/rolls-royce-holdings-plc-ordinary-20p",
-    "note": "Fresh read (1481.40p, -0.18%, Sep28) is older than stored's already-accepted Sep29 figure and within ~0.5%. Kept stored 1489.0 unchanged."
+    "sourceUrl": "https://tradingeconomics.com/rr:ln",
+    "note": "Accepted: fresh Oct1 reading (1480.61 GBP, +1.30%, day range 1455.20-1494.60, prevClose 1461.60) is a plausible small move from stored, single clean source (tradingeconomics), no known trouble pattern for this ticker. Updating from 1489.0."
   },
   {
     "exchange": "NYSE",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.investing.com/equities/ametek-inc",
-    "note": "One source (heygotrade) matches stored exactly ($241.87); other reads remain scattered ($239-246). Kept stored, reconfirmed."
+    "note": "One source (heygotrade) still matches stored exactly ($241.87); a new pair of close readings (~$245.41-246.45) appeared but is distinct from stored and not yet a clear displacing consensus. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -153,7 +153,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "APG",
     "sourceUrl": "https://stockanalysis.com/stocks/apg/",
-    "note": "Fresh figure ($39.68) remains scattered along with other reads ($37-44), no 2-source agreement on a new level. Kept stored."
+    "note": "Fresh reads remain scattered ($38.35-39.68); two sources landed within ~0.6% of a possible new ~$38.5 level but this is still a tentative pattern, not treated as sufficient corroboration yet. Kept stored; continue watching."
   },
   {
     "exchange": "NYSE",
@@ -166,7 +166,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "BRK.B",
     "sourceUrl": "https://www.investing.com/equities/berkshire-hathaway",
-    "note": "Accepted: fresh Sep30 reading ($501.03, -0.26%) is a small plausible move from stored, single clean source, no known trouble pattern. Updating from 502.35."
+    "note": "A conflicting figure for the same Sep30 date ($497.95 close, -0.88%) appeared versus the already-accepted stored value ($501.03); no clear resolution between the two same-day reads. Kept stored unchanged."
   },
   {
     "exchange": "NYSE",
@@ -179,7 +179,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CSL",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403280/CSL/carlisle-companies-inc/",
-    "note": "Search results remain internally scattered this cycle ($343.43 / $356.48 / one matching stored), no clean 2-source agreement among mutually-disagreeing figures. Kept stored."
+    "note": "Search results remain internally scattered ($325.66 close vs $343.43 heygotrade vs stored), no 2-source agreement among mutually-disagreeing figures. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -192,7 +192,7 @@
     "asOfDate": "2026-09-24",
     "displaySymbol": "DHR",
     "sourceUrl": "https://investors.danaher.com/stock-quote",
-    "note": "Fresh figure ($226.11, +1.27%) remains within ~0.5% of stored, consistent with prior reconfirmations. Kept stored."
+    "note": "Fresh figures ($221.55, $226.11) remain within ~1.5% of stored, consistent with prior reconfirmations. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -205,7 +205,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "EQNR",
     "sourceUrl": "https://stockanalysis.com/stocks/eqnr/",
-    "note": "Reconfirmed within trusted $38-42 band: one fresh read ($40.77) matches stored exactly. Kept stored."
+    "note": "Reconfirmed within trusted $38-42 band: fresh read ($40.77, +0.57%) matches stored exactly again. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -218,7 +218,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "HCA",
     "sourceUrl": "https://www.investing.com/equities/hca-holdings-inc",
-    "note": "A new, different single-sourced figure ($427.84, -0.88%) appeared this cycle -- distinct from both stored and the previously-recurring $432.60 cluster. Not a genuinely corroborating 2nd source. Kept stored; continue watching."
+    "note": "The $427.84 figure recurred for a 2nd consecutive cycle (still single-sourced lineage); other reads ($437.38, $483.51 outlier) remain scattered. Kept stored; close to becoming a resolution candidate if it recurs again with independent corroboration."
   },
   {
     "exchange": "NYSE",
@@ -231,7 +231,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "HDB",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403853/HDB/hdfc-bank-ltd-adr/",
-    "note": "Fresh figure ($23.13, -0.90%) repeats the prior cycle's single-sourced reading, remains within ~2% of stored. Kept stored."
+    "note": "Fresh figure ($22.64) is yet another distinct single-sourced value, diverging ~4.3% from stored. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -244,7 +244,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "HEI",
     "sourceUrl": "https://www.investing.com/equities/heico-corp",
-    "note": "Same recurring lower cluster ($305.87, -0.40%) reappeared again from an apparently identical source lineage. Kept stored."
+    "note": "The same recurring lower cluster (~$296-307, headline $303.18) reappeared again from an apparently identical source lineage. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -257,7 +257,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "IBN",
     "sourceUrl": "https://www.etoro.com/markets/ibn",
-    "note": "The stale $27.91 figure recurred again (previously rejected); no source matched stored exactly this cycle. Kept stored."
+    "note": "One source (etoro) matches stored exactly ($29.28); the known-bad $27.91 figure also recurred separately. Kept stored, reconfirmed via the matching source."
   },
   {
     "exchange": "NYSE",
@@ -270,7 +270,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Fresh figure ($152.91, -0.91%) again exactly repeats the previously-rejected mutually-disagreeing figure; no 2-source agreement. Kept stored."
+    "note": "Fresh figure ($152.03, -0.11%) again closely repeats the previously-rejected ~$152.91 divergent figure; no 2-source agreement with stored. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -283,7 +283,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "JPM",
     "sourceUrl": "https://www.tradingview.com/symbols/NYSE-JPM/",
-    "note": "Fresh figures cluster again near $335.54 (range $333.33-338.75), close to last cycle's rejected $334.98 -- recurring for a 2nd cycle but still not a genuinely independent 2nd source confirming a new level. Kept stored; watch closely."
+    "note": "Fresh reads cluster at $330.33/$332.76 (Oct1), continuing the downward drift from last cycle's ~$335 cluster; two reasonably close reads but not clearly independent sources. Kept stored; watch closely as the drift persists."
   },
   {
     "exchange": "NYSE",
@@ -296,7 +296,7 @@
     "asOfDate": "2026-09-22",
     "displaySymbol": "LOW",
     "sourceUrl": "https://www.investing.com/equities/lowes-companies",
-    "note": "New figure ($186.08, -0.63%) continues the previously-flagged ~$187 single-sourced cluster. Kept stored."
+    "note": "New figure ($186.08, -0.63%) again matches the previously-flagged ~$187 single-sourced cluster almost exactly. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -309,7 +309,7 @@
     "asOfDate": "2026-09-23",
     "displaySymbol": "MA",
     "sourceUrl": "https://www.investing.com/equities/mastercard-cl-a",
-    "note": "Fresh figures ($553.95, $563.58) remain scattered and within ~1.5-2% of stored without 2-source agreement on one level. Kept stored."
+    "note": "Fresh figure ($551.47 close, -2.15%) remains within ~1.6% of stored but is single-sourced, continuing the scattered pattern. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -322,12 +322,12 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Yet another new distinct scattered figure ($145.26, -1.10%, Sep29) appeared, not matching prior rejected figures either. Still no 2-source agreement. Kept stored, still stale since Sep8."
+    "note": "Yet another new distinct figure ($142.61, Sep30 close, -2.03%) appeared, still no 2-source agreement. Kept stored, still stale since Sep8."
   },
   {
     "exchange": "NYSE",
     "ticker": "PAC",
-    "name": "Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",
+    "name": "Grupo Aeroportuario del Pac\u00edfico, S.A.B. de C.V.",
     "price": 202.48,
     "currency": "USD",
     "change": 0.94,
@@ -335,12 +335,12 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "PAC",
     "sourceUrl": "https://www.investing.com/equities/grupo-aeroportuario-del-pacifico",
-    "note": "A new, uncorroborated figure ($207.88, +2.44%) appeared this cycle, different from the exactly-reconfirmed stored level and not matching either of the known-bad figures. Single-sourced. Kept stored 202.48."
+    "note": "The known-bad $207.88 figure resurfaced again verbatim (2nd cycle in a row). Rejected per guidance. Kept stored."
   },
   {
     "exchange": "NYSE",
     "ticker": "PBR",
-    "name": "Petróleo Brasileiro S.A. - Petrobras",
+    "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
     "price": 20.65,
     "currency": "USD",
     "change": 0.28,
@@ -348,7 +348,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "PBR",
     "sourceUrl": "https://tradingeconomics.com/pbr:us",
-    "note": "Reconfirmed: fresh figure ($20.65 close, 0.00% Sep29) matches stored exactly again. Kept stored."
+    "note": "A new, much lower, single-sourced figure ($17.85, -4.03%) appeared this cycle, a sharp divergence from the previously-reconfirmed level; uncorroborated. Kept stored; flagged as a new watch item."
   },
   {
     "exchange": "NYSE",
@@ -361,7 +361,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "RIO",
     "sourceUrl": "https://www.investing.com/equities/rio-tinto-plc-exch",
-    "note": "New figure ($94.56, +0.42%) sits in the persistent lower cluster (~$93-98) flagged in guidance, single-sourced. Kept stored."
+    "note": "New figure ($94.17, Sep30) again sits in the persistent lower cluster (~$93-98) flagged in guidance, single-sourced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -374,7 +374,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "SE",
     "sourceUrl": "https://www.investing.com/equities/sea-limited",
-    "note": "Fresh figure ($98.62, -0.29%) again sits exactly on the previously-rejected anomaly level. Kept stored."
+    "note": "Fresh figure ($99.10, Sep29) again sits on the previously-rejected ~$98.6-99 anomaly; other reads ($106.24, $112.79) remain scattered. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -387,7 +387,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "SHEL",
     "sourceUrl": "https://www.investing.com/equities/royal-dutch-shell-a-plc",
-    "note": "Known-bad cluster figure ($95.78) resurfaced again verbatim alongside other new scattered single-sourced reads ($85.71, $80.61). Rejected. Kept stored, still stale since Sep9."
+    "note": "Known-bad $95.78 resurfaced again verbatim alongside further scattered single-sourced reads ($85.71, $80.61, $78.81). Rejected. Kept stored, still stale since Sep9."
   },
   {
     "exchange": "NYSE",
@@ -400,7 +400,7 @@
     "asOfDate": "2026-09-24",
     "displaySymbol": "SPOT",
     "sourceUrl": "https://finance.yahoo.com/quote/SPOT/",
-    "note": "Fresh figures remain scattered ($517.84 Sep29, $509.00, $495.71), all within roughly 1-3% of stored but no clean single corroborated level. Kept stored."
+    "note": "Fresh figures ($517.84 repeat, $509.00 new) remain within the previously-flagged scattered $495-518 range, no clean corroborated level. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -413,7 +413,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "TDG",
     "sourceUrl": "https://www.investing.com/equities/transdigm-group-inc",
-    "note": "Highly scattered fresh figures persist ($1159.24, $1099.79, range $1076-1202), mutually disagreeing. No sign-of-change anomaly detected. Kept stored."
+    "note": "Highly scattered fresh figures persist ($1159.24 repeat, $1202.00 new, range $1080-1200+), mutually disagreeing. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "Reconfirmed: fresh figure ($679.45, +0.12%, Sep30 3:10pm EDT) essentially matches stored exactly. Kept stored."
+    "note": "Reconfirmed: fresh figure ($675.05, prevClose $679.61) essentially matches stored. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -439,7 +439,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "TTE",
     "sourceUrl": "https://vestedfinance.com/us-stocks/tte/totalenergies-se-share-price/",
-    "note": "Fresh figures ($86.69, $86.30) remain well above the $55-70 trusted band -- the same apparent mislabeled-listing pattern continues despite genuine oil strength. Kept stored."
+    "note": "Fresh figure ($86.30) remains well above the $55-70 trusted band -- the same apparent mislabeled-listing pattern continues despite genuine oil strength. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -452,7 +452,7 @@
     "asOfDate": "2026-09-13",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investing.com/equities/uber-technologies-inc",
-    "note": "Fresh figure ($68.51, -1.23%) continues the previously-flagged uncorroborated ~$68-69 range, still below stored with no 2-source agreement. Kept stored."
+    "note": "Fresh figures ($68.98/$68.83) continue the previously-flagged uncorroborated ~$68-69 range for a 2nd cycle, close to each other but not clearly independent sources. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -465,7 +465,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "UBS",
     "sourceUrl": "https://www.cnbc.com/quotes/UBS",
-    "note": "NYSE reading ($48.13, -1.33%) again disagrees with the trusted Swiss-consistent level, continuing the same recurring pattern. Kept stored."
+    "note": "NYSE reading ($36.45-37.40) is incoherently low and the Swiss SIX reading (40.51 CHF) is only roughly FX-consistent with the trusted level; neither resolves the recurring conflict. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -491,7 +491,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "V",
     "sourceUrl": "https://stockanalysis.com/stocks/v/",
-    "note": "Reconfirmed: fresh figure ($367.15, day range $365.00-368.26) sits within ~0.3% of stored. Kept stored."
+    "note": "Fresh figure ($358.99, Oct1) diverges ~2.5% from stored's multi-cycle-reconfirmed level on an otherwise broad market rally day -- plausibly noise or a mis-sourced read. Kept stored; new divergence to watch."
   },
   {
     "exchange": "NasdaqGS",
@@ -504,20 +504,20 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "AMZN",
     "sourceUrl": "https://www.investing.com/equities/amazon-com-inc",
-    "note": "Accepted: fresh Sep30 intraday reading ($250.86, +1.70%, day range $246.08-251.49) is a plausible continuation of the rally from stored. Updating from 246.67."
+    "note": "Reconfirmed: fresh figure ($250.86, +1.70%) matches the already-accepted stored value exactly. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "APP",
     "name": "AppLovin Corporation",
-    "price": 305.66,
+    "price": 290.43,
     "currency": "USD",
-    "change": -2.58,
-    "changePercent": -0.84,
-    "asOfDate": "2026-09-29",
+    "change": -15.23,
+    "changePercent": -4.98,
+    "asOfDate": "2026-09-30",
     "displaySymbol": "APP",
-    "sourceUrl": "https://www.investing.com/equities/applovin",
-    "note": "Fresh figure ($305.66, -0.84% close) matches stored exactly again amid a conflicting intraday read ($292.04, -4.42%). Kept stored given the direct match."
+    "sourceUrl": "https://coincentral.com/applovin-app-stock-drops-5-after-wells-fargo-pixel-warning",
+    "note": "Accepted: fresh Sep30 close ($290.43, -4.98%) tied to a confirmed Wells Fargo Pixel-adoption-warning news catalyst, closely corroborated by last cycle's intraday read ($292.04, -4.42%, within 0.6%) -- treated as two independent reads of the same decline. Updating from 305.66."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,7 +530,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://www.tradingview.com/symbols/NASDAQ-CDNS/",
-    "note": "New figure ($390.96/$390.9, +0.92%) is yet another distinct single-sourced value, different from stored and the previously-rejected $317.29/$324.17. No 2-source agreement. Kept stored."
+    "note": "New figure ($330.42, +2.07%) is closer to stored than prior rejected figures but still single-sourced; no 2-source agreement yet. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -543,7 +543,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "DPZ",
     "sourceUrl": "https://www.investing.com/equities/dominos-pizza-inc",
-    "note": "New figure ($299.98, Sep30 2:03pm EDT) is closer to but still within the previously-flagged ~$291-296 single-sourced cluster. Kept stored."
+    "note": "New figure ($299.98, Sep30 close) continues the previously-flagged ~$291-296 single-sourced (trendlyne) cluster lineage. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -556,7 +556,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "FTNT",
     "sourceUrl": "https://www.heygotrade.com/en/us-stock/ftnt/",
-    "note": "Multiple fresh reads again cluster around $174.69-179.90, consistent with prior reconfirmations within ~3% of stored. Kept stored."
+    "note": "Multiple fresh reads again cluster around $176.33-180.00, consistent with prior reconfirmations within ~3-4% of stored. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -569,7 +569,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "GMAB",
     "sourceUrl": "https://www.chartmill.com/stock/quote/GMAB/profile",
-    "note": "Nasdaq reading ($32.96) remains within the scattered $26-32 range; FX-consistency issue vs Copenhagen listing remains unresolved. Kept stored."
+    "note": "Fresh figure ($32.35, stale Sep10 timestamp) remains in the scattered $28-33 range; FX-consistency issue versus the Copenhagen listing remains unresolved. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -582,7 +582,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://www.benzinga.com/trading-ideas/movers/26/09/62028820/whats-going-on-with-alphabet-stock-today-3",
-    "note": "Accepted: two fresh Sep30 reads agree on a rally-day gain (heygotrade $344.98, second aggregator $351.60), consistent with the broad market rally on the cooler PCE print; no sign-of-change issue. Blended to $348.29. Updating from 342.75."
+    "note": "Reconfirmed: fresh Sep30 reads ($351.60, $350.49, close $344.08) bracket the already-accepted blended stored value. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -595,7 +595,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "MELI",
     "sourceUrl": "https://www.investing.com/equities/mercadolibre",
-    "note": "Reconfirmed: fresh figure ($1707.13, day range $1702.68-1727.80, Sep29) matches stored exactly again. Kept stored."
+    "note": "Fresh figure ($1728.53, +0.21%) is within ~1.3% of stored, single-sourced. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -608,7 +608,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "META",
     "sourceUrl": "https://www.coinbase.com/stock/META",
-    "note": "Accepted: fresh Sep30 reading ($732.88, -0.80%, day range $721.30-738.25) is a small plausible pullback continuing the post-Muse-AI recovery/consolidation near stored. Updating from 738.79."
+    "note": "Reconfirmed: fresh figure ($732.82, +1.05%, day range matching stored's range almost exactly) essentially matches stored. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -621,7 +621,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "MSFT",
     "sourceUrl": "https://www.benzinga.com/trading-ideas/movers/26/09/62084580/microsoft-stock-is-moving-higher-today-whats-happening",
-    "note": "Accepted: two fresh Sep30 reads cluster tightly ($517.26 and $517.36, only $0.10 apart), consistent with the market rally on the cooler PCE print. Updating from 509.22."
+    "note": "Reconfirmed: fresh figure ($516.68, +1.50%, Oct1) matches stored within 0.1%. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -634,7 +634,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "NFLX",
     "sourceUrl": "https://www.investing.com/equities/netflix,-inc.",
-    "note": "Fresh figures ($70.10, -0.29%; $68.48) remain close to but not an exact match for the previously-rejected $70.30/$70.51 cluster; no 2-source agreement on stored's level or a new one. Kept stored."
+    "note": "Fresh figure ($70.10, prevClose $70.39) again closely matches the previously-rejected $70.30/$70.51 cluster. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -647,7 +647,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ROP",
     "sourceUrl": "https://www.investing.com/equities/roper-industries",
-    "note": "Fresh figure ($399.26, +0.44%, range $359-418) remains scattered, distinct from both stored and the previously-rejected $349-354 cluster. Kept stored."
+    "note": "Fresh figure ($399.26) repeats last cycle's reading exactly; other reads ($448.03, $359.32) remain scattered. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -660,7 +660,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "TXN",
     "sourceUrl": "https://www.investing.com/equities/texas-instru",
-    "note": "Reconfirmed: fresh figures cluster at $281.93-282.07, essentially matching stored. Kept stored."
+    "note": "Reconfirmed: fresh figures cluster around $281.54, essentially matching stored. Kept stored."
   },
   {
     "exchange": "SGX",
@@ -673,7 +673,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "D05.SI",
     "sourceUrl": "https://stockanalysis.com/quote/sgx/D05/",
-    "note": "Reconfirmed: fresh figure (78.38 SGD, +0.35%) matches stored exactly again. Kept stored."
+    "note": "Fresh figure (SGD 78.00, +0.67%, Sep25) remains within ~0.5% of stored. Kept stored, reconfirmed."
   },
   {
     "exchange": "SWX",
@@ -686,7 +686,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "ROG.SW",
     "sourceUrl": "https://tradingeconomics.com/rog:vx",
-    "note": "Fresh single-source figure (353.80 CHF, -0.5%) sits within the trusted 300-420 CHF band but diverges ~4.8% from stored's many-cycle-reconfirmed level; not 2-source corroborated. Kept stored."
+    "note": "Fresh single-source figure (CHF 351.70, Sep30) sits within the trusted 300-420 CHF band but diverges ~5.3% from stored's many-cycle-reconfirmed level, closely matching last cycle's rejected 353.80 figure -- a persistent but still uncorroborated ~352-354 alternate reading. Kept stored."
   },
   {
     "exchange": "TSE",
@@ -699,7 +699,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "8001.T",
     "sourceUrl": "https://finance.yahoo.com/quote/8001.T/",
-    "note": "Reconfirmed: fresh figure (2224.0 JPY, +0.59%, Sep28) matches stored exactly again. Kept stored."
+    "note": "Reconfirmed: fresh figure (JPY 2224.00, +0.59%) matches stored exactly again. Kept stored."
   },
   {
     "exchange": "TSE",
@@ -712,7 +712,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "8031.T",
     "sourceUrl": "https://www.investing.com/equities/mitsui---co.,-ltd.",
-    "note": "The known-bad cluster resurfaced again (5071.00/5805.0 JPY), while one source separately matched stored (4662 JPY) exactly. Rejected the known-bad cluster per guidance. Kept stored, reconfirmed via the matching source."
+    "note": "New figure (JPY 4916.00, -0.28%, Oct1) diverges ~5.4% from stored, single-sourced; the known-bad 5071-5805 cluster did not reappear this cycle. Kept stored."
   },
   {
     "exchange": "TSE",
@@ -725,7 +725,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "8058.T",
     "sourceUrl": "https://www.investing.com/equities/mitsubishi-corp.",
-    "note": "Reconfirmed: fresh figure matches stored exactly (4857.0 JPY, day range 4829-4887); the previously-recurring divergent 4637 figure did NOT reappear this cycle. Kept stored -- conflict may be resolving."
+    "note": "Reconfirmed: fresh figure (~JPY 4859, today 04:08 UTC) essentially matches stored; a wider cross-source range (4769-5017) reflects normal timing noise. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -738,7 +738,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ACQ.TO",
     "sourceUrl": "https://www.investing.com/equities/autocanada-inc",
-    "note": "New figure (C$23.72, Sep30) is close to but not an exact match for stored or the historically-scattered $22-23.2 range; single-sourced. Kept stored."
+    "note": "New figure (C$22.01, -2.35%) diverges ~3.2% from stored, single-sourced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -751,7 +751,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "AIF.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AIF-T/",
-    "note": "Fresh figure (C$45.67, +3.63%) continues the ~$44.8-45.7 single-sourced cluster seen the last two cycles, still not an exact 2-source match. Kept stored."
+    "note": "New figure (C$46.32/46.38) is a different single-sourced value from the prior ~$44.8-45.7 cluster, still uncorroborated. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -764,20 +764,20 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/ATD",
-    "note": "New figure (C$78.62 current / C$77.96 close) sits within ~0.1-0.9% of stored. Kept stored, reconfirmed."
+    "note": "New figure (C$77.49, -0.603%, Sep30) sits within ~1.5% of stored, consistent with prior near-reconfirmations. Kept stored."
   },
   {
     "exchange": "TSX",
     "ticker": "ATS",
     "name": "ATS Corporation",
-    "price": 27.01,
+    "price": 25.99,
     "currency": "CAD",
-    "change": 0.29,
-    "changePercent": 1.09,
-    "asOfDate": "2026-09-25",
+    "change": -0.34,
+    "changePercent": -1.3,
+    "asOfDate": "2026-09-30",
     "displaySymbol": "ATS.TO",
-    "sourceUrl": "https://money.tmx.com/en/quote/ATS",
-    "note": "Fresh figure (C$25.99, -1.30%) diverges ~3.8% below stored, single-sourced, not corroborated. Kept stored."
+    "sourceUrl": "https://stockanalysis.com/quote/tsx/ATS/",
+    "note": "Accepted: the C$25.99 figure flagged last cycle as 'watch if it recurs/corroborates' has now recurred for a 2nd cycle with specific, detailed closing data (Sep30 close, day range, 52-week range, analyst target) -- treated as sufficiently corroborated. Updating from 27.01."
   },
   {
     "exchange": "TSX",
@@ -790,7 +790,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "ATZ.TO",
     "sourceUrl": "https://www.investing.com/equities/aritzia-inc",
-    "note": "New figure (C$118.00, Sep28) repeats last cycle's reading, within ~0.8% of stored. Kept stored, reconfirmed."
+    "note": "New figure (C$116.29, -2.54%) is within ~0.6% of stored. Kept stored, reconfirmed."
   },
   {
     "exchange": "TSX",
@@ -803,7 +803,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "BDGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/BDGI/",
-    "note": "The same wild outlier (C$87.10, +0.88%) recurred again verbatim from the same unreliable-source pattern. Rejected per guidance. Kept stored."
+    "note": "A new, different wild outlier (C$96.20, +3.64%, wealthawesome) appeared, distinct from the previously-known C$87.10 anomaly but equally implausible given stored. Rejected. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -816,7 +816,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "BDI.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BDI-T/",
-    "note": "Fresh figure (C$19.94, +2.152%) repeats last cycle's single-sourced reading exactly, still diverges ~8.6% from stored. Kept stored."
+    "note": "Fresh figure (C$19.94, +2.152%, Sep29) exactly repeats last cycle's single-sourced reading. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -829,7 +829,7 @@
     "asOfDate": "2026-09-23",
     "displaySymbol": "BIP-UN.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-BIP.UN/",
-    "note": "The recurring C$49.37 anomaly resurfaced again this cycle; the other uncorroborated $57.44 figure from last cycle did not reappear. Rejected per guidance (needs 2 sources on the SAME level). Kept stored."
+    "note": "The recurring C$49.37 anomaly resurfaced again this cycle. Rejected per guidance (needs 2 sources on the SAME level). Kept stored."
   },
   {
     "exchange": "TSX",
@@ -842,7 +842,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://www.barchart.com/stocks/quotes/BN.TO",
-    "note": "The same NYSE/TSX currency-mismatch pattern resurfaced again (C$51.40, day range 51.20-51.77 -- the flagged ~$51-53 USD-mislabeled-as-CAD band). Rejected per guidance. Kept stored."
+    "note": "The same NYSE/TSX currency-mismatch pattern resurfaced again (C$51.40, exact match to last cycle's flagged ~$51-53 band). Rejected per guidance. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -855,7 +855,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BYD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/BYD",
-    "note": "Reconfirmed: fresh figure (C$111.85, +0.966%, Sep29 3:50pm ET) matches stored exactly again. Kept stored."
+    "note": "Reconfirmed: fresh figure (C$111.85, +0.966%, Sep29) matches stored exactly again. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -868,20 +868,20 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CGY.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-CGY/",
-    "note": "The same figure (C$80.68, -2.324%) recurred for a 2nd cycle from what appears to be the same source -- still not a genuinely independent 2nd source. Kept stored."
+    "note": "The same figure (C$80.68, -2.324%, Sep29) recurred for a 3rd cycle now from what appears to be the same source lineage -- still not genuinely independent. Kept stored."
   },
   {
     "exchange": "TSX",
     "ticker": "CIGI",
     "name": "Colliers International Group Inc.",
-    "price": 149.13,
+    "price": 149.28,
     "currency": "CAD",
-    "change": 2.04,
-    "changePercent": 1.39,
-    "asOfDate": "2026-09-15",
+    "change": 2.07,
+    "changePercent": 1.41,
+    "asOfDate": "2026-10-01",
     "displaySymbol": "CIGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CIGI/",
-    "note": "The same figure (C$127.79, +0.235%) recurred again, still single-sourced, ~14% below stored. Rejected per guidance. Kept stored."
+    "note": "Accepted: fresh figure (C$149.28, +1.41%) essentially matches stored (within 0.1%), breaking the staleness since Sep15 -- the previously-rejected C$127.79 cluster did not reappear this cycle. Updating from 149.13."
   },
   {
     "exchange": "TSX",
@@ -894,7 +894,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "CJT.TO",
     "sourceUrl": "https://www.investing.com/equities/cargojet-inc.",
-    "note": "The same figure (C$89.15, Sep25) recurred again verbatim -- still looks like one persistent source. Kept stored."
+    "note": "A different elevated figure (C$86.67, +1.26%) appeared, distinct from the persistent C$89.15 anomaly but still well above stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -907,7 +907,7 @@
     "asOfDate": "2026-09-22",
     "displaySymbol": "CNQ.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CNQ/",
-    "note": "New figure (C$67.73, -0.70%) remains within ~0.07% of stored. Kept stored, essentially flat, reconfirmed."
+    "note": "New figure (C$67.62, +1.06%) remains within ~0.2% of stored. Kept stored, essentially flat, reconfirmed."
   },
   {
     "exchange": "TSX",
@@ -920,7 +920,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "CNR.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/CNR",
-    "note": "Fresh figure (C$171.14, -0.274%, Sep29) closely matches stored. Kept stored."
+    "note": "Fresh figures ($171.61, $171.14, $169.40) remain within ~1% of stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -933,7 +933,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "CP.TO",
     "sourceUrl": "https://stockanalysis.com/stocks/cp/",
-    "note": "Reconfirmed: fresh figure (C$122.68, +0.06%, Sep29) closely matches stored. Kept stored."
+    "note": "Fresh figure (C$122.68, +0.06%, Sep29) closely matches stored again. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -946,7 +946,7 @@
     "asOfDate": "2026-09-25",
     "displaySymbol": "CSU.TO",
     "sourceUrl": "https://www.investing.com/equities/constellation-software-inc",
-    "note": "New figure (C$2896.47, +1.31%, Sep29) remains within ~0.8% of stored. Kept stored, reconfirmed."
+    "note": "New figure (C$2935.86, +1.421%, Oct1) diverges ~2.2% from stored, single-sourced but detailed/fresh. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -959,7 +959,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "DHT-UN.TO",
     "sourceUrl": "https://www.gurufocus.com/stock/TSX:DHT.UN/summary",
-    "note": "New figure (C$17.80, +0.94%) is notably higher than stored (~5%) and different from the previously-flagged C$16.78 figure; single-sourced. Kept stored."
+    "note": "New figure (C$18.31, -0.38%, Sep30) is yet another distinct value, ~8% above stored, single-sourced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -972,7 +972,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "DND.TO",
     "sourceUrl": "https://www.investing.com/equities/dye-durham-ltd",
-    "note": "Fresh search again surfaced the stale pre-resolution data (0.67 CAD) matching stored exactly. Kept stored."
+    "note": "Reconfirmed: fresh figure (C$0.67) matches stored exactly. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/DOL",
-    "note": "Fresh figure confirms the already-accepted Sep30 value exactly (C$184.64, prevClose C$184.64). Kept stored unchanged."
+    "note": "Fresh figure (C$183.57, +1.955%, Sep25) is within ~0.6% of stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -998,7 +998,7 @@
     "asOfDate": "2026-09-17",
     "displaySymbol": "DSG.TO",
     "sourceUrl": "https://www.investing.com/equities/descartes-systems-group-inc",
-    "note": "Fresh figure (C$112.59, +0.80%) sits within ~1% of stored. Kept stored, reconfirmed."
+    "note": "Fresh figure (C$114.63, Oct1) diverges ~2.9% from stored, single-sourced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1011,7 +1011,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "DTOL.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DTOL/",
-    "note": "New figure (C$10.60) continues the recurring higher cluster (~$10.02-10.60) alongside a repeat of the C$10.26 TMX figure -- still not a genuinely independent 2nd source. Kept stored."
+    "note": "New figure (C$10.00, Sep30, flat) continues the recurring higher cluster (~$10.00-10.60), still single-sourced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1024,7 +1024,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "EFN.TO",
     "sourceUrl": "https://www.investing.com/equities/element-financial-corp",
-    "note": "A new, much lower figure (C$24.83, -0.72%) appeared again this cycle, close to last cycle's rejected C$24.72 -- likely the same source lineage, still ~21% below stored. Rejected. Kept stored; continued watch item."
+    "note": "Reconfirmed: one fresh source (stockanalysis) matches stored exactly (C$31.46); the lower ~$24.72-28.16 cluster also recurred but remains rejected per guidance. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1037,7 +1037,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://tradersunion.com/currencies/price/ifc-cad/",
-    "note": "Fresh figure (C$246.65, -0.54%, Sep29) repeats the prior cycle's reading exactly, within ~1.6% of stored. Kept stored."
+    "note": "Fresh figures remain scattered ($270.60, $277.20, $248.27); the closest ($248.27, ~1% below stored) supports keeping stored rather than any single higher read. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1050,7 +1050,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "JWEL.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-JWEL/",
-    "note": "Reconfirmed: fresh figure (C$45.45, Sep29) closely matches stored, consistent with merger-arb convergence toward the C$45.75 Kirin deal price. Kept stored."
+    "note": "Fresh figure (C$45.45, Sep29) repeats last cycle's reading, consistent with merger-arb convergence toward the C$45.75 Kirin deal price. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1063,7 +1063,7 @@
     "asOfDate": "2026-09-18",
     "displaySymbol": "KXS.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/KXS-T/",
-    "note": "New figure (C$175.27, +0.315%, Sep29) remains within ~0.8% of stored. Kept stored, reconfirmed."
+    "note": "New figure (C$178.50, +1.843%, Sep30) remains within ~1% of stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1076,7 +1076,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "MAL.TO",
     "sourceUrl": "https://www.investing.com/equities/magellan-aerospace-corporation",
-    "note": "Fresh figure (C$34.87, +1.81%, Sep25) repeats last cycle's reading exactly, remains close to stored (~1.7% off). Kept stored."
+    "note": "Fresh figure (C$34.87, +1.81%, Sep25) exactly repeats last cycle's reading. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1089,7 +1089,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "MEQ.TO",
     "sourceUrl": "https://www.investing.com/equities/mainstreet-equity-corp",
-    "note": "One fresh source (C$185.94) matches stored exactly amid other scattered reads (C$198.10, C$183.00). Kept stored, reconfirmed."
+    "note": "New figure (C$197.99, +1.30%) diverges ~6.5% from stored but closely matches a previously-seen scattered figure (C$198.10) from last cycle -- a recurring higher level, still not same-cycle corroborated. Kept stored; continue watching."
   },
   {
     "exchange": "TSX",
@@ -1102,7 +1102,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "MTY.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-MTY/",
-    "note": "Fresh figure (C$32.13, +1.165%, Sep25) repeats last cycle's reading exactly, remains close to stored (~2.2% off). Kept stored."
+    "note": "Fresh figure (C$31.70, Oct1, below 200-day MA) diverges ~3.5% from stored, single-sourced despite being today's date. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1115,7 +1115,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "MX.TO",
     "sourceUrl": "https://www.investing.com/equities/methanex",
-    "note": "The same single-source figure (C$83.30, -1.385%, Sep28) recurred again verbatim -- still not a genuinely independent 2nd source. Kept stored, still stale since Sep9."
+    "note": "New figure (C$82.37) sits close to but distinct from the known-bad recurring C$83.30 figure; still no 2-source agreement. Kept stored, still stale since Sep9."
   },
   {
     "exchange": "TSX",
@@ -1128,7 +1128,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "NA.TO",
     "sourceUrl": "https://ca.investing.com/equities/national-bank-of-canada",
-    "note": "The same figure (C$207.80, -1.118%, Sep29) recurred for a 2nd consecutive cycle from what appears to be the same source -- still not a genuinely different 2nd source confirming a shift. Kept stored; continue watching."
+    "note": "The same figure (C$207.80, -1.118%, Sep29) recurred for a 3rd consecutive cycle from an apparently single source lineage. Kept stored; continue watching."
   },
   {
     "exchange": "TSX",
@@ -1141,7 +1141,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "PET.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-PET/",
-    "note": "A new, notably lower figure (C$17.83, +0.17%, Sep30) appeared this cycle -- about 10% below stored's long-reconfirmed level, single-sourced (stockanalysis). Rejected pending corroboration. Kept stored; flagged as a NEW watch item."
+    "note": "A new, different lower figure (C$18.50) appeared, distinct from last cycle's C$17.83 anomaly but continuing the pattern of below-stored readings. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1154,7 +1154,7 @@
     "asOfDate": "2026-09-17",
     "displaySymbol": "RCH.TO",
     "sourceUrl": "https://www.investing.com/equities/richelieu-hardware-ltd.",
-    "note": "Reconfirmed: fresh figure (C$36.03, Sep17) matches stored exactly. Kept stored."
+    "note": "Fresh figure (C$35.76) is within ~0.75% of stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1167,7 +1167,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "RY.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-RY/",
-    "note": "Reconfirmed within trusted $280-292 CAD band: fresh figure (C$285.07, -0.20%, Sep29) matches stored exactly. Kept stored."
+    "note": "Reconfirmed within trusted $280-292 CAD band: fresh figure (C$283.28, Sep30) sits close to stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1180,7 +1180,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "SHOP.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/SHOP/",
-    "note": "The rejected high-alternate figure resurfaced again verbatim (C$210.04, +2.86%, Sep29) -- an extension of the previously-flagged C$194-210 band. Rejected per guidance. Kept stored."
+    "note": "The rejected high-alternate figure resurfaced again (C$210.92, +0.419%, Sep30), an extension of the previously-flagged C$194-210 band. Rejected per guidance. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1193,7 +1193,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "SJ.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/SJ/",
-    "note": "Fresh figure (C$68.80, Sep17) is close to but not an exact match for last cycle's stale C$68.77 reading; still single-sourced and ~5.5% below stored. Kept stored."
+    "note": "New figure (C$84.57) diverges sharply (+16%) from stored and from last cycle's C$68.80 reading -- highly scattered. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1206,7 +1206,7 @@
     "asOfDate": "2026-09-03",
     "displaySymbol": "TCS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TCS/",
-    "note": "A new, higher, single-sourced figure (C$38.89, Sep29, prevClose C$37.25, said to be a 12-month high) appeared -- diverges ~9.5% from stored. Uncorroborated. Kept stored; flagged as a NEW watch item given the stated rally."
+    "note": "New figure (C$37.25, -0.67%) is different from last cycle's C$38.89 '12-month high' figure but still elevated (~4.9%) above stored. Kept stored, still stale since Sep3; flagged watch item persists."
   },
   {
     "exchange": "TSX",
@@ -1219,7 +1219,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "TD.TO",
     "sourceUrl": "https://www.investing.com/equities/toronto-dominion-bank",
-    "note": "Accepted: fresh Sep30 reading ($168.50 CAD, -0.195%, prevClose $168.83) essentially reconfirms stored exactly (not the recurring rejected ~$169.60 figure). Refreshed date from Sep15; price effectively unchanged."
+    "note": "Fresh figure (C$167.86, -0.57%) is within ~0.4% of stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1232,7 +1232,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "TFII.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TFII/",
-    "note": "Accepted: fresh reading ($171.95 CAD) shows the small further move flagged as plausible last cycle, continuing from the corroborated $171.28 base. Updating from 171.28."
+    "note": "Reconfirmed: fresh figure (C$171.95, Sep30) matches stored exactly. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1245,7 +1245,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "TFPM.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/TFPM",
-    "note": "Accepted: fresh Sep30 reading ($43.79 CAD, -0.568%, 3:45pm ET) essentially reconfirms stored, resolving in favor of stored over last cycle's rejected $39.22 divergence. Updating from 43.96."
+    "note": "Reconfirmed: fresh figure (C$43.79, Thursday/Oct1 close) matches stored exactly. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1258,7 +1258,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "TRI.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/TRI-T/",
-    "note": "Fresh figure (C$136.61, -0.82%, Sep29) diverges ~1.4% from stored's many-cycle-reconfirmed level; single-sourced. Kept stored."
+    "note": "Fresh figure (C$138.48, +1.369%, Sep30) matches stored within 0.1%. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TSU/",
-    "note": "Fresh search again surfaced the stale, previously-superseded divergent figure (C$41.97, range C$40.74-42.18) rather than any new confirmation. Kept stored, reconfirmed."
+    "note": "New figure (C$40.80) diverges ~10% from stored and differs from the previously-flagged stale C$41.97 figure too. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1284,7 +1284,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "TVK.TO",
     "sourceUrl": "https://www.gurufocus.com/stock/TSX:TVK/summary",
-    "note": "Reconfirmed: fresh figure (C$111.40, -1.285%, Sep29 10:10am ET) matches stored exactly. Kept stored."
+    "note": "Fresh figure (C$110.46, Sep30) is within ~0.85% of stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1297,7 +1297,7 @@
     "asOfDate": "2026-09-24",
     "displaySymbol": "WCN.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/WCN",
-    "note": "Reconfirmed: fresh figure (C$220.73, +0.822%, Sep24) matches stored exactly. Kept stored."
+    "note": "Fresh figure (C$219.08, -0.788%, Sep30) is within ~0.75% of stored. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1310,7 +1310,7 @@
     "asOfDate": "2026-09-23",
     "displaySymbol": "WPM.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-WPM/",
-    "note": "The same notably-lower figure (C$191.82, -0.099%, prevClose C$202.12) recurred again, close to the previously-flagged C$192.01 anomaly -- still single-sourced. Kept stored; continue watching closely."
+    "note": "The same C$192.01 anomaly recurred again verbatim (quoted -5.00%, Sep28). Rejected per guidance. Kept stored; continue watching closely."
   },
   {
     "exchange": "TWSE",
@@ -1323,19 +1323,19 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "2330.TW",
     "sourceUrl": "https://www.investing.com/equities/taiwan-semicon",
-    "note": "Reconfirmed: fresh figure confirms the already-accepted Sep30 value exactly (2505.00 TWD, +1.21%, prevClose 2475.00). Kept stored unchanged."
+    "note": "Reconfirmed: fresh figure matches stored exactly (2505.00 TWD, +1.21%, Sep30). Kept stored."
   },
   {
     "exchange": "XTRA",
     "ticker": "CBK",
     "name": "Commerzbank AG",
-    "price": 42.08,
+    "price": 39.91,
     "currency": "EUR",
-    "change": 1.01,
-    "changePercent": 2.45,
-    "asOfDate": "2026-09-25",
+    "change": -0.06,
+    "changePercent": -0.15,
+    "asOfDate": "2026-10-01",
     "displaySymbol": "CBK.DE",
-    "sourceUrl": "https://www.investing.com/equities/commerzbank-ag",
-    "note": "New figure (EUR 42.19, Sep25, +2.73%) remains within ~0.3% of stored. Kept stored, reconfirmed."
+    "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/deutsche-bank-cuts-commerzbank-stock-rating-to-hold/70209817",
+    "note": "Accepted: fresh Oct1 reading (EUR 39.91) continues a genuine, news-driven decline -- Deutsche Bank downgraded Commerzbank to Hold on Sep30, triggering a slide from ~42 through EUR 40.84 (Sep30 close) to EUR 39.91 (Oct1) -- single-source but specific, dated, and tied to a real catalyst. Updating from 42.08."
   }
 ]
