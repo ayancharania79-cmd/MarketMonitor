@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Weak September jobs report reshapes Fed-hike odds",
-    "headline": "Futures jump as a big September jobs miss slashes the odds of an October Fed rate hike",
-    "summary": "US payrolls rose just 29,000 in September, well short of the ~90,000 expected, while unemployment ticked up to 4.2%. Bond traders quickly pared back rate-hike bets — odds of an October Fed hike fell to roughly 16% from about 64% a week earlier — and the 10-year Treasury yield eased to 5.18%. Futures jumped on the news: Dow and S&P 500 contracts rose 0.8%, Nasdaq-100 futures climbed 1%, with the S&P 500 touching 7,692 (+0.34%) in early trading. The reaction is a classic \"bad news is good news\" move: a cooling labor market reduces the chance of further Fed tightening, a relief for rate-sensitive sectors (banks, industrials, growth/tech) after a month of surging long-term yields.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
+    "ticker": "MARKET", "exchange": "", "company": "Tech leads a jobs-data relief rally to close the week",
+    "headline": "Nasdaq surges 1.2% as Nvidia hits an intraday record, Dow and S&P 500 also gain on soft jobs data",
+    "summary": "Stocks jumped Friday to close the week: the Nasdaq Composite surged 1.2% (Nvidia touched an intraday record), the S&P 500 gained 0.7%, and the Dow added 0.5%. The move followed Thursday's news that September payrolls rose just 29,000 (vs. ~84-90K expected) with unemployment up to 4.2% — weak enough to cement expectations the Fed stays on hold at its October meeting, a relief after a month of surging long-term Treasury yields. Despite Friday's strong session, the week itself was choppy for the broader market (the S&P 500 and Dow both still show a loss on the week) even as AI/semiconductor strength kept carrying the Nasdaq.",
+    "url": "https://www.cnbc.com/2026/10/01/stock-market-today-live-updates-.html",
     "date": "2026-10-02"
   }
 ]
