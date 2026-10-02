@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Q4 opens flat-to-up as Treasury yields retreat from 20-year highs",
-    "headline": "S&P 500 and Nasdaq close out a choppy first session of October with modest gains as bond yields ease back",
-    "summary": "Stocks clawed back earlier weakness to post small gains on the first trading day of Q4: the S&P 500 added 0.19% to close at 7,666.45, the Dow inched up 20.51 points (+0.04%) to 50,926.56, and the Nasdaq Composite eked out a 0.04% gain to 26,871.60. The late-session comeback came as 30-year Treasury yields retreated from their highest levels in more than two decades, and chip stocks extended gains on Micron's upbeat earnings and forecast. The session underscored how sensitive equities remain to the bond market — yields easing, even modestly, was enough to flip an early wobble into a positive close.",
-    "url": "https://www.cnbc.com/2026/09/30/stock-market-today-live-updates.html",
-    "date": "2026-10-01"
+    "ticker": "MARKET", "exchange": "", "company": "Weak September jobs report reshapes Fed-hike odds",
+    "headline": "Futures jump as a big September jobs miss slashes the odds of an October Fed rate hike",
+    "summary": "US payrolls rose just 29,000 in September, well short of the ~90,000 expected, while unemployment ticked up to 4.2%. Bond traders quickly pared back rate-hike bets — odds of an October Fed hike fell to roughly 16% from about 64% a week earlier — and the 10-year Treasury yield eased to 5.18%. Futures jumped on the news: Dow and S&P 500 contracts rose 0.8%, Nasdaq-100 futures climbed 1%, with the S&P 500 touching 7,692 (+0.34%) in early trading. The reaction is a classic \"bad news is good news\" move: a cooling labor market reduces the chance of further Fed tightening, a relief for rate-sensitive sectors (banks, industrials, growth/tech) after a month of surging long-term yields.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
+    "date": "2026-10-02"
   }
 ]
