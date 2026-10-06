@@ -432,14 +432,14 @@
     "exchange": "NYSE",
     "ticker": "TTE",
     "name": "TotalEnergies SE",
-    "price": 61.42,
+    "price": 84.37,
     "currency": "USD",
-    "change": 0.98,
-    "changePercent": 1.62,
-    "asOfDate": "2026-09-16",
+    "change": -0.03,
+    "changePercent": -0.04,
+    "asOfDate": "2026-10-05",
     "displaySymbol": "TTE",
-    "sourceUrl": "https://vestedfinance.com/us-stocks/tte/totalenergies-se-share-price/",
-    "note": "Agent claimed resolution to 62.11 (+1.12%) this cycle, calling it the first clean NYSE-ADR-range reading in many cycles. But independent re-verification again surfaced the long-flagged known-bad 4-89 band as the most recent data found (consistent with the Euronext-EUR-mismatch pattern seen repeatedly since Sep16). Neither figure is clearly corroborated right now; reverted to the long-standing trusted baseline 61.42 pending a cleaner resolution. Flagging for a future cycle: this bad band has now recurred so consistently across many weeks that it may be worth directly investigating (e.g. via market cap / shares-outstanding math) whether 61.42 itself has become stale rather than assuming the 4-89 reads are always wrong."
+    "sourceUrl": "https://www.google.com/finance/quote/TTE:NYSE",
+    "note": "RESOLVED: the long-standing $55-70 baseline this pipeline treated as correct for weeks appears to have been the error, not the recurring $84-89 band. Independently verified via (1) a clean, dated NYSE close quote (84.37, Oct5, day range 83.57-85.21, prevClose 84.40) and (2) market-cap math (~$199.36B market cap / ~2.277B shares outstanding = ~$87.6/share), both converging on the 84-89 range. Updated to 84.37; the old 61.42 baseline was likely itself stale/wrong. Future cycles should treat ~$80-90 as the plausible range for this ticker, not $55-70."
   },
   {
     "exchange": "NYSE",
