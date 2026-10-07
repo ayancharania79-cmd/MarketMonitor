@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Record-high streak snaps as oil and yields climb",
-    "headline": "Stocks pull back from records as Brent crude tops $100 on Houthi attacks and traders await Fed minutes",
-    "summary": "The four-session record-high streak broke Wednesday morning: the Dow fell 0.9% to 51,056.58, the S&P 500 dropped roughly 0.5-0.6%, and the Nasdaq slid 0.7-0.9%, giving back part of Tuesday's gains. Brent crude held above $100/barrel following renewed Houthi attacks in the Middle East, while Treasury yields -- though off Tuesday's highs -- stayed near multidecade levels. Investors were also looking ahead to the release of the Fed's September meeting minutes for more clarity on the rate-path outlook. Despite the pullback, the S&P 500 had closed higher on each of the first four trading days of October.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-7-dow-sp-500-nasdaq-080241833.html",
+    "ticker": "MARKET", "exchange": "", "company": "Bond yields and oil pressure stocks lower on Fed minutes",
+    "headline": "Dow drops 341 points as 10-year yield nears 2002 highs and Fed minutes point to another hike",
+    "summary": "Stocks closed lower Wednesday after Tuesday's records: the Dow fell 0.66% to 51,179.87, the S&P 500 dropped 0.22% to 7,801.77, and the Nasdaq slipped 0.22% to 27,538.69 -- with the small-cap Russell 2000 the weakest major gauge, down 1.31%. Over two-thirds of S&P 500 issues declined. The main pressure point was the bond market: the 10-year Treasury yield hovered near its highest level since 2002 ahead of a $39B bond auction, and the Fed's September meeting minutes showed policymakers still expect another rate increase before year-end, though with no specific timing (odds of an October hike remained modest, around 17-20%). Oil prices added to the pressure, with Brent back near $100/barrel.",
+    "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html",
     "date": "2026-10-07"
   }
 ]
