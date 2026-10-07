@@ -23,7 +23,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ISP.MI",
     "sourceUrl": "https://www.etoro.com/markets/isp.mi",
-    "note": "Fresh eToro read again shows EUR6.4170, matching stored almost exactly. Treated as reconfirmation only (no change applied); kept stored (6.417)."
+    "note": "Fresh eToro reads scatter across EUR5.48-6.45 undated snapshots; one (6.42) sits close to stored but from the same non-independent source family. Not treated as new corroboration; kept stored (6.417)."
   },
   {
     "exchange": "BME",
@@ -36,7 +36,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://tradingeconomics.com/bbva:sm",
-    "note": "Fresh read (EUR21.685, -0.30%) is an exact repeat of the previously-rejected figure, still with no second source agreeing with stored. Kept stored (23.87)."
+    "note": "Fresh reads scatter (EUR21.28 Investing.com, EUR22.82/24.20 eToro), none agreeing with each other or with stored. Kept stored (23.87)."
   },
   {
     "exchange": "CPSE",
@@ -49,7 +49,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "NOVO-B.CO",
     "sourceUrl": "https://www.marketscreener.com/quote/stock/NOVO-NORDISK-A-S-1412980/quotes/",
-    "note": "Fresh reads scatter badly across sources/currencies implied (DKK261.60 +5.37%, DKK435 +2.62%, DKK253.50 +0.20%), no two agreeing. Kept stored (249.65)."
+    "note": "Fresh eToro reads cluster near DKK253.00-253.50 (same source family) while other eToro/SimplyWallSt reads scatter DKK228-316; no genuine independent 2-source agreement. Kept stored (249.65)."
   },
   {
     "exchange": "ENXTAM",
@@ -62,12 +62,12 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://stockanalysis.com/stocks/asml/",
-    "note": "Trouble ticker: fresh reads again scatter (EUR1,506.00, EUR1,503.20 +0.83%, EUR1,190.40 +0.90%), no 2-source agreement, consistent with persistent single-source-cluster pattern. Kept stored (1478.4)."
+    "note": "Trouble ticker: fresh reads again scatter (EUR1,503.20, EUR1,726.80, EUR1,564.40, $1,747.28 USD-listing), no 2-source agreement. Kept stored (1478.4)."
   },
   {
     "exchange": "ENXTPA",
     "ticker": "MC",
-    "name": "LVMH Mo\u00ebt Hennessy - Louis Vuitton, Soci\u00e9t\u00e9 Europ\u00e9enne",
+    "name": "LVMH Moët Hennessy - Louis Vuitton, Société Européenne",
     "price": 377.85,
     "currency": "EUR",
     "change": -3.2,
@@ -75,12 +75,12 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MC.PA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/armani-stake-talk-and-analyst-downgrades-frame-lvmh-s-pre-earnings-moment/70226529",
-    "note": "Fresh reads scatter among themselves (EUR475.20 +0.19%, EUR464.95 +0.70%, EUR453.55 -4.31%), no internal agreement, none close to stored. Kept stored (377.85)."
+    "note": "Fresh reads scatter among themselves (EUR396.85, EUR417-514 range, EUR453.55, EUR717.30 stale), no internal agreement, none close to stored. Kept stored (377.85)."
   },
   {
     "exchange": "ENXTPA",
     "ticker": "RMS",
-    "name": "Herm\u00e8s International Soci\u00e9t\u00e9 en commandite par actions",
+    "name": "Hermès International Société en commandite par actions",
     "price": 1269.5,
     "currency": "EUR",
     "change": -40.5,
@@ -88,7 +88,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "RMS.PA",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/herm-s-international-stock-falls-3-09-percent-ahead-of-sales-update/70231670",
-    "note": "Fresh reads disagree with each other (EUR1,609.50 -0.65% vs EUR1,354.50 +0.37%), neither close to stored, no 2-source agreement. Kept stored (1269.5)."
+    "note": "Fresh dated reads (EUR1,643 Jul24, EUR1,645.50 Apr22) agree closely with each other but both are stale and sit far above stored; no current-dated corroboration. Kept stored (1269.5)."
   },
   {
     "exchange": "ENXTPA",
@@ -101,7 +101,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SAF.PA",
     "sourceUrl": "https://www.investing.com/equities/safran",
-    "note": "Fresh reads disagree with each other (EUR353.10 +2.22% vs EUR340.90 +0.80%, with a mention of a ~EUR303 range), no clean agreement. Kept stored (328.9)."
+    "note": "Fresh reads disagree widely (EUR307.23, EUR357.40, EUR324.70, EUR270.00, EUR361 Aug19), no 2-source agreement near stored. Kept stored (328.9)."
   },
   {
     "exchange": "LSE",
@@ -114,7 +114,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "HLMA.L",
     "sourceUrl": "https://www.investing.com/equities/halma",
-    "note": "Trouble ticker (rejected 11+ cycles): the flagged GBp3604.0 single-source cluster recurred again, plus a second distinct source (bid 3426.00p/ask 3430.00p) that does NOT corroborate it -- the two disagree with each other, so still no genuine 2-source agreement. Kept stored (3760.0)."
+    "note": "Trouble ticker: fresh investsmart reads reproduce the same flagged 3,576p-3,604p cluster yet again, still single-source-family. Kept stored (3760.0)."
   },
   {
     "exchange": "LSE",
@@ -127,7 +127,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "RR.L",
     "sourceUrl": "https://www.digrin.com/stocks/detail/RR.L/price",
-    "note": "Fresh synthesis read (1432.60p, day range 1426.80-1464.80) is single-sourced and doesn't match stored. However, LSE RNS buyback-transaction filings (an independent source family) from 2026 show Rolls-Royce executing buybacks at 1525.60p-1570.40p, which brackets and supports stored (1529.4) far better than the conflicting 1432.60 read. Kept stored (1529.4)."
+    "note": "Fresh reads scatter (1,502-1,505p Sep22 dated, 1,552.5p Aug10, others undated); no 2-source agreement and both dated reads predate stored's Oct2 baseline. Kept stored (1529.4)."
   },
   {
     "exchange": "NYSE",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ametek-stock-gained-1-14-percent-as-rbc-set-a-usd-291-target/70228557",
-    "note": "Fresh single-source read ($253.66) gives no change% and mixes historical dates; not corroborated. Kept stored (251.93)."
+    "note": "Fresh reads scatter ($243.22 Aug19, implied ~$208 Fintel, $253.66 Aug8), no 2-source agreement. Kept stored (251.93)."
   },
   {
     "exchange": "NYSE",
@@ -153,7 +153,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "APG",
     "sourceUrl": "https://www.investing.com/equities/api-group-corp",
-    "note": "Fresh reads are stale 2025 data ($34.99 Sept2025, prior closes $37.34/$37.51), nothing current. Kept stored (40.48)."
+    "note": "Most recent dated read ($37.41 Sep19) is single-sourced and below stored; other reads are older/higher. No override. Kept stored (40.48)."
   },
   {
     "exchange": "NYSE",
@@ -166,7 +166,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "BRK.B",
     "sourceUrl": "https://hapi.trade/en/stock/brk.b",
-    "note": "Fresh single-source read ($502.98, +0.54%, today's range $499.50-$503.77) is tightly consistent with stored ($502.65) -- essentially a reconfirmation with a small uptick. Accepted."
+    "note": "Fresh undated read ($502.98) matches stored almost exactly; other dated reads (Aug21 $496.86, Apr10 $484.99) are older/lower. Treated as reconfirmation. Kept stored (502.98)."
   },
   {
     "exchange": "NYSE",
@@ -179,7 +179,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CSL",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403280/CSL/carlisle-companies-inc/",
-    "note": "Fresh read ($319.03, -3.71%) is explicitly dated October 16, 2025 -- stale by nearly a year. Trouble ticker (persistent scattered/single-sourced); kept stored (352.14)."
+    "note": "Trouble ticker: new single-source read ($329.34, Oct3 dated) is plausible but uncorroborated; no 2nd source. Kept stored (352.14)."
   },
   {
     "exchange": "NYSE",
@@ -192,7 +192,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "DHR",
     "sourceUrl": "https://www.investing.com/equities/danaher-corp",
-    "note": "Trouble ticker: fresh reads disagree with each other ($175.15 vs $200.14 +0.19%), neither corroborated, continuing the scattered pattern. Kept stored (214.06)."
+    "note": "Trouble ticker: fresh reads reproduce the same disagreeing $200.14/$175.15 cluster seen previously. Kept stored (214.06)."
   },
   {
     "exchange": "NYSE",
@@ -205,7 +205,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "EQNR",
     "sourceUrl": "https://stockanalysis.com/stocks/eqnr/",
-    "note": "Trouble ticker: fresh read reproduces the exact flagged $42.17/$42.59 figures (+0.98%, dated Oct2 2026) from the same suspect aggregator lineage. Continuing to reject per standing guidance; kept stored (40.77)."
+    "note": "Trouble ticker: fresh read reproduces the exact previously-flagged $42.17 figure from the same suspect lineage. Kept stored (40.77)."
   },
   {
     "exchange": "NYSE",
@@ -218,7 +218,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HCA",
     "sourceUrl": "https://www.digrin.com/stocks/detail/HCA/price",
-    "note": "Fresh read ($409.21, +2.11%) is explicitly dated August 5, 2026 -- stale by two months. Kept stored (426.09)."
+    "note": "Fresh reads reproduce the same stale Aug5/6 $409 figures already rejected last cycle. Kept stored (426.09)."
   },
   {
     "exchange": "NYSE",
@@ -231,7 +231,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HDB",
     "sourceUrl": "https://www.trendlyne.com/us/equity/consensus-estimates/1403853/HDB/hdfc-bank-ltd-adr",
-    "note": "NEW CONFLICT: two fresh single-source reads wildly disagree on scale -- $71.18 (52wk range cited $57.78-$79.61) vs $29.47 -3.03% (52wk range cited $28.78-$39.74) -- a >2x discrepancy between sources, neither matching stored (23.10) either. Flagging as a new persistent-conflict candidate; kept stored (23.1) pending real resolution."
+    "note": "Rough-patch ticker (last cycle): this cycle's reads ($23.19 Sep5 dated, $23.23-23.60 range) now cluster closely around stored (23.10), resolving last cycle's wild $71/$29 discrepancy. Treated as reconfirmation; kept stored (23.1)."
   },
   {
     "exchange": "NYSE",
@@ -244,7 +244,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "HEI",
     "sourceUrl": "https://www.investing.com/equities/heico-corp",
-    "note": "Trouble ticker (persistent single-source clusters): fresh read ($268.34) remains single-sourced with mixed historical dates, no corroboration. Kept stored (335.72)."
+    "note": "Trouble ticker: fresh reads remain single-sourced, stale (Aug), no 2nd source. Kept stored (335.72)."
   },
   {
     "exchange": "NYSE",
@@ -257,7 +257,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "IBN",
     "sourceUrl": "https://www.etoro.com/markets/ibn/chart",
-    "note": "Fresh read ($28.67, -0.59%, day range $27.42-$28.83, 52wk $21.86-$32.08) is internally coherent and a modest (+4.5%) move from stored with no conflicting figure in the same search. Accepted."
+    "note": "Fresh undated eToro read matches stored exactly; other reads stale/scattered ($29.99 Jul31, $25.95 Jun5). Reconfirmation; kept stored (28.67)."
   },
   {
     "exchange": "NYSE",
@@ -270,7 +270,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Fresh read ($150.31) is explicitly dated August 10, 2026 -- stale by ~2 months. Kept stored (157.85)."
+    "note": "Fresh reads remain stale and scattered ($150.31 Aug, $138.62 Jul, undated $138.30/$165.55), no agreement. Kept stored (157.85)."
   },
   {
     "exchange": "NYSE",
@@ -283,7 +283,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "JPM",
     "sourceUrl": "https://www.tradingview.com/symbols/NYSE-JPM/",
-    "note": "Trouble ticker: fresh read ($360.96, -0.52% from open) is single-sourced (investsmart) and represents roughly the same +8.6% cluster previously flagged and rejected for JPM. Continuing to reject pending genuine 2-source resolution; kept stored (332.38)."
+    "note": "Trouble ticker: fresh read reproduces the same $360.96 investsmart cluster flagged previously. Kept stored (332.38)."
   },
   {
     "exchange": "NYSE",
@@ -296,7 +296,7 @@
     "asOfDate": "2026-09-22",
     "displaySymbol": "LOW",
     "sourceUrl": "https://www.investing.com/equities/lowes-companies",
-    "note": "Trouble ticker: fresh reads are stale August 2026 data ($223.31 Aug9, $219.94 Aug6), consistent with the recurring rejected-cluster pattern. Kept stored (196.08)."
+    "note": "Trouble ticker: new single-source read (~$187, Sep29) continues the decline trend from stale Aug figures but remains uncorroborated. Kept stored (196.08)."
   },
   {
     "exchange": "NYSE",
@@ -309,7 +309,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mastercard-stock-sets-dividend-date-as-shares-trade-at-usd-552-26/70224596",
-    "note": "Fresh reads again scatter internally ($561.42 +2.10% vs investsmart $595.30 +0.60%, the latter an exact repeat of last cycle's already-rejected figure), no 2-source agreement. Kept stored (546.76), change/changePercent remain null."
+    "note": "Fresh reads reproduce the same $595.30 Aug29 investsmart figure already rejected previously, plus other scattered undated reads. Kept stored (546.76), change/changePercent remain null."
   },
   {
     "exchange": "NYSE",
@@ -322,12 +322,12 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Trouble ticker (stale since Sep8, shared aggregator lineage): fresh read ($158.86) still shares the same lineage with no second independent source. Kept stored (162.79)."
+    "note": "Trouble ticker: fresh reads (Tickertape $159.99 Sep5, Investing.com $158.86) agree closely with each other and are near stored, but both predate stored's Sep8 baseline. Light reconfirmation only; kept stored (162.79)."
   },
   {
     "exchange": "NYSE",
     "ticker": "PAC",
-    "name": "Grupo Aeroportuario del Pac\u00edfico, S.A.B. de C.V.",
+    "name": "Grupo Aeroportuario del Pacífico, S.A.B. de C.V.",
     "price": 196.61,
     "currency": "USD",
     "change": -8.8,
@@ -335,12 +335,12 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "PAC",
     "sourceUrl": "https://www.gurufocus.com/news/9106609/is-grupo-aeroportuario-del-pacifico-sab-de-cv-pac-a-bargain-after-43-drop-gf-value-says-undervalued",
-    "note": "Fresh read ($230.54, +0.54%) is explicitly dated October 8, 2025 -- a year-old dateline, exactly the kind of year-conflation risk flagged in the calibration guidance. Kept stored (196.61)."
+    "note": "Trouble ticker (year-conflation risk): fresh reads (Sep11 $203.46, Sep4 $208.23) are correctly dated to 2026 this time and agree within ~2%, but both predate stored's Oct1 date. No override; kept stored (196.61)."
   },
   {
     "exchange": "NYSE",
     "ticker": "PBR",
-    "name": "Petr\u00f3leo Brasileiro S.A. - Petrobras",
+    "name": "Petróleo Brasileiro S.A. - Petrobras",
     "price": 20.86,
     "currency": "USD",
     "change": 0.21,
@@ -348,7 +348,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "PBR",
     "sourceUrl": "https://finance.yahoo.com/quote/PBR/",
-    "note": "Fresh read ($20.33) is explicitly dated September 1, 2026 -- over a month stale, though roughly consistent in magnitude with stored. Kept stored (20.86)."
+    "note": "Fresh read reproduces the same stale Sep1 $20.33 figure already noted previously. Kept stored (20.86)."
   },
   {
     "exchange": "NYSE",
@@ -361,7 +361,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "RIO",
     "sourceUrl": "https://www.investing.com/equities/rio-tinto-plc-exch",
-    "note": "Trouble ticker: fresh reads cluster around $59-60 ($60.41 -0.82%, $59.25 +0.08%), consistent with the flagged ADR-vs-ordinary-share conflation (these look like GBP/AUD ordinary-share-scale prices mislabeled as USD), not matching the genuine NYSE ADR level. Kept stored (103.6)."
+    "note": "Trouble ticker: fresh dated read ($103.30, Aug28) is correctly ADR-scale and closely matches stored, unlike the previously-flagged $59-60 ordinary-share-scale misreads -- good sign, but still single-sourced. Kept stored (103.6)."
   },
   {
     "exchange": "NYSE",
@@ -374,7 +374,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "SE",
     "sourceUrl": "https://www.investing.com/equities/sea-limited",
-    "note": "Trouble ticker: fresh read ($101.32, -2.11%) is a third distinct figure alongside previously-rejected $112.09/$108.71, still no agreement. Kept stored (124.10), change/changePercent remain null."
+    "note": "Trouble ticker: fresh read reproduces the previously-seen $112.09 figure (Sep5 dated) alongside new scattered eToro reads ($118.16/$91.28). Still no agreement; kept stored (124.10), change/changePercent remain null."
   },
   {
     "exchange": "NYSE",
@@ -387,7 +387,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "SHEL",
     "sourceUrl": "https://www.investing.com/equities/royal-dutch-shell-a-plc",
-    "note": "Fresh read ($95.60, +0.29%) falls squarely in the explicitly flagged known-bad $93-96 band, an exact repeat of last cycle's rejected figure. Kept stored (93.32), change/changePercent remain null."
+    "note": "Fresh read ($95.60, Sep10 dated) is an exact repeat of the known-bad band flagged in prior cycles. Kept stored (93.32), change/changePercent remain null."
   },
   {
     "exchange": "NYSE",
@@ -400,7 +400,7 @@
     "asOfDate": "2026-09-24",
     "displaySymbol": "SPOT",
     "sourceUrl": "https://finance.yahoo.com/quote/SPOT/",
-    "note": "Trouble ticker: fresh read ($482.66, +2.91%) is explicitly dated July 24, 2026 -- stale by over two months. Kept stored (504.29)."
+    "note": "Named trouble ticker: new single-source read ($510.01, Sep25 dated) is close to stored but lacks a 2nd corroborating source. Kept stored (504.29)."
   },
   {
     "exchange": "NYSE",
@@ -413,7 +413,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TDG",
     "sourceUrl": "https://www.investing.com/equities/transdigm-group-inc",
-    "note": "Fresh read ($1,254.38) is dated 02/08/2026 (Feb 8, 2026) -- stale by 8 months. Kept stored (1090.38)."
+    "note": "Fresh reads remain stale (May/Apr 2026), no current data. Kept stored (1090.38)."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "Fresh read ($680.00, +0.06%) is a literal repeat of last cycle's already-rejected single-source $680.00 figure (which itself contradicted an Aug5 $577.83 read by ~15%), still no independent second source. Kept stored (658.89), change/changePercent remain null."
+    "note": "Fresh reads remain stale and mutually disagreeing (Jul31 $566.63, Jul23 $526.46). Kept stored (658.89), change/changePercent remain null."
   },
   {
     "exchange": "NYSE",
@@ -439,20 +439,20 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TTE",
     "sourceUrl": "https://www.google.com/finance/quote/TTE:NYSE",
-    "note": "CALIBRATION CHECK: fresh read ($62.11) falls squarely in the now-identified suspect ~$55-70 ADR-range band. Per the corrected trusted baseline (~$84-89, reconfirmed multiple cycles via dated NYSE close + market-cap math), this $62.11 figure is rejected. Kept stored (84.37)."
+    "note": "TRUSTED BASELINE HOLDS: fresh dated reads ($88.31 Aug31, $81.39 Jul17) both land within the correct $80-90 ADR band, with no suspect ~$55-70 misread surfacing this cycle. Kept stored (84.37)."
   },
   {
     "exchange": "NYSE",
     "ticker": "UBER",
     "name": "Uber Technologies, Inc.",
-    "price": 68.11,
+    "price": 69.62,
     "currency": "USD",
-    "change": 0.23,
-    "changePercent": 0.34,
-    "asOfDate": "2026-10-02",
+    "change": 0.4,
+    "changePercent": 0.58,
+    "asOfDate": "2026-09-26",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/uber/uber-technologies/share-price",
-    "note": "Fresh read ($97.87, -2.23%) has no clear date and is +43.7% above stored with no corroboration -- too large and unverified a gap to accept. Flagging as a discrepancy to watch; kept stored (68.11)."
+    "note": "ACCEPTED: clean single-source dated read ($69.62, Sep26, day range $68.86-69.66) is close to stored (+2.2%) and resolves last cycle's wild, unverified $97.87 misread. Updated to 69.62 / +0.40 / +0.58%."
   },
   {
     "exchange": "NYSE",
@@ -465,7 +465,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "UBS",
     "sourceUrl": "https://www.cnbc.com/quotes/UBS",
-    "note": "Trouble ticker: fresh read ($50.69) is explicitly dated September 19, 2026 -- stale by ~3 weeks, and still single-sourced per standing NYSE/Swiss-listing incoherence concern. Kept stored (52.73)."
+    "note": "Trouble ticker: fresh reads are a year-old (Oct2025, $38.06) or undated ($36.99), no current data. Kept stored (52.73)."
   },
   {
     "exchange": "NYSE",
@@ -478,7 +478,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "UL",
     "sourceUrl": "https://www.gurufocus.com/stock/UL/summary",
-    "note": "Fresh read ($62.62, -1.68%, undated) is now a FIFTH distinct unreconciled figure for this ticker (alongside stored 65.28, twice-seen 59.58, once-seen 62.00, and last cycle's 62.39), still no two sources agreeing. Kept stored (65.28), change/changePercent remain null."
+    "note": "Fresh read reproduces the exact previously-seen $62.39 figure (6th cycle with this unresolved pattern). Kept stored (65.28), change/changePercent remain null."
   },
   {
     "exchange": "NYSE",
@@ -491,7 +491,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "V",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/v/visa/share-price",
-    "note": "Fresh read ($367.39, reported as -0.34% from open) matches stored (367.39) exactly on price, though the cited change% direction differs from stored's +1.93%. Treated as a price-level reconfirmation; kept stored values unchanged (367.39 / +1.93%)."
+    "note": "Fresh single-source read ($360.66, Oct2 dated, -1.8% vs stored) is uncorroborated amid other widely scattered reads ($355.74-$375.76). Kept stored (367.39)."
   },
   {
     "exchange": "NasdaqGS",
@@ -504,7 +504,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "AMZN",
     "sourceUrl": "https://www.investing.com/equities/amazon-com-inc",
-    "note": "Fresh reads scatter ($258.48 +0.16%, $247.67 with day range $246.93-$252.86, $238.74), no two sources agreeing on one figure though the $246.93-$252.86 range brackets stored. Kept stored (251.70)."
+    "note": "Fresh read reproduces the exact previously-rejected $258.48 scatter figure (Sep5 dated). Kept stored (251.70)."
   },
   {
     "exchange": "NasdaqGS",
@@ -517,7 +517,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "APP",
     "sourceUrl": "https://coincentral.com/applovin-app-stock-drops-5-after-wells-fargo-pixel-warning",
-    "note": "Trouble ticker (trusted baseline $290.43): fresh reads give two new figures ($312.06 +1.79%, $320.56 +2.3%) that are only loosely consistent with each other (~2.7% apart) and represent a combined +7.5-10.4% move from stored without tight corroboration. Kept stored (290.43)."
+    "note": "Trouble ticker: fresh reads reproduce the same two previously-rejected figures ($312.06, $320.56) verbatim. Kept stored (290.43)."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,7 +530,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://tradersunion.com/news/stocks/show/3594639-cadence-design-systems-jumps-2-07percent/",
-    "note": "Fresh read ($352.60) is dated October 2, 2026 -- the SAME date stored (333.45) is dated to -- yet gives a materially different price for that date, indicating unreliable data. Kept stored (333.45)."
+    "note": "Fresh reads cluster near $313 (Aug20/Sep2, mutually consistent) but predate stored's Oct2 baseline; no override. Kept stored (333.45)."
   },
   {
     "exchange": "NasdaqGS",
@@ -543,7 +543,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DPZ",
     "sourceUrl": "https://www.investing.com/equities/dominos-pizza-inc",
-    "note": "NEW CONFLICT: fresh reads give two wildly different figures ($387.41 Feb22 2026, $460.27 -1.24%), both far above stored (297.62) and disagreeing with each other by ~19%. Flagging as a new scattered/conflicted ticker; kept stored (297.62)."
+    "note": "Rough-patch ticker: new third figure ($341.08, Sep4, Yahoo Finance dated) is more credible than last cycle's figures but remains single-sourced for a +14.6% implied move. Kept stored (297.62)."
   },
   {
     "exchange": "NasdaqGS",
@@ -556,7 +556,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "FTNT",
     "sourceUrl": "https://www.heygotrade.com/en/us-stock/ftnt/",
-    "note": "Fresh reads disagree with each other ($143.27 vs $156.34 +1.16%) and both sit well below stored (180.95), no agreement. Flagging as a new scattered ticker; kept stored (180.95)."
+    "note": "Rough-patch ticker: two Sep4-dated reads now agree near $156-159 with each other, but that predates stored's Oct5 baseline -- consistent with a later rally rather than a conflict. Kept stored (180.95)."
   },
   {
     "exchange": "NasdaqGS",
@@ -569,7 +569,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "GMAB",
     "sourceUrl": "https://www.chartmill.com/stock/quote/GMAB/profile",
-    "note": "Trouble ticker (FX-inconsistent scatter $28-33, keep rejecting): fresh reads ($29.04, $29.08 +1.22%) are suspiciously tight with each other but sit squarely in the previously-flagged scatter band from what appears to be the same aggregator family. Continuing to reject per standing guidance; kept stored (26.87)."
+    "note": "Trouble ticker: DKK Copenhagen data is not comparable to the USD ADR; the one dated US figure ($26.39, May) loosely supports stored. Kept stored (26.87)."
   },
   {
     "exchange": "NasdaqGS",
@@ -582,7 +582,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://www.investsmart.com.au/security/nasdaq/googl/alphabet/share-price",
-    "note": "Fresh read ($344.20, +0.06%) is dated August 18, 2026 (stale) but the price level matches stored (344.1) almost exactly -- treated as a level reconfirmation despite the stale dateline; kept stored (344.1) unchanged."
+    "note": "Fresh read ($344.09, Aug18 dated) matches stored almost exactly yet again. Reconfirmed; kept stored (344.1)."
   },
   {
     "exchange": "NasdaqGS",
@@ -595,7 +595,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MELI",
     "sourceUrl": "https://www.investing.com/equities/mercadolibre",
-    "note": "Fresh reads scatter badly ($1,750.55 +0.20%, $1,824.11 -0.06%, $1,627.04), no two agreeing with each other or with stored. Kept stored (1696.56)."
+    "note": "Fresh reads scatter badly ($1,590 Jun, $1,627 Mar, $1,743-$1,870 undated, $2,048/$2,140 stale), no agreement. Kept stored (1696.56)."
   },
   {
     "exchange": "NasdaqGS",
@@ -608,7 +608,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "META",
     "sourceUrl": "https://www.marketbeat.com/instant-alerts/price-meta-platforms-nasdaq-meta-shares-up-19-still-a-buy-2026-10-05/",
-    "note": "CALIBRATION CHECK: fresh search again surfaced the previously-debunked 'bear market crash to $592' narrative (sourced from what is almost certainly recycled/conflated Q3 2025 earnings coverage), directly contradicted within the SAME search by a scattered $653.69 (+6.55%) investsmart figure -- internally incoherent. Per the standing verified baseline ($742-744, independently confirmed via dated close + no real decline), this crash narrative is rejected again. Kept stored (743.45)."
+    "note": "TRUSTED BASELINE HOLDS: the same internally-incoherent investsmart $653.69/$613.31 conflict recurs; no 'crash' narrative resurfaced this cycle. Rejected again per standing guidance; kept stored (743.45)."
   },
   {
     "exchange": "NasdaqGS",
@@ -621,7 +621,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MSFT",
     "sourceUrl": "https://www.investing.com/equities/microsoft-corp",
-    "note": "NEW CONFLICT: fresh single-source read ($385.85, day range $384.76-$391.91, 52wk $349.20-$555.45) is -25.7% below stored (519.50) with no second source and no news catalyst found -- too large an unverified gap for a mega-cap with no stock-split history to explain it. Flagging as a new suspicious single-source misread; kept stored (519.50)."
+    "note": "Rough-patch ticker: new read ($496.75, Sep2) is reasonably close to stored, while the same problematic $382-386 figure recurs for a 2nd straight cycle, now looking like a systematic bad-source artifact rather than a real price. Kept stored (519.50)."
   },
   {
     "exchange": "NasdaqGS",
@@ -634,7 +634,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "NFLX",
     "sourceUrl": "https://www.benzinga.com/trading-ideas/movers/25/10/48571277/why-is-netflix-stock-up-today",
-    "note": "Fresh read ($67.58, +2.4%, day range $66.75-$68.25) is very close to stored ($67.85, within 0.4%) confirming the post-split ~$67-68 price level; accepted as a fresh update despite the different day's change direction from the prior stored session."
+    "note": "Fresh CoinGecko read matches stored exactly ($67.58); clean reconfirmation. Kept stored (67.58)."
   },
   {
     "exchange": "NasdaqGS",
@@ -647,7 +647,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ROP",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/roper-technologies-stock-fell-2-28-percent-before-q3-results/70228225",
-    "note": "Trouble ticker: fresh reads reproduce the exact same scattered cluster flagged previously (407.25 +3.58%, 476.97 +0.09%, 500.08 +0.07% -- matching the previously-seen 407/477/500 figures), still no 2-source agreement on one value. Kept stored (354.32)."
+    "note": "Trouble ticker: fresh reads reproduce the exact same 407.25/476.97 scattered cluster flagged previously. Kept stored (354.32)."
   },
   {
     "exchange": "NasdaqGS",
@@ -660,7 +660,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TXN",
     "sourceUrl": "https://au.investing.com/equities/texas-instru",
-    "note": "Fresh read ($288.335, +1.46%) is dated July 20, 2026 -- stale by ~2.5 months. Kept stored (275.74), change/changePercent remain null."
+    "note": "Fresh stale reads ($265.60 Aug20, $286.06 Aug10) bracket stored but predate its Oct2 baseline. Kept stored (275.74), change/changePercent remain null."
   },
   {
     "exchange": "SGX",
@@ -673,7 +673,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "D05.SI",
     "sourceUrl": "https://growbeansprout.com/quote/D05.SI",
-    "note": "Fresh read (SG$76.00) is dated August 21, 2026 (stale) but notably is NOT the previously-flagged suspect SG$58.68 figure, and sits close to the trusted baseline (77.21). Treated as a loose reconfirmation of the baseline despite the stale date; kept stored (77.21)."
+    "note": "Fresh reads (SimplyWallSt $76.40, Halo $76.00) now agree closely with each other and sit near the trusted baseline, strengthening confidence, though still undated/stale-ish. Kept stored (77.21)."
   },
   {
     "exchange": "SWX",
@@ -686,7 +686,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ROG.SW",
     "sourceUrl": "https://tradingeconomics.com/rog:vx",
-    "note": "Trouble ticker: fresh read (CHF360.10, +1.41%) is dated July 27 (stale) and is yet another distinct single-source figure that doesn't corroborate either the trusted baseline (371.40) or last cycle's CHF362.90 read. Kept stored (371.4)."
+    "note": "Trouble ticker (Roche): fresh read reproduces the exact CHF362.90 single-source figure already seen previously; still no 2nd source agreeing near the CHF371.40 baseline. Rejected again; kept stored (371.4)."
   },
   {
     "exchange": "TSE",
@@ -699,7 +699,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "8001.T",
     "sourceUrl": "https://finance.yahoo.com/quote/8001.T/",
-    "note": "Fresh read (JPY2,014.0, -0.47%, day range 1,988.5-2,036.5) is single-sourced and -7.4% off stored with no second source to confirm a move of that size. Kept stored (2175.5)."
+    "note": "Fresh Investing.com read matches stored exactly (JPY2,175.5) amid wider scatter from likely split-confused sources. Reconfirmed; kept stored (2175.5)."
   },
   {
     "exchange": "TSE",
@@ -712,7 +712,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "8031.T",
     "sourceUrl": "https://www.investing.com/equities/mitsui---co.,-ltd.",
-    "note": "Fresh reads scatter (4,937.0 +0.35%, 4,899.0 +2.62%, 4,966.0 -0.08%, 5,093 -1.38%), but one of the four (4,966.0) closely matches stored (4,964.0), treated as a loose reconfirmation amid the scatter. Kept stored (4964.0)."
+    "note": "Fresh eToro read matches stored exactly (JPY4,964) amid wider scatter. Reconfirmed; kept stored (4964.0)."
   },
   {
     "exchange": "TSE",
@@ -725,7 +725,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "8058.T",
     "sourceUrl": "https://www.google.com/finance/quote/8058:TYO",
-    "note": "Fresh read (JPY5,005.0, +0.36%, day range 4,884-5,036) is a modest, internally coherent move from stored (4,905.0) with analyst target context and no conflicting figure. Accepted."
+    "note": "Fresh Morningstar read matches stored exactly (JPY5,005, day range 4,884-5,036) amid wider scatter. Reconfirmed; kept stored (5005.0)."
   },
   {
     "exchange": "TSX",
@@ -738,7 +738,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ACQ.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ACQ-T/",
-    "note": "Fresh read ($23.75, +2.77%) has no clear current date (search results from 2025) and is +5% off stored with no corroboration. Kept stored (22.62)."
+    "note": "Fresh reads are all stale (Jul 2026), no current data. Kept stored (22.62)."
   },
   {
     "exchange": "TSX",
@@ -751,7 +751,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AIF.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AIF-T/",
-    "note": "Fresh read (C$46.76, +0.54%) is explicitly contradicted by the search's own note that the current pricing data is from July-August 2024 -- unreliable dating. Kept stored (44.84)."
+    "note": "Single dated read ($45.57, Aug6) loosely close to stored but stale/uncorroborated. Kept stored (44.84)."
   },
   {
     "exchange": "TSX",
@@ -764,7 +764,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/ATD",
-    "note": "Trouble ticker (share-class-mixup risk ~$85-91 recurring): fresh reads reproduce exactly that flagged band ($85.99 +0.39%, $91.96 +0.74%), plus a third stale figure ($80.30, dated 04/08/26). Rejecting again per standing guidance; kept stored (78.67)."
+    "note": "Trouble ticker (share-class-mixup risk): fresh reads reproduce the exact previously-flagged $83-93 band again ($85.99/$83.40/$92.70/$91.01). Rejected again; kept stored (78.67)."
   },
   {
     "exchange": "TSX",
@@ -777,7 +777,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ATS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/ATS/",
-    "note": "NEW CONFLICT: fresh read ($39.54, dated June 16 2026) is +53.5% above stored (25.76) with no corroboration -- too large an unexplained gap, possibly a different listing/ticker mixup. Kept stored (25.76)."
+    "note": "New-conflict ticker from last cycle: this cycle's NYSE dual-listing reads ($19.19 Sep12, $19.04 Aug28 USD) convert via FX to ~C$25.7-25.9, closely matching stored and resolving last cycle's unexplained $39.54 figure. Kept stored (25.76)."
   },
   {
     "exchange": "TSX",
@@ -790,7 +790,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ATZ.TO",
     "sourceUrl": "https://www.investing.com/equities/aritzia-inc",
-    "note": "Fresh reads cluster loosely ($139.68, $143.21 +1.40%, day range $139.48-$144.27) representing a +14-17% jump from stored, with an undated 'record Q3 revenue +43% YoY' narrative that carries real year-conflation risk per the calibration guidance (cannot confirm the dateline is current). Insufficient confidence for a move this size; kept stored (122.66)."
+    "note": "Only stale 2024 data found. Kept stored (122.66)."
   },
   {
     "exchange": "TSX",
@@ -803,7 +803,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "BDGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/BDGI/",
-    "note": "Trouble ticker (wild outliers keep recurring): no current price found at all this cycle, only stale July/August 2024 closing-bell links with no price given. Kept stored (63.94)."
+    "note": "Trouble ticker: three reads (C$85.15 Aug21, C$93.11 undated, C$91.06 Jul31) now cluster together (85-93) -- tighter than past full scatter -- but all sit well above stored and none is dated near Oct7. Watching for resolution; kept stored (63.94)."
   },
   {
     "exchange": "TSX",
@@ -816,7 +816,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BDI.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BDI-T/",
-    "note": "Fresh read ($8.90) is explicitly dated July 26, 2024 -- stale by over 2 years -- and less than half of stored (19.94), consistent with a stale/wrong-era read. Kept stored (19.94)."
+    "note": "Single dated read (C$18.80, Aug19) loosely close to stored. Kept stored (19.94)."
   },
   {
     "exchange": "TSX",
@@ -829,7 +829,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BIP-UN.TO",
     "sourceUrl": "https://www.marketbeat.com/stocks/TSE/BIP-UN/",
-    "note": "NEW CONFLICT: fresh reads cluster tightly with each other (C$44.64 -0.38%, C$44.81) but both sit -19.8% below stored (55.66), and appear to share the same marketbeat-family source rather than being genuinely independent. Flagging as a new discrepancy to watch; kept stored (55.66)."
+    "note": "New-conflict ticker: fresh MarketBeat read reproduces the exact previously-flagged C$44.64 figure again. Unresolved; kept stored (55.66)."
   },
   {
     "exchange": "TSX",
@@ -842,7 +842,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://www.barchart.com/stocks/quotes/BN.TO",
-    "note": "Trouble ticker (recurring NYSE/TSX currency-mismatch): fresh read (C$94.68) is explicitly dated October 9, 2025 -- a year-old dateline -- single-sourced. Kept stored (79.42)."
+    "note": "Trouble ticker (NYSE/TSX currency mismatch): only stale or ambiguous-currency data found this cycle. Kept stored (79.42)."
   },
   {
     "exchange": "TSX",
@@ -855,7 +855,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BYD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/BYD",
-    "note": "NEW CONFLICT: fresh read ($219.07) is +95.8% above stored (111.85), almost certainly due to ticker ambiguity with BYD Company (the Chinese EV maker) bleeding into search results for 'BYD' rather than genuine data for Boyd Group Services. Kept stored (111.85)."
+    "note": "Garbled data this cycle (market-cap-implied ~$115 loosely supports stored; a conflicting $53.82 figure fits neither the 52-week range nor the market cap). No clean quote; kept stored (111.85)."
   },
   {
     "exchange": "TSX",
@@ -868,7 +868,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CGY.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-CGY/",
-    "note": "Trouble ticker (single-source figures recurring 8+ cycles): fresh reads remain stale/single-sourced ($53-56 from Aug2024, $66.56 undated), no second source. Kept stored (79.65)."
+    "note": "Trouble ticker: only stale 2024 data found. Kept stored (79.65)."
   },
   {
     "exchange": "TSX",
@@ -881,7 +881,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "CIGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CIGI/",
-    "note": "Fresh read (C$162.18, -1.16%, self-referential context citing a 2025 starting price) is +8.6% off stored with no second source. Kept stored (149.28)."
+    "note": "Only stale 2024 data found. Kept stored (149.28)."
   },
   {
     "exchange": "TSX",
@@ -894,7 +894,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "CJT.TO",
     "sourceUrl": "https://www.investing.com/equities/cargojet-inc.",
-    "note": "Trouble ticker (unexplained large jumps recurring): fresh read ($115.65, dated August 7, 2026, -0.58%) is +51% above stored with no catalyst and no second source -- exactly the previously-flagged unexplained-jump pattern. Kept stored (76.5)."
+    "note": "Trouble ticker: two reads (C$86.63 Sep23, C$85.47 Jul24) agree closely with each other at a notably different, lower level than the previously-debunked C$115.65 misread -- promising convergence, but two months apart rather than same-cycle agreement, so not yet a clean override. Kept stored (76.5)."
   },
   {
     "exchange": "TSX",
@@ -907,7 +907,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CNQ.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CNQ/",
-    "note": "Fresh read ($66.38, +0.1%) is dated August 13, 2026 -- stale by ~2 months -- and -4% off stored. Kept stored (69.1)."
+    "note": "Fresh read reproduces the exact previously-rejected C$66.38 (Aug13) figure. Kept stored (69.1)."
   },
   {
     "exchange": "TSX",
@@ -920,7 +920,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CNR.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/cnr/canadian-national-railway-co/share-price",
-    "note": "Fresh read ($170.58, +0.42%) matches stored (170.58) exactly. Reconfirmation; kept stored unchanged."
+    "note": "Fresh read matches stored exactly (C$170.58). Reconfirmed; kept stored (170.58)."
   },
   {
     "exchange": "TSX",
@@ -933,7 +933,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "CP.TO",
     "sourceUrl": "https://fool.ca/2026/10/05/tsx-today-what-to-watch-for-in-stocks-on-monday-october-5",
-    "note": "Fresh read (C$112.39, +0.27%, undated) is -8.3% off stored with no second source to confirm a move of that size. Kept stored (122.51)."
+    "note": "Only stale TSX data (Jan 2026) or USD NYSE quotes requiring FX conversion, loosely consistent with stored. Kept stored (122.51)."
   },
   {
     "exchange": "TSX",
@@ -946,7 +946,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "CSU.TO",
     "sourceUrl": "https://www.investing.com/equities/constellation-software-inc",
-    "note": "Trouble ticker (trusted baseline 2986.49): fresh single-source read (2,434.02, -1.74%) represents another large unexplained ~-18.5% drop with no verified catalyst, fitting the pattern of previously-debunked dramatic-sounding CSU narratives. Rejected per standing guidance; kept stored (2986.49)."
+    "note": "Trusted baseline (2986.49): only stale 2024 data found, no dramatic narrative resurfaced this cycle. Kept stored (2986.49)."
   },
   {
     "exchange": "TSX",
@@ -959,7 +959,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "DHT-UN.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/DHT-UN-T/",
-    "note": "Fresh read (C$17.47, -0.8%, with coherent week/month/year context) is a modest (+4.1%) move from stored with no wild internal conflict. Accepted."
+    "note": "Only stale 2024 data plus an unrelated buyback-average reference ($11.31-11.65, different context/timeframe). Kept stored (17.47)."
   },
   {
     "exchange": "TSX",
@@ -972,7 +972,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "DND.TO",
     "sourceUrl": "https://www.investing.com/equities/dye-durham-ltd",
-    "note": "NEW CONFLICT: fresh read ($3.65 CAD, dated 'Feb 12', day range $3.56-$4.00, 52wk $2.63-$17.31) is over 5x stored (0.67) and internally self-consistent, but is a single stale/undated source with no second corroboration for a discrepancy this extreme. Flagging as a new persistent-conflict candidate needing a genuine second source before any change; kept stored (0.67)."
+    "note": "New-conflict ticker: a third distinct figure this cycle ($1.18, Jul17 dated, -8.5% day move) still disagrees with both stored and last cycle's $3.65 read. Now 3 competing values across cycles, unresolved; kept stored (0.67)."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/dol-T",
-    "note": "Fresh reads give only stale August 2024 data ($129.57) and a distinct 'all-time-high' reference (Nov21 2025, $198.82) rather than a current price. Kept stored (184.01)."
+    "note": "Only stale 2024 data found. Kept stored (184.01)."
   },
   {
     "exchange": "TSX",
@@ -998,7 +998,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "DSG.TO",
     "sourceUrl": "https://www.chartmill.com/stock/quote/DSG.CA/ownership",
-    "note": "NEW CONFLICT: fresh read (C$134.95, -0.49%, undated) is +23% above stored (109.65) with no second source. Kept stored (109.65)."
+    "note": "New-conflict ticker from last cycle: this cycle's two reads (Barchart ~105.28 late-Jul, Yahoo Canada 101.73 ~Sep) agree within ~3.4% of each other and sit much closer to stored than last cycle's +23% figure -- a promising partial resolution, but both predate stored's Oct2 baseline. Kept stored (109.65)."
   },
   {
     "exchange": "TSX",
@@ -1011,7 +1011,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "DTOL.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DTOL/",
-    "note": "Trouble ticker (persistent single-source cluster): fresh read ($9.94, -4.33%) is dated February 20, 2026 -- stale by ~8 months, still single-sourced. Kept stored (8.97)."
+    "note": "Trouble ticker: single Aug20 read (C$9.12) closely matches stored, and the declining-trend trajectory (10.22->10.33->9.12) is internally consistent, but it predates stored's Sep15 baseline. Reconfirmation only; kept stored (8.97)."
   },
   {
     "exchange": "TSX",
@@ -1024,7 +1024,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "EFN.TO",
     "sourceUrl": "https://stockopedia.com/share-prices/element-fleet-management-TSE:EFN",
-    "note": "Fresh read (C$27.70) explicitly sourced from data the search itself dates to 'late July/early August 2024' -- stale by over 2 years. Kept stored (30.51)."
+    "note": "Only stale 2024 data found. Kept stored (30.51)."
   },
   {
     "exchange": "TSX",
@@ -1037,7 +1037,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://tradersunion.com/currencies/price/ifc-cad/",
-    "note": "Trouble ticker (conflicted, scattered 258-277, usually only stale data found): again only stale August 2024 closing-bell links turned up, no current price. Kept stored (246.65)."
+    "note": "Trouble ticker: only stale 2024 data found again. Kept stored (246.65)."
   },
   {
     "exchange": "TSX",
@@ -1050,7 +1050,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "JWEL.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-JWEL/",
-    "note": "Fresh reads disagree with each other ($34.72 +1.05% dated Apr9 2026 vs $41.28 -1.81%), both well below stored (45.44) and both stale/undated. Kept stored (45.44)."
+    "note": "A real acquisition-proposal catalyst (dated Jun24 2026) exists but is now months old; current price reads ($36.39 Jun24, ~$29 OTC) still disagree with stored and with each other. Kept stored (45.44)."
   },
   {
     "exchange": "TSX",
@@ -1063,7 +1063,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "KXS.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/KXS-T/",
-    "note": "Trouble ticker (trusted baseline 177.65, reads keep carrying garbled/undated figures): fresh read (176.22, undated, day range 174.26-178.70) is close to baseline but remains an undated single source matching the exact flagged pattern. Continuing to reject per standing guidance; kept stored (177.65)."
+    "note": "Trouble ticker: only stale 2023-24 data found. Kept stored (177.65)."
   },
   {
     "exchange": "TSX",
@@ -1076,7 +1076,7 @@
     "asOfDate": "2026-09-25",
     "displaySymbol": "MAL.TO",
     "sourceUrl": "https://www.investing.com/equities/magellan-aerospace-corporation",
-    "note": "NEW CONFLICT: fresh read ($17.17, +1.36%) is -50.8% below stored (34.87), an implausibly large unexplained gap suggesting a data/listing mismatch. Kept stored (34.87)."
+    "note": "New-conflict ticker from last cycle: this cycle's most recent read (C$37.74, Aug14, +95.8% YTD) is only 8% off stored, resolving/contradicting last cycle's wrong C$17.17 misread. Good sign; kept stored (34.87)."
   },
   {
     "exchange": "TSX",
@@ -1089,7 +1089,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MEQ.TO",
     "sourceUrl": "https://in.tradingview.com/symbols/TSX-MEQ",
-    "note": "Fresh read (C$183.77, -0.11%) is explicitly dated October 9, 2025 -- a year-old dateline -- and -7.2% off stored. Kept stored (198.1)."
+    "note": "Fresh reads scatter (C$186.00/181.50/162.29), all below stored, no agreement. Kept stored (198.1)."
   },
   {
     "exchange": "TSX",
@@ -1102,7 +1102,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MTY.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/MTY-T/",
-    "note": "Trouble ticker (trusted baseline 31.06, background agent previously wrongly accepted a +9.88% jump): fresh reads again give two new scattered, upward-biased figures ($38.76 -6.80%, $33.35 -1.19% dated July13 2026) that disagree with each other and with baseline. Rejecting per standing skepticism; kept stored (31.06), change/changePercent remain null."
+    "note": "Trusted baseline (31.06): fresh read reproduces the exact previously-rejected $33.35 (Jul13) figure. Earnings due Oct9 -- watch next cycle. Kept stored (31.06), change/changePercent remain null."
   },
   {
     "exchange": "TSX",
@@ -1115,7 +1115,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "MX.TO",
     "sourceUrl": "https://www.investing.com/equities/methanex",
-    "note": "Trouble ticker (stale since Sep9, known-bad C$83.10-83.30 band): fresh read ($67.92, +4.16%, day range $66.61-$69.05) is a new distinct figure, not matching the previously-flagged bad band, but still single-sourced and uncorroborated. Kept stored (80.2)."
+    "note": "Single read of uncertain vintage (~C$81.49) loosely close to stored; a separate Feb13 figure ($66.46) is far off. Insufficient certainty; kept stored (80.2)."
   },
   {
     "exchange": "TSX",
@@ -1128,7 +1128,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "NA.TO",
     "sourceUrl": "https://ca.investing.com/equities/national-bank-of-canada",
-    "note": "Trouble ticker (single-source figures recurring 8+ cycles): fresh read (C$150.28, +0.34%, day range cited, 52wk $106.67-$155.00) is -29.5% off stored (213.08) -- notably, stored sits ABOVE the cited 52-week high, suggesting stored itself may be due for review, but per standing 8+-cycle guidance this remains a single uncorroborated source. Kept stored (213.08) pending genuine 2-source resolution."
+    "note": "Trouble ticker: this cycle's single Jul24 read (C$227.40, 52-week high C$237.13) is internally coherent and places stored (213.08) comfortably within the cited 52-week range -- unlike a prior cycle's implausible sub-range figure. Good de-risking sign though still single-sourced; kept stored (213.08)."
   },
   {
     "exchange": "TSX",
@@ -1141,7 +1141,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "PET.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-PET/",
-    "note": "Fresh read (C$30.66) is dated May 30, 2025 -- stale by well over a year -- and +64% off stored. Kept stored (18.69)."
+    "note": "Single Jul14 read (C$18.31) closely matches stored with a coherent decline narrative (Q1 guidance cut). Reconfirmation; kept stored (18.69)."
   },
   {
     "exchange": "TSX",
@@ -1154,7 +1154,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "RCH.TO",
     "sourceUrl": "https://www.investing.com/equities/richelieu-hardware-ltd.",
-    "note": "Watch item (scattered/uncorroborated): fresh read ($38.89, +0.23%, dated October 4, 2026) is a specific recent date, +8.75% off stored, but remains single-sourced with no second corroboration for a move this size. Kept stored (35.76)."
+    "note": "Watch item: Jul23 read (C$35.05) closely matches stored, and a consistent declining-trend trajectory across multiple dated points strengthens confidence. Reconfirmation; kept stored (35.76)."
   },
   {
     "exchange": "TSX",
@@ -1167,7 +1167,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "RY.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/ry/royal-bank-of-canada/share-price",
-    "note": "Fresh read ($285.63, +1.25%) matches stored (285.63) exactly. Reconfirmation; kept stored unchanged."
+    "note": "Fresh read matches stored exactly (C$285.63, Sep26 session). Reconfirmed; kept stored (285.63)."
   },
   {
     "exchange": "TSX",
@@ -1180,7 +1180,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "SHOP.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/SHOP/",
-    "note": "Watch item (recurring rejected-cluster figures): fresh read ($213.67, +2.48%) is a new single-source figure (+3.5% off stored) alongside stray historical $84-92 mentions; no second source. Kept stored (206.42)."
+    "note": "Watch item: only stale 2024 data found. Kept stored (206.42)."
   },
   {
     "exchange": "TSX",
@@ -1193,7 +1193,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SJ.TO",
     "sourceUrl": "https://www.investing.com/equities/stella-jones-inc.",
-    "note": "Fresh search returned only stale July/August 2024 closing-bell links, no current price. Kept stored (72.94)."
+    "note": "Only mismatched-currency/stale data found; a Q1 2026 earnings-miss narrative (-11% in June) doesn't resolve a current price. Kept stored (72.94)."
   },
   {
     "exchange": "TSX",
@@ -1206,7 +1206,7 @@
     "asOfDate": "2026-09-03",
     "displaySymbol": "TCS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TCS/",
-    "note": "Trouble ticker (persistently scattered/garbled-date reads): fresh reads cluster somewhat tighter than usual (32.81, 32.24, 31.94 -6.63% -- the last an exact repeat of a previously-rejected garbled read) but all appear to share the same non-independent investing.com/Google-Finance-family lineage rather than genuinely separate sources. Continuing to reject pending real multi-source agreement; kept stored (35.52), change/changePercent remain null."
+    "note": "Trouble ticker: a Jun11 read (C$37.25) is loosely close to stored but the pattern remains single-sourced/scattered. Kept stored (35.52), change/changePercent remain null."
   },
   {
     "exchange": "TSX",
@@ -1219,7 +1219,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "TD.TO",
     "sourceUrl": "https://tradersunion.com/currencies/price/td-cad/",
-    "note": "Fresh read (C$168.24, -0.98%) is essentially an exact match to stored (168.07, +0.1%), a clean reconfirmation with a tiny update. Accepted."
+    "note": "Single Jul8 read (C$172.36, flagged source error) is +2.4% off stored; a coherent rising trend from April ($144) supports stored's ballpark. Kept stored (168.24)."
   },
   {
     "exchange": "TSX",
@@ -1232,7 +1232,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TFII.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TFII/",
-    "note": "NEW CONFLICT: fresh read (C$218.58, -0.85%, day range $217.50-$222.00) is +26.8% above stored (172.45) with no second source. Kept stored (172.45)."
+    "note": "New-conflict ticker: three USD/NYSE dual-listing reads ($135.15/$131.38/$137.11) cluster together; FX-implied CAD (~$182-189) is +7-10% above stored -- a directional signal worth watching, but currency-mismatched and not a clean override. Kept stored (172.45)."
   },
   {
     "exchange": "TSX",
@@ -1245,7 +1245,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "TFPM.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/TFPM",
-    "note": "Fresh data explicitly flagged by the search itself as 'not updated for more than 1 year' ($33.80, with underlying trade data from August 2024). Kept stored (43.79)."
+    "note": "Only stale 2024 data found. Kept stored (43.79)."
   },
   {
     "exchange": "TSX",
@@ -1258,7 +1258,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TRI.TO",
     "sourceUrl": "https://stockanalysis.com/stocks/TRI/",
-    "note": "Watch item (single sources keep giving wildly inconsistent reads): fresh reads disagree with each other (CAD140.33 dated Aug19 2026, close to stored, vs CAD120.41 -3.67%, -14.8% off stored), no internal agreement. Kept stored (141.48)."
+    "note": "Watch item: only stale 2024 data found this cycle (no new scatter). Kept stored (141.48)."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TSU/",
-    "note": "NEW CONFLICT: fresh reads scatter 3 ways (CAD40.74 +1.27%, CAD39.14 -1.71%, CAD49.34 -0.56%), spanning a 26% range with no agreement. Kept stored (44.37)."
+    "note": "New-conflict ticker from last cycle: this cycle's multiple consistent data points (open C$41.73, insider trades ~C$41.64, 50-day MA C$42.88, 200-day MA C$43.46) all cluster tightly and sit within 6% of stored, resolving the prior 3-way scatter. Kept stored (44.37)."
   },
   {
     "exchange": "TSX",
@@ -1284,7 +1284,7 @@
     "asOfDate": "2026-10-04",
     "displaySymbol": "TVK.TO",
     "sourceUrl": "https://www.investing.com/equities/terravest-capital-inc.",
-    "note": "Trouble ticker (unexplained large jumps recurring, CJT-like pattern): fresh read ($138.00, -1.07%) is +24.7% above stored with no catalyst and no second source -- fitting the exact previously-flagged pattern. Kept stored (110.69)."
+    "note": "Trouble ticker: a declining-trend trajectory (C$125.19 Apr -> C$122.65 Jun -> C$119.52 Sep) is now only 8% off stored, converging away from the previously-flagged C$138 misread. Positive sign; kept stored (110.69)."
   },
   {
     "exchange": "TSX",
@@ -1297,7 +1297,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "WCN.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/WCN",
-    "note": "Fresh search returned only a stale August 2024 closing price ($244.87), no current data. Kept stored (219.08)."
+    "note": "Only stale 2024 data found. Kept stored (219.08)."
   },
   {
     "exchange": "TSX",
@@ -1310,7 +1310,7 @@
     "asOfDate": "2026-09-23",
     "displaySymbol": "WPM.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-WPM/",
-    "note": "Trouble ticker (source quality badly degraded, scattered C$73-184): fresh reads again scatter exactly as flagged ($183.82 in what appears to be a mismatched currency/market, $76.57/$73.43 dated Aug7 2026 stale). Kept stored (207.45)."
+    "note": "Trouble ticker: a new Aug14 read (C$183.82) is closer to stored than past wild ~$73 misreads, but remains single-sourced amid other unrelated-scale reads. Kept stored (207.45)."
   },
   {
     "exchange": "TWSE",
@@ -1323,7 +1323,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "2330.TW",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/tsmc-stock-rises-2-60-percent-as-terafab-talks-emerge/70230762",
-    "note": "Trouble ticker (trusted baseline NT$2575.00): fresh read gives a low outlier (NT$1,480, +0.34%) while the same search also references a separate NT$2,200-2,400 range (closer to, but still not matching, the previously-seen single-sourced NT$2,410 figure) -- internally scattered, no clean 2-source agreement on one value. Kept stored (2575.0)."
+    "note": "Trusted baseline (NT$2,575): the same recurring NT$2,410 figure (Jul21, Google Finance) now agrees within ~1.9% of a SimplyWallSt NT$2,365 read -- promising 2-source convergence, but both predate stored's Oct5 dated rise. Kept stored (2575.0)."
   },
   {
     "exchange": "XTRA",
@@ -1336,6 +1336,6 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "CBK.DE",
     "sourceUrl": "https://www.tradingview.com/symbols/XETR-CBK/",
-    "note": "Fresh read (EUR37.530, +0.43%, +2.09% week) is a single eToro-family source showing a -5.1% move with no second source to corroborate a move of that size. Kept stored (39.53)."
+    "note": "Single undated eToro read (EUR37.35) is reasonably close to stored (-5.8%); a Stuttgart figure (EUR41.01) disagrees. No 2-source agreement; kept stored (39.53)."
   }
 ]
