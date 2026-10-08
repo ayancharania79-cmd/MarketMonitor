@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Bond yields and oil pressure stocks lower on Fed minutes",
-    "headline": "Dow drops 341 points as 10-year yield nears 2002 highs and Fed minutes point to another hike",
-    "summary": "Stocks closed lower Wednesday after Tuesday's records: the Dow fell 0.66% to 51,179.87, the S&P 500 dropped 0.22% to 7,801.77, and the Nasdaq slipped 0.22% to 27,538.69 -- with the small-cap Russell 2000 the weakest major gauge, down 1.31%. Over two-thirds of S&P 500 issues declined. The main pressure point was the bond market: the 10-year Treasury yield hovered near its highest level since 2002 ahead of a $39B bond auction, and the Fed's September meeting minutes showed policymakers still expect another rate increase before year-end, though with no specific timing (odds of an October hike remained modest, around 17-20%). Oil prices added to the pressure, with Brent back near $100/barrel.",
-    "url": "https://www.cnbc.com/2026/10/06/stock-market-today-live-updates.html",
-    "date": "2026-10-07"
+    "ticker": "MARKET", "exchange": "", "company": "Oil tops $104 on Iran-strike reports as Q3 earnings season opens",
+    "headline": "Stocks slip early Thursday as Brent crosses $104 and long-term yields hold near multidecade highs",
+    "summary": "US stocks opened lower Thursday, extending Wednesday's pullback from record highs. Oil was the main drag: Brent crude rose above $104/barrel on reports the administration is weighing further strikes on Iran ahead of the midterms, compounded by Gulf of Mexico producers cutting output ahead of a tropical storm. Bond yields stayed elevated (10-year near 5.29%, 30-year near 5.67%), keeping financial conditions tight. Q3 earnings season is also coming into focus, with FactSet estimating S&P 500 earnings growth of roughly 29.5% for the quarter -- a key test of whether fundamentals can offset the oil/yield headwinds.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+    "date": "2026-10-08"
   }
 ]
