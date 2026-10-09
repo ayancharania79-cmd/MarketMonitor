@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Nasdaq drops 1.25% as OpenAI concerns hit the AI trade",
-    "headline": "Nasdaq falls for a second straight day as new OpenAI details spook investors, oil holds near $104",
-    "summary": "The Nasdaq Composite fell 1.25% to 27,193.34 Thursday, its worst day in weeks, as new details about OpenAI put the broader AI trade under pressure. The S&P 500 declined 0.47% to 7,765.36, giving back more of this week's record highs, while the Dow was the lone gainer among major indexes, up 0.1% to 51,231.64. Oil remained a pressure point for the broader market: Brent crude trimmed its advance to around $104/barrel after President Trump said the US would not strike Iran before the November midterms, following earlier-session reports that such strikes were under consideration. Elevated Treasury yields continued to weigh on sentiment alongside the oil-driven inflation concerns.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
-    "date": "2026-10-08"
+    "ticker": "MARKET", "exchange": "", "company": "Tech rebounds and oil falls to close the week",
+    "headline": "Stocks open higher Friday as oil retreats and tech recovers from Thursday's OpenAI-driven selloff",
+    "summary": "Stocks rose in early Friday trading, bouncing back from Thursday's tech-led pullback: the Nasdaq added about 0.6%, the S&P 500 climbed roughly 0.2-0.3% to around 7,784, and the Dow was up modestly (~0.1%). Falling oil prices and Treasury yields pulling back from multiyear highs gave tech room to recover. The cross-current remains inflation: one-year median inflation expectations for September hit 3.9%, the highest since May 2023, and the Fed's minutes showed most officials still see a likely need for one more 25bp hike -- a reminder that this week's AI-driven volatility is playing out against a still-hawkish rate backdrop. Attention is increasingly shifting to Q3 earnings season and the AI investment theme as the next major catalyst.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
+    "date": "2026-10-09"
   }
 ]
