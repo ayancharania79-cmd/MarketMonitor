@@ -10,7 +10,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BHP.AX",
     "sourceUrl": "https://www.investsmart.com.au/security/asx/bhp/bhp-group-limited/share-price",
-    "note": "InvestSmart split-cache conflict recurs again this cycle (undated $59.610 +0.52% vs cached $60.470 +1.51%, same source family), still no independent 2nd source or Oct-dated read. Kept stored (60.47)."
+    "note": "InvestSmart split-cache conflict recurs again this cycle (undated $59.610 +0.52% vs cached $60.470 +1.51%, same source family); Motley Fool pages gave no live figure. No independent 2nd source or Oct-dated read. Kept stored (60.47)."
   },
   {
     "exchange": "BIT",
@@ -23,7 +23,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ISP.MI",
     "sourceUrl": "https://www.etoro.com/markets/isp.mi",
-    "note": "Fresh reads scatter again, none dated to this cycle: TradingEconomics/Benzinga show a 4-week high near 5.84 (Jun 2026) and a Mar 2026 read of 5.07; Robinhood ADR (ISNPY) shows ~$39.24 (Dec 2025). No agreement, nothing current. Kept stored (6.417)."
+    "note": "Fresh reads scatter again, none dated to this cycle: TradingEconomics shows 4-week-high 5.84 EUR (Jun 2026) and a Mar 2026 read of 5.07; Robinhood ADR (ISNPY) ~$39.24 (Dec 2025). No agreement, nothing current. Kept stored (6.417)."
   },
   {
     "exchange": "BME",
@@ -36,7 +36,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://tradingeconomics.com/bbva:sm",
-    "note": "Scatter continues: MarketScreener shows 24.80 EUR dated Aug 12 2026 (KBW downgrade noted); Digrin's Sept 2026 monthly figure (28.96) is the US ADR in USD, not comparable; Morningstar Sept 4 2026 page gives no figure in snippet. Next earnings not until Oct 29. No Oct-dated BME read found. Kept stored (23.87)."
+    "note": "Scatter continues: comdirect shows ~24.67 EUR (Aug 4 2026, Milan line), eToro undated 22.77-24.20, Investing.com undated 21.275, Teleborsa Mar 2026 support/resistance 17.86/18.51 (stale). No Oct-dated BME read found. Kept stored (23.87)."
   },
   {
     "exchange": "CPSE",
@@ -49,7 +49,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "NOVO-B.CO",
     "sourceUrl": "https://www.marketscreener.com/quote/stock/NOVO-NORDISK-A-S-1412980/quotes/",
-    "note": "A dated Sept 21 2026 close of DKK260.00 (down 7.7% that session on a '2030 plan' announcement) sits above our stored Oct 2 price of 249.65, consistent with continued post-announcement drift lower into October. No fresher dated figure found this cycle. Kept stored (249.65)."
+    "note": "Scatter continues: comdirect Aug 5 2026 ~294.30 DKK (-4.3%), eToro undated 278.10, SimplyWall St snapshots 227.65-315.95 inconsistent with each other. No same-cycle confirmation. Kept stored (249.65)."
   },
   {
     "exchange": "ENXTAM",
@@ -62,7 +62,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://stockanalysis.com/stocks/asml/",
-    "note": "Long-running trouble ticker, still unresolved: scattered undated/dated reads span 1489.80 (Aug 24), 1549.4 (Jul 15), 1564.4 (undated), 1613 (late Jun) -- no two sources agree on a current/Oct level. Kept stored (1478.4)."
+    "note": "Trouble ticker, still unresolved: Boursorama Aug 24 2026 1,489.80 EUR, undated Centralcharts reads of 1,726.8 and 1,564.4 EUR, June 25 2026 read of 1,613.40. No 2-source same-cycle agreement. Kept stored (1478.4)."
   },
   {
     "exchange": "ENXTPA",
@@ -75,7 +75,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MC.PA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/armani-stake-talk-and-analyst-downgrades-frame-lvmh-s-pre-earnings-moment/70226529",
-    "note": "MarketScreener's Sept 14 2026 read (415.05, YTD -35.63%) and scattered undated eToro prices (378.85-514.20) don't corroborate each other or a specific October level. Kept stored (377.85)."
+    "note": "Wildly scattered: eToro snapshots from ~378 to ~514 EUR, Stockopedia 717.30 tied to a stale Q3 2024 release, Statista data ends Sept 2024. No reliable current read. Kept stored (377.85)."
   },
   {
     "exchange": "ENXTPA",
@@ -88,7 +88,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "RMS.PA",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/herm-s-international-stock-falls-3-09-percent-ahead-of-sales-update/70231670",
-    "note": "Scatter continues: one aggregator shows a Oct 3 2026 close near 1301.50 (broadly consistent with stored trend), but a conflicting Investing.com read (~1407, ambiguous 9 Oct/10 Sep date format) and historical 2026 range swinging from 1288.50 to 2300 make this hard to pin down. No clean 2-source Oct agreement. Kept stored (1269.5)."
+    "note": "InvestSmart shows an Oct 3 2026 close of 1,301.50 EUR (close to but not matching stored Oct 5 figure); eToro undated snapshots scatter 1,352.50-1,620. No fresher dated figure beats the stored Oct 5 value. Kept stored (1269.5)."
   },
   {
     "exchange": "ENXTPA",
@@ -101,7 +101,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SAF.PA",
     "sourceUrl": "https://www.investing.com/equities/safran",
-    "note": "Most recent clearly-dated read is MarketScreener's Sept 4 2026 figure (333.50, +0.60%); scattered Aug reads (343.60-361.10) don't add an October data point. Next earnings Oct 23. Kept stored (328.9)."
+    "note": "Scattered: Investing.com shows 270.00 and 294.80 EUR on different pages, eToro undated 307-341, InvestSmart stale (Aug 19 2026) 353.10. No agreement. Kept stored (328.9)."
   },
   {
     "exchange": "LSE",
@@ -114,7 +114,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "HLMA.L",
     "sourceUrl": "https://www.investing.com/equities/halma",
-    "note": "Named trouble ticker, still unresolved: InvestSmart shows undated/early-Sept snapshots (3592p Sept 4, 3576p/3554p late Aug) well below stored 3760p, while scattered eToro reads (3646p-3948p) are undated and inconsistent with each other. No 2-source Oct confirmation. Kept stored (3760.0), rejecting the lower cluster again."
+    "note": "Trouble ticker, still unresolved: InvestSmart undated snapshots conflict (3,604p / 3,592p / 3,576p from different dates), MarketBeat pages are 2025-dated and stale. No fresh confirmation. Kept stored (3760.0)."
   },
   {
     "exchange": "LSE",
@@ -127,7 +127,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "RR.L",
     "sourceUrl": "https://www.digrin.com/stocks/detail/RR.L/price",
-    "note": "Single-sourced hit this cycle: journalarta.com shows 1404 GBp as of Oct 8 2026 (-2.35%), notably below stored 1529.4, but no second source corroborates it -- other reads (1068p, 1432.60p, 1463p) are undated and scattered, and a follow-up targeted search found nothing matching 1404p elsewhere. Treated as an uncorroborated single-source outlier per merge rule. Kept stored (1529.4)."
+    "note": "Single dated source (8 Oct 2026, 1,404p, -2.35%) conflicts with undated Investing.com read of 1,432.60p and is ~8% below stored; no second source corroborates the drop. Kept stored (1529.4) pending a confirmed read."
   },
   {
     "exchange": "NYSE",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ametek-stock-gained-1-14-percent-as-rbc-set-a-usd-291-target/70228557",
-    "note": "Scatter continues: a Sept 8 2026 dated read (239.85, range 237.60-240.78) and an undated Investing.com figure (253.66, citing raised FY26 EPS guidance) don't agree and nothing is dated to October. Kept stored (251.93)."
+    "note": "Scattered: one aggregator shows $253.66 (Aug 8 2026), another $236.42 (Jul 21 2026), eToro undated $248.06. None agree or post-date stored Oct 2 figure. Kept stored (251.93)."
   },
   {
     "exchange": "NYSE",
@@ -153,7 +153,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "APG",
     "sourceUrl": "https://www.investing.com/equities/api-group-corp",
-    "note": "Confirmed: Chartrow shows an Oct 2 2026 close of $40.48 (+1.17%), matching our stored price and date exactly. Kept stored (40.48), now corroborated."
+    "note": "Tickertape shows $37.41 (Sep 19 2026), eToro undated ~$37.4-38.0, Upstox $42.33 (Aug 11 2026). Scattered, nothing fresher/more reliable than stored. Kept stored (40.48)."
   },
   {
     "exchange": "NYSE",
@@ -166,7 +166,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "BRK.B",
     "sourceUrl": "https://hapi.trade/en/stock/brk.b",
-    "note": "No Oct-dated read found; scattered figures (Aug 21 $496.86, Apr 10 $484.99, undated $474.03/$502.98) don't add new information -- one undated quote happens to match our stored 502.98 but carries no date to confirm it's current. Kept stored (502.98)."
+    "note": "Scattered and stale: Coinglass $496.86 (Aug 21 2026), Robinhood $484.99 (Apr 10 2026), Kraken undated $502.98 (close to stored). No dated confirmation past stored Oct 7 figure. Kept stored (502.98)."
   },
   {
     "exchange": "NYSE",
@@ -179,7 +179,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CSL",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403280/CSL/carlisle-companies-inc/",
-    "note": "Named trouble ticker: a single Angel One read (Oct 6 2026, $317.85) conflicts sharply (-10%) with stored 352.14 and with other scattered, uncorroborated figures (365.63, 385.32, 322.61, 334.54, 356.78) that don't cluster near it either. No 2-source agreement. Kept stored (352.14), rejecting the outlier again."
+    "note": "Trouble ticker, still unresolved: Trade-Ideas $329.34 (Oct 3 2026) vs Robinhood $385.32 (Aug 5) vs undated MarketBeat $386.28/Kraken $366.73 - large spread, no 2-source agreement. Kept stored (352.14)."
   },
   {
     "exchange": "NYSE",
@@ -192,7 +192,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "DHR",
     "sourceUrl": "https://www.investing.com/equities/danaher-corp",
-    "note": "Named trouble ticker: scattered single-source reads (Sept 12 $200.14 down 3.62%/wk; Sept 2 $208.13) are below stored 214.06 but uncorroborated and not Oct-dated. Kept stored (214.06), rejecting again."
+    "note": "Trouble ticker, still unresolved: most recent dated figure is $200.14 (Sep 12 2026, single source), MEXC $208.13 (Sep 2), Syfe ~$216 (Aug 28) - scattered, no agreement. Kept stored (214.06)."
   },
   {
     "exchange": "NYSE",
@@ -205,7 +205,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "EQNR",
     "sourceUrl": "https://stockanalysis.com/stocks/eqnr/",
-    "note": "Named trouble ticker, still unresolved: wide scatter across undated sources ($23.99, $29.12, $34.26, $41.37) with no two agreeing and nothing Oct-dated. Kept stored (40.77)."
+    "note": "Trouble ticker, still unresolved: eToro shows two conflicting undated ADR prices ($29.12 and $23.99), MarketBeat stale (Oct 2025), Investing.com NOK figures (253.60 vs 394.20 NOK) disagree with each other. Kept stored (40.77)."
   },
   {
     "exchange": "NYSE",
@@ -218,7 +218,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HCA",
     "sourceUrl": "https://www.digrin.com/stocks/detail/HCA/price",
-    "note": "No Oct data found; most recent dated figure is Aug 4 2026 ($400.92, -1.40%), below stored 426.09, with undated outliers (405-409) not resolving it. Next earnings not until late Oct. Kept stored (426.09)."
+    "note": "Most recent figures are ~2 months stale ($409.64/$409.21, Aug 5-6 2026); next earnings Oct 23 2026 not yet reported. No current read. Kept stored (426.09)."
   },
   {
     "exchange": "NYSE",
@@ -231,7 +231,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HDB",
     "sourceUrl": "https://www.trendlyne.com/us/equity/consensus-estimates/1403853/HDB/hdfc-bank-ltd-adr",
-    "note": "Confirmed: Tickertape's Sept 5 2026 read ($23.19) and Investing.com's Aug 22 2026 read ($23.60) both closely match stored (23.1). Kept stored (23.1)."
+    "note": "No 2026 quote found; most recent is a pre-split-adjusted Oct 2025 close ($36.49) and an undated $76.98 figure. Nothing usable for this cycle. Kept stored (23.1)."
   },
   {
     "exchange": "NYSE",
@@ -244,7 +244,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "HEI",
     "sourceUrl": "https://www.investing.com/equities/heico-corp",
-    "note": "Named trouble ticker: scattered Aug 2026 reads ($366.80 Aug 6, $350.58 Aug 20) don't resolve to a clear Oct level and aren't corroborated against each other. Kept stored (335.72), rejecting again."
+    "note": "Trouble ticker, still unresolved: Upstox $363.20 and Robinhood $366.80, both dated Aug 2026 (~2 months stale), no fresher or corroborating read. Kept stored (335.72)."
   },
   {
     "exchange": "NYSE",
@@ -257,7 +257,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "IBN",
     "sourceUrl": "https://www.etoro.com/markets/ibn/chart",
-    "note": "Mixed signal: Trade-Ideas shows an explicitly Oct 7 2026-dated close of $28.03 (market closed, 7:47am snapshot) and eToro shows an undated $27.92 -- both modestly below our stored same-date (Oct 7) entry of $28.67. Since our existing entry is already dated to the same session and the new reads, while mutually close, don't clearly outrank it, kept stored (28.67) rather than overwrite with an uncertain-provenance pair; flagging the $27.9-28.0 cluster for next-cycle attention."
+    "note": "Most recent figure is a June 5 2026 close (~$25.95, stockanalysis.com), ~4 months stale; other results are 2025-dated. No current read. Kept stored (28.67)."
   },
   {
     "exchange": "NYSE",
@@ -270,7 +270,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Named trouble ticker: most recent dated reads are from August (Aug 19 $157.23, Aug 6 $149.84), with a July/June monthly table showing $137.61/$123.11 -- no October data and no 2-source agreement on a current level. Kept stored (157.85)."
+    "note": "Trouble ticker, still unresolved: Upstox $150.31 (Aug 10 2026), MarketBeat $145.93 (Jul 24), eToro undated $138.30 - scattered, none post-dates stored. Kept stored (157.85)."
   },
   {
     "exchange": "NYSE",
@@ -283,7 +283,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "JPM",
     "sourceUrl": "https://www.tradingview.com/symbols/NYSE-JPM/",
-    "note": "Named trouble ticker: Aug-dated reads cluster near $357 (Aug 19 $357.26, Aug 5 $357.52), while an undated Naga quote ($331.25) is closer to stored (332.38) but unconfirmed. Earnings due Oct 13. No Oct print found. Kept stored (332.38)."
+    "note": "Trouble ticker, still unresolved: InvestSmart $360.96 (Aug 18 2026), Kraken undated $358.01/$352.00 - roughly consistent with each other but dated well before stored Oct 2 figure, no fresher confirmation. Kept stored (332.38)."
   },
   {
     "exchange": "NYSE",
@@ -296,7 +296,7 @@
     "asOfDate": "2026-09-22",
     "displaySymbol": "LOW",
     "sourceUrl": "https://www.investing.com/equities/lowes-companies",
-    "note": "Named trouble ticker: a single dated read (Sept 29 2026, $187.15, -0.27%, YTD -22.40%) is newer than our stored Sept 22 entry but uncorroborated by a second source. Per merge rule for trouble tickers, kept stored (196.08) pending 2-source confirmation."
+    "note": "Trouble ticker, still unresolved: Trade-Ideas $187.15 (Sep 29 2026, down 22% YTD) vs Upstox $223.31 (Aug 2026) - large disagreement, no 2-source agreement. Kept stored (196.08)."
   },
   {
     "exchange": "NYSE",
@@ -309,7 +309,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mastercard-stock-sets-dividend-date-as-shares-trade-at-usd-552-26/70224596",
-    "note": "Scatter persists: one MarketBeat page shows headlines dated around Oct 9 with a close of $563.75 (-2.07%), a separate undated MarketBeat snapshot shows $561.42, and a dated Oct 2 2026 read elsewhere shows $552.26 -- these don't cleanly agree with each other or bridge to stored (546.76, Oct 5) in a verifiable way. Kept stored (546.76)."
+    "note": "Scattered: MarketBeat news page references an Oct 9 close near $563.75 (-2.07%), but other pages show $595.30 (Aug 29), $531.87 and $555.43 undated - spread too wide, single-source for the Oct figure. Kept stored (546.76)."
   },
   {
     "exchange": "NYSE",
@@ -322,7 +322,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Named trouble ticker: Trade-Ideas' Sept 29 2026 close ($146.88) is well below stored (162.79) and conflicts with Tickertape's Sept 5 read ($159.99) and Investing.com's late-Aug read ($158.86) -- no coherent trend or 2-source Oct agreement. Kept stored (162.79), rejecting again."
+    "note": "Trouble ticker, still unresolved: Coinglass $158.15 and MarketChameleon $159.98, both dated Aug 25-26 2026 (~7 weeks stale); eToro undated figures ($99-105) look like noise. Kept stored (162.79)."
   },
   {
     "exchange": "NYSE",
@@ -335,7 +335,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "PAC",
     "sourceUrl": "https://www.gurufocus.com/news/9106609/is-grupo-aeroportuario-del-pacifico-sab-de-cv-pac-a-bargain-after-43-drop-gf-value-says-undervalued",
-    "note": "No Oct data found; most recent dated read is May 28 2026 ($238.11), well before stored (196.61, Oct 1) -- the two aren't comparable given the gap, and no Oct corroboration exists. Kept stored (196.61). Still an unresolved watch item per prior cycles."
+    "note": "Trouble ticker, still unresolved: ChartRow $208.23 (Sep 4 2026) vs Seeking Alpha $241.95 (Apr 2026) vs eToro undated ~$238.95 - scattered, no agreement; next earnings Oct 19 2026 not yet out. Kept stored (196.61)."
   },
   {
     "exchange": "NYSE",
@@ -348,20 +348,20 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "PBR",
     "sourceUrl": "https://finance.yahoo.com/quote/PBR/",
-    "note": "Wide scatter across undated sources ($21.65, $18.77, $14.57) and one Sept 1 2026 dated read ($20.33, close to stored). Nothing from October corroborates a move. Kept stored (20.86)."
+    "note": "Scattered: $20.33 (Sep 1 2026) vs $18.33 (Aug 10 2026) vs eToro undated $21.65/$18.77 - no agreement, nothing post-dates stored. Kept stored (20.86)."
   },
   {
     "exchange": "NYSE",
     "ticker": "RIO",
     "name": "Rio Tinto Group",
-    "price": 103.6,
+    "price": 93.34,
     "currency": "USD",
-    "change": 0.76,
-    "changePercent": 0.74,
-    "asOfDate": "2026-09-15",
+    "change": 0.18,
+    "changePercent": 0.19,
+    "asOfDate": "2026-10-08",
     "displaySymbol": "RIO",
-    "sourceUrl": "https://www.investing.com/equities/rio-tinto-plc-exch",
-    "note": "De-risked per prior cycle; this cycle found only the NYSE ADR's stale 2025 closes ($70.59 Oct 2025) and an ASX-listed (different market/currency) InvestSmart figure -- no comparable Oct 2026 NYSE ADR read. Kept stored (103.6); no new concerns raised."
+    "sourceUrl": "https://stockanalysis.com/stocks/rio/history/",
+    "note": "stockanalysis.com price-history page shows an internally consistent multi-day sequence (Oct 6 close $95.89, Oct 7 $93.16, Oct 8 $93.34, +0.19%) - single source family but a coherent dated trading series, not an isolated outlier, and plausible for a commodity/mining equity. No independent 2nd source, but this is the freshest specific, dated data available and RIO is de-risked per prior cycles. Updated to $93.34 (Oct 8 close, most recent available)."
   },
   {
     "exchange": "NYSE",
@@ -374,7 +374,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "SE",
     "sourceUrl": "https://www.investing.com/equities/sea-limited",
-    "note": "No Oct data found; most recent dated read is Sept 5 2026 ($112.09, down from $119.36 a week earlier) which is below stored (124.1, Sept 16) and not independently corroborated for October. Kept stored (124.1). Still an unresolved watch item."
+    "note": "Trouble ticker, still unresolved: InvestSmart $112.09 (Sep 5 2026) vs Motilal Oswal $79.25 (Mar 2026) vs eToro undated $118.16 - wide scatter, no agreement. Kept stored (124.1)."
   },
   {
     "exchange": "NYSE",
@@ -387,7 +387,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "SHEL",
     "sourceUrl": "https://www.investing.com/equities/royal-dutch-shell-a-plc",
-    "note": "Named trouble ticker: most recent dated read is Aug 11 2026 ($89.96, +1.72%), with an earlier Jul 15 read at $84.91 -- no October print, no 2-source current-date agreement. Kept stored (93.32), rejecting again."
+    "note": "Trouble ticker, still unresolved: InvestSmart $95.60 (Sep 10 2026) vs Upstox $89.96 (Aug 11) vs ChartRow $89.60 (Aug 6) - roughly consistent with each other but all pre-date stored Sep 9 figure, nothing newer. Kept stored (93.32)."
   },
   {
     "exchange": "NYSE",
@@ -400,7 +400,7 @@
     "asOfDate": "2026-09-24",
     "displaySymbol": "SPOT",
     "sourceUrl": "https://finance.yahoo.com/quote/SPOT/",
-    "note": "Sept 25 2026 dated read ($511.38/$510.01, -3.56% vs a week earlier) is close to and consistent with stored (504.29, Sept 24), but nothing newer/October-dated was found. Kept stored (504.29)."
+    "note": "Trouble ticker, still unresolved: InvestSmart $510.01 with a Sep 25 2026 close of $511.38 - closest dated read, but still 2+ weeks stale and unconfirmed by a 2nd source. Kept stored (504.29)."
   },
   {
     "exchange": "NYSE",
@@ -413,7 +413,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TDG",
     "sourceUrl": "https://www.investing.com/equities/transdigm-group-inc",
-    "note": "No Oct data found; scattered undated/stale reads ($1132-$1274 range across Mar-May 2026) don't bear on a current level and aren't comparable to stored (1090.38). Kept stored (1090.38)."
+    "note": "Scattered and stale: most recent figure ($1,241.88, low-quality aggregator, May 27 2026) conflicts with Robinhood ($1,167-1,206, Apr 2026) and MEXC ($1,132, Mar 2026). Nothing current. Kept stored (1090.38)."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "No Oct data found; the only dated reads are from July 2026 (~$566-573), notably below stored (658.89, Oct 2) with a large gap unexplained by search results -- insufficient basis to update. Kept stored (658.89)."
+    "note": "Scattered: MEXC $566.63 (Jul 31 2026) vs Tradersunion $526.46 (Jul 23) vs undated eToro range $536-680. No agreement, nothing current. Kept stored (658.89)."
   },
   {
     "exchange": "NYSE",
@@ -439,7 +439,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TTE",
     "sourceUrl": "https://www.google.com/finance/quote/TTE:NYSE",
-    "note": "Trusted baseline (~$80-90) holds: scattered reads cluster in the $85-92 range (July $86.23, undated $90.10, May $92.28), consistent with stored (84.37). No Oct-specific print found, but nothing contradicts the baseline. Kept stored (84.37)."
+    "note": "Trusted baseline range ($80-90) reconfirmed conceptually; fresh reads scatter and are stale (Aug 6 2026 $86.27, Mar 2026 $88-89, some pages showing a stale $57.47 2025 figure). No reason to move off the trusted stored value. Kept stored (84.37)."
   },
   {
     "exchange": "NYSE",
@@ -452,7 +452,7 @@
     "asOfDate": "2026-09-26",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/uber/uber-technologies/share-price",
-    "note": "Confirmed: InvestSmart's Sept 26 2026 close ($69.62, -15% YTD) matches stored exactly, same date. Kept stored (69.62)."
+    "note": "Scattered: $69.62 matches stored almost exactly but dated Sep 26 2026 (pre-dates stored); CoinGecko undated $76.51; CoinGlass $68.91 (Jul 24). No fresher confirmed read. Kept stored (69.62)."
   },
   {
     "exchange": "NYSE",
@@ -465,7 +465,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "UBS",
     "sourceUrl": "https://www.cnbc.com/quotes/UBS",
-    "note": "Named trouble ticker, declining-trend bracket still single-sourced: Benzinga's early-Sept 2026 read ($55.38) and Digrin's July monthly figure ($52.73, matching our stored price exactly) don't add a second independent corroboration for a current level. Situation unresolved -- kept stored (52.73)."
+    "note": "Trouble ticker, still in the ~$50-54 declining-trend bracket: Tickertape $50.69 (Sep 19 2026), MarketChameleon $54.16 (Sep 1 2026) - consistent with the known bracket but still single-sourced per date, not same-cycle corroborated. Not yet resolved. Kept stored (52.73)."
   },
   {
     "exchange": "NYSE",
@@ -478,7 +478,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "UL",
     "sourceUrl": "https://www.gurufocus.com/stock/UL/summary",
-    "note": "No Oct data found; most recent dated reads are from 2025 (Nov 2025 $59.28; Sept 2025 $64.00) and don't bear on current pricing. Kept stored (65.28). Still an unresolved watch item."
+    "note": "Scattered and stale: ChartRow $63.66 (Aug 6 2026), MarketChameleon $62.39 (Jul 17 2026). Nothing current. Kept stored (65.28)."
   },
   {
     "exchange": "NYSE",
@@ -491,7 +491,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "V",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/v/visa/share-price",
-    "note": "A single Oct 2 2026 dated read ($360.66, 'short-term downtrend') is modestly below stored (367.39, Oct 5) but uncorroborated by a second source; a Sept 10 read ($367.39) matches stored exactly. Kept stored (367.39)."
+    "note": "Scattered: InvestSmart $367.39 (Sep 10 2026, matches stored) vs a technical-analysis page reading $360.66 (Oct 2 2026) vs Bullfincher $369.59 (Aug 5). Roughly consistent band around stored value, no reason to move. Kept stored (367.39)."
   },
   {
     "exchange": "NasdaqGS",
@@ -504,7 +504,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "AMZN",
     "sourceUrl": "https://www.investing.com/equities/amazon-com-inc",
-    "note": "No market-data read for October found (only analyst-target pieces and forecast-model pages, which were disregarded as non-market data). Kept stored (251.7)."
+    "note": "Scattered: InvestSmart $258.48 (Sep 5 2026) vs Robinhood $232-239 (Apr 2026) vs undated CoinGecko $247.67/Investing.com $231.08. No agreement, nothing current. Kept stored (251.7)."
   },
   {
     "exchange": "NasdaqGS",
@@ -517,7 +517,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "APP",
     "sourceUrl": "https://coincentral.com/applovin-app-stock-drops-5-after-wells-fargo-pixel-warning",
-    "note": "Named trouble ticker: Sept 1 2026 dated read ($312.06) is above stored (290.43, Sept 30) and conflicts with an undated CoinGecko figure ($320.56); no 2-source Oct agreement. Kept stored (290.43), rejecting again."
+    "note": "Trouble ticker, still unresolved: CoinGecko undated $320.56 vs InvestSmart $312.06 (Sep 1 2026) - roughly consistent with each other and close to stored, but undated/stale. Kept stored (290.43)."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,7 +530,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://tradersunion.com/news/stocks/show/3594639-cadence-design-systems-jumps-2-07percent/",
-    "note": "Scattered early-Sept 2026 reads ($306.67 Sept 2, $313.04 Sept 1) don't agree with each other or confirm a move from stored (333.45, Oct 2); nothing October-dated found. Kept stored (333.45)."
+    "note": "Scattered: Coinglass $313.04 (Sep 1 2026) vs MarketChameleon $306.67 (Sep 2 2026) - roughly agree with each other but both pre-date stored Oct 2 figure by a month; nothing fresher. Kept stored (333.45)."
   },
   {
     "exchange": "NasdaqGS",
@@ -543,7 +543,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "DPZ",
     "sourceUrl": "https://www.investing.com/equities/dominos-pizza-inc",
-    "note": "Sources conflict badly (one clear scaling error at $5800) and nothing reliable is dated near October; Unusual Whales notes a -5.99% move since last earnings as of Oct 6 but gives no price. Kept stored (300.3)."
+    "note": "Reaffirmed: MarketChameleon shows DPZ at exactly $300.30 as of Oct 6 2026 close, matching the stored price and date precisely. Kept stored (300.3)."
   },
   {
     "exchange": "NasdaqGS",
@@ -556,7 +556,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "FTNT",
     "sourceUrl": "https://www.heygotrade.com/en/us-stock/ftnt/",
-    "note": "Cluster of Oct 2 2026 reads (record ~$182.09, 'trading near $181.68', digrin monthly $178.72) from multiple independent sources (parameter.io, coincentral.com, digrin.com) brackets and is consistent with our stored price (180.95, Oct 5). Kept stored (180.95), now well corroborated."
+    "note": "Scattered and mostly older than stored: InvestSmart $156.34 (Sep 4 2026) and Investing.com undated $158.98, both below and older than stored Oct 5 figure - consistent with an uptrend into early Oct, not conflicting. Kept stored (180.95)."
   },
   {
     "exchange": "NasdaqGS",
@@ -569,7 +569,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "GMAB",
     "sourceUrl": "https://finviz.com/news/398840/genmab-and-abbvie-announce-epcoritamab-in-combination-with-r-chop-demonstrates-statistically-significant-improvement-in-progression-free-survival-in-patients-with-newly-diagnosed-diffuse-large-b-cell-lymphoma",
-    "note": "Multi-cycle 29.08 baseline now superseded by a genuine, well-corroborated catalyst: Genmab/AbbVie announced topline Phase 3 EPCORE DLBCL-2 results on 2026-10-05 (epcoritamab + R-CHOP cut risk of progression/death by 51% vs R-CHOP alone in frontline DLBCL, HR 0.49, p<0.0001) -- first Phase 3 bispecific-antibody combo to hit statistical significance in frontline DLBCL. Confirmed by BusinessWire/Finviz press release, Hargreaves Lansdown ('Genmab jumps after positive trial...'), and French outlets (Option Finance, TradingSat) citing Jefferies calling the data 'impressive' with ~$4.5B peak-sales estimates -- all correctly dated Oct 5-6, 2026 (not a 2025 recycle; distinct from last cycle's single-sourced, since-vanished $36.64 Trade-Ideas outlier, which now looks like an early/partial read of the same move). WealthAwesome reports the stock closed +10.73% to $38.48 on the news (Oct 5), consistent with SimplyWall.st's independent note of a ~36% share-price surge over the trailing 90 days. Two-plus independent sources, correct 2026 dateline, clear catalyst: accepted."
+    "note": "Reaffirmed: Quiver Quant/Stockopedia confirm a Phase 3 EPCORE DLBCL-2 win (Genmab/AbbVie) reported Oct 5 2026 with shares +12.3% that day - matches the stored price, date and changePercent (38.48, +10.73%, 2026-10-05) almost exactly. Dateline checked as genuinely 2026, not a recycled 2025 story. Kept stored (38.48)."
   },
   {
     "exchange": "NasdaqGS",
@@ -582,7 +582,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://www.investsmart.com.au/security/nasdaq/googl/alphabet/share-price",
-    "note": "Confirmed: InvestSmart's Aug 18 2026 close ($344.09) matches stored exactly; no fresher data found. Kept stored (344.1)."
+    "note": "InvestSmart shows $344.09/$344.10 (table dated Aug 18 2026) - matches stored value almost exactly despite the older table date, suggesting little net movement. No conflicting fresher read found. Kept stored (344.1)."
   },
   {
     "exchange": "NasdaqGS",
@@ -595,7 +595,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MELI",
     "sourceUrl": "https://www.investing.com/equities/mercadolibre",
-    "note": "Confirmed: an Oct 3 2026 dated read (~$1696) matches stored (1696.56, Oct 2) closely. Kept stored (1696.56)."
+    "note": "Reaffirmed: InvestSmart shows $1,696.24 with last close Oct 3 2026, closely matching stored ($1,696.56, Oct 2) - good corroboration. Kept stored (1696.56)."
   },
   {
     "exchange": "NasdaqGS",
@@ -608,7 +608,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "META",
     "sourceUrl": "https://www.marketbeat.com/instant-alerts/price-meta-platforms-nasdaq-meta-shares-up-19-still-a-buy-2026-10-05/",
-    "note": "Trusted baseline (~$740-745) holds. This cycle's search surfaced only stale/pre-rally reads (Sept close ~$613-653, eToro range $646-758 undated) well below the established baseline -- treated as stale, not evidence of a pullback, consistent with repeated guidance to trust the $740-745 band. Kept stored (743.45)."
+    "note": "Trusted baseline ($740-745) holds. Fresh reads are wildly inconsistent (InvestSmart headline $653.69 vs its own Sep 9 table of $613.31; eToro scatter $595-758; a CoinGecko 'META' token is an unrelated tokenized product). None beats the trusted baseline. Kept stored (743.45)."
   },
   {
     "exchange": "NasdaqGS",
@@ -621,7 +621,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MSFT",
     "sourceUrl": "https://www.investing.com/equities/microsoft-corp",
-    "note": "Trouble ticker: the recurring bad ~$382-386 figure did NOT reappear this cycle. Instead found stale Aug 2026 reads (~$478-483), still well below the trusted baseline (519.50) with no explanation -- treated as stale/unreliable rather than a genuine pullback given the strength and recency of the 519.50 baseline. Kept stored (519.50), rejecting the Aug cluster."
+    "note": "KNOWN TROUBLE TICKER: the recurring bad ~$382-386 figure (Coinglass, dated Jul 10) appeared again this cycle exactly as before - rejected again. Other reads (Investing.com $483.24 Aug 23, InvestSmart $496.75/$501.26 Sep 2) don't reach the trusted baseline either and aren't 2-source confirmed. Kept trusted stored value (519.50)."
   },
   {
     "exchange": "NasdaqGS",
@@ -634,7 +634,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "NFLX",
     "sourceUrl": "https://www.benzinga.com/trading-ideas/movers/25/10/48571277/why-is-netflix-stock-up-today",
-    "note": "Scattered reads ($71.14 Sept 28, $76.48 Sept 8, $77.65 Jul monthly) don't agree with each other and nothing is October-dated; closest to stored (67.58, Oct 6) is the Sept 28 figure but it's a single, uncorroborated source. Kept stored (67.58). Still an unresolved watch item."
+    "note": "CoinGecko shows $67.58 +2.4%, matching stored exactly (undated but consistent); Robinhood/Yahoo figures ($92-93) are from March 2026 and pre-date a since-reported split/decline. Kept stored (67.58)."
   },
   {
     "exchange": "NasdaqGS",
@@ -647,7 +647,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ROP",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/roper-technologies-stock-fell-2-28-percent-before-q3-results/70228225",
-    "note": "Named trouble ticker (NasdaqGS:ROP): single-source-family reads (Benzinga/Equibles, Aug-Sept 2026, $405-410) conflict sharply with stored (354.32, Oct 2) and aren't independently corroborated for October. Kept stored (354.32), rejecting again."
+    "note": "KNOWN TROUBLE TICKER (NasdaqGS Roper Technologies - distinct from SWX:ROP/Roche): InvestSmart shows two conflicting pages, one labelled NYSE ($476.97) one labelled Nasdaq ($407.25, Sep 5 2026) - classic source conflation, no 2-source agreement near stored. Kept stored (354.32)."
   },
   {
     "exchange": "NasdaqGS",
@@ -660,7 +660,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TXN",
     "sourceUrl": "https://au.investing.com/equities/texas-instru",
-    "note": "No Oct data found; most recent dated reads are from July/Aug 2026 (~$286-288), not comparable to confirm a current/Oct level. Kept stored (275.74)."
+    "note": "Stale: Upstox $286.06 (Aug 2026), Coinglass $288.28 (Jul 20 2026). Nothing current. Kept stored (275.74)."
   },
   {
     "exchange": "SGX",
@@ -673,7 +673,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "D05.SI",
     "sourceUrl": "https://growbeansprout.com/quote/D05.SI",
-    "note": "Named trouble ticker: an undated SimplyWall.st read ($76.40) is close to stored (77.21) but carries no date; earlier dated reads (Feb $57.80) are stale and don't help. No 2-source Oct confirmation. Kept stored (77.21), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: still scattered - Motley Fool SGD57.80 (Feb 10 2026), Stockopedia SGD58.68, Capital.com SGD57.45 undated, SimplyWall St SGD54.21/55.04 - no 2-source same-cycle agreement. Kept stored (77.21)."
   },
   {
     "exchange": "SWX",
@@ -686,7 +686,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ROG.SW",
     "sourceUrl": "https://tradingeconomics.com/rog:vx",
-    "note": "Named trouble ticker (Roche, not Roper): the single-sourced CHF362.90 figure did not reappear this cycle. Instead found a repeating/placeholder-looking Digrin figure (CHF322.30 repeated Apr-Aug), a Mar-dated finanzen.ch read (CHF314.80), an undated MarketScreener read (CHF334.90), and a stale Jul 24 participation-certificate quote (CHF355.10, wrong share class) -- none near the trusted baseline (~CHF371.40-371.50) and none genuinely corroborating each other. Kept stored (371.4), continuing to watch for 2-source confirmation."
+    "note": "KNOWN TROUBLE TICKER (Roche Holding, SIX:ROG/ROP): search confusion between ROG and ROP ticker lines persists. Best read is an undated Google Finance snippet at CHF 369.10 (close to the CHF371.40-371.50 trusted baseline, within $2) but still not genuinely 2-source same-cycle confirmed; Trading Economics shows a stale Mar 31 CHF316.20. Kept stored (371.4) - CHF369.10 read is encouraging but not yet a clean resolution."
   },
   {
     "exchange": "TSE",
@@ -699,7 +699,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "8001.T",
     "sourceUrl": "https://finance.yahoo.com/quote/8001.T/",
-    "note": "Confirmed: an Investing.com read matches stored exactly (2175.5 JPY). Kept stored (2175.5)."
+    "note": "Scattered and likely split/exchange confusion: Investing.com shows both 2,175.5 JPY (matches stored) and 9,457.0 JPY (labelled delayed) on different regional pages; other sources show 7,280-9,510 JPY, inconsistent with the 2,175 range. Kept stored (2175.5) as the figure most consistent with stored."
   },
   {
     "exchange": "TSE",
@@ -712,7 +712,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "8031.T",
     "sourceUrl": "https://www.investing.com/equities/mitsui---co.,-ltd.",
-    "note": "Roughly confirmed: scattered reads cluster near stored (Investing.com global 4899.0 +2.62%; AU 4867; Nigeria 4966; eToro 4964, the latter matching stored almost exactly). Kept stored (4964.0)."
+    "note": "Reaffirmed: eToro shows 4,964.00 JPY (+0.16%), matching the stored price almost exactly; other Investing.com regional pages cluster in the 4,867-4,966 range. Kept stored (4964.0)."
   },
   {
     "exchange": "TSE",
@@ -725,7 +725,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "8058.T",
     "sourceUrl": "https://www.google.com/finance/quote/8058:TYO",
-    "note": "Confirmed: an undated Morningstar read shows current 5005 / previous close 4987 (+18, +0.36%), which exactly reproduces our stored price and day-change. Kept stored (5005.0)."
+    "note": "Reaffirmed: Morningstar shows JP\u00a55,005, matching stored exactly; other sources (Simply Wall St, MarketScreener, Plus500) scatter from JP\u00a53,596 to JP\u00a55,850 across clearly different capture dates. Kept stored (5005.0)."
   },
   {
     "exchange": "TSX",
@@ -738,7 +738,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ACQ.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ACQ-T/",
-    "note": "No Oct data found; Aug 21 2026 read ($22.21) is close to but below stored (22.62, Oct 5); undated reads (22.26, 23.09) don't add confirmation. Kept stored (22.62)."
+    "note": "No 2026 data found; most recent figures are from Oct 2025 (C$27.10-28.26) or earlier. Kept stored (22.62)."
   },
   {
     "exchange": "TSX",
@@ -751,7 +751,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AIF.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AIF-T/",
-    "note": "No Oct data found; only an undated Eulerpool read (46.76, inconsistent with stored) and stale 2023-24 snapshots. Kept stored (44.84)."
+    "note": "No 2026 data found; only automated closing-bell summaries from 2024 (~$54.97) turned up. Kept stored (44.84)."
   },
   {
     "exchange": "TSX",
@@ -764,7 +764,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/ATD",
-    "note": "Named trouble ticker: scattered reads span Jul 31 ($91.01), Aug 25 ($85.99), and undated ($79.63-$80.30) figures that don't cluster or agree; none is Oct-dated. Kept stored (78.67), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: scattered - Chartmill C$91.01 (Jul 31 2026) vs InvestSmart C$85.99 (Aug 25 2026, exchange/currency unclear) - no 2-source same-cycle agreement, both pre-date stored Sep 28 figure. Kept stored (78.67)."
   },
   {
     "exchange": "TSX",
@@ -777,7 +777,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ATS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/ATS/",
-    "note": "No Oct data found; most recent reads are stale (2025). Kept stored (25.76)."
+    "note": "No reliable TSX data found this cycle; only a Mar 2026 NYSE-listed figure (US$30.15) and stale 2025 MarketBeat TSX reads (C$35.90-42.12). Kept stored (25.76)."
   },
   {
     "exchange": "TSX",
@@ -790,7 +790,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ATZ.TO",
     "sourceUrl": "https://www.investing.com/equities/aritzia-inc",
-    "note": "No Oct data found; search returned only stale 2024 closing-bell reports. Kept stored (122.66)."
+    "note": "No 2026 data found; only automated closing-bell summaries from 2024 (~$41.09) turned up. Kept stored (122.66)."
   },
   {
     "exchange": "TSX",
@@ -803,7 +803,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "BDGI.TO",
     "sourceUrl": "https://wealthawesome.com/whats-going-on-with-badger-infrastructure-solutions-ltd-stock-wednesday-10072026-wgo",
-    "note": "Long-standing trouble ticker now resolved with genuine multi-source, multi-month corroboration: MarketBeat (Jul 24, 2026, $98.37 close, analyst target C$93.88 avg/C$112 high), MarketBeat (Jul 31, 2026, $90.75 after 6.7% analyst-upgrade pop, Raymond James target raised to C$105), Stockchase (Aug 21, 2026, $85.15), and WealthAwesome (Oct 1, 2026 close C$96.20; Oct 7, 2026 current C$96.91) -- four independent source families all placing the stock in the C$85-98 band through Q3/Q4 2026, consistent with Fool.ca's report of an ~88% trailing-year surge and strong Q2 2026 earnings (revenue +23% YoY). This resolves the long gap versus the stale stored baseline (63.94, dated Sept 15), which appears to have been stuck on an old/incorrect read. Accepted most recent same-source-family figure (Oct 7, $96.91) vs its own Oct 1 reading ($96.20) for the change calc."
+    "note": "RESOLVED PER PRIOR CYCLES, reaffirmed: no fresher contradicting data found this cycle (only stale 2024 closing-bell reports at a pre-resolution price level). No conflict with the current C$96.91 resolution. Kept stored (96.91)."
   },
   {
     "exchange": "TSX",
@@ -816,7 +816,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BDI.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BDI-T/",
-    "note": "No Oct data found (Black Diamond Group); only stale 2024 closing-bell reports returned. Kept stored (19.94)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary ($9.32) turned up, well below the stored range - clearly stale/pre-split-adjusted era data. Kept stored (19.94)."
   },
   {
     "exchange": "TSX",
@@ -829,7 +829,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BIP-UN.TO",
     "sourceUrl": "https://www.marketbeat.com/stocks/TSE/BIP-UN/",
-    "note": "Named trouble ticker, still not fully resolved: only stale MarketBeat reads from 2025 (C$45.61, C$45.89) were found, bracketing below stored (55.66) but from the wrong period to compare directly. Kept stored (55.66), continuing to watch."
+    "note": "Watch item, still not tightened: no fresh data found this cycle (only 2024 closing-bell reports around $41). Bracket around stored (55.66) remains unconfirmed by a clean 2-source same-cycle read. Kept stored (55.66)."
   },
   {
     "exchange": "TSX",
@@ -842,7 +842,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://www.barchart.com/stocks/quotes/BN.TO",
-    "note": "No Oct 2026 data found (search surfaced only 2025 closing prints, including a confusing Oct 2025 vs Oct 2026 same-ticker mix). Kept stored (79.42)."
+    "note": "KNOWN TROUBLE TICKER: scattered - MarketBeat C$64.67 (Oct 24 2025, stale), TMX C$69.19 (Apr 2025), Traders Union undated C$51.79 - no agreement, nothing current. Kept stored (79.42)."
   },
   {
     "exchange": "TSX",
@@ -855,7 +855,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BYD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/BYD",
-    "note": "Named trouble ticker: Aug 5 2026 read ($145.30) and an Aug 23 article describing a '40% decline' with record revenue don't resolve to a clear, corroborated October level versus stored (111.85). Kept stored (111.85), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: no 2026 data found, only a 2024 closing-bell summary ($213.85). Kept stored (111.85)."
   },
   {
     "exchange": "TSX",
@@ -868,7 +868,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CGY.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-CGY/",
-    "note": "Calian Group (not Calfrac): scattered undated SimplyWall.st reads (84.22, 74.12, 51.50) don't agree with each other or confirm a move from stored (79.65). Kept stored (79.65)."
+    "note": "KNOWN TROUBLE TICKER: no 2026 data found, only a 2024 closing-bell summary ($54.10). Kept stored (79.65)."
   },
   {
     "exchange": "TSX",
@@ -881,7 +881,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "CIGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CIGI/",
-    "note": "No Oct data found; search returned only stale 2024 closing-bell reports for Colliers International. Kept stored (149.28)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary ($188.71) turned up. Kept stored (149.28)."
   },
   {
     "exchange": "TSX",
@@ -894,7 +894,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "CJT.TO",
     "sourceUrl": "https://www.investing.com/equities/cargojet-inc.",
-    "note": "Named trouble ticker, still unresolved this cycle: no fresh same-cycle data found at all (only stale Feb 2026 and 2024 reads); the prior cycle's mid-$80s two-source convergence (Investing.com $86.63 / Stockwatch $85.47) was not refreshed or re-confirmed this cycle. Kept stored (76.5), rejecting/deferring again pending a genuinely same-cycle read."
+    "note": "KNOWN TROUBLE TICKER/watch item: no fresh same-cycle confirmation found this cycle (only a 2024 closing-bell summary at $115.65, an era before the stored price level). The previously-seen mid-80s cluster did not reappear. Kept stored (76.5)."
   },
   {
     "exchange": "TSX",
@@ -907,7 +907,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CNQ.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CNQ/",
-    "note": "No reliable Oct data found; an Aug 13 2026 read ($66.38, currency unstated) is well below stored (69.1, Oct 2) and conflicts with a stale Jan 2026 figure ($44.62). Kept stored (69.1)."
+    "note": "Scattered: Motley Fool Australia $66.38 (Aug 13 2026, currency/exchange unclear) vs Traders Union 60.62 CAD (Jul 17 2026) - inconsistent, nothing current. Kept stored (69.1)."
   },
   {
     "exchange": "TSX",
@@ -920,7 +920,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CNR.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/cnr/canadian-national-railway-co/share-price",
-    "note": "Confirmed: an undated headline figure (170.58) matches our stored price and date exactly; a separate Aug 19 2026 table shows 175.87, modestly higher but from an earlier date, consistent with a slight pullback into Oct. Kept stored (170.58)."
+    "note": "Reaffirmed: InvestSmart shows $170.58 (table through Sep 5 2026), matching stored exactly. Kept stored (170.58)."
   },
   {
     "exchange": "TSX",
@@ -933,7 +933,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "CP.TO",
     "sourceUrl": "https://fool.ca/2026/10/05/tsx-today-what-to-watch-for-in-stocks-on-monday-october-5",
-    "note": "No Oct data found; most recent dated read is Jun 12 2026 (125.88), with Feb reads lower (109.97) -- a plausible uptrend but nothing bridges to October. Kept stored (122.51)."
+    "note": "Scattered/currency-confused: a French-language page shows a Jun 12 2026 TSX close of 125.88 CAD vs Upstox/Robinhood USD NYSE-line figures ($90-92) that aren't comparable. No clean current TSX read. Kept stored (122.51)."
   },
   {
     "exchange": "TSX",
@@ -946,7 +946,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "CSU.TO",
     "sourceUrl": "https://www.investing.com/equities/constellation-software-inc",
-    "note": "Per specific guidance to be skeptical of dramatic catalyst narratives for CSU: a Sept 18 2026 dated read (2829.90, -14.6% YTD per that page) is notably below stored (2986.49, Oct 5) and uncorroborated by a second source; no genuine catalyst found. Kept stored (2986.49), treating the lower figure as unverified."
+    "note": "No 2026 data found; only 2024 closing-bell summaries (~C$4,000-4,470, pre-split-adjusted era) turned up. Kept stored (2986.49)."
   },
   {
     "exchange": "TSX",
@@ -959,7 +959,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "DHT-UN.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/DHT-UN-T/",
-    "note": "No Oct data found; most recent figure is a stale Nov 2025 SimplyWall.st read (15.70), not comparable to stored (17.47, Oct 7). Kept stored (17.47)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary ($11.59) turned up. Kept stored (17.47)."
   },
   {
     "exchange": "TSX",
@@ -972,7 +972,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "DND.TO",
     "sourceUrl": "https://www.investing.com/equities/dye-durham-ltd",
-    "note": "Named trouble ticker: real distress context corroborated independently this cycle (strategic-review collapse, Plantro bid withdrawal, CIBC stepping down as adviser, delayed FY2025/Q1 FY26 financials under auditor review of revenue recognition, debt trading near 90c/dollar, and a WealthAwesome-reported Aug 21 2026 close of C$0.74, 52-wk low $0.69) -- this confirms the stored sub-$1 price level is a genuine reflection of company distress, not a data error. No fresher specific print beyond Aug 21 was found, and a prolonged-non-reporting trading halt was mentioned in commentary but not confirmed/dated. Kept stored (0.67), now with higher confidence it is directionally correct."
+    "note": "No fresher price data found this cycle, only background confirming the real 2025 strategic-review/distress situation (board review, activist truce) already reflected in the stored note. Per updated guidance this is now treated as a normal (if volatile) distressed-equity ticker rather than a pure data-trouble ticker. Kept stored (0.67)."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/dol-T",
-    "note": "No Oct data found; only stale 2024 closing-bell reports returned. Kept stored (184.01)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary (~C$130.87) turned up. Kept stored (184.01)."
   },
   {
     "exchange": "TSX",
@@ -998,7 +998,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "DSG.TO",
     "sourceUrl": "https://www.chartmill.com/stock/quote/DSG.CA/ownership",
-    "note": "No Oct data found; only stale 2024 closing-bell reports and an undated TradingView snapshot returned. Kept stored (109.65)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary (~C$129.18) turned up. Kept stored (109.65)."
   },
   {
     "exchange": "TSX",
@@ -1011,7 +1011,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "DTOL.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DTOL/",
-    "note": "Named trouble ticker: no Oct data found, only stale Aug 2024 reads. Kept stored (8.97), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: no 2026 data found, only a 2024 closing-bell summary ($12.19). Kept stored (8.97)."
   },
   {
     "exchange": "TSX",
@@ -1024,7 +1024,7 @@
     "asOfDate": "2026-09-17",
     "displaySymbol": "EFN.TO",
     "sourceUrl": "https://wealthawesome.com/element-fleet-management-corp-efnto-slides-6-this-week-amid-acquisition-withdrawal",
-    "note": "Named trouble ticker, trusted baseline (22.65) still independently unconfirmed this cycle: the only dated read found (Fintel, Feb 24 2026, C$34.46) is from well before the baseline period and doesn't bear on it. Kept stored (22.65), continuing to watch."
+    "note": "No 2026 data found; only a 2024 closing-bell summary (~$26) turned up. Kept stored (22.65)."
   },
   {
     "exchange": "TSX",
@@ -1037,7 +1037,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://tradersunion.com/currencies/price/ifc-cad/",
-    "note": "No Oct 2026 data found; most recent is a stale Nov 2025 Eulerpool read (288.50), not comparable to stored (246.65, Oct 1). Kept stored (246.65)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary (~C$242.94) turned up. Kept stored (246.65)."
   },
   {
     "exchange": "TSX",
@@ -1050,7 +1050,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "JWEL.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-JWEL/",
-    "note": "Roughly confirmed: SimplyWall.st's Sept 10 2026 read (45.52) is close to stored (45.44, Oct 2); a US OTC-line read ($32.01, Oct 2) is a different listing/currency and not comparable. Kept stored (45.44)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary (~$31.60) turned up. Kept stored (45.44)."
   },
   {
     "exchange": "TSX",
@@ -1063,7 +1063,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "KXS.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/KXS-T/",
-    "note": "Named trouble ticker: no Oct data found, only stale 2024 closing-bell reports. Kept stored (177.65), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: no 2026 data found, only a 2024 closing-bell summary ($146.26). Kept stored (177.65)."
   },
   {
     "exchange": "TSX",
@@ -1076,7 +1076,7 @@
     "asOfDate": "2026-09-25",
     "displaySymbol": "MAL.TO",
     "sourceUrl": "https://www.investing.com/equities/magellan-aerospace-corporation",
-    "note": "A Sept 17 2026 dated WealthAwesome read (34.25) is close to stored (34.87, Sept 25); other reads (Jul $35.10, $33.74) scatter around the same general level without pinpointing October. Kept stored (34.87)."
+    "note": "No 2026 data found; only 2024 closing-bell summaries ($8-9.50 range, pre-split-adjusted era) turned up. Kept stored (34.87)."
   },
   {
     "exchange": "TSX",
@@ -1089,7 +1089,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MEQ.TO",
     "sourceUrl": "https://in.tradingview.com/symbols/TSX-MEQ",
-    "note": "Scattered undated reads (210, 186, 185) and a stale May 2026 read (167.52) don't agree with each other or with stored (198.1, Oct 2). Kept stored (198.1)."
+    "note": "Scattered: MarketBeat C$199.00 (Oct 24 2025, stale) vs undated Yahoo/Stockopedia C$162-164. No current read; most recent dated figure is a year old. Kept stored (198.1)."
   },
   {
     "exchange": "TSX",
@@ -1102,7 +1102,7 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "MTY.TO",
     "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/09/3377955/0/en/mty-reports-third-quarter-results-for-fiscal-2026-announces-end-of-strategic-review-and-increases-dividend-by-35.html",
-    "note": "3rd cycle checking for post-earnings data -- this time confirmed. GlobeNewswire press release genuinely dated 2026-10-09 confirms Q3 FY2026 results released this morning: adjusted EPS C$1.26 (+5.9% YoY, beat), revenue ~C$277.7M (missed), normalized adj. EBITDA down to C$60.8M, strategic review ended, dividend raised 35%, buyback renewed. Investing.com earnings-call transcript (title: 'MTY Food Group posts mixed Q3 2026 results as stock slips') independently corroborates with a same-morning indicated price of $30.25, down 1.72% pre-market; RBC cut its target to C$41 from C$46 (Sector Perform) same day. Two independent sources (GlobeNewswire release + Investing.com reaction piece) both genuinely 2026-10-09-dated, with clear earnings-reaction framing matching the EBITDA decline. Accepted pre-market indicated price $30.25 vs pre-earnings baseline 31.06 (change computed vs our baseline, not vs Investing.com's own reference close). Caveat: this is the pre-market reaction, not a confirmed end-of-day close -- no full-day closing print was found in search results, so treat as the best available same-day, well-corroborated data point."
+    "note": "RESOLVED PER PRIOR CYCLE, reaffirmed: Google Finance shows CA$30.78 as of the Oct 7 2026 close (-2.04%), consistent with a continued decline into the Oct 9 post-Q3-earnings stored price (30.25). No conflict. Kept stored (30.25)."
   },
   {
     "exchange": "TSX",
@@ -1115,7 +1115,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "MX.TO",
     "sourceUrl": "https://www.investing.com/equities/methanex",
-    "note": "Named trouble ticker: WealthAwesome reports Oct 7 2026 reads of C$87.73/C$86.55 (both same source family, YTD +56%), notably above stored (80.2, Sept 9), but with no independent second source confirming the level -- per the 2-source rule for this flagged ticker, kept stored (80.2) and noted the single-family Oct 7 cluster for next-cycle follow-up."
+    "note": "Watch item: the previously-seen $86.5-87.7 cluster did not reappear this cycle; only stale 2024 data (~$59-66, different era) turned up. Still unconfirmed either way. Kept stored (80.2)."
   },
   {
     "exchange": "TSX",
@@ -1128,7 +1128,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "NA.TO",
     "sourceUrl": "https://ca.investing.com/equities/national-bank-of-canada",
-    "note": "De-risked per prior cycle; this cycle's reads (Jun 16 $214.00, Jul 24 $227.40) suggest an uptrend through mid-2026 but don't reach October, so nothing to add against stored (213.08, Sept 21). No new concerns raised. Kept stored (213.08)."
+    "note": "De-risked per prior cycles; no fresh same-cycle data found (MarketWatch C$226.28 Jul 23 2026, C$197.89 Jun 1 2026, and a stale Mar 27 TradingEconomics 177.49 all disagree and pre-date stored). Kept stored (213.08)."
   },
   {
     "exchange": "TSX",
@@ -1141,7 +1141,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "PET.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-PET/",
-    "note": "Pet Valu Holdings: no Oct 2026 data found; most recent is a stale Aug 2024 read ($24.13) and an undated 2025-era snapshot. Kept stored (18.69)."
+    "note": "Watch item, still unresolved: no fresh data found, only a 2024 closing-bell summary ($24.13) and a May 2025 MarketBeat read (C$30.66). Kept stored (18.69)."
   },
   {
     "exchange": "TSX",
@@ -1154,7 +1154,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "RCH.TO",
     "sourceUrl": "https://www.investing.com/equities/richelieu-hardware-ltd.",
-    "note": "Richelieu Hardware: no Oct data found; only stale 2024 closing-bell reports returned. Kept stored (35.76)."
+    "note": "Watch item, still unresolved: no fresh data found, only a 2024 closing-bell summary ($38.88). Kept stored (35.76)."
   },
   {
     "exchange": "TSX",
@@ -1167,7 +1167,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "RY.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/ry/royal-bank-of-canada/share-price",
-    "note": "Confirmed: InvestSmart's Sept 26 2026 table close (285.63) matches stored exactly. Kept stored (285.63)."
+    "note": "Reaffirmed: InvestSmart shows $285.63 (Sep 26 2026), matching stored exactly. Kept stored (285.63)."
   },
   {
     "exchange": "TSX",
@@ -1180,7 +1180,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "SHOP.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/SHOP/",
-    "note": "Named trouble ticker: a single WealthAwesome read (Oct 6 2026, C$165.03, +3.08%) is internally inconsistent with its own page (citing a $194.79B market cap alongside the lower price) and conflicts with a late-Aug read (C$212.42) -- unreliable single source. Kept stored (206.42), rejecting again."
+    "note": "Watch item, still unresolved: no 2026 data found, only a 2024 closing-bell summary ($90.33, pre-split-adjusted era). Kept stored (206.42)."
   },
   {
     "exchange": "TSX",
@@ -1193,7 +1193,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SJ.TO",
     "sourceUrl": "https://www.investing.com/equities/stella-jones-inc.",
-    "note": "Stella-Jones: no Oct data found; only stale 2024 closing-bell reports returned. Kept stored (72.94)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary ($86.13) turned up. Kept stored (72.94)."
   },
   {
     "exchange": "TSX",
@@ -1206,7 +1206,7 @@
     "asOfDate": "2026-09-03",
     "displaySymbol": "TCS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TCS/",
-    "note": "Tecsys, named trouble ticker: no Oct data found; most recent reads are stale (2024-2025). Kept stored (35.52), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: single Eulerpool read of C$31.94 dated to an Oct 22 2025 historical row (not current), down sharply from stored; no 2nd source corroborates a drop of this size. Kept stored (35.52)."
   },
   {
     "exchange": "TSX",
@@ -1219,7 +1219,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "TD.TO",
     "sourceUrl": "https://tradersunion.com/currencies/price/td-cad/",
-    "note": "No reliable Oct data found; an unclear-dated TradingEconomics read (126.87) looks inconsistent/stale versus stored (168.24, Oct 7); other results covered only TD preferred shares, not the common stock. Kept stored (168.24)."
+    "note": "No current-price data found this cycle (only stale 2024 preferred-share closing-bell reports). Kept stored (168.24)."
   },
   {
     "exchange": "TSX",
@@ -1232,7 +1232,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TFII.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TFII/",
-    "note": "Named trouble ticker: a single WealthAwesome read (Oct 7 2026, C$161.80, -5.90% over the week) conflicts with stored (172.45, Oct 2) and with an Aug 6 Stockchase read ($192.98) -- no 2-source Oct agreement. Kept stored (172.45), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: two conflicting Robinhood (US-listed) snapshots, $136.36 (Aug 27 2026) and $111.37 (Apr 2026), disagree with each other; no current TSX-specific read. Kept stored (172.45)."
   },
   {
     "exchange": "TSX",
@@ -1245,7 +1245,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "TFPM.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/TFPM",
-    "note": "No Oct data found; only stale 2024 closing-bell reports for Triple Flag returned. Kept stored (43.79)."
+    "note": "Scattered: Motilal Oswal $37.49 (Mar 13 2026) vs MarketChameleon $29.90 (Jun 26 2026) - inconsistent, nothing current or TSX-specific. Kept stored (43.79)."
   },
   {
     "exchange": "TSX",
@@ -1258,7 +1258,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TRI.TO",
     "sourceUrl": "https://stockanalysis.com/stocks/TRI/",
-    "note": "Named trouble ticker: no Oct data found, only a stale Aug 2024 read (217.02, currency unclear). Kept stored (141.48), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: no 2026 data found, only a 2024 closing-bell summary (~C$218). Kept stored (141.48)."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TSU/",
-    "note": "Trisura: no Oct data found; only stale 2024 closing-bell reports returned. Kept stored (44.37)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary ($43.21) turned up. Kept stored (44.37)."
   },
   {
     "exchange": "TSX",
@@ -1284,7 +1284,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "TVK.TO",
     "sourceUrl": "https://in.marketscreener.com/r/42378498",
-    "note": "Trusted baseline (119.52) strongly reconfirmed: MarketScreener shows an explicitly Oct 9 2026-dated read of CA$119.52, down 0.82% -- an exact match on both price and day-change to our stored entry. Kept stored (119.52), now with a clean same-day independent confirmation."
+    "note": "RESOLVED/reconfirmed per prior cycle: no fresher contradicting data found this cycle (only 2025-dated MarketBeat snapshots, e.g. C$135.50 Oct 17 2025, from before the current resolution). No conflict with the current C$119.52 figure. Kept stored (119.52)."
   },
   {
     "exchange": "TSX",
@@ -1297,7 +1297,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "WCN.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/WCN",
-    "note": "Waste Connections: scattered reads mix US-listing figures (~$165-168, Aug 2026) with a conflicting undated TSX/CAD figure (C$271.19) and a Jul 17 CAD read (C$240.97) -- none agree or bear on stored (219.08, Sept 30). Kept stored (219.08)."
+    "note": "No 2026 data found; only a 2024 closing-bell summary (~C$248.81) turned up. Kept stored (219.08)."
   },
   {
     "exchange": "TSX",
@@ -1310,7 +1310,7 @@
     "asOfDate": "2026-09-23",
     "displaySymbol": "WPM.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-WPM/",
-    "note": "Named trouble ticker: scattered reads (InvestSmart mid-Aug 183.82, likely AUD; SimplyWall.st undated CA$194.14) don't corroborate each other or confirm a move from stored (207.45, Sept 23). Kept stored (207.45), rejecting again."
+    "note": "KNOWN TROUBLE TICKER: InvestSmart shows $183.82 (Aug 14 2026, currency/exchange unclear) vs stale MarketBeat C$144.56 vs 2024 closing-bell reports (~$73-82, different era). No agreement. Kept stored (207.45)."
   },
   {
     "exchange": "TWSE",
@@ -1323,7 +1323,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "2330.TW",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/tsmc-stock-rises-2-60-percent-as-terafab-talks-emerge/70230762",
-    "note": "No Oct data found; most recent dated read is Aug 6 2026 (NT$2365, -1.7%), below stored (2575.0, Oct 5); undated reads scatter widely. Kept stored (2575.0)."
+    "note": "Wildly inconsistent: TradingView/MarketScreener show 1,480 TWD (stale/no-trade flagged) while Simply Wall St pages range from NT$1,190 to NT$2,365 across clearly different capture dates. No usable current read. Kept stored (2575.0)."
   },
   {
     "exchange": "XTRA",
@@ -1336,6 +1336,6 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "CBK.DE",
     "sourceUrl": "https://www.tradingview.com/symbols/XETR-CBK/",
-    "note": "Confirmed: an Oct 5 2026-dated read (EUR39.40, via tradedesk.dk) closely matches stored (39.53, same date). Kept stored (39.53)."
+    "note": "Closest dated read is comdirect's 39.65 EUR (Aug 4 2026), reasonably close to stored (39.53); eToro undated 36.60 and MarketScreener Dec 2025 35.06 are older/less relevant. No reason to move off stored. Kept stored (39.53)."
   }
 ]
