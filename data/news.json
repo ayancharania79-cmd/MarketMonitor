@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Dow jumps 423 points as stocks close out a winning week",
-    "headline": "All three major indexes post weekly gains despite mid-week yield-driven volatility",
-    "summary": "Stocks rallied into Friday's close: the Dow jumped 423 points (+0.83%) to 51,654.95, the S&P 500 gained 0.59% to 7,811.54, and the Nasdaq Composite added 0.64% to 27,366.17, recovering most of Thursday's OpenAI-driven selloff. For the week, all three major averages finished higher despite the volatility -- the S&P 500 gained around 1.2%, the Dow added 0.9%, and the Nasdaq rose 0.6% -- even as longer-dated Treasury yields touched fresh 24-year highs along the way. The week captured the market's current push-pull: AI-trade jitters and elevated yields/oil prices causing sharp single-day swings, but underlying buying demand strong enough to produce a net weekly gain regardless.",
-    "url": "https://www.cnbc.com/2026/10/08/stock-market-today-live-updates.html",
-    "date": "2026-10-09"
+    "ticker": "MARKET", "exchange": "", "company": "Stocks open the week steady as Q3 earnings season ramps up",
+    "headline": "Dow and S&P 500 edge higher on Columbus Day as oil tops $106 and big bank earnings loom",
+    "summary": "Stocks opened modestly higher Monday in thinner Columbus Day trading (bond markets closed, equities open as normal): the Dow was up around 0.2-0.8%, the S&P 500 gained roughly 0.1-0.6%, while the Nasdaq was mixed, slipping slightly in early trade before paring losses. Oil remained a watch item, with Brent crude topping $106/barrel amid continued Middle East tensions. The bigger story is the start of Q3 earnings season: major banks report Tuesday, kicking off a season in which analysts expect S&P 500 companies to post roughly 25% higher year-over-year profits -- a high bar following last week's record highs in the S&P 500 and Nasdaq.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html",
+    "date": "2026-10-12"
   }
 ]
