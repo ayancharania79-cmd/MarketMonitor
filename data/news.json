@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Big bank earnings kick off Q3 season with a mixed start",
-    "headline": "Dow leads early Tuesday gains on UnitedHealth strength as JPMorgan, Goldman Sachs, Wells Fargo headline Q3 bank earnings",
-    "summary": "Stocks were mixed as Q3 earnings season opened Tuesday: the Dow rose about 0.7% (led by a 5% jump in UnitedHealth), while the S&P 500 and Nasdaq slipped modestly on a continued chip-sector selloff. Bank earnings dominated the morning -- Goldman Sachs reported profits up 29% year-over-year and Wells Fargo posted higher profit on loan growth, while coverage of JPMorgan's results was conflicting: some reports cited an EPS miss ($5.57 vs. ~$5.90 expected) tied to weaker fixed-income trading revenue and a $658M investment loss sending shares lower, while others described another quarter of rising profit with shares higher -- a genuine same-day discrepancy worth confirming against a later close. The bank-sector backdrop remains notable: the S&P 500 Banks Index is down 5.4% this quarter even as the broader S&P 500 is up about 2.3%.",
-    "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+    "ticker": "MARKET", "exchange": "", "company": "S&P 500 ends flat as bank earnings and a chip selloff offset each other",
+    "headline": "Stocks finish near the flatline as JPMorgan's EPS miss and a South Korea memory-chip rout weigh on an otherwise solid bank-earnings day",
+    "summary": "Major indexes closed little changed Tuesday: the S&P 500 ended at 7,805.45, the Nasdaq Composite at 27,204.38, and the Dow fell about 180 points to 51,670.10 as all four major indexes slipped into the red. Bank earnings were a mixed bag -- JPMorgan reported $15.3B profit but missed on EPS ($5.57 vs. $5.90 expected), while Goldman Sachs' profit surged 29% on strong trading and dealmaking, and both Citi and Wells Fargo raised loan-loss provisions. Separately, a steep overnight decline in South Korean markets pressured global memory-chip names, adding to the week's ongoing semiconductor weakness. Net effect: a quiet close masking real cross-currents between resilient bank profits and renewed chip-sector jitters.",
+    "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
     "date": "2026-10-13"
   }
 ]
