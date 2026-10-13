@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Dow gains, chips drag Nasdaq lower ahead of bank earnings",
-    "headline": "Dow closes higher while a Micron-led chip selloff pulls the Nasdaq down ahead of Tuesday's big bank earnings",
-    "summary": "Stocks were mixed in thin Columbus Day trading: the Dow added 0.38% to 51,850.55, while the S&P 500 slipped 0.06% to 7,807.24 and the Nasdaq Composite fell 0.44% to 27,245.90, dragged down by a 3.9% drop in Micron Technology shares. Energy led sectors (+1.45%) as oil stayed elevated, while Technology (-1.25%) and Consumer Discretionary (-0.53%) lagged. The bigger story remains Q3 earnings season: major banks report Tuesday, kicking off a quarter in which FactSet expects S&P 500 earnings to grow roughly 29.6% year-over-year -- a high bar investors are hoping will help the market push through ongoing Middle East-driven oil volatility.",
-    "url": "https://www.cnbc.com/2026/10/11/stock-market-today-live-updates.html",
-    "date": "2026-10-12"
+    "ticker": "MARKET", "exchange": "", "company": "Big bank earnings kick off Q3 season with a mixed start",
+    "headline": "Dow leads early Tuesday gains on UnitedHealth strength as JPMorgan, Goldman Sachs, Wells Fargo headline Q3 bank earnings",
+    "summary": "Stocks were mixed as Q3 earnings season opened Tuesday: the Dow rose about 0.7% (led by a 5% jump in UnitedHealth), while the S&P 500 and Nasdaq slipped modestly on a continued chip-sector selloff. Bank earnings dominated the morning -- Goldman Sachs reported profits up 29% year-over-year and Wells Fargo posted higher profit on loan growth, while coverage of JPMorgan's results was conflicting: some reports cited an EPS miss ($5.57 vs. ~$5.90 expected) tied to weaker fixed-income trading revenue and a $658M investment loss sending shares lower, while others described another quarter of rising profit with shares higher -- a genuine same-day discrepancy worth confirming against a later close. The bank-sector backdrop remains notable: the S&P 500 Banks Index is down 5.4% this quarter even as the broader S&P 500 is up about 2.3%.",
+    "url": "https://www.cnbc.com/2026/10/13/bank-earnings-live-updates.html",
+    "date": "2026-10-13"
   }
 ]
