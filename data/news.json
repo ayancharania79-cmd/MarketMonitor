@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "S&P 500 ends flat as bank earnings and a chip selloff offset each other",
-    "headline": "Stocks finish near the flatline as JPMorgan's EPS miss and a South Korea memory-chip rout weigh on an otherwise solid bank-earnings day",
-    "summary": "Major indexes closed little changed Tuesday: the S&P 500 ended at 7,805.45, the Nasdaq Composite at 27,204.38, and the Dow fell about 180 points to 51,670.10 as all four major indexes slipped into the red. Bank earnings were a mixed bag -- JPMorgan reported $15.3B profit but missed on EPS ($5.57 vs. $5.90 expected), while Goldman Sachs' profit surged 29% on strong trading and dealmaking, and both Citi and Wells Fargo raised loan-loss provisions. Separately, a steep overnight decline in South Korean markets pressured global memory-chip names, adding to the week's ongoing semiconductor weakness. Net effect: a quiet close masking real cross-currents between resilient bank profits and renewed chip-sector jitters.",
-    "url": "https://www.cnbc.com/2026/10/12/stock-market-today-live-updates.html",
-    "date": "2026-10-13"
+    "ticker": "MARKET", "exchange": "", "company": "Hot inflation data puts another Fed hike back in play",
+    "headline": "Stocks open lower as September core CPI runs hot, reviving rate-hike risk and pushing yields up",
+    "summary": "Stocks fell in early Wednesday trading after September's CPI report came in hotter than expected: headline inflation matched forecasts for the month, but both monthly and annual core CPI ran hot (core +0.3% m/m, +2.6% y/y). The data pushed Treasury yields higher and put another Fed rate hike for this month back in play, reversing some of the relief that followed the soft September jobs report two weeks ago. Early trading had the S&P 500 down roughly 0.4-0.45% and the Nasdaq off about 0.6-0.7%, with the Dow little changed -- a reminder that the inflation/rate-path debate remains the dominant swing factor for this market, overshadowing the earnings season now underway.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html",
+    "date": "2026-10-14"
   }
 ]
