@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Hot inflation data puts another Fed hike back in play",
-    "headline": "Stocks open lower as September core CPI runs hot, reviving rate-hike risk and pushing yields up",
-    "summary": "Stocks fell in early Wednesday trading after September's CPI report came in hotter than expected: headline inflation matched forecasts for the month, but both monthly and annual core CPI ran hot (core +0.3% m/m, +2.6% y/y). The data pushed Treasury yields higher and put another Fed rate hike for this month back in play, reversing some of the relief that followed the soft September jobs report two weeks ago. Early trading had the S&P 500 down roughly 0.4-0.45% and the Nasdaq off about 0.6-0.7%, with the Dow little changed -- a reminder that the inflation/rate-path debate remains the dominant swing factor for this market, overshadowing the earnings season now underway.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html",
+    "ticker": "MARKET", "exchange": "", "company": "Nasdaq drops 1.9% as hot CPI hits AI and chip stocks hardest",
+    "headline": "Nasdaq and Russell 2000 slide ~2% as September CPI comes in hot, chip gauge loses 4.5%",
+    "summary": "Stocks sold off Wednesday after September's CPI ran hotter than expected on every measure: headline CPI rose 0.6% m/m and 3.7% y/y (above the 3.6% forecast), with core CPI up 0.3% m/m and 2.6% y/y, both slightly above estimates. Coverage attributed the acceleration partly to the months-long Iran conflict's effect on prices. The S&P 500 fell 1.11% to 7,718.94 and the Nasdaq Composite dropped 1.88% to 26,692.87 (Nasdaq 100 -2.2%), while the Dow was nearly flat (-0.09% to 51,621.48) and the small-cap Russell 2000 fell 1.93%. Losses concentrated in AI and chip stocks -- a gauge of chip giants lost 4.5%, and CoreWeave plunged 15% -- as the hot inflation print reinforced rate-hike expectations even if the Fed pauses at its October meeting.",
+    "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
     "date": "2026-10-14"
   }
 ]
