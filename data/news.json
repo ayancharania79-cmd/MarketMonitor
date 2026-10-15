@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Nasdaq drops 1.9% as hot CPI hits AI and chip stocks hardest",
-    "headline": "Nasdaq and Russell 2000 slide ~2% as September CPI comes in hot, chip gauge loses 4.5%",
-    "summary": "Stocks sold off Wednesday after September's CPI ran hotter than expected on every measure: headline CPI rose 0.6% m/m and 3.7% y/y (above the 3.6% forecast), with core CPI up 0.3% m/m and 2.6% y/y, both slightly above estimates. Coverage attributed the acceleration partly to the months-long Iran conflict's effect on prices. The S&P 500 fell 1.11% to 7,718.94 and the Nasdaq Composite dropped 1.88% to 26,692.87 (Nasdaq 100 -2.2%), while the Dow was nearly flat (-0.09% to 51,621.48) and the small-cap Russell 2000 fell 1.93%. Losses concentrated in AI and chip stocks -- a gauge of chip giants lost 4.5%, and CoreWeave plunged 15% -- as the hot inflation print reinforced rate-hike expectations even if the Fed pauses at its October meeting.",
-    "url": "https://www.cnbc.com/2026/10/13/stock-market-today-live-updates-.html",
-    "date": "2026-10-14"
+    "ticker": "MARKET", "exchange": "", "company": "Chip-stock selloff deepens into a second day",
+    "headline": "Nasdaq futures sink as semiconductor rout intensifies and wholesale inflation data adds to rate-hike worries",
+    "summary": "The tech-led selloff continued into Thursday: Nasdaq futures were down more sharply than the S&P 500 (off roughly 1-1.3% pre-market) as the chip-stock rout deepened following Wednesday's 4.3% slide in the semiconductor index (SOX) that dragged the Nasdaq down 1.9% the day before. The Dow bucked the trend, trading higher in early sessions. Elevated wholesale (PPI) inflation data due the same morning added to the rate-hike anxiety triggered by Wednesday's hot CPI report, keeping energy-driven inflation concerns front and center. The pattern now spans two sessions: broad indexes holding up reasonably well while chip and AI-linked names absorb the brunt of the selling.",
+    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026",
+    "date": "2026-10-15"
   }
 ]
