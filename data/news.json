@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Chip-stock selloff deepens into a second day",
-    "headline": "Nasdaq futures sink as semiconductor rout intensifies and wholesale inflation data adds to rate-hike worries",
-    "summary": "The tech-led selloff continued into Thursday: Nasdaq futures were down more sharply than the S&P 500 (off roughly 1-1.3% pre-market) as the chip-stock rout deepened following Wednesday's 4.3% slide in the semiconductor index (SOX) that dragged the Nasdaq down 1.9% the day before. The Dow bucked the trend, trading higher in early sessions. Elevated wholesale (PPI) inflation data due the same morning added to the rate-hike anxiety triggered by Wednesday's hot CPI report, keeping energy-driven inflation concerns front and center. The pattern now spans two sessions: broad indexes holding up reasonably well while chip and AI-linked names absorb the brunt of the selling.",
-    "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026",
+    "ticker": "MARKET", "exchange": "", "company": "Dow jumps 557 points in a broad-market bounce-back",
+    "headline": "Dow surges over 1% as the broader market rebounds, though chip and AI-infrastructure stocks keep lagging",
+    "summary": "Stocks bounced back Thursday: the Dow jumped 557 points (+1.08%) to 52,183.23, the S&P 500 added 0.33% to 7,744.09, and the Nasdaq Composite eked out a 0.08% gain to 26,713.03 (Nasdaq 100 essentially flat, -0.05%). The broad-market recovery came even as semiconductor and AI-infrastructure shares remained under pressure, with pockets of heavy selling continuing in that group after Wednesday's chip-sector rout (SOX down more than 10% from last week's peak, entering correction territory). The divergence underscores the split market that's emerged this week: cyclical/value names leading the rebound while the AI/chip trade continues working through its own correction.",
+    "url": "https://investinglive.com/stocks/dow-leads-us-stock-rebound-indices-snatch-victory-from-the-jaws-of-defeat/",
     "date": "2026-10-15"
   }
 ]
