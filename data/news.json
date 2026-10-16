@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Dow jumps 557 points in a broad-market bounce-back",
-    "headline": "Dow surges over 1% as the broader market rebounds, though chip and AI-infrastructure stocks keep lagging",
-    "summary": "Stocks bounced back Thursday: the Dow jumped 557 points (+1.08%) to 52,183.23, the S&P 500 added 0.33% to 7,744.09, and the Nasdaq Composite eked out a 0.08% gain to 26,713.03 (Nasdaq 100 essentially flat, -0.05%). The broad-market recovery came even as semiconductor and AI-infrastructure shares remained under pressure, with pockets of heavy selling continuing in that group after Wednesday's chip-sector rout (SOX down more than 10% from last week's peak, entering correction territory). The divergence underscores the split market that's emerged this week: cyclical/value names leading the rebound while the AI/chip trade continues working through its own correction.",
-    "url": "https://investinglive.com/stocks/dow-leads-us-stock-rebound-indices-snatch-victory-from-the-jaws-of-defeat/",
-    "date": "2026-10-15"
+    "ticker": "MARKET", "exchange": "", "company": "S&P 500 heads for a losing week as AI financing worries linger",
+    "headline": "Futures little changed Friday as investors look past AI-financing jitters; S&P 500 on track for a down week",
+    "summary": "Stocks were little changed in early Friday trading after Thursday's rebound (Dow +1.08% to 52,177.69, S&P 500 +0.33% to 7,744.06, Nasdaq +0.08% to 26,713.03). Despite Thursday's bounce, the S&P 500 is on pace to end the week down about 0.9% and the Nasdaq down roughly 2.4%, as pressure on AI and chip stocks, rising borrowing costs, and a hot core-CPI reading all weighed on sentiment through the week. Treasury Secretary Bessent reportedly intensified economic pressure on Iran, which coincided with Treasury yields cooling off somewhat Friday morning. Net picture for the week: a genuine AI/chip-sector correction playing out against a backdrop of still-hawkish inflation data, even as the broader market (ex-tech) has held up better.",
+    "url": "https://www.benzinga.com/markets/equities/26/10/62404483/stock-market-today-dow-sp-500-futures-rise-as-bessent-intensifies-economic-pressure-on-iran-treasury-yields-cool-off-tsla-aa-ibkr-in-focus",
+    "date": "2026-10-16"
   }
 ]
