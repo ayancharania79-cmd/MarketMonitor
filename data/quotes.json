@@ -783,14 +783,14 @@
     "exchange": "TSX",
     "ticker": "ATZ",
     "name": "Aritzia Inc.",
-    "price": 122.66,
+    "price": 142.1,
     "currency": "CAD",
-    "change": 1.94,
-    "changePercent": 1.61,
-    "asOfDate": "2026-10-05",
+    "change": 20.21,
+    "changePercent": 16.58,
+    "asOfDate": "2026-10-09",
     "displaySymbol": "ATZ.TO",
-    "sourceUrl": "https://www.investing.com/equities/aritzia-inc",
-    "note": "Oct20 cycle: No 2026 data found; results remain 2024-vintage Globe and Mail reports. Kept stored (122.66)."
+    "sourceUrl": "https://www.marketbeat.com/instant-alerts/price-aritzia-tse-atz-stock-price-up-166-time-to-buy-2026-10-09/",
+    "note": "Oct20 cycle: UPDATED. Fiscal Q2 2026 earnings beat reported Oct8 (CP24/BNN Bloomberg/CTV News: net income roughly tripled to ~$201.7M, net revenue +44% to $1.17B, guidance raised) triggered a sharp rally. MarketBeat (Oct9) confirms stock closed Oct8 at C$121.89 and jumped +16.6% to C$142.10 on Oct9 (intraday high C$144.77); WealthAwesome independently reported a C$146.91 close (+20.5%) for the same Oct9 session. Two independent sources agree on date, catalyst, and approximate magnitude (+16-20%) of the move, so updated from the stale Oct5 baseline (122.66)."
   },
   {
     "exchange": "TSX",
@@ -887,14 +887,14 @@
     "exchange": "TSX",
     "ticker": "CJT",
     "name": "Cargojet Inc.",
-    "price": 76.5,
+    "price": 84.71,
     "currency": "CAD",
-    "change": -1.16,
-    "changePercent": -1.49,
-    "asOfDate": "2026-09-15",
+    "change": null,
+    "changePercent": null,
+    "asOfDate": "2026-10-15",
     "displaySymbol": "CJT.TO",
-    "sourceUrl": "https://www.investing.com/equities/cargojet-inc.",
-    "note": "Oct20 cycle: Long-standing trouble ticker. No 2026 data found; results remain 2024-vintage. Kept stored (76.5)."
+    "sourceUrl": "https://www.halo-technologies.com/markets/shares/tse/cjt/",
+    "note": "Oct20 cycle: UPDATED. Long-standing trouble ticker, now resolved via 2-source agreement. WealthAwesome (~Oct8, C$87.42, down 1.51% that day) and Halo Technologies/TradingView (Oct15, traded C$83.01-84.95, last ~C$84.71, TD set a C$128 target Oct2 via ad-hoc-news) both independently show CJT well above the stale Sep15 baseline (C$76.50) and consistent with each other on trend/level. Updated to the more recent Oct15 figure; exact single-day change unavailable so change/changePercent left null."
   },
   {
     "exchange": "TSX",
@@ -1030,14 +1030,14 @@
     "exchange": "TSX",
     "ticker": "IFC",
     "name": "Intact Financial Corporation",
-    "price": 238.72,
+    "price": 244.29,
     "currency": "CAD",
-    "change": -7.93,
-    "changePercent": -3.21,
-    "asOfDate": "2026-10-07",
+    "change": null,
+    "changePercent": null,
+    "asOfDate": "2026-10-14",
     "displaySymbol": "IFC.TO",
-    "sourceUrl": "https://www.google.com/finance/quote/IFC:TSE",
-    "note": "Oct20 cycle: Reconfirmed: Google Finance shows CA$238.72 at the Oct7 close, an exact independent match to stored; an OTC-line (IFCZF) figure is roughly FX-consistent. Kept stored (238.72)."
+    "sourceUrl": "https://tradersunion.com/currencies/forecast/ifc-cad/",
+    "note": "Oct20 cycle: UPDATED. Two independent sources now agree IFC.TO has moved up from the Oct7 baseline (Google Finance, C$238.72): WealthAwesome (Oct9, Current Price C$242.29) and Tradersunion (Oct14 close, C$244.29, daily range C$241.34-246.87). Both cluster within ~1% of each other on dates after the prior baseline, so updated to the more recent Oct14 figure; exact single-day change unavailable so change/changePercent left null."
   },
   {
     "exchange": "TSX",
