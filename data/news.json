@@ -105,10 +105,10 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Nasdaq climbs 1.1% as tech rebounds from last week's selloff",
-    "headline": "Nasdaq jumps on tech rebound, Dow dips slightly as oil rises 2%+ on Houthi attack reports",
-    "summary": "Stocks closed mostly higher Monday as the tech rebound continued: the Nasdaq Composite gained about 1.1% to roughly 26,430.89, the S&P 500 added about 0.41% to roughly 7,690.73, while the Dow slipped a modest 0.07% to roughly 51,966.03. Oil rose more than 2% on reports of Houthi attacks on Saudi infrastructure, adding a fresh geopolitical risk premium even as equities recovered from last week's AI/chip-sector correction. With a huge earnings week underway (Tesla, Meta, and 200+ other companies reporting), today's bounce reinforces the selective dip-buying pattern seen since Friday -- investors returning to AI-linked names even as debt-financing concerns (CoreWeave) and elevated oil/yield risk keep the rally from being a clean, broad-based reversal.",
-    "url": "https://www.cnbc.com/2026/10/18/stock-market-today-live-updates.html",
-    "date": "2026-10-19"
+    "ticker": "MARKET", "exchange": "", "company": "Dow leads as Nasdaq slips at the close",
+    "headline": "Dow gains 1% led by 3M, Nasdaq dips slightly as AI-spending worries and GM guidance cut weigh",
+    "summary": "Stocks were mixed Tuesday Oct 20: the Dow Jones Industrial Average gained 529.85 points (1.02%) to 52,495.88, led by 3M (+5.78%); the S&P 500 added 0.28% to 7,712.57; the Nasdaq Composite inched down 0.02% to 26,424.82 as megacap tech lagged. Renewed concerns about AI capital spending, weakness in Asian tech stocks, and a morning spike in oil prices weighed early before crude retreated and stocks reversed higher. General Motors beat Q3 earnings estimates and announced a $20B buyback, but shares fell sharply after the company lowered its full-year earnings outlook -- a reminder that strong headline beats are being scrutinized hard this earnings season, with a huge week of reports (Tesla, Meta, and 200+ other companies) still underway.",
+    "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
+    "date": "2026-10-20"
   }
 ]
