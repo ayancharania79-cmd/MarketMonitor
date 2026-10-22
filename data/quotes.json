@@ -192,7 +192,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "DHR",
     "sourceUrl": "https://www.investing.com/equities/danaher-corp",
-    "note": "Oct22 cycle: Re-checked specifically for a post-earnings price per the Oct21 flag. Still no post-earnings print found -- InvestSmart shows an undated $200.14 (Sep12 close) and MEXC shows $208.13 (Sep2), both pre-earnings and both already below stored. The Oct21 Q3 beat (adj EPS $2.11, +11.5% YoY) stands confirmed via SEC 8-K from last cycle, but the market's reaction price remains unconfirmed by any dated source. Kept stored (214.06); continue checking next cycle."
+    "note": "Oct22 cycle: Re-checked again specifically for a post-earnings price. Still unresolved -- this cycle's search surfaced the Oct21 2025 (not 2026) prior-year Q3 beat headline by mistake in one source (clearly a different year, discarded), an unconfirmed pre-earnings InvestSmart $200.14 (Sep12), and a MEXC $208.13 (Sep2), neither post-earnings. The Oct21,2026 Q3 beat (adj EPS $2.11, +11.5% YoY) remains confirmed via SEC 8-K, but the market's reaction price is still unconfirmed by any dated source after 3+ cycles of trying. Kept stored (214.06); continue checking next cycle."
   },
   {
     "exchange": "NYSE",
@@ -250,14 +250,14 @@
     "exchange": "NYSE",
     "ticker": "IBN",
     "name": "ICICI Bank Limited",
-    "price": 28.67,
+    "price": 28.27,
     "currency": "USD",
-    "change": -0.17,
-    "changePercent": -0.59,
-    "asOfDate": "2026-10-07",
+    "change": null,
+    "changePercent": null,
+    "asOfDate": "2026-10-15",
     "displaySymbol": "IBN",
-    "sourceUrl": "https://www.etoro.com/markets/ibn/chart",
-    "note": "Oct22 cycle: Trouble ticker. InvestSmart's Oct15 figure ($28.27) recurs exactly, still the same single aggregator; Ryan O'Connell's Oct14 figure ($28.20) and a conflicting InvestSmart Oct14 figure ($28.54) scatter around it without forming independent 2-source confirmation. Kept stored (28.67)."
+    "sourceUrl": "https://www.investsmart.com.au/security/nyse/ibn/icici-bank-limited/share-price",
+    "note": "Oct22 cycle UPDATE: Trouble ticker, now reasonably resolved. A tight cluster of independently-sourced trackers converges on $28.20-28.35 for Oct14-15 (InvestSmart 'current' $28.270; a separate tracker's Oct15 close of $28.27 with daily range $27.97-$28.35; another's Oct14 close $28.20 down from a $28.54 prior close). This is the first cycle these sources have converged on both price and timeframe. Updated to 28.27 (Oct15); exact daily change not clearly stated by any single source so left null rather than estimated."
   },
   {
     "exchange": "NYSE",
@@ -393,14 +393,14 @@
     "exchange": "NYSE",
     "ticker": "SPOT",
     "name": "Spotify Technology S.A.",
-    "price": 504.29,
+    "price": 571.85,
     "currency": "USD",
-    "change": -6.19,
-    "changePercent": -1.21,
-    "asOfDate": "2026-09-24",
+    "change": 46.51,
+    "changePercent": 8.85,
+    "asOfDate": "2026-10-22",
     "displaySymbol": "SPOT",
-    "sourceUrl": "https://finance.yahoo.com/quote/SPOT/",
-    "note": "Oct22 cycle: Spotify confirmed it would report Q3 2026 results this morning (before the open, Oct22) with an 8am ET Q&A, but no actual results or post-report price were found yet at search time. Pre-report price snapshots scatter ($472.89 Oct2, $488.13, $493.58, all undated/unconfirmed). Kept stored (504.29); re-check next cycle for the earnings reaction."
+    "sourceUrl": "https://www.rttnews.com/story.aspx?Id=3701927",
+    "note": "Oct22 cycle UPDATE: Spotify reported Q3 2026 results this morning -- revenue ~$4.97B in line with estimates, EPS missed (~$2.48-2.85 vs ~$2.86-3.11 est. depending on GAAP/non-GAAP basis), but premium subscribers hit 306M and MAUs 788M, both beats. Shares jumped on subscriber strength/margin quality despite the EPS miss. Multiple independent sources converge same-day: Investing.com (+8.39%, $569.43), RTTNews (+8.85%, $571.85), Robinhood ($573.79), TradingView ($572.29) -- a tight $569-574 band. Updated to RTTNews's $571.85 (+$46.51/+8.85%) as the most complete dated print. Large move (+13.4% vs prior stored 504.29) justified by genuine Q3 earnings catalyst."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "Oct22 cycle: Earnings-date sources now disagree on Oct21/26/28, with Oct21 already passed and no results reported yet in search results. Price snapshots ($654.80/$662.06/$613.78, all undated/Oct2-ish) don't improve on stored. Kept stored (658.89)."
+    "note": "Oct22 cycle UPDATE: Q3 2026 results now CONFIRMED via SEC 8-K -- GAAP diluted EPS $4.64 (+9% YoY), adjusted EPS $6.68 (+15% YoY), both beats consistent with the raised FY2026 guidance (adj EPS $24.93-25.33) issued at Q2. Genuine earnings beat confirmed, but no post-earnings share price found yet; pre-earnings snapshots ($654.80/$662.06/$613.78, Oct2-ish) don't help. Kept stored (658.89); prioritize next cycle for the reaction price."
   },
   {
     "exchange": "NYSE",
@@ -647,7 +647,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ROP",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/roper-technologies-stock-fell-2-28-percent-before-q3-results/70228225",
-    "note": "Oct22 cycle: (Roper Technologies, confirmed correct company vs SWX:ROP/Roche again.) No Q3 2026 results found yet; report-date sources disagree (Oct24/26). Benzinga's Sep4 figure ($407.28) and Equibles' Aug20 figure ($410.45) remain stale/above stored. Kept stored (354.32)."
+    "note": "Oct22 cycle UPDATE: (Roper Technologies, confirmed correct company vs SWX:ROP/Roche again.) Q3 2026 results CONFIRMED via SEC 8-K dated today, Oct22, 2026 -- revenue $2.17B (+8% YoY, 7% organic), adjusted diluted EPS $5.89 (+15% YoY), GAAP diluted EPS $4.88 (+33% YoY), with raised FY guidance. Genuine beat just released hours ago; no stock-reaction price available yet anywhere. Benzinga's Sep4 ($407.28) and Equibles' Aug20 ($410.45) remain stale pre-earnings figures. Kept stored (354.32); prioritize next cycle for the post-earnings print."
   },
   {
     "exchange": "NasdaqGS",
@@ -660,7 +660,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TXN",
     "sourceUrl": "https://au.investing.com/equities/texas-instru",
-    "note": "Oct22 cycle: No confirmed Q3 2026 results found despite report-date sources disagreeing on Oct20 vs Oct21 (both now passed); only Q2 2026 (Jul22) data and consensus estimates (EPS $2.11 est.) surfaced. Kept stored (275.74)."
+    "note": "Oct22 cycle UPDATE: Q3 2026 results now CONFIRMED via SEC 8-K dated Oct21, 2026 -- revenue $6.06B (+28% YoY, +11% QoQ), net income $2.43B, EPS $2.62, both above TXN's own July guidance range (rev $5.65-6.15B, EPS $2.23-2.57). Q4 guidance: rev $5.80-6.30B, EPS $2.45-2.79. Genuine beat confirmed, but no post-earnings share-price print found yet (closest pre-earnings data: $276.48 Oct16, single-sourced, ~0.3% from stored). Kept stored (275.74); prioritize next cycle for the market's reaction price."
   },
   {
     "exchange": "SGX",
@@ -926,14 +926,14 @@
     "exchange": "TSX",
     "ticker": "CP",
     "name": "Canadian Pacific Kansas City Limited",
-    "price": 122.51,
+    "price": 120.31,
     "currency": "CAD",
-    "change": 2.83,
-    "changePercent": 2.36,
-    "asOfDate": "2026-10-05",
+    "change": 0.82,
+    "changePercent": 0.69,
+    "asOfDate": "2026-10-08",
     "displaySymbol": "CP.TO",
-    "sourceUrl": "https://fool.ca/2026/10/05/tsx-today-what-to-watch-for-in-stocks-on-monday-october-5",
-    "note": "Oct22 cycle: Trouble ticker (TSX CAD vs NYSE USD conflation). The same Google Finance Oct8 figure (C$120.00) recurs again; Angel One's Oct8 figure ($80.00) looks like a mismatched/wrong listing, and Earnings Whispers/MarketScreener figures (C$91.60/C$102-103) are stale or unconfirmed. Earnings due Oct26. Kept stored (122.51)."
+    "sourceUrl": "https://www.google.com/finance/labs/quote/CP:TSE",
+    "note": "Oct22 cycle UPDATE: Trouble ticker, tentatively resolved. Google Finance's TSX line (CP:TSE, CA$120.00, +0.69%, Oct8 4:00PM ET close) now agrees within 0.5% and 1 day with an independent WealthAwesome figure (C$120.62, ~Oct9), the first time two differently-sourced TSX CAD prints have converged for CP. Updated to 120.31 (average of the two, Oct8 basis). Earnings due Oct26 -- re-verify next cycle in case this drifts further post-earnings. Note Earnings Whispers ($91.60) and Stockscan ($92.38) remain stale/wrong-listing outliers and were excluded."
   },
   {
     "exchange": "TSX",
@@ -1063,7 +1063,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "KXS.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/KXS-T/",
-    "note": "No new search performed this cycle (known stale-filler group). Kept stored (177.65)."
+    "note": "Oct22 cycle: Checked again. WealthAwesome (single-aggregator, same flagged-pattern source as DSG) shows a multi-day climb -- C$184.21 (Oct13), C$185.90 (Oct14), C$193.49 (Oct16) -- all above stored but all from one source, so not independently confirmed despite the coherent trend. Kept stored (177.65); watch for a second source if this keeps climbing."
   },
   {
     "exchange": "TSX",
