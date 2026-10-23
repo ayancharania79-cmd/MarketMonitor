@@ -105,10 +105,17 @@
     "date": "2026-08-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Nasdaq leads a 3-day rally as tech rotation continues",
-    "headline": "Dow, S&P, Nasdaq all rise as tech rallies and SpaceX surges nearly 8% ahead of Tesla earnings",
-    "summary": "Stocks extended their rally Wednesday Oct 21: the Dow Jones Industrial Average rose 0.69% to roughly 52,857, the S&P 500 added 0.59% to roughly 7,757, and the Nasdaq Composite led with a 1.05% gain to roughly 26,702, marking a third straight day of gains as crude oil slid and blue chips held firm. Investors rotated back into Technology (XLK +1.68%) and Industrials (XLI +0.91%). SpaceX shares surged nearly 8% and Tesla continued its multi-session rebound heading into its Q3 earnings report (scheduled for today, with the Street looking for EPS of $0.44 vs $0.50 a year ago) -- part of a huge week of Big Tech and industrial earnings (Tesla, Meta, Microsoft, GM and 200+ other companies) that has so far mostly eased fears of a tariff-driven hit to the Magnificent Seven.",
-    "url": "https://www.cnbc.com/2026/10/20/stock-market-today-live-updates.html",
-    "date": "2026-10-21"
+    "ticker": "META", "exchange": "NasdaqGS", "company": "Meta Platforms, Inc.",
+    "headline": "Meta sinks 7% on legal charge and runaway AI capex despite a revenue beat",
+    "summary": "Meta reported Q3 2026 results after the close Oct 21: revenue rose 26% YoY to $64.6B, beating estimates, but operating income fell 37% as a $9.89B legal charge (tied to a New Mexico ruling imposing a $25B penalty, which Meta is appealing) and surging AI infrastructure spending hit the bottom line -- capex of $33.94B exceeded operating cash flow for the first time since 2012. Shares fell about 7% to close near $648.85 on Oct 22, Meta's third straight 5%+ post-earnings drop since its 2012 IPO, as investors grow more skeptical of the payoff from its AI spending spree even as the company touted its new Muse AI agent.",
+    "url": "https://www.gurufocus.com/news/9137792/meta-platforms-meta-shares-drop-7-after-q3-earnings-reveal-litigation-charge-and-rising-expenses",
+    "date": "2026-10-22"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Nasdaq's worst day since June as AI-spending doubts hit megacaps",
+    "headline": "Nasdaq falls over 2.6% as Meta plummets and AI-cost worries spark a broad tech selloff",
+    "summary": "A string of high-profile earnings reports revived worries about AI spending Thursday Oct 22, triggering the Nasdaq Composite's steepest drop since June: the Nasdaq fell roughly 2.6% to around 26,000, the S&P 500 dropped about 1.2% to around 7,660 (its worst day since July), while the Dow Jones was roughly flat near 52,800. Meta was the biggest drag, plummeting ~7% after its Q3 report showed a legal charge and AI capex outrunning operating cash flow. Not every mega-cap earnings reaction was negative, though -- Roper Technologies jumped ~9.7% on its own Q3 beat and raised guidance, and Spotify held onto its post-earnings gain -- underscoring a market now drawing sharp distinctions between AI spending that shows a payoff and spending that doesn't.",
+    "url": "https://www.cnbc.com/2026/10/21/stock-market-today-live-updates.html",
+    "date": "2026-10-22"
   }
 ]
