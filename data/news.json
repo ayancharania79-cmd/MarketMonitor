@@ -112,10 +112,10 @@
     "date": "2026-10-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Dow sinks 650 points to cap a volatile week as oil rises ahead of the Fed",
-    "headline": "Stocks close out a rough week lower as rising oil prices and Fed jitters add to the AI-spending selloff",
-    "summary": "Markets capped a volatile week with a broad decline Friday Oct 23: the Dow Jones Industrial Average fell 652.82 points (1.23%) to 52,215.16, the S&P 500 dropped 0.52% to 7,623.68, and the Nasdaq Composite slipped 0.21% to 25,955.34, with consumer staples, utilities and healthcare all lower. Analysts tied the weakness to rising oil prices (above $113) ahead of next week's Fed policy meeting; American Express fell more than 3% after announcing a ~5% global workforce cut. This followed Thursday's steeper Nasdaq rout (-2.6% to 26,008.86, its worst day since June) driven by Meta's post-earnings plunge and broader AI-spending worries. Despite the rough week, the Dow was the only major index to finish in the green over the five trading days, up roughly 1.4%.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html",
-    "date": "2026-10-23"
+    "ticker": "MARKET", "exchange": "", "company": "Tech rebounds as Anthropic IPO filing lifts semiconductor stocks",
+    "headline": "Nasdaq climbs 0.82% to start a huge earnings week, with Microsoft and Meta reporting Tue/Wed and the Fed meeting Wed",
+    "summary": "Stocks rose Monday Oct 26 as excitement over an Anthropic IPO filing revived enthusiasm for semiconductor and AI-linked names: the Nasdaq Composite gained 0.82% to 26,169.38, the S&P 500 added 0.7% to 7,676.77, and the Dow Jones rose 0.28% to 52,361.58. The rebound follows last week's rough stretch (Nasdaq -4.5%, its worst week since late June, on AI-spending worries after Meta's earnings miss) and sets up a pivotal week: Microsoft and Meta's own Q3 follow-through, Apple, and dozens of other companies report over the next two days, while the Fed's policy meeting concludes Wednesday.",
+    "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
+    "date": "2026-10-26"
   }
 ]
