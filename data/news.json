@@ -112,10 +112,10 @@
     "date": "2026-10-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Tech rebounds as Anthropic IPO filing lifts semiconductor stocks",
-    "headline": "Nasdaq climbs 0.82% to start a huge earnings week, with Microsoft and Meta reporting Tue/Wed and the Fed meeting Wed",
-    "summary": "Stocks rose Monday Oct 26 as excitement over an Anthropic IPO filing revived enthusiasm for semiconductor and AI-linked names: the Nasdaq Composite gained 0.82% to 26,169.38, the S&P 500 added 0.7% to 7,676.77, and the Dow Jones rose 0.28% to 52,361.58. The rebound follows last week's rough stretch (Nasdaq -4.5%, its worst week since late June, on AI-spending worries after Meta's earnings miss) and sets up a pivotal week: Microsoft and Meta's own Q3 follow-through, Apple, and dozens of other companies report over the next two days, while the Fed's policy meeting concludes Wednesday.",
-    "url": "https://www.cnbc.com/2026/10/25/stock-market-today-live-updates.html",
-    "date": "2026-10-26"
+    "ticker": "MARKET", "exchange": "", "company": "Chip stocks rally for a second day as markets await the Fed",
+    "headline": "Nasdaq gains 1.18% on a chip-stock rally, closing in on the Fed's rate decision and Microsoft/Meta follow-through earnings",
+    "summary": "Stocks extended their tech rally Tuesday Oct 27, the second straight day of gains: the Nasdaq Composite jumped 1.18% to 26,477.81, the S&P 500 added 0.60% to 7,722.60, and the Dow Jones was roughly flat (+0.03%) at 52,377.57, with JPMorgan among the laggards. Chip and AI-linked names continued to benefit from the Anthropic IPO-filing enthusiasm that kicked off Monday's rebound. Markets now turn to Wednesday's Fed policy decision -- futures pricing shows a roughly 90% chance the Fed holds rates steady at 3.75-4% -- alongside after-the-close earnings from Microsoft and other major names.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
+    "date": "2026-10-27"
   }
 ]
