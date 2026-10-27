@@ -62,7 +62,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://stockanalysis.com/stocks/asml/",
-    "note": "Oct26 cycle: Re-checked. A new pre-earnings Oct13 figure (EUR1,509.60, -4.20%) and an Oct1 Lang & Schwarz figure (EUR1,602.70) surfaced, but both pre-date or coincide with the Oct14 Q3 report rather than reflecting its aftermath; still no confirmed post-earnings EUR print. Kept stored (1478.4); catalyst confirmed, exact post-earnings level still unresolved after 4+ cycles."
+    "note": "Oct27 cycle: Re-checked again. New dated points found -- Yahoo Finance Amsterdam close EUR1,509.60 on Oct13 (-4.20%, likely a pre/same-day earnings-adjacent print), and a Sep24 close of EUR1,515.8 -- both single-sourced and either pre-dating or too close to the Oct14 earnings date to count as a clean post-earnings reaction; no Oct15-26 print found with 2-source confirmation. Kept stored (1478.4); catalyst confirmed, exact post-earnings level still unresolved after 5+ cycles."
   },
   {
     "exchange": "ENXTPA",
@@ -101,7 +101,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SAF.PA",
     "sourceUrl": "https://www.investing.com/equities/safran",
-    "note": "Oct26 cycle: Re-checked post the confirmed Oct23,2026 Q3 revenue release. Found extensive pre-release analyst commentary (Bernstein EUR420 target, RBC EUR400 target, both Oct16) and confirmed the Oct20 EUR310.70 (-1.46%) figure is a real pre-earnings print, but no post-Oct23 reaction coverage surfaced -- one promising-looking headline ('Q3 stronger than expected propels Safran upward') turned out to be dated Oct24,2025 (prior year), not 2026, so it was correctly excluded rather than mistaken for this year's reaction. Kept stored (328.9); re-check next cycle for the actual Oct23 reaction."
+    "note": "Oct27 cycle: Re-checked again post the confirmed Oct23,2026 Q3 revenue release. Found more detail on the release itself (adjusted Q3 revenue EUR9,003M +14.7%, consolidated EUR8,890M +15.2%, 9-month adjusted revenue EUR26,574M +17.5%, annual guidance maintained) and a pre-release Oct22 price (EUR308.20, -1.82% intraday, -6.8% over the trailing month) via Ideal Investisseur, but still no post-Oct23 reaction coverage. Kept stored (328.9); re-check next cycle for the actual reaction price."
   },
   {
     "exchange": "LSE",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ametek-stock-gained-1-14-percent-as-rbc-set-a-usd-291-target/70228557",
-    "note": "Oct26 cycle: Re-checked. Yahoo Finance's Oct20 close ($247.36, +0.06%) recurred again, still single-sourced but specific and within 1.8% of stored; MarketBeat's undated $239.02 doesn't corroborate it precisely. Kept stored (251.93); earnings due Oct29."
+    "note": "Oct27 cycle: Re-checked ahead of confirmed Oct29 earnings. Multiple undated/conflicting aggregator figures ($231-254) surfaced without a clean dated 2-source match; one page's own internal figures were inconsistent (previous close vs. 52-week high mismatch). Kept stored (251.93); earnings due Oct29."
   },
   {
     "exchange": "NYSE",
@@ -179,7 +179,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CSL",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403280/CSL/carlisle-companies-inc/",
-    "note": "Oct26 cycle: Re-checked. An undated Yahoo figure (previous close $375.80, next earnings Oct28,2026) and Aug19 Equibles ($365.63)/Aug5 Robinhood ($385.32) figures all sit above stored without a clean October date. Kept stored (352.14); earnings imminent."
+    "note": "Oct27 cycle: Re-checked ahead of confirmed Oct28 earnings. Only stale Q2 2026 (late-July) data resurfaced (opened $322.90 pre-report, Hold consensus, $399.29 avg target); an undated StockScan figure ($360.09) can't be dated against stored. Kept stored (352.14); earnings imminent (Oct28)."
   },
   {
     "exchange": "NYSE",
@@ -192,7 +192,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "DHR",
     "sourceUrl": "https://www.investing.com/equities/danaher-corp",
-    "note": "Oct26 cycle: Re-checked. Danaher's Q3 2026 results (reported Oct21 per SEC 8-K) are now more fully confirmed -- net earnings $1.2B/$1.71 diluted EPS (+34.5% YoY), adjusted EPS $2.11 beat $1.92 est., but revenue $6.55B narrowly missed the $6.56B estimate; prior quarter's reaction (Jul21) was -11% to -12% despite a beat, so a similar muted/negative reaction this time would not be surprising. Still no confirmed post-Oct21 reaction price found (latest pre-report print: $229.04, Oct16). Kept stored (214.06); the Q3 results are now well-documented via SEC filing, only the reaction price remains unconfirmed."
+    "note": "Oct27 cycle: Re-checked. Danaher's Q3 2026 results are now directly confirmed via SEC 8-K exhibit (net earnings +34.5% YoY, adjusted EPS $2.11 +11.5% YoY, revenue ~$6.55B narrowly missing estimates) and a pre-report price point (closed $229.04, Oct16) is confirmed, but still no post-Oct21 reaction price found; the prior quarter's pattern (-11% despite a beat, on guidance) remains the cautionary precedent. Kept stored (214.06); the Q3 beat is now confirmed via primary SEC filing, only the reaction price remains unconfirmed after 7+ cycles."
   },
   {
     "exchange": "NYSE",
@@ -205,7 +205,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "EQNR",
     "sourceUrl": "https://stockanalysis.com/stocks/eqnr/",
-    "note": "Oct26 cycle: Re-checked ahead of confirmed Oct28 earnings. Market Chameleon's Oct1 figure ($42.17) recurred, bracketed by undated companiesmarketcap ($43.01) and Digrin ($45.23) figures; none is a clean dated match near today. Kept stored (40.77)."
+    "note": "Oct27 cycle: Re-checked ahead of confirmed Oct28 earnings. Market Chameleon's Oct1 figure ($42.17) recurred again, still the most clearly-dated point; an undated Digrin figure ($45.23) and older StockAnalysis figure ($33.92, Jul10) don't help. Kept stored (40.77)."
   },
   {
     "exchange": "NYSE",
@@ -218,7 +218,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HCA",
     "sourceUrl": "https://www.digrin.com/stocks/detail/HCA/price",
-    "note": "Oct26 cycle: Re-checked ahead of tomorrow's Oct27 earnings call. Only a stale Aug5 MEXC figure ($409.21) and older Q1/Q2 snapshots ($467-479) surfaced; no October print found. Kept stored (426.09)."
+    "note": "Oct27 cycle: Re-checked on the morning of today's confirmed Q3 2026 earnings call (9am Central, before market open; consensus EPS ~$6.67-6.75 vs $6.96 LY, revenue ~$19.4B). No reaction price can exist yet pre-release; Earnings Whispers' undated $434.92 and Unusual Whales' note that the stock is +14.79% since the Jul24 report don't provide a usable current dated figure. Kept stored (426.09); check back for the post-release move."
   },
   {
     "exchange": "NYSE",
@@ -270,7 +270,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Oct26 cycle: Re-checked ahead of confirmed Oct29 earnings. The same single-sourced Oct12 figure ($157.42, +0.79%) recurred again; no newer print found. Kept stored (157.85)."
+    "note": "Oct27 cycle: Re-checked ahead of confirmed Oct29 earnings. The same single-sourced Oct12 figure ($157.42, +0.79%) recurred again as the most clearly-dated point; Equibles' Aug19 ($157.23) and Bullfincher's Aug6 ($149.84) figures are older. Kept stored (157.85)."
   },
   {
     "exchange": "NYSE",
@@ -309,7 +309,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mastercard-stock-sets-dividend-date-as-shares-trade-at-usd-552-26/70224596",
-    "note": "Oct26 cycle: Re-checked. Sources remain unusually scattered as flagged in the trusted baseline -- InvestSmart's stale Aug29 $595.30 recurred, plus undated CoinGecko ($531.87), eToro ($555.43) and MarketBeat ($561.42) that don't reconcile with each other or with stored. No October print found. Kept stored (546.76)."
+    "note": "Oct27 cycle: Re-checked. A new single-sourced figure appeared (massive.com, $623.60, Oct23, -1.52%, +~10% over the trailing month), which would be a large (~14%) jump from stored, but per the trusted-baseline guidance on this scattered-source ticker it is not corroborated by a second independent source at the same date (Bullfincher $570.48 Aug6, Investing.com $580.18 Aug21 are both older and lower). Kept stored (546.76); re-verify next cycle before accepting the $620s level."
   },
   {
     "exchange": "NYSE",
@@ -322,7 +322,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Oct26 cycle: Re-checked ahead of tomorrow's confirmed Oct27 earnings. Scattered undated figures ($137-$155) and a Jul2026 Q2 beat (EPS $2.41 vs $2.13 est.) recurred; no reliable October ADR print found. Kept stored (162.79)."
+    "note": "Oct27 cycle: Re-checked on the day of confirmed (per most sources) Oct27 Q3 earnings. No current ADR price or results found; scattered undated figures ($137-$160) continue to bracket stored without resolving it, and Earnings Whispers shows conflicting earnings-date snapshots (Oct20/26/27). Kept stored (162.79); check back for the post-release move."
   },
   {
     "exchange": "NYSE",
@@ -348,7 +348,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "PBR",
     "sourceUrl": "https://finance.yahoo.com/quote/PBR/",
-    "note": "Oct26 cycle: Re-checked. The uncorroborated +24% lead ($25.94, no year) recurred again from the same single dashboard source with no second source; Sep1 ($20.33) and Aug10 ($18.33) figures continue to mildly reinforce stored. Kept stored (20.86)."
+    "note": "Oct27 cycle: Re-checked. The uncorroborated +24% lead ($25.94, 'Oct14', year still unstated) recurred again from the same single dashboard source with no second source; MarketChameleon's Sep1 figure ($20.33) continues to mildly reinforce stored. Kept stored (20.86)."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "Oct26 cycle: Re-checked. Thermo Fisher's Q3 2026 results are now better documented (per Quiver Quant, reported Oct21): EPS $6.68 beat $6.47 est., revenue $12.137B. Still no confirmed stock-price reaction found -- pre-report prints ($654.80 Oct2, $662.06 undated) don't resolve the post-earnings move, and report-date sources still disagree (Oct21 vs Oct26 vs Oct28). Kept stored (658.89); the Q3 beat is now confirmed via a named results summary, reaction price still unconfirmed."
+    "note": "Oct27 cycle: Re-checked. No confirmed post-Oct21-earnings reaction price found again; one source's pre-report note (dated Oct6) estimated an options-implied +/-6.43% move, consistent with real volatility expected but not an actual print. Kept stored (658.89); the Q3 beat remains confirmed via SEC filing, reaction price still unconfirmed after 7+ cycles."
   },
   {
     "exchange": "NYSE",
@@ -465,7 +465,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "UBS",
     "sourceUrl": "https://www.cnbc.com/quotes/UBS",
-    "note": "Oct26 cycle: Trouble ticker, re-checked ahead of confirmed Oct28 earnings (one stale calendar entry says Oct26, superseded by multiple Oct28 sources). Unusual Whales notes the stock down ~9.22% since its last earnings report as of Oct6 data, and Digrin's latest monthly figure is still July's $52.73 (matching stored). No reliable current USD print found. Kept stored (52.73)."
+    "note": "Oct27 cycle: Trouble ticker, re-checked ahead of confirmed Oct28 earnings (report date now consistently Oct28 before market open per Earnings Whispers, consensus EPS $0.91). Only the Swiss-listed CHF line (38.39, Oct22, -2.91%) and a London line (39.09, Oct22, currency unstated) resolved with any date -- neither is the NYSE USD ADR line stored here, and NYSE-line figures remain scattered/undated ($47-55). Kept stored (52.73)."
   },
   {
     "exchange": "NYSE",
@@ -491,7 +491,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "V",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/v/visa/share-price",
-    "note": "Oct26 cycle: Re-checked ahead of tomorrow's confirmed Oct27 earnings. An undated eToro figure ($403-405) and the same Sep10 InvestSmart ($367.39, matching stored) and Aug5 Bullfincher ($369.59) figures recurred; no clean October print found. Kept stored (367.39)."
+    "note": "Oct27 cycle: Re-checked ahead of today's confirmed fiscal Q4 2026 earnings (FY ends Sep30). No current price or results found; sources returned were stale (2025-dated) or undated ($319-375 range, not usable). Kept stored (367.39); check back for the post-release move."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,7 +530,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://tradersunion.com/news/stocks/show/3594639-cadence-design-systems-jumps-2-07percent/",
-    "note": "Oct26 cycle: Trouble ticker, re-checked. Earnings date is now more consistently reported as today, Oct26,2026, after market close (so no reaction price can exist yet this cycle); consensus EPS estimate ~$1.60 vs $1.51 LY. Price figures remain scattered and undated ($292-$315). Kept stored (333.45); re-check next cycle for the after-hours/next-day reaction."
+    "note": "Oct27 cycle: Trouble ticker, re-checked for the post-earnings (Oct26 after close) reaction. Search surfaced only Cadence's fiscal Q2 2026 report (late July: EPS $2.11 beat $2.05 est., revenue $1.58B, stock +$12.37 to $338.61) mislabeled as 'Q3 2026' by one source, plus a year-old Oct2025 Q3 reaction (-3% premarket) -- no genuine Oct26/27,2026 fiscal-Q3 reaction price found yet. Kept stored (333.45); prioritize again next cycle for the real post-earnings print."
   },
   {
     "exchange": "NasdaqGS",
@@ -621,7 +621,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MSFT",
     "sourceUrl": "https://www.investing.com/equities/microsoft-corp",
-    "note": "Oct26 cycle: KNOWN TROUBLE TICKER, re-checked again ahead of tomorrow's confirmed Q3 FY2026 earnings (Oct27-28). Searches this cycle again surfaced only forecast/model pages (not live quotes) scattered in the $384-$544 range, plus stale Aug2026 closes ($496-501) -- no genuine dated October print and no 2-source confirmation of any figure, consistent with the trusted-baseline guidance. Kept stored (519.5); watch closely for a 2-source-confirmed post-earnings print next cycle."
+    "note": "Oct27 cycle: KNOWN TROUBLE TICKER, re-checked on the morning of confirmed Q1 FY2027 earnings (Oct27-28). Searches again surfaced only stale/conflicting figures -- InvestSmart undated $496.75 (daily data through Sep2), Coinglass ~$382 dated Jul10 (3+ months stale) -- the same bad low-$380s-$500s cluster described in the trusted baseline, with no 2-source agreement on any figure and no dated post-earnings print yet (report had not clearly landed in search results as of this check). Kept stored (519.5); re-check again next cycle once the earnings release lands and look specifically for 2+ independent sources agreeing on both price and date."
   },
   {
     "exchange": "NasdaqGS",
@@ -660,7 +660,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TXN",
     "sourceUrl": "https://au.investing.com/equities/texas-instru",
-    "note": "Oct26 cycle: Re-checked. Report-date confusion persists (Oct21 vs Oct27 cited variously); pre-earnings prints ($276.48 Oct16, $288.98 undated) bracket stored loosely. No confirmed post-earnings reaction price found. Kept stored (275.74); the Q3 beat remains confirmed via SEC 8-K."
+    "note": "Oct27 cycle: Re-checked. Report-date confusion persists (Oct21 vs Oct26 vs Oct27 variously cited); last quarter's reaction is documented (-3.1% to $284.99 after the Jul22 report) but no Oct2026 post-earnings print found. A Swiss-listed (SWX) cross-listing figure ($232.55, Oct23) surfaced but is a different market/currency context, not usable for the NasdaqGS USD line. Kept stored (275.74); the Q3 beat remains confirmed via SEC 8-K, reaction price still unconfirmed."
   },
   {
     "exchange": "SGX",
@@ -764,7 +764,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/ATD",
-    "note": "Oct26 cycle: Trouble ticker, re-checked. WealthAwesome shows two different recent figures from the same aggregator family (C$77.65 'close Oct12', C$81.61 'as of Oct15') -- an internally-plausible short uptrend, but still single-aggregator and not independently corroborated. No clean October print from a second source. Kept stored (78.67)."
+    "note": "Oct27 cycle: Trouble ticker, re-checked. The same WealthAwesome short uptrend (C$77.65 'Oct12' to C$81.61 'Oct15') recurred, still single-aggregator; an undated ValueInvesting.io figure (C$88.82) and a mismatched InvestSmart AUD-labeled figure ($85.99, Aug25) don't corroborate. Noted this cycle: Couche-Tard announced an Irving Oil retail-asset acquisition in Quebec/Ontario on Oct9, a plausible mild positive catalyst, but no independently-confirmed price move tied to it. Kept stored (78.67)."
   },
   {
     "exchange": "TSX",
@@ -842,7 +842,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://www.barchart.com/stocks/quotes/BN.TO",
-    "note": "Oct26 cycle: Trouble ticker, re-checked. A WealthAwesome Oct13 figure (C$52.95) is well below stored and carries an internally inconsistent '-16.32%' label on the same page, suggesting line/listing confusion rather than a genuine move; NYSE USD-line figures ($43-44) remain the wrong listing. Kept stored (79.42)."
+    "note": "Oct27 cycle: Trouble ticker, re-checked. Only the NYSE/USD line resolved cleanly again (~$37.97, Oct23, -0.81%, YTD -17.26%); the TSX CAD line remains stuck on the same stale Oct13 WealthAwesome figure (C$52.95) that is far below stored and was already flagged as possibly reflecting listing/line confusion. Kept stored (79.42)."
   },
   {
     "exchange": "TSX",
@@ -933,7 +933,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "CP.TO",
     "sourceUrl": "https://www.google.com/finance/labs/quote/CP:TSE",
-    "note": "Oct26 cycle: Re-checked on the day earnings were previously flagged as due. Could not confirm today's reaction -- only stale Q3-2025-era and pre-report sources surfaced (an AAII Q2 recap, old price-target notes). No new CAD print found. Kept stored (120.31); re-verify next cycle for the Oct26 earnings reaction."
+    "note": "Oct27 cycle: Re-checked for the Oct26-flagged earnings reaction. Could not confirm Q3 2026 results or a dated reaction; a Yahoo Finance Canada 'previous close' of $119.77 surfaced without an explicit date, mildly consistent with stored (120.31) but not usable as a confirmed update. Only Q2 2026 (Jul29, EPS $0.92 beat $0.89) and older results are documented. Kept stored (120.31); re-verify next cycle."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/dol-T",
-    "note": "Oct26 cycle: Trouble ticker, re-checked. The previously-flagged WealthAwesome C$197.83 (Oct15, +2.52%) lead resurfaced, and a new Yahoo Finance intraday figure (~$202.96, +2.59%, time-stamped '1:30 PM EDT' but undated) appeared -- both show a similar-magnitude further gain, which is suggestive but the Yahoo figure's exact date couldn't be confirmed and no clean 2-source same-date match exists. Kept stored (184.01); this cluster is worth prioritizing again next cycle."
+    "note": "Oct27 cycle: Trouble ticker, re-checked again. The same WealthAwesome C$197.83 (Oct15, +2.52%) and an undated Yahoo intraday figure (~$202.96, +2.59%, timestamped '1:30 PM EDT' but no date) recurred; Snowball Analytics (C$192.31, undated) and Investing.com (C$186.32, undated/closed) sit between stored and the higher leads. Still no clean 2-source same-date match above stored. Kept stored (184.01); this cluster remains worth prioritizing."
   },
   {
     "exchange": "TSX",
@@ -1115,7 +1115,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "MX.TO",
     "sourceUrl": "https://www.investing.com/equities/methanex",
-    "note": "Oct26 cycle: Trouble ticker, re-checked. A new Google Finance figure (C$86.28, Oct7,2026, -0.31%, day range C$85.46-88.61) is specific and dated, loosely echoed by an undated Roic.ai figure (C$88.68) in the same neighborhood -- but per this ticker's 2-source-with-matching-date requirement, the undated figure doesn't corroborate the date, so the bar isn't met. Kept stored (80.2); this is the most promising lead yet and worth re-checking next cycle."
+    "note": "Oct27 cycle: Trouble ticker, re-checked. WealthAwesome's Sep17-dated page shows an internally inconsistent pair (closed at C$87.73 vs. 'Current Price' box C$86.55, both tagged Sep17) and Simply Wall St shows an undated C$83.13 -- all in the same neighborhood as last cycle's single-sourced Oct7 Google Finance lead (C$86.28) but still no second source confirming both price and date. Kept stored (80.2); remains the most promising unresolved lead."
   },
   {
     "exchange": "TSX",
@@ -1193,7 +1193,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SJ.TO",
     "sourceUrl": "https://www.investing.com/equities/stella-jones-inc.",
-    "note": "Oct26 cycle: Trouble ticker, prioritized again. Found a TipRanks/The Fly headline citing Stella-Jones Q3 EPS of C$1.42 (vs C$1.91 LY) but could not confirm an associated date or stock-price reaction, and a follow-up search could not reproduce that figure at all, so it remains unconfirmed and undated. WealthAwesome's recurring C$64.88-65.20 cluster (one tied to the Oct9 Q3-call announcement) still lacks a second independent source and has an internally broken 'current price' field on one page. Kept stored (72.94); still unresolved after 9+ cycles."
+    "note": "Oct27 cycle: Trouble ticker, prioritized again. Wealth Awesome (tied to the Oct9 Q3-call announcement) now shows a closing price of C$65.20 (+2.21%) with an internally-contradictory 'Current Price' field elsewhere on the same page showing C$0.86 (clear display error) -- same single-aggregator lead as prior cycles, still uncorroborated by a second independent source. ValueInvesting.io (C$82.15) and Hargreaves Lansdown (C$81.68) are undated and don't reconcile with either the C$65 lead or stored. Kept stored (72.94); still unresolved after 10+ cycles."
   },
   {
     "exchange": "TSX",
@@ -1219,7 +1219,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "TD.TO",
     "sourceUrl": "https://tradersunion.com/currencies/price/td-cad/",
-    "note": "Oct26 cycle: Trouble ticker, re-checked again. A WealthAwesome ex-dividend note (Oct9, CA$1.12 dividend) didn't carry a usable price; Digrin/Equibles USD-line figures ($117-118) are the wrong listing. Still no genuine TSX CAD-line October print. Kept stored (168.24)."
+    "note": "Oct27 cycle: Trouble ticker, re-checked again. Only the NYSE/US-line figure resolved cleanly (~$123.89 USD, Oct23, -0.98%); TSX CAD-line figures remain scattered and stale (WealthAwesome implies a $268.1B CAD market cap without a clean per-share figure; MarketBeat's C$169.00 is dated Jul24). Still no genuine current TSX CAD-line print. Kept stored (168.24)."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TSU/",
-    "note": "Oct26 cycle: Re-checked. YCharts' Sep11 figure (C$42.74, +3.69%) and WealthAwesome's mid-Sep figure (C$40.62) both recurred, both below stored (44.37) but from Sep, not October; no new October print found. Kept stored (44.37)."
+    "note": "Oct27 cycle: Re-checked again. Search surfaced only a long list of 2024-vintage 'closing bell' Globe and Mail automated reports (~C$43.21, Aug2024) -- the known stale-filler pattern for this name -- with no genuine October 2026 print. Kept stored (44.37)."
   },
   {
     "exchange": "TSX",
@@ -1297,7 +1297,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "WCN.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/WCN",
-    "note": "Oct26 cycle: Trouble ticker, re-checked. No October CAD print found; an undated Roic.ai figure (C$209.10) and an undated TradingView figure (C$225.84) both differ substantially from stored and from each other, continuing the NYSE/TSX-line confusion pattern. Kept stored (219.08)."
+    "note": "Oct27 cycle: Trouble ticker, re-checked. A new WealthAwesome lead ties a genuine catalyst (Q3 earnings beat estimates by 3.9%, adjusted EPS US$1.58, raised FY2026 revenue/EBITDA guidance, reported Oct21-22) to a TSX CAD 'last close' of C$236.45 -- a plausible ~8% move above stored (219.08) with a real catalyst, but still single-aggregator with an imprecise date, so per this ticker's 2-source requirement it doesn't yet clear the bar. Kept stored (219.08); prioritize next cycle to confirm C$236.45 (or similar) with a second source."
   },
   {
     "exchange": "TSX",
