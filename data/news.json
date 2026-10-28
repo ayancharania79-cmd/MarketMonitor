@@ -112,10 +112,10 @@
     "date": "2026-10-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Chip stocks rally for a second day as markets await the Fed",
-    "headline": "Nasdaq gains 1.18% on a chip-stock rally, closing in on the Fed's rate decision and Microsoft/Meta follow-through earnings",
-    "summary": "Stocks extended their tech rally Tuesday Oct 27, the second straight day of gains: the Nasdaq Composite jumped 1.18% to 26,477.81, the S&P 500 added 0.60% to 7,722.60, and the Dow Jones was roughly flat (+0.03%) at 52,377.57, with JPMorgan among the laggards. Chip and AI-linked names continued to benefit from the Anthropic IPO-filing enthusiasm that kicked off Monday's rebound. Markets now turn to Wednesday's Fed policy decision -- futures pricing shows a roughly 90% chance the Fed holds rates steady at 3.75-4% -- alongside after-the-close earnings from Microsoft and other major names.",
-    "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
-    "date": "2026-10-27"
+    "ticker": "MARKET", "exchange": "", "company": "Fed holds rates steady in a 10-2 vote as stocks edge higher",
+    "headline": "Stocks rise modestly as the Fed holds rates at 3.75-4%, with two officials dissenting in favor of a hike",
+    "summary": "The Federal Reserve held its benchmark rate steady at 3.75-4% on Wednesday Oct 28, a widely-expected outcome (futures had priced in a ~93% chance of a hold), though the 10-2 vote saw two dissents (Cleveland Fed's Hammack and Governor Cook) favoring a hike rather than a cut. Fed Chair Warsh described economic activity as growing at a \"strong\" pace (upgraded from \"solid\" in September) and said politics played no role in the decision. Stocks closed modestly higher: the S&P 500 added 0.28% to 7,743.98, the Nasdaq Composite gained 0.27% to 26,549.85, and the Dow rose 0.19% to 52,475.10, while the 10-year yield rose to 5.02%. Microsoft reports its fiscal Q1 2027 results after today's close -- the next major catalyst for the fund's largest tech holdings.",
+    "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
+    "date": "2026-10-28"
   }
 ]
