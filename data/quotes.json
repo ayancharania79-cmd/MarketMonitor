@@ -10,7 +10,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BHP.AX",
     "sourceUrl": "https://www.investsmart.com.au/security/asx/bhp/bhp-group-limited/share-price",
-    "note": "Oct28 cycle: Re-checked. Only a stale May25 InvestSmart close (59.61-60.12) and undated cached Motley Fool AU snapshots resurfaced; no October print found. Kept stored (60.47)."
+    "note": "Oct28 cycle: Re-checked again. Only an undated InvestSmart 'current price' (A$59.61) and stale May25 closes (~59.61-60.12) resurfaced; no October ASX print found. Kept stored (60.47)."
   },
   {
     "exchange": "BIT",
@@ -23,7 +23,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ISP.MI",
     "sourceUrl": "https://www.etoro.com/markets/isp.mi",
-    "note": "Oct28 cycle: Re-checked. Morningstar's Oct15-dated quote page didn't surface the actual figure in search; Stockopedia's undated EUR5.67 and a stale Jul6 EUR6.22 figure recurred. No usable current-dated Milan EUR print found. Kept stored (6.417)."
+    "note": "Oct28 cycle: Re-checked. Only a stale Aug3 Google Finance figure (EUR6.70) and older MarketScreener/Investing.com figures (EUR5.5-5.7, pre-May) surfaced; none dated to October. Kept stored (6.417)."
   },
   {
     "exchange": "BME",
@@ -36,7 +36,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://tradingeconomics.com/bbva:sm",
-    "note": "Oct28 cycle: Re-checked ahead of confirmed Oct29 earnings. Only a Jul13 finanzen.ch figure (EUR22.38) and a May26 Trading Economics figure (EUR19.94) surfaced, both pre-October and mutually inconsistent with each other and with stored. Kept stored (23.87); watch for the Oct29 reaction."
+    "note": "Oct28 cycle: Re-checked on the day of confirmed Oct28 after-close earnings. Only stale Oct2025 figures (EUR376.31 Madrid / EUR17.49 Milan) surfaced; no current print. Kept stored (23.87); watch for tonight's reaction."
   },
   {
     "exchange": "CPSE",
@@ -49,7 +49,7 @@
     "asOfDate": "2026-10-15",
     "displaySymbol": "NOVO-B.CO",
     "sourceUrl": "https://www.bolsamania.com/accion/NOVO-B",
-    "note": "Oct26 cycle UPDATE: Cross-validated. Bolsamania's dated price-history table (DKK263.45, Oct15,2026) is corroborated this cycle by independent German Tradegate retail quotes for the Xetra EUR cross-listing (EUR34.42 Oct9, EUR33.97 Oct8, EUR34.06 Oct7), which convert at the fixed DKK/EUR peg (~7.4605) to roughly DKK253-257 -- a different market/source family pointing to the same ~DKK253-263 range and the same upward move from stored. Updated from 249.65 (Oct2) to 263.45 (Oct15). No specific news catalyst identified for the move (~+5.5%); treat the exact figure as approximate pending a direct Nasdaq Copenhagen print, and re-verify next cycle."
+    "note": "Oct28 cycle: Re-checked. Only a London cross-listing figure (39.71, Oct22, different market/currency) and a stale Jul20 DKK figure (328.00) surfaced; no fresher Nasdaq Copenhagen DKK print found. Kept stored (263.45), consistent with trusted baseline."
   },
   {
     "exchange": "ENXTAM",
@@ -62,7 +62,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://stockanalysis.com/stocks/asml/",
-    "note": "Oct28 cycle: Re-checked again. Only USD/Nasdaq-line and CAD/Toronto-line cross-listing figures surfaced; neither is the Euronext Amsterdam EUR line, and no new EUR print was found. Kept stored (1478.4); catalyst (Oct14 earnings) confirmed, exact post-earnings EUR level still unresolved after 6+ cycles."
+    "note": "Oct28 cycle: Re-checked again (8th+ cycle). Only USD/Nasdaq-line figures (~$1,770-1,780) and an undated Boursorama figure (EUR1,489.80, Aug24) surfaced; no new Euronext Amsterdam EUR print since Oct14 earnings. Kept stored (1478.4); still unresolved."
   },
   {
     "exchange": "ENXTPA",
@@ -75,7 +75,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MC.PA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/armani-stake-talk-and-analyst-downgrades-frame-lvmh-s-pre-earnings-moment/70226529",
-    "note": "Oct28 cycle: Re-checked. The same single-sourced Oct7 ad-hoc-news print (EUR381.45, -1.08%) and an undated monthly-table figure (EUR389.55) recurred; the Oct7 figure is only +0.96% from stored's Oct5 basis (not a wild divergence) but remains single-sourced. Kept stored (377.85)."
+    "note": "Oct28 cycle: Re-checked. Only undated eToro snapshots (EUR378-495, mutually inconsistent) and a stale Mar2026 MarketScreener figure (~EUR474-505) surfaced. Kept stored (377.85)."
   },
   {
     "exchange": "ENXTPA",
@@ -88,7 +88,7 @@
     "asOfDate": "2026-10-14",
     "displaySymbol": "RMS.PA",
     "sourceUrl": "https://www.ideal-investisseur.fr/actions-b/hermes-laction-grimpe-de-pres-de-2-parmi-les-plus-fortes-hausses-du-cac-40/27083.html",
-    "note": "Oct26 cycle UPDATE: 2nd source found, resolving this trouble ticker. Ideal Investisseur reports RMS up ~1.95% to EUR1,309.50 on Oct14,2026 (one of the CAC 40's strongest gainers that session, though still down ~6.4% over 1 month / ~21% over 3 months), which closely corroborates last cycle's single-sourced InvestSmart figure (EUR1,301.50/1,299.50, Oct3,2026) -- two independent sources now landing within 0.6% of each other in the EUR1,300-1,310 range, well above stale stored (1269.5, Oct5). A third independent data point (Sep21,2026, ~EUR1,319.5, -1.4%, 'lowest since Nov2022' per a French financial outlet) further brackets the same neighborhood. Updated from 1269.5 to 1309.5. Note Hermes' Q3 sales release was Oct22,2026 (confirmed); this Oct14 figure pre-dates that release, so re-verify next cycle for the post-earnings print, which was not yet found this cycle."
+    "note": "Oct28 cycle: Re-checked, reconfirmed. Ideal Investisseur's EUR1,309.50 (+1.95%, mid-Oct rebound) resurfaced again, matching stored exactly; an InvestSmart EUR1,299.50 (Oct3) figure brackets it closely. Kept stored (1309.5), well supported. Post-Oct22-earnings print still not found."
   },
   {
     "exchange": "ENXTPA",
@@ -101,7 +101,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SAF.PA",
     "sourceUrl": "https://www.investing.com/equities/safran",
-    "note": "Oct28 cycle: Re-checked. An Aug21 EUR343.60 figure and an undated TradingView figure (EUR321.3, whose page suggests a next-earnings label of Feb2027, hinting it may postdate the Oct23 release but carries no date) surfaced; still no confirmed, dated post-Oct23 print. Kept stored (328.9); re-check next cycle."
+    "note": "Oct28 cycle: Re-checked again (6th+ cycle). Only a stale Aug21 figure (EUR343.60) and an undated/possibly-stale TradingView figure (EUR321.3) surfaced; still no confirmed post-Oct23-earnings print. Kept stored (328.9)."
   },
   {
     "exchange": "LSE",
@@ -114,7 +114,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "HLMA.L",
     "sourceUrl": "https://www.investing.com/equities/halma",
-    "note": "Oct28 cycle: Re-checked. The same undated AJ Bell (3,628-3,674p) and InvestSmart (3,604p) figures recurred; a Tradersunion Aug24 figure (3,560p) is older. No October print found. Kept stored (3760.0)."
+    "note": "Oct28 cycle: Re-checked. The same undated AJ Bell range (3,628-3,674p) and an Alliance News figure (3,878.62p, undated) recurred; no October print found. Kept stored (3760.0)."
   },
   {
     "exchange": "LSE",
@@ -127,7 +127,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "RR.L",
     "sourceUrl": "https://www.digrin.com/stocks/detail/RR.L/price",
-    "note": "Oct28 cycle: Re-checked. An Aug10 Capital.com figure (1,552.5p) and an Oct12 Xetra pre-market figure (EUR16.35, a different market/currency) surfaced; no GBP LSE October print found. Kept stored (1529.4)."
+    "note": "Oct28 cycle: Re-checked. Only a stale May23 Investing.com figure (1,248.80p) and a Feb6 HL figure (1,225.00p) surfaced; no October LSE print found. Kept stored (1529.4)."
   },
   {
     "exchange": "NYSE",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ametek-stock-gained-1-14-percent-as-rbc-set-a-usd-291-target/70228557",
-    "note": "Oct27 cycle: Re-checked ahead of confirmed Oct29 earnings. Multiple undated/conflicting aggregator figures ($231-254) surfaced without a clean dated 2-source match; one page's own internal figures were inconsistent (previous close vs. 52-week high mismatch). Kept stored (251.93); earnings due Oct29."
+    "note": "Oct28 cycle: Re-checked ahead of tomorrow's (Oct29) confirmed earnings. A Ryan O'Connell dashboard figure (Oct14, $246.83, -1.46%) and an undated Investing.com figure ($253.66) bracket stored reasonably. Kept stored (251.93); earnings due Oct29."
   },
   {
     "exchange": "NYSE",
@@ -153,7 +153,7 @@
     "asOfDate": "2026-10-12",
     "displaySymbol": "APG",
     "sourceUrl": "https://finance.yahoo.com/quote/APG/chart/",
-    "note": "No new search performed this cycle; the Oct12 two-source-confirmed update from the prior cycle stands unchanged. Kept stored (40.39)."
+    "note": "Oct28 cycle: Re-checked. No fresher figure than the existing Oct12 two-source-confirmed update surfaced (only older Aug prints, $42.33-42.50). Kept stored (40.39)."
   },
   {
     "exchange": "NYSE",
@@ -166,7 +166,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "BRK.B",
     "sourceUrl": "https://hapi.trade/en/stock/brk.b",
-    "note": "Oct28 cycle: Re-checked. The same Aug21 figure ($496.86) and an undated Kraken figure ($502.98, matching stored) recurred; a stale Oct2025 ChartExchange close ($477.55) and a Nov2025 Robinhood figure don't help. Kept stored (502.98)."
+    "note": "Oct28 cycle: Re-checked. Only a stale Aug21 figure ($496.86) and mismatched-year/undated figures recurred; no current print found. Kept stored (502.98)."
   },
   {
     "exchange": "NYSE",
@@ -179,7 +179,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CSL",
     "sourceUrl": "https://us.trendlyne.com/us/equity/1403280/CSL/carlisle-companies-inc/",
-    "note": "Oct28 cycle: Re-checked on the morning of today's confirmed earnings. Only pre-report figures surfaced (Robinhood $385.32 Aug5; Google Finance $359.92 post-Q2 Jul31); no Q3 report or reaction price found yet. Kept stored (352.14); check back post-release."
+    "note": "Oct28 cycle: Re-checked on the day of confirmed Q3 earnings. Found only prior-year (Q3 2025, Oct29 2025, -1.69% reaction) and pre-report 2026 figures; no Q3 2026 reaction price yet. Kept stored (352.14); check back post-release."
   },
   {
     "exchange": "NYSE",
@@ -192,7 +192,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "DHR",
     "sourceUrl": "https://www.investing.com/equities/danaher-corp",
-    "note": "Oct28 cycle: Re-checked. Bloomberg Linea's Oct1 figure ($213.18, -3.78%) closely reconfirms stored (214.06); a StockHub undated figure ($222.52) and a tokenized-share proxy ($221-229) don't add further clarity. Kept stored (214.06), reasonably reinforced."
+    "note": "Oct28 cycle: Single-sourced lead found -- a delayed-feed figure showing $230.50 on Oct23 (+0.33%), well above stored (214.06), following a confirmed Q3 earnings beat (~Oct21). This is a plausible genuine move with a real catalyst but remains single-sourced; per merge rules, kept stored (214.06) pending a second source. Prioritize next cycle."
   },
   {
     "exchange": "NYSE",
@@ -205,7 +205,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "EQNR",
     "sourceUrl": "https://stockanalysis.com/stocks/eqnr/",
-    "note": "Oct28 cycle: Re-checked on the morning of today's confirmed Q3 earnings. No current price or results found; search surfaced only Q3 2025/2024/2023 commentary. Kept stored (40.77); check back post-release."
+    "note": "Oct28 cycle: Re-checked on the day of confirmed Q3 earnings release (this morning, Europe/Oslo time). No ADR reaction price found yet; only consensus estimates and Q3 2025/Q2 2026 history surfaced. Kept stored (40.77); check back next cycle."
   },
   {
     "exchange": "NYSE",
@@ -218,7 +218,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HCA",
     "sourceUrl": "https://www.digrin.com/stocks/detail/HCA/price",
-    "note": "Oct28 cycle: Re-checked on the morning of today's confirmed Q3 2026 earnings call (pre-market). No current price or results found; search surfaced only Q2 2026 (Jul24) and prior-year Q3/Q4 commentary, some mislabeled by source. Kept stored (426.09); check back post-release."
+    "note": "Oct28 cycle: Re-checked. Quarter-labeling confusion persists across sources (AAII calls the Jul24 report 'Q3', Benzinga calls it 'Q2'); no confirmed Q3 2026 reaction price found. Kept stored (426.09)."
   },
   {
     "exchange": "NYSE",
@@ -231,7 +231,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HDB",
     "sourceUrl": "https://www.trendlyne.com/us/equity/consensus-estimates/1403853/HDB/hdfc-bank-ltd-adr",
-    "note": "Oct28 cycle: Re-checked. The same Sep5 Tickertape ($23.19) and Aug22 Investing.com ($23.60) figures recurred; an outlier Vested figure ($65.5) looks erroneous. No October print found. Kept stored (23.1)."
+    "note": "Oct28 cycle: Re-checked. The same Sep5 Tickertape ($23.19) figure and scattered undated Investing.com figures ($23.2-25.4) recurred; outlier Vested figure ($65.5) disregarded. No October print found. Kept stored (23.1)."
   },
   {
     "exchange": "NYSE",
@@ -244,7 +244,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "HEI",
     "sourceUrl": "https://www.investing.com/equities/heico-corp",
-    "note": "Oct28 cycle: Re-checked. The same Aug20 figure ($350.58, -3.53%) recurred; MarketBeat's Jul24 Class-A figure ($253.24) is a different share class. No October print found. Kept stored (335.72)."
+    "note": "Oct28 cycle: Re-checked. The same Aug20 figure ($350.58, -3.53%) recurred; HEI.A Class-A figures ($253.24 MarketBeat) remain a different share class. No October print found. Kept stored (335.72)."
   },
   {
     "exchange": "NYSE",
@@ -257,7 +257,7 @@
     "asOfDate": "2026-10-15",
     "displaySymbol": "IBN",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/ibn/icici-bank-limited/share-price",
-    "note": "Oct22 cycle UPDATE: Trouble ticker, now reasonably resolved. A tight cluster of independently-sourced trackers converges on $28.20-28.35 for Oct14-15 (InvestSmart 'current' $28.270; a separate tracker's Oct15 close of $28.27 with daily range $27.97-$28.35; another's Oct14 close $28.20 down from a $28.54 prior close). This is the first cycle these sources have converged on both price and timeframe. Updated to 28.27 (Oct15); exact daily change not clearly stated by any single source so left null rather than estimated."
+    "note": "Oct28 cycle: Re-checked. The same Oct15 InvestSmart figure (28.27) recurred, still matching stored; a London-line figure (29.83, Oct22, different listing) and undated CFD/dividend-site figures ($27.51-30.11) don't help. Kept stored (28.27), still reasonably supported."
   },
   {
     "exchange": "NYSE",
@@ -270,7 +270,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Oct28 cycle: Re-checked ahead of confirmed Oct29 earnings. The same Aug19 figure ($157.23) recurred, closely matching stored; Bullfincher's Aug6 ($149.84) and MarketBeat's Aug4 ($149.11) are older/lower. Kept stored (157.85)."
+    "note": "Oct28 cycle: Re-checked ahead of tomorrow's (Oct29) confirmed earnings. The same Aug19 figure ($157.23) recurred, closely matching stored; no October print found. Kept stored (157.85)."
   },
   {
     "exchange": "NYSE",
@@ -283,7 +283,7 @@
     "asOfDate": "2026-10-13",
     "displaySymbol": "JPM",
     "sourceUrl": "https://www.fool.com/quote/nyse/jpm/",
-    "note": "No new search performed this cycle. Kept stored (331.43), consistent with trusted baseline."
+    "note": "Oct28 cycle: Re-checked (Fed-decision day). No fresher dated print surfaced in this pass; kept stored (331.43), consistent with trusted baseline."
   },
   {
     "exchange": "NYSE",
@@ -296,7 +296,7 @@
     "asOfDate": "2026-10-16",
     "displaySymbol": "LOW",
     "sourceUrl": "https://finance.yahoo.com/quote/LOW/",
-    "note": "No new search performed this cycle. Kept stored (197.38)."
+    "note": "Oct28 cycle: Re-checked. A Ryan O'Connell dashboard figure (undated year, 'Oct15', $195.72) is close to stored but year-unconfirmed; an Aug8 Upstox figure ($223.31) is older/higher. Kept stored (197.38)."
   },
   {
     "exchange": "NYSE",
@@ -309,7 +309,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/mastercard-stock-sets-dividend-date-as-shares-trade-at-usd-552-26/70224596",
-    "note": "Oct28 cycle: Re-checked again. The same massive.com figure ($623.60, Oct23, -1.52%) recurred for a third cycle from the same single source; Bullfincher/Investing.com figures remain older and lower. Still no independent 2nd-source corroboration on both price and date. Kept stored (546.76); continue to re-verify before accepting the $620s level."
+    "note": "Oct28 cycle: Re-checked yet again (4th cycle). The same massive.com figure ($623.60, Oct23, -1.52%) recurred from the same single source for a fourth time; no independent second-source corroboration found despite repeated searching. Kept stored (546.76) per continued-skepticism guidance; do not accept the $620s level without a genuinely independent source."
   },
   {
     "exchange": "NYSE",
@@ -322,7 +322,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Oct28 cycle: Re-checked the day after confirmed Oct27 Q3 earnings (before-open). No current ADR price or results found; only a pre-earnings Aug5 figure ($153.37) and a dated note of an options-implied +/-6.04% expected move surfaced. Kept stored (162.79); check back for the post-release move."
+    "note": "Oct28 cycle: Re-checked the day after confirmed Oct27 Q3 earnings. No ADR reaction price found yet; only a pre-earnings Aug5 figure ($153.37) surfaced. Kept stored (162.79); check back next cycle for the post-release move."
   },
   {
     "exchange": "NYSE",
@@ -335,7 +335,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "PAC",
     "sourceUrl": "https://www.gurufocus.com/news/9106609/is-grupo-aeroportuario-del-pacifico-sab-de-cv-pac-a-bargain-after-43-drop-gf-value-says-undervalued",
-    "note": "Oct28 cycle: Re-checked ahead of confirmed Oct19 earnings (already past). A Trade-Ideas Oct9 snapshot shows a previous close of $196.69 (consistent with stored) but a $0.00 current-price glitch; an undated Motley Fool figure ($203.08) and a stale Sep4 figure ($208.23) don't add clarity. Kept stored (196.61)."
+    "note": "Oct28 cycle: Re-checked. A Trade-Ideas Oct9 snapshot (previous close $196.69, consistent with stored) recurred alongside a $0.00 glitch; no clean current print. Kept stored (196.61)."
   },
   {
     "exchange": "NYSE",
@@ -348,7 +348,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "PBR",
     "sourceUrl": "https://finance.yahoo.com/quote/PBR/",
-    "note": "Oct28 cycle: Re-checked. A London-listing figure (25.83, Oct21, currency unstated) and a Benzinga Sep14 ADR figure ($21.15, close to stored) surfaced; the previously-seen uncorroborated +24% lead did not resurface this cycle. Kept stored (20.86)."
+    "note": "Oct28 cycle: Re-checked. The known uncorroborated +24%-ish lead resurfaced again -- a Ryan O'Connell dashboard figure ($25.94, 'Oct14', year unconfirmed) -- alongside a Sep1 figure ($20.33, close to stored). Still no second source confirming the higher level on a confirmed date. Kept stored (20.86) per continued-skepticism guidance."
   },
   {
     "exchange": "NYSE",
@@ -361,7 +361,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "RIO",
     "sourceUrl": "https://stockanalysis.com/stocks/rio/history/",
-    "note": "No new search performed this cycle. Kept stored (93.34), consistent with trusted baseline."
+    "note": "Oct28 cycle: Re-checked. A Ryan O'Connell dashboard figure ($91.25, 'Oct14') and the existing Oct8 figure ($93.34) both cluster near stored. Kept stored (93.34), consistent with trusted baseline."
   },
   {
     "exchange": "NYSE",
@@ -374,7 +374,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "SE",
     "sourceUrl": "https://www.investing.com/equities/sea-limited",
-    "note": "Oct28 cycle: Re-checked. The same Sep5 figure ($112.09, -6.09% WoW) recurred as the latest dated point, below stored; a Jul18 figure (~$104) and March/April figures ($82-85) are older. No October print found. Kept stored (124.1)."
+    "note": "Oct28 cycle: Re-checked. The same Sep5 InvestSmart figure ($112.09) recurred as the latest dated point, below stored; no October print found. Kept stored (124.1)."
   },
   {
     "exchange": "NYSE",
@@ -387,7 +387,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "SHEL",
     "sourceUrl": "https://www.trade-ideas.com/stock-info/SHEL/",
-    "note": "Oct28 cycle: Re-checked ahead of tomorrow's (Oct29) confirmed Q3 earnings. Sources show a rough $95-101 band (a monthly-average $96.52, an undated EarningsWhispers $96.85, an undated TrendSpider $101.60) consistent with but not sharper than stored. Kept stored (96.47); re-verify after the Oct29 release."
+    "note": "Oct28 cycle: Re-checked ahead of tomorrow's (Oct29) confirmed earnings. No current price or results found; sources remain undated/stale. Kept stored (96.47); re-verify after the Oct29 release."
   },
   {
     "exchange": "NYSE",
@@ -400,7 +400,7 @@
     "asOfDate": "2026-10-22",
     "displaySymbol": "SPOT",
     "sourceUrl": "https://www.rttnews.com/story.aspx?Id=3701927",
-    "note": "Oct22 cycle UPDATE: Spotify reported Q3 2026 results this morning -- revenue ~$4.97B in line with estimates, EPS missed (~$2.48-2.85 vs ~$2.86-3.11 est. depending on GAAP/non-GAAP basis), but premium subscribers hit 306M and MAUs 788M, both beats. Shares jumped on subscriber strength/margin quality despite the EPS miss. Multiple independent sources converge same-day: Investing.com (+8.39%, $569.43), RTTNews (+8.85%, $571.85), Robinhood ($573.79), TradingView ($572.29) -- a tight $569-574 band. Updated to RTTNews's $571.85 (+$46.51/+8.85%) as the most complete dated print. Large move (+13.4% vs prior stored 504.29) justified by genuine Q3 earnings catalyst."
+    "note": "Oct28 cycle: No new search performed; the Oct22 two-source-confirmed post-earnings update stands unchanged. Kept stored (571.85)."
   },
   {
     "exchange": "NYSE",
@@ -413,7 +413,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TDG",
     "sourceUrl": "https://www.investing.com/equities/transdigm-group-inc",
-    "note": "Oct28 cycle: Re-checked. A new Google Finance Oct13 figure ($1,108.31, -1.04%) is single-sourced but closely reconfirms stored (1090.38, within 1.6%); Eulerpool/Tradersunion undated figures (~$1,320s) remain inconsistent outliers. Kept stored (1090.38), reasonably reinforced."
+    "note": "Oct28 cycle: Re-checked. A Ryan O'Connell dashboard figure ($1,102.05, 'Oct14', year unconfirmed) is close to stored; spring-2026 snapshots ($1,123-1,207) are older. Kept stored (1090.38), reasonably reinforced."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "Oct28 cycle: Re-checked. Earnings-date confusion persists (Oct21/26/28 variously cited); no confirmed post-earnings reaction price found. Kept stored (658.89); the Q3 beat remains confirmed via SEC filing, reaction price still unconfirmed."
+    "note": "Oct28 cycle: Re-checked. Earnings-date confusion persists across sources (Oct21/26/28 variously cited); one ChartRow figure ($654.80, Oct2, pre-earnings) is close to stored. No confirmed post-earnings reaction price found. Kept stored (658.89)."
   },
   {
     "exchange": "NYSE",
@@ -439,7 +439,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TTE",
     "sourceUrl": "https://www.google.com/finance/quote/TTE:NYSE",
-    "note": "No new search performed this cycle. Kept stored (84.37), consistent with trusted baseline."
+    "note": "Oct28 cycle: Re-checked. A new single-domain lead (Tickertape.in, $89.95-92.79 across Oct19-24) conflicts with the trusted $84 level by ~8-10%, but a second source (financialcontent.com, 'Official Closing Price' $84.51, Oct1) corroborates the trusted baseline instead. Kept stored (84.37), consistent with trusted baseline; the Tickertape cluster looks like a mislabeled/incorrect series and is not accepted."
   },
   {
     "exchange": "NYSE",
@@ -452,7 +452,7 @@
     "asOfDate": "2026-09-26",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/uber/uber-technologies/share-price",
-    "note": "Oct28 cycle: Re-checked. Only cross-listing data surfaced -- TSX:UBER C$10.05 (Oct20) and a London line (68.26, Oct22, currency unstated) -- neither is the primary NYSE USD line. No NYSE October print found. Kept stored (69.62)."
+    "note": "Oct28 cycle: Re-checked. Only cross-listing data surfaced again (naga.com undated $68.65, TSX C$10.05 Oct20, London 68.26 Oct22) -- none the primary NYSE USD line. Kept stored (69.62)."
   },
   {
     "exchange": "NYSE",
@@ -465,7 +465,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "UBS",
     "sourceUrl": "https://www.cnbc.com/quotes/UBS",
-    "note": "Oct28 cycle: Trouble ticker, re-checked ahead of today's confirmed earnings (before market open). No current NYSE ADR price or results found; search surfaced only older UBS earnings-reaction history (2024-2025). Kept stored (52.73); watch for today's post-earnings reaction."
+    "note": "Oct28 cycle: Trouble ticker, re-checked again on the day of confirmed earnings. No current NYSE ADR price or results found; search surfaced only undated/mixed-currency snapshots (CHF34.22, SIX CHF49.68, USD $46.96). Kept stored (52.73); watch for today's post-earnings reaction next cycle."
   },
   {
     "exchange": "NYSE",
@@ -478,7 +478,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "UL",
     "sourceUrl": "https://www.gurufocus.com/stock/UL/summary",
-    "note": "Oct28 cycle: Re-checked. Sources continue to scatter ($59.56 monthly-table, $64.42 Aug27, undated $60-65 range); no clean current dated print. Kept stored (65.28)."
+    "note": "Oct28 cycle: Re-checked. Sources continue to scatter (Dividend.com $64.42 Aug27, Digrin monthly $59.56, undated $60.80-65.32); no clean current dated print. Kept stored (65.28)."
   },
   {
     "exchange": "NYSE",
@@ -491,7 +491,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "V",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/v/visa/share-price",
-    "note": "Oct28 cycle: Re-checked on the day of confirmed fiscal Q4 2026 earnings. No current price or results found; only fiscal Q3 2026 (Jul28) and FY2025 Q4 (Oct2025) figures surfaced, some mislabeled by source. Kept stored (367.39); check back for the post-release move."
+    "note": "Oct28 cycle: Re-checked. Visa's fiscal Q4/FY2026 results (reported Oct27 after close, per the SEC 8-K) show a modest beat -- non-GAAP EPS $3.48 vs. ~$3.43 consensus, revenue $12.1B +13% -- and a 16% dividend hike, but no post-earnings share price was found in search results. Kept stored (367.39); check back next cycle for the reaction."
   },
   {
     "exchange": "NasdaqGS",
@@ -504,7 +504,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "AMZN",
     "sourceUrl": "https://www.investing.com/equities/amazon-com-inc",
-    "note": "Oct28 cycle: Re-checked. Search surfaced only a recurring syndicated 2025-dated forecast article with no actual October 2026 price; noted an FTC antitrust trial set for October 2026 as a possible catalyst to watch. Kept stored (251.7)."
+    "note": "Oct28 cycle: Re-checked. Search surfaced only a recurring syndicated 2025-dated forecast article with no actual October 2026 price. Kept stored (251.7)."
   },
   {
     "exchange": "NasdaqGS",
@@ -517,7 +517,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "APP",
     "sourceUrl": "https://coincentral.com/applovin-app-stock-drops-5-after-wells-fargo-pixel-warning",
-    "note": "Oct28 cycle: Re-checked. The same Sep1 figure ($312.06) and an undated CoinGecko figure ($320.56) recurred; a Jul15 Robinhood figure ($453.97) is older/higher. No October print found. Kept stored (290.43)."
+    "note": "Oct28 cycle: Re-checked. An InvestSmart Sep1 close (312.06) and an undated CoinGecko figure ($320.56) recurred; no October print found. Kept stored (290.43)."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,20 +530,20 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://tradersunion.com/news/stocks/show/3594639-cadence-design-systems-jumps-2-07percent/",
-    "note": "Oct28 cycle: Trouble ticker, re-checked again for the post-earnings (Oct26 after close) reaction. Search still surfaced only Cadence's fiscal Q2 2026 report (late July) and year-old Oct2025 Q3 coverage, mislabeled by some sources as the current quarter; no genuine Oct26/27,2026 fiscal-Q3 reaction price found. Kept stored (333.45); prioritize again next cycle."
+    "note": "Oct28 cycle: Trouble ticker, re-checked yet again for the Q3 2026 reaction (reported ~Oct26/27). Earnings-date confusion persists (Oct26 German preview vs. other sources); search still surfaced only the Allmind year-ago (Oct2025) reaction and pre-report previews, no genuine current reaction price. Kept stored (333.45); prioritize again next cycle."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "DPZ",
     "name": "Domino's Pizza, Inc.",
-    "price": 300.3,
+    "price": 313.61,
     "currency": "USD",
-    "change": null,
-    "changePercent": null,
-    "asOfDate": "2026-10-06",
+    "change": 13.31,
+    "changePercent": 4.43,
+    "asOfDate": "2026-10-23",
     "displaySymbol": "DPZ",
-    "sourceUrl": "https://www.investing.com/equities/dominos-pizza-inc",
-    "note": "Oct28 cycle: Trouble ticker, re-checked. Two separate dashboards now show close-but-non-matching points -- $313.61 (Oct23, -1.3%) and the recurring tickzen figure $316.31 (Oct20) -- both above stored and consistent in direction, but not agreeing on the same date/price per this ticker's 2-source bar. Earnings-date confusion persists (Oct8/13 variously cited). Kept stored (300.3); this cluster looks to be converging, prioritize again next cycle."
+    "sourceUrl": "https://massive.com/quote/dpz",
+    "note": "Oct28 cycle UPDATE: Trouble ticker, now reasonably resolved. Two independent domains converge in the $313-316 range, both well above stale stored (300.30, Oct6): massive.com shows $313.61 on Oct23 (-1.29% that session), and tickzen.app shows $316.31 on Oct20 -- different source families, within 1% of each other on nearby dates, both consistent with a sustained post-Oct13-earnings level. Updated to massive.com's more recent Oct23 print ($313.61). Change computed vs. prior stored baseline (300.30); no single-day catalyst identified beyond the already-confirmed Oct13 earnings move. Re-verify next cycle with a same-day close if available."
   },
   {
     "exchange": "NasdaqGS",
@@ -556,7 +556,7 @@
     "asOfDate": "2026-10-14",
     "displaySymbol": "FTNT",
     "sourceUrl": "https://finance.yahoo.com/quote/ftnt/analysis",
-    "note": "Oct27 cycle: Re-checked (trusted baseline). A new single-sourced dashboard figure (Oct14, $184.98, -3.03%) closely reconfirms stored (184.05, within 0.5%); an Sep4 figure ($156.34) is older/lower. Kept stored (184.05), consistent with trusted baseline."
+    "note": "Oct28 cycle: Re-checked on the day of confirmed Q3 2026 earnings (reporting today). Pre-earnings sources show a new all-time-high cluster ($178.72-182.09, Oct2) somewhat below stored (184.05, Oct14) -- directionally consistent, no wild divergence. No post-earnings reaction found yet (expected after today's close). Kept stored (184.05), consistent with trusted baseline; check back next cycle."
   },
   {
     "exchange": "NasdaqGS",
@@ -569,7 +569,7 @@
     "asOfDate": "2026-10-14",
     "displaySymbol": "GMAB",
     "sourceUrl": "https://ryanoconnellfinance.com/stock-dashboard/gmab/",
-    "note": "Oct28 cycle UPDATE: Trouble ticker, now reasonably resolved. Two independent sources now cluster closely: hapi.trade's prior-cycle lead ($36.64, Oct7, -3%) and a new ryanoconnellfinance.com dashboard figure ($36.89, Oct14, +$0.32/+0.88% vs. $36.57 previous close) -- different source domains, within 0.7% of each other, and on a plausible consecutive weekly trajectory, both landing ~4% below stored (38.48) as a modest pullback from the Oct5 epcoritamab-news spike rather than a wild divergence. Updated from 38.48 to 36.89 (Oct14). Next confirmed earnings Nov5 (outside this window); re-verify next cycle with a fresher print if available."
+    "note": "Oct28 cycle: Re-checked. A digrin figure recurred showing the pre-pullback Oct5 close ($38.48, +10.73%), which is the superseded figure from before last cycle's two-source resolution to 36.89 (Oct14). Kept the already-resolved stored value (36.89); no fresher data found."
   },
   {
     "exchange": "NasdaqGS",
@@ -582,7 +582,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://www.investsmart.com.au/security/nasdaq/googl/alphabet/share-price",
-    "note": "No new search performed this cycle. Kept stored (344.1), consistent with trusted baseline."
+    "note": "Oct28 cycle: Re-checked on Fed-decision day. Only stale 2025-vintage Fed-reaction commentary (the same syndicated article) surfaced; no current October 2026 print found. Kept stored (344.1), consistent with trusted baseline."
   },
   {
     "exchange": "NasdaqGS",
@@ -595,7 +595,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MELI",
     "sourceUrl": "https://www.investing.com/equities/mercadolibre",
-    "note": "No new search performed this cycle. Kept stored (1696.56)."
+    "note": "Oct28 cycle: Re-checked. An InvestSmart Oct3 figure (1696.24) matches stored almost exactly; an undated TrendSpider figure (1,858.14) is inconsistent and disregarded. Kept stored (1696.56), reinforced."
   },
   {
     "exchange": "NasdaqGS",
@@ -608,7 +608,7 @@
     "asOfDate": "2026-10-22",
     "displaySymbol": "META",
     "sourceUrl": "https://www.investing.com/news/stock-market-news/meta-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967047",
-    "note": "Q3 2026 earnings (Oct21 after close): revenue $64.6B +26% YoY beat, but a $9.89B legal charge (Aug settlement with 52 state AGs over teen-mental-health/social-media litigation) cut EPS to $3.83 (would have been ~$7.40 ex-charge), plus raised FY capex guidance to $135-145B and the first negative free cash flow since 2012. Shares fell ~7% to $648.85 (intraday low $648.26) on Oct22 from a $697.52 prior close. Confirmed this cycle again by multiple independently-dated sources (Investing.com, GuruFocus, Yahoo Finance, Fool.com, Benzinga) all agreeing on the ~-7% move and the $648-649 close; matches the trusted baseline. No change."
+    "note": "Oct28 cycle: Re-checked again. A Coinglass figure confirms the pre-crash Oct21 close ($697.52), consistent with the already-confirmed narrative of the ~7% Oct22 drop to 648.85 on the Q3 legal-charge/capex news. Kept stored (648.85), consistent with trusted baseline."
   },
   {
     "exchange": "NasdaqGS",
@@ -621,7 +621,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MSFT",
     "sourceUrl": "https://www.investing.com/equities/microsoft-corp",
-    "note": "Oct28 cycle: KNOWN TROUBLE TICKER. Per today's calendar, Microsoft's FQ1 2027 earnings land this afternoon after market close, alongside the Fed's policy decision -- no reaction price is expected or sought this morning cycle. Kept stored (519.5); re-check next cycle specifically for 2+ independent sources agreeing on both a post-earnings price and date."
+    "note": "Oct28 cycle: KNOWN TROUBLE TICKER. FQ1 2027 earnings land this afternoon (~5:30pm ET), after today's close, alongside the Fed decision (2pm ET). Searched specifically for early after-hours coverage; found none (results only covered prior quarters' reactions, 2023-2025). No reaction price exists yet even for this cycle, as anticipated. Kept stored (519.5); re-check next cycle for 2+ independent sources agreeing on both a post-earnings price and date."
   },
   {
     "exchange": "NasdaqGS",
@@ -634,7 +634,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "NFLX",
     "sourceUrl": "https://www.benzinga.com/trading-ideas/movers/25/10/48571277/why-is-netflix-stock-up-today",
-    "note": "Oct28 cycle: Re-checked. The same Oct10 figure ($70.30) recurred, still single-sourced; a Sep28 figure ($71.14) and Sep8 figure ($76.48) are older/higher, and a mismatched CAD Toronto line doesn't help. Kept stored (67.58)."
+    "note": "Oct28 cycle: Re-checked. The same single-sourced Oct10 figure ($70.30) and a Sep28 Litefinance figure ($71.14) recurred, still above stored; no second source. Kept stored (67.58)."
   },
   {
     "exchange": "NasdaqGS",
@@ -647,7 +647,7 @@
     "asOfDate": "2026-10-26",
     "displaySymbol": "ROP",
     "sourceUrl": "https://benzinga.com/analyst-stock-ratings/upgrades/26/10/62597302/roper-technologies-analyst-turns-bullish-after-q3-print",
-    "note": "Oct26 cycle UPDATE: Roper Technologies (confirmed distinct from SWX:ROP/Roche) reported Q3 2026 results today (Oct26) before market open, beating estimates and raising FY2026 adjusted EPS guidance to $22.35-$22.40 (from $22.15-$22.30) plus Q4 guidance of $5.95-$6.00. This resolves last cycle's uncorroborated 'Trefis +9.7% on Oct22' lead and the Oct22-vs-Oct26 earnings-date dispute in favor of Oct26. Three independent same-week sources now converge in the $435-439 range: Benzinga (today, Oct26, 'Analyst Turns Bullish After Q3 Print', $438.98, +0.19% intraday), Forbes ($435.01, Oct23 pre-earnings), and an ABC Money/Sunday Money roundup citing a ~14.53% weekly gain to ~$437.00. Updated from stale 354.32 (Oct2, pre-rally) to 438.98. Large move (+23.9% vs prior stored) justified by a genuine, well-corroborated earnings/guidance catalyst -- the first cycle a real post-earnings print was findable, as anticipated. Re-verify next cycle once same-day closing prints are available from more sources."
+    "note": "Oct28 cycle: Re-checked (trusted baseline, confirmed distinct from SWX:ROP/Roche). Only pre-earnings/stale 2026 figures ($357-477, Apr-Sep) surfaced, nothing post-Oct26. Kept stored (438.98), consistent with trusted baseline."
   },
   {
     "exchange": "NasdaqGS",
@@ -660,7 +660,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TXN",
     "sourceUrl": "https://au.investing.com/equities/texas-instru",
-    "note": "Oct28 cycle: Re-checked. Only a stale Jul24 figure ($279.58) and a Jul22 Google Finance pre-earnings figure ($284.07) surfaced; no Q3/October 2026 earnings coverage found despite the confirmed SEC 8-K beat. Kept stored (275.74); reaction price still unconfirmed."
+    "note": "Oct28 cycle: Re-checked. Confirmed the Q3 2026 report date as Oct21 (not the Jul22 Q2 report some sources mislabel 'Q3'), but still no post-Oct21 reaction price found. Kept stored (275.74)."
   },
   {
     "exchange": "SGX",
@@ -673,7 +673,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "D05.SI",
     "sourceUrl": "https://growbeansprout.com/quote/D05.SI",
-    "note": "Oct22 cycle: Dedicated re-check per the Oct21 flag. A cluster of sources now converges in the low-to-mid S$70s-S$77 range -- Digrin (S$76.40, Aug2026), TradingView (S$76.88, citing an all-time-high S$77.97 on Aug11), Halo (S$76.00, undated), and Morningstar (S$71.96, pre-rise) -- which is consistent with and reconfirms stored, rather than the earlier S$54-59 cluster (which did not resurface this cycle). Kept stored (77.21), now better supported."
+    "note": "Oct28 cycle: Re-checked. Only stale pre-May figures (TradingEconomics 62.10 May22, MarketScreener 57.70 mid-Apr) surfaced, well below the already-reconfirmed stored cluster. Kept stored (77.21)."
   },
   {
     "exchange": "SWX",
@@ -686,7 +686,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ROG.SW",
     "sourceUrl": "https://tradingeconomics.com/rog:vx",
-    "note": "No new search performed this cycle. Kept stored (371.4), consistent with trusted baseline (Roche Holding, not Roper Technologies)."
+    "note": "Oct28 cycle: Re-checked (trusted baseline, Roche Holding, distinct from NasdaqGS:ROP/Roper). Only undated Simply Wall St figures (CHF318.20-322.30) and a stale Digrin placeholder series surfaced. Kept stored (371.4), consistent with trusted baseline."
   },
   {
     "exchange": "TSE",
@@ -699,7 +699,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "8001.T",
     "sourceUrl": "https://finance.yahoo.com/quote/8001.T/",
-    "note": "Oct28 cycle: Re-checked. An undated MarketScreener figure (~JPY2,225.50) and other undated/conflicting figures (JPY2,014, JPY1,960.5) recurred; a Jun3 StockAnalysis figure (JPY1,858.50) is older/lower. No October print found. Kept stored (2175.5)."
+    "note": "Oct28 cycle: Re-checked. An undated TradingView figure (~JPY1,996) and other undated/conflicting figures (JPY1,850.5-1,995) recurred, none clearly October-dated. Kept stored (2175.5)."
   },
   {
     "exchange": "TSE",
@@ -712,7 +712,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "8031.T",
     "sourceUrl": "https://www.investing.com/equities/mitsui---co.,-ltd.",
-    "note": "Oct28 cycle: Re-checked. An undated TradingView 'current price' (JPY6,292) and an undated eToro figure (JPY4,964, matching stored) both recurred without a clean date attached; the Oct8 JPY4,764 lead from last cycle did not resurface. Kept stored (4964.0)."
+    "note": "Oct28 cycle: Re-checked, reinforced. stockanalysis.com shows a close of JPY4,942 on Oct23 (-0.80%), within 0.5% of stored; eToro's undated JPY4,964 also matches. Kept stored (4964.0), reasonably reinforced."
   },
   {
     "exchange": "TSE",
@@ -725,7 +725,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "8058.T",
     "sourceUrl": "https://www.google.com/finance/quote/8058:TYO",
-    "note": "Oct26 cycle: Re-checked (trusted baseline). A new single-sourced figure surfaced (JPY4,712.00, Oct20,2026, -1.03%) that would represent a ~5.9% decline from stored, but per trusted-baseline guidance this requires 2+ independent sources agreeing on both price and date before reverting away from the confirmed baseline, and no second source corroborates it. Kept stored (5005.0); watch this lead next cycle."
+    "note": "Oct28 cycle: Re-checked (trusted baseline), reinforced. Morningstar shows JPY5,005 with a previous close of JPY4,987 -- exactly matching stored's price and implied prior-close. Kept stored (5005.0), consistent with trusted baseline."
   },
   {
     "exchange": "TSX",
@@ -738,7 +738,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ACQ.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ACQ-T/",
-    "note": "Oct28 cycle: Still unresolved. Only stale 2024-vintage Globe and Mail closing-bell reports (~C$18-26) surfaced again. Kept stored (22.62)."
+    "note": "Oct28 cycle: Still largely unresolved. A MarketScreener Sep25 close (C$22.98) is close to stored; mostly stale 2024-vintage Globe and Mail reports otherwise. Kept stored (22.62)."
   },
   {
     "exchange": "TSX",
@@ -751,7 +751,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AIF.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/AIF-T/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. A WealthAwesome Oct8 figure (C$44.75, with an internally-inconsistent C$45.77 'current price' on the same page) closely brackets stored; Simply Wall St's Aug figure (C$47.24) is older. Kept stored (44.84), reasonably reinforced."
+    "note": "Oct28 cycle: Re-checked. Only a stale mid-July figure (C$46.76) surfaced, moderately above stored; no October print found. Kept stored (44.84)."
   },
   {
     "exchange": "TSX",
@@ -764,7 +764,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/ATD",
-    "note": "Oct28 cycle: Trouble ticker, re-checked. The same WealthAwesome Oct9/12/16 cluster (C$77.65-C$81.61) and an InvestSmart AUD-mislabeled figure ($85.99) recurred; no 2nd-source confirmation. Kept stored (78.67)."
+    "note": "Oct28 cycle: Trouble ticker, re-checked. The same WealthAwesome Oct15-16 figure (C$81.61) recurred within the existing uncorroborated cluster (C$77.65-81.61); still no 2nd-source confirmation on a specific date/price. Kept stored (78.67)."
   },
   {
     "exchange": "TSX",
@@ -777,7 +777,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ATS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/ATS/",
-    "note": "Oct28 cycle: Re-checked. A MarketBeat Oct23 figure (C$26.74, flat vs. C$26.75 previous close) and a WealthAwesome Oct16 figure (C$25.68, close to stored) surfaced -- consistent with a gradual rise from stored (25.76) but still single-sourced for the most recent date, so not yet a clean 2-source match. Kept stored (25.76); this looks like the most promising lead yet for this name."
+    "note": "Oct28 cycle: Re-checked. An AAII Oct12 figure ($17.58) and a Digrin figure ($18.26) appear to be a different listing/currency (far below TSX levels); no new CAD TSX print found beyond last cycle's MarketBeat/WealthAwesome leads. Kept stored (25.76); still the most promising unresolved lead."
   },
   {
     "exchange": "TSX",
@@ -790,7 +790,7 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "ATZ.TO",
     "sourceUrl": "https://www.marketbeat.com/instant-alerts/price-aritzia-tse-atz-stock-price-up-166-time-to-buy-2026-10-09/",
-    "note": "No new search performed this cycle; the Oct9 two-source-confirmed earnings-rally update stands unchanged. Kept stored (142.1)."
+    "note": "Oct28 cycle: Re-checked (trusted baseline), reinforced. MarketBeat's Oct9 earnings-rally figures (last traded C$142.10, intraday high C$144.77) recur exactly matching stored. Kept stored (142.1), consistent with trusted baseline."
   },
   {
     "exchange": "TSX",
@@ -803,7 +803,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "BDGI.TO",
     "sourceUrl": "https://www.google.com/finance/labs/quote/BDGI:TSE",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. A detailed StockAnalysis daily table shows a fresh decline -- C$100.73 (Oct2) sliding to C$81.93 (Oct22, -6.86%) then C$84.06 (Oct23, +2.60%) -- a specific, internally-consistent multi-day series, but still single-sourced. This would be a notable ~-8% move from stored (91.5) with no catalyst identified. Kept stored (91.5) pending a 2nd source; prioritize next cycle."
+    "note": "Oct28 cycle: Re-checked again with multiple targeted searches. The same StockAnalysis.com daily table (C$100.73 Oct2 -> C$87.96 Oct21 -> C$81.93 Oct22, -6.86% -> C$84.06 Oct23, +2.60%) recurred consistently across searches, but every hit traces to the same single domain; Digrin, MarketBeat and TipRanks pages found this cycle either show only monthly/stale figures or no October data at all, so no second independent source corroborates the ~-8% move from stored (91.5). Kept stored (91.5) pending a 2nd source; prioritize next cycle."
   },
   {
     "exchange": "TSX",
@@ -816,7 +816,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BDI.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BDI-T/",
-    "note": "Oct23 cycle: Re-checked despite stale-filler history. Two WealthAwesome snapshots (C$20.05 Oct9, C$19.90 more recently) both closely match stored (19.94), reinforcing it even though single-aggregator. Kept stored (19.94), now better supported."
+    "note": "Oct28 cycle: Re-checked despite stale-filler history. The same WealthAwesome cluster (C$19.90-20.05) recurred, closely matching stored; a conflicting C$17.96 figure also recurred. Kept stored (19.94), reasonably supported."
   },
   {
     "exchange": "TSX",
@@ -829,7 +829,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BIP-UN.TO",
     "sourceUrl": "https://www.marketbeat.com/stocks/TSE/BIP-UN/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. TSX CAD figures remain wildly scattered and mostly undated (C$44-56 across sources); the NYSE USD line resolved more cleanly ($37.04, Oct23) but is a different listing. Kept stored (55.66)."
+    "note": "Oct28 cycle: Re-checked despite stale-filler history. Only 2024-2025-vintage figures (C$41-56, various) surfaced; no current TSX CAD print found. Kept stored (55.66)."
   },
   {
     "exchange": "TSX",
@@ -842,7 +842,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://www.barchart.com/stocks/quotes/BN.TO",
-    "note": "Oct28 cycle: Trouble ticker, re-checked. Only stale (Jan2026 C$64.04) and wrong-year (Oct2025 C$94.68) TSX figures surfaced; TMX's own quote page is stale to Apr2025. No current TSX CAD line resolved. Kept stored (79.42)."
+    "note": "Oct28 cycle: Trouble ticker, re-checked. The NYSE USD line resolved again at $37.97 (Oct23, -0.81%), closely matching last cycle's $37.04 (Oct23) USD figure -- but still not the TSX CAD line. Kept stored (79.42)."
   },
   {
     "exchange": "TSX",
@@ -855,7 +855,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BYD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/BYD",
-    "note": "Oct28 cycle: Trouble ticker, re-checked. A WealthAwesome Oct2 figure (C$111.78, closely matching stored) and a stale Aug5 StockAnalysis figure (C$145.30) recurred, mutually inconsistent; undated Simply Wall St/MarketBeat figures (C$192-208) don't help. Kept stored (111.85), mildly reinforced by the Oct2 match."
+    "note": "Oct28 cycle: Trouble ticker, re-checked. TSX:BYD.TO data remains stale (Eulerpool history ends Jun2026); the NYSE-listed successor BGSI shows $78.05 (Oct9), a different security. Kept stored (111.85)."
   },
   {
     "exchange": "TSX",
@@ -868,7 +868,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CGY.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-CGY/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. A Google Finance Oct8 figure (C$80.91, +1.6%) closely matches stored (79.65); an undated figure (C$77.93) is close too. Kept stored (79.65), reasonably reinforced."
+    "note": "Oct28 cycle: Re-checked despite stale-filler history. Only stale Aug2024 Globe and Mail figures (~C$53.62-54.10) surfaced; no October print found. Kept stored (79.65)."
   },
   {
     "exchange": "TSX",
@@ -881,7 +881,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "CIGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CIGI/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. A StockAnalysis daily table shows C$130.12 on Oct23 (-3.5%), within an October range of roughly C$122-135 -- a single-sourced ~-12.8% move from stored (149.28) with no catalyst identified. Kept stored (149.28) pending a 2nd source; worth prioritizing next cycle."
+    "note": "Oct28 cycle: Re-checked again. The same stockanalysis.com Oct23 figure (C$130.12, -3.48% from C$134.81 Oct22) recurred -- now seen multiple cycles/searches but always from the same single domain; MarketBeat and Digrin still show no matching October data. A ~-12.8% move from stored (149.28) with no identified catalyst remains single-sourced. Kept stored (149.28); still worth a 2nd-source search next cycle."
   },
   {
     "exchange": "TSX",
@@ -894,7 +894,7 @@
     "asOfDate": "2026-10-15",
     "displaySymbol": "CJT.TO",
     "sourceUrl": "https://www.halo-technologies.com/markets/shares/tse/cjt/",
-    "note": "No new search performed this cycle; the Oct15 two-source-confirmed update stands unchanged. Kept stored (84.71)."
+    "note": "Oct28 cycle: Re-checked, reinforced. A new single-sourced lead shows TSX CJT around C$85.19 intraday Oct20, within 0.6% of the already-confirmed stored figure (84.71, Oct15). Kept stored (84.71)."
   },
   {
     "exchange": "TSX",
@@ -920,7 +920,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CNR.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/cnr/canadian-national-railway-co/share-price",
-    "note": "No new search performed this cycle. Kept stored (170.58)."
+    "note": "Oct28 cycle: Re-checked (trusted baseline). A stockanalysis.com figure shows C$168.55 midday Oct19 (down from C$172.39 Oct16), a mild ~1.2% discount to stored -- not a wild divergence. Kept stored (170.58), consistent with trusted baseline; Q3 results due Oct30."
   },
   {
     "exchange": "TSX",
@@ -933,7 +933,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "CP.TO",
     "sourceUrl": "https://www.google.com/finance/labs/quote/CP:TSE",
-    "note": "Oct28 cycle: Re-checked on the day of confirmed (per most sources) Oct28 earnings (after close). Price sources remain badly scattered (Google Finance Oct8 $120.00 vs. an undated Earnings Whispers $91.60, a ~C$28 gap); no Q3 results found yet. Kept stored (120.31); check back for tonight's post-release move."
+    "note": "Oct28 cycle: Re-checked. CP reports Q3 2026 results today after market close; no results or reaction price available yet (options imply a ~4.7% move). Kept stored (120.31); check back next cycle for the reaction."
   },
   {
     "exchange": "TSX",
@@ -946,7 +946,7 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "CSU.TO",
     "sourceUrl": "https://www.morningstar.com/stocks/xtse/csu/quote",
-    "note": "No new search performed this cycle. Kept stored (3003.78), consistent with trusted baseline."
+    "note": "Oct28 cycle: Re-checked (trusted baseline). An auto-generated analyst-target site shows a 'last close' of C$3,093.29 (Oct14) alongside a 'prior close' of exactly C$3,003.78 (Oct12) matching stored; single-domain and not fully reconciled. Kept stored (3003.78), consistent with trusted baseline."
   },
   {
     "exchange": "TSX",
@@ -959,7 +959,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "DHT-UN.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/DHT-UN-T/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. Only an undated Simply Wall St figure (C$18.50) surfaced, moderately above stored; no dated October print found. Kept stored (17.47)."
+    "note": "Oct28 cycle: Re-checked. Two different domains (WealthAwesome ~C$18.31-18.36 early Oct, and last cycle's SimplyWallSt C$18.50) now loosely cluster ~5% above stored (17.47), but dates remain fuzzy and neither is a clean dated match. Kept stored (17.47); promising lead, prioritize next cycle for a firmer date match."
   },
   {
     "exchange": "TSX",
@@ -972,7 +972,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "DND.TO",
     "sourceUrl": "https://www.investing.com/equities/dye-durham-ltd",
-    "note": "Oct28 cycle: Trouble ticker, re-checked again. A YCharts May4,2026 figure (C$3.36, -4.00%) surfaced -- yet another figure inconsistent with both stored (0.67) and the previously-seen C$12.37 Globe and Mail figure -- underscoring how unresolved this name remains. Kept stored (0.67) rather than pick an arbitrary unconfirmed figure."
+    "note": "Oct28 cycle: Trouble ticker, re-checked yet again. Multiple dated WealthAwesome articles this cycle (spanning Oct1-15) consistently show the stock trading in a C$1.19-2.58 band -- far above stored (0.67) -- though the articles are mutually inconsistent on the exact sequence/values. This is now a recurring pattern across cycles (also YCharts C$3.36, Globe and Mail C$12.37 previously) all pointing well above stored, raising suspicion that stored (0.67) itself may be stale/mis-scaled, but no clean 2-source same-date match exists to resolve to a specific figure. Kept stored (0.67) per merge rules rather than pick an arbitrary figure; recommend dedicated reconciliation (possible split/consolidation) next cycle."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/dol-T",
-    "note": "Oct28 cycle: Trouble ticker, re-checked again. The same WealthAwesome C$197.83 (Oct15, +2.52%) figure recurred; a Simply Wall St note citing a CEO $10M+ insider share purchase 'this October' (undated last close C$182.97) adds context but not a clean 2-source price match. Kept stored (184.01)."
+    "note": "Oct28 cycle: Trouble ticker, re-checked again. The same WealthAwesome C$197.83 (Oct15-16) figure recurred; an OTC ADR figure ($14, Oct16) is a different listing. Kept stored (184.01)."
   },
   {
     "exchange": "TSX",
@@ -998,7 +998,7 @@
     "asOfDate": "2026-10-19",
     "displaySymbol": "DSG.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DSG/history/",
-    "note": "Oct26 cycle: Re-checked for an Oct20-26 update. No newer print found beyond the Oct19 two-source-confirmed close (StockUnlock's undated C$96.72 and conflicting ValueInvesting.io figures of C$107.80/$171.80 don't help). Kept stored (122.17, Oct19); re-verify next cycle."
+    "note": "Oct28 cycle: Re-checked (trusted baseline), reinforced. stockanalysis.com confirms a close of C$122.17 on Oct19 (-0.85%), matching stored exactly; WealthAwesome notes a subsequent Oct15 high of C$125.93. Kept stored (122.17), consistent with trusted baseline."
   },
   {
     "exchange": "TSX",
@@ -1011,7 +1011,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "DTOL.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DTOL/",
-    "note": "Oct28 cycle: Re-checked. WealthAwesome's Oct15 figure (C$11.13, +2.30%) and the OTC USD line (DTLIF $7.78, Oct16) are roughly consistent with each other at a plausible USD/CAD rate (~1.40-1.43), which is suggestive but not a rigorous same-currency 2-source match, and no news catalyst was identified for what would be a ~24% move from stored (8.97). Kept stored (8.97) pending firmer same-currency corroboration; prioritize next cycle."
+    "note": "Oct28 cycle: Re-checked. The same WealthAwesome Oct15 figure (C$11.13, +2.30%) and OTC USD line (DTLIF $7.78, Oct16) recurred, still not a rigorous same-currency 2-source match. Kept stored (8.97); prioritize next cycle."
   },
   {
     "exchange": "TSX",
@@ -1024,7 +1024,7 @@
     "asOfDate": "2026-09-17",
     "displaySymbol": "EFN.TO",
     "sourceUrl": "https://wealthawesome.com/element-fleet-management-corp-efnto-slides-6-this-week-amid-acquisition-withdrawal",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. An Investing.com Oct5 figure (C$22.31, previous close C$22.51) is close to stored (22.65); Simply Wall St/StockChase's Jun figures (C$28.16) are older/higher. Kept stored (22.65), reasonably reinforced."
+    "note": "Oct28 cycle: Re-checked despite stale-filler history. Only stale 2024-vintage Globe and Mail figures (C$25-27) surfaced; no October print found. Kept stored (22.65)."
   },
   {
     "exchange": "TSX",
@@ -1037,7 +1037,7 @@
     "asOfDate": "2026-10-14",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://tradersunion.com/currencies/forecast/ifc-cad/",
-    "note": "No new search performed this cycle; the Oct14 two-source-confirmed update stands unchanged. Kept stored (244.29)."
+    "note": "Oct28 cycle: Re-checked (trusted baseline). A Google Finance Oct7 figure (CA$238.72, -0.25%) pre-dates and is consistent with the already-confirmed Oct14 resolution (244.29) -- a plausible modest uptrend, not a conflict. Kept stored (244.29), consistent with trusted baseline."
   },
   {
     "exchange": "TSX",
@@ -1050,7 +1050,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "JWEL.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-JWEL/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. A StockAnalysis daily table shows C$45.48 on Oct19 (+0.04%), within a narrow mid-Sep-to-mid-Oct band around C$45.4 -- closely matching and reinforcing stored (45.44). Kept stored (45.44), now better supported."
+    "note": "Oct28 cycle: Re-checked, reinforced. stockanalysis.com confirms a close of C$45.48 on Oct19 (+0.04%), matching stored almost exactly. Note: Jamieson is being acquired by Kirin Holdings at C$45.75/share (final court approval Oct5), which explains the price's stability near the deal price. Kept stored (45.44)."
   },
   {
     "exchange": "TSX",
@@ -1063,7 +1063,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "KXS.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/KXS-T/",
-    "note": "Oct28 cycle: Re-checked. No CAD print found again this cycle; only stale 2024-vintage Globe and Mail reports (~C$145-153) surfaced. Kept stored (177.65); still unresolved after 6+ cycles."
+    "note": "Oct28 cycle: Re-checked. A new WealthAwesome cluster shows a rising CAD trend (C$180.86 Oct13, C$185.90 Oct14, C$193.49 ~Oct16) -- the first time actual TSX CAD data has surfaced for this name in 6+ cycles, all above stored (177.65) -- but still single-domain. Kept stored (177.65); promising lead, prioritize next cycle for independent corroboration."
   },
   {
     "exchange": "TSX",
@@ -1076,7 +1076,7 @@
     "asOfDate": "2026-09-25",
     "displaySymbol": "MAL.TO",
     "sourceUrl": "https://www.investing.com/equities/magellan-aerospace-corporation",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. Conflicting undated/stale figures (Sep21 C$33.72, Apr C$24.92, Mar20 C$21.54) surfaced, none October-dated or mutually consistent. Kept stored (34.87)."
+    "note": "Oct28 cycle: Re-checked despite stale-filler history. WealthAwesome figures (C$33.16 Oct1, C$34.25 Oct5) bracket stored closely; no October print beyond early-month data. Kept stored (34.87)."
   },
   {
     "exchange": "TSX",
@@ -1089,7 +1089,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MEQ.TO",
     "sourceUrl": "https://in.tradingview.com/symbols/TSX-MEQ",
-    "note": "Oct28 cycle: Trouble ticker, still unresolved. A WealthAwesome Oct14 figure (C$169.84, with an internally-inconsistent C$168.00 'last close' on the same page) continues to disagree sharply with stored (198.10) and with the recurring roic.ai/Stockopedia figures (C$163-164). Kept stored (198.1)."
+    "note": "Oct28 cycle: Trouble ticker, still unresolved. No new dated figure surfaced this cycle beyond the recurring WealthAwesome Oct14 figure (C$169.84, internally inconsistent) and the roic.ai/Stockopedia cluster (C$163-164), both still sharply below stored. Kept stored (198.1)."
   },
   {
     "exchange": "TSX",
@@ -1102,7 +1102,7 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "MTY.TO",
     "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/09/3377955/0/en/mty-reports-third-quarter-results-for-fiscal-2026-announces-end-of-strategic-review-and-increases-dividend-by-35.html",
-    "note": "No new search performed this cycle (known stale-filler group); prior cycle's reconfirmation stands. Kept stored (30.25)."
+    "note": "Oct28 cycle: Re-checked. A WealthAwesome figure (~C$31.04-31.15, undated) is reasonably close to stored (30.25, Oct9 post-earnings-beat); single-sourced but not divergent. Kept stored (30.25), reasonably reinforced."
   },
   {
     "exchange": "TSX",
@@ -1115,7 +1115,7 @@
     "asOfDate": "2026-09-09",
     "displaySymbol": "MX.TO",
     "sourceUrl": "https://www.investing.com/equities/methanex",
-    "note": "Oct28 cycle: Trouble ticker, re-checked. No new dated figures surfaced beyond last cycle's WealthAwesome Sep17 (internally inconsistent C$87.73/C$86.55) and Simply Wall St undated (C$83.13) leads. Kept stored (80.2); remains the most promising unresolved lead."
+    "note": "Oct28 cycle: Trouble ticker, re-checked. No new TSX CAD figures surfaced; only the Nasdaq USD line (MEOH $63.12, Oct14) and stale TSX figures (YCharts C$81.94 Jun10) recurred. Kept stored (80.2); remains the most promising unresolved lead."
   },
   {
     "exchange": "TSX",
@@ -1128,20 +1128,20 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "NA.TO",
     "sourceUrl": "https://ca.investing.com/equities/national-bank-of-canada",
-    "note": "Oct28 cycle: Re-checked. A Marketlog figure (C$208.36, undated, possibly June2026 per surrounding context) and stale 2024/2025 figures (C$113-151) recurred; no clean October print found. Kept stored (213.08)."
+    "note": "Oct28 cycle: Re-checked. A Yahoo Finance Oct16 figure ($204.20) is about 4% below stored (213.08, Sep21), single-sourced; a WealthAwesome figure (C$202.59, undated) is close to it. Kept stored (213.08); modest downward lead worth tracking."
   },
   {
     "exchange": "TSX",
     "ticker": "PET",
     "name": "Pet Valu Holdings Ltd.",
-    "price": 18.69,
+    "price": 19.02,
     "currency": "CAD",
-    "change": -0.19,
-    "changePercent": -1.02,
-    "asOfDate": "2026-10-01",
+    "change": 0.33,
+    "changePercent": 1.77,
+    "asOfDate": "2026-10-14",
     "displaySymbol": "PET.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-PET/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history. Only stale 2024-vintage Globe and Mail reports (~C$26-29) surfaced. Kept stored (18.69)."
+    "sourceUrl": "https://wealthawesome.com/whats-going-on-with-pet-valu-holdings-ltd-stock-wednesday-10142026-wgo",
+    "note": "Oct28 cycle UPDATE: Despite this name's stale-filler history, two different domains now cluster above stored this cycle: WealthAwesome shows a close of C$19.02 on Oct14 (current price box C$18.78), and MarketBeat shows C$19.45 (undated, consensus target C$24.33). Both land in a tight C$19.0-19.5 band, ~2-4% above stored (18.69, Oct1), with no identified catalyst for the modest drift. Updated to the dated WealthAwesome figure (19.02); treat as modestly corroborated rather than fully resolved given MarketBeat's missing date."
   },
   {
     "exchange": "TSX",
@@ -1167,7 +1167,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "RY.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/ry/royal-bank-of-canada/share-price",
-    "note": "No new search performed this cycle. Kept stored (285.63)."
+    "note": "Oct28 cycle: Re-checked (trusted baseline). The same Sep26 InvestSmart figure (285.63) recurred, matching stored exactly; a Tickertape NYSE-line figure ($205.79, Sep12, different listing) doesn't apply. Kept stored (285.63), consistent with trusted baseline."
   },
   {
     "exchange": "TSX",
@@ -1180,7 +1180,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "SHOP.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/SHOP/",
-    "note": "Oct28 cycle: Re-checked, watching for currency/cross-listing confusion per the trusted-baseline flag. An undated Kalkine CAD figure (~C$212.42) and an Aug13 high (C$216.92) bracket stored; a London line (178.25, Oct13) and a Nasdaq USD line ($171.06, Oct19) were confirmed as the wrong market/currency and excluded. Kept stored (206.42)."
+    "note": "Oct28 cycle: Re-checked, watching for currency/cross-listing confusion. Only Nasdaq USD ($171-178) and London (178.25) lines surfaced again, plus an unlabeled CAD forecast figure (C$244.01, 'closed 10/20', unconfirmed exchange). Kept stored (206.42)."
   },
   {
     "exchange": "TSX",
@@ -1193,7 +1193,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "SJ.TO",
     "sourceUrl": "https://www.investing.com/equities/stella-jones-inc.",
-    "note": "Oct28 cycle: Trouble ticker, prioritized again. The same Wealth Awesome C$64.88/C$65.20 cluster (with its own internal C$0.86 display error) recurred; Simply Wall St's undated C$96.00 and other undated figures (C$81-82) still don't reconcile with each other or with stored. Kept stored (72.94); still unresolved after 11+ cycles."
+    "note": "Oct28 cycle: Trouble ticker, prioritized again (12th+ cycle). The same internally-inconsistent WealthAwesome cluster (C$64.88/65.20/65.66, with a garbled 'C$0.86' figure on one page) recurred; no resolution. Kept stored (72.94); still unresolved."
   },
   {
     "exchange": "TSX",
@@ -1206,7 +1206,7 @@
     "asOfDate": "2026-09-03",
     "displaySymbol": "TCS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TCS/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history; no new dated figure surfaced. Kept stored (35.52)."
+    "note": "Oct28 cycle: Re-checked despite stale-filler history. New WealthAwesome leads (C$37.65 Oct15, C$38.53 Oct5) are above stored (35.52, Sep3) but single-domain and not mutually dated-consistent. Kept stored (35.52); promising lead, prioritize next cycle."
   },
   {
     "exchange": "TSX",
@@ -1219,7 +1219,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "TD.TO",
     "sourceUrl": "https://tradersunion.com/currencies/price/td-cad/",
-    "note": "Oct28 cycle: Trouble ticker, re-checked again. Only a stale Jun2025 MarketBeat figure (C$99.45) and older 2025 snapshots (C$94-105) surfaced; still no genuine current TSX CAD-line print. Kept stored (168.24)."
+    "note": "Oct28 cycle: Trouble ticker, re-checked again. The NYSE USD line resolved at $123.89 (Oct23); still no genuine current TSX CAD-line print (only a stale Jul24 MarketBeat figure, C$169.00). Kept stored (168.24)."
   },
   {
     "exchange": "TSX",
@@ -1232,7 +1232,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TFII.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TFII/",
-    "note": "Oct28 cycle: Trouble ticker, re-checked ahead of confirmed Oct29 earnings (date also disputed as Oct22 by one source). The same WealthAwesome Oct7 figure (C$161.80) and an undated C$114.80 figure recurred, still disagreeing sharply with stored and with each other. Kept stored (172.45)."
+    "note": "Oct28 cycle: Trouble ticker, re-checked ahead of confirmed Oct29 earnings. Sources remain badly scattered ($119.86-161.80 across currencies/domains, none matching stored on date+price). Kept stored (172.45)."
   },
   {
     "exchange": "TSX",
@@ -1245,7 +1245,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "TFPM.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/TFPM",
-    "note": "Oct28 cycle: Trouble ticker, re-checked. Only a stale Mar18 Robinhood figure ($33.80, likely a different listing/currency) and 2024-vintage Globe and Mail reports (~C$20-21) surfaced. Kept stored (43.79)."
+    "note": "Oct28 cycle: Trouble ticker, re-checked. Only a stale Mar18 Robinhood figure ($33.80) and 2024-vintage Globe and Mail reports (~C$20-22) surfaced. Kept stored (43.79)."
   },
   {
     "exchange": "TSX",
@@ -1258,7 +1258,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TRI.TO",
     "sourceUrl": "https://stockanalysis.com/stocks/TRI/",
-    "note": "Oct28 cycle: Re-checked despite stale-filler history; no new dated figure surfaced. Kept stored (141.48)."
+    "note": "Oct28 cycle: Re-checked, reinforced. A WealthAwesome Oct1 figure (CA$141.27, +2.01%) closely matches stored (141.48). Kept stored (141.48)."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TSU/",
-    "note": "Oct28 cycle: Re-checked again. Only stale 2024-vintage Globe and Mail reports (~C$43.21, Aug2024) surfaced, the known stale-filler pattern for this name. Kept stored (44.37)."
+    "note": "Oct28 cycle: Re-checked again. Only a stale May1 YCharts figure (44.87, close to stored) and 2024-vintage Globe and Mail filler recurred. Kept stored (44.37), mildly reinforced."
   },
   {
     "exchange": "TSX",
@@ -1284,7 +1284,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "TVK.TO",
     "sourceUrl": "https://in.marketscreener.com/r/42378498",
-    "note": "No new search performed this cycle. Kept stored (119.52)."
+    "note": "Oct28 cycle: Re-checked (trusted baseline), reinforced. A MarketScreener figure (119.52 CAD) matches stored exactly (date format ambiguous, likely Sep or Oct). Kept stored (119.52), consistent with trusted baseline."
   },
   {
     "exchange": "TSX",
@@ -1297,7 +1297,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "WCN.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/WCN",
-    "note": "Oct28 cycle: Trouble ticker, re-checked. A new WealthAwesome Oct15 figure (C$223.20, +2.15%) surfaced -- between stored (219.08) and the still-uncorroborated C$236.45 Q3-earnings-beat lead from last cycle -- but is itself single-sourced and doesn't match either figure's date/price. Kept stored (219.08); the Q3 earnings-beat catalyst (reported Oct21-22) is confirmed, prioritize next cycle to pin down the exact reaction price."
+    "note": "Oct28 cycle: Trouble ticker, prioritized again. The Q3 2026 earnings-beat catalyst (reported Oct21 after close, reaction Oct22) is now strongly confirmed by multiple outlets (RTTNews ~9% surge, Tikr ~10% 'soars', Weiss Ratings +7.3% to $167.90 on the NYSE USD line from $156.51) -- all describing the same single-session jump but giving different percentages and currencies. The NYSE USD move (+7.3% to $167.90) implies a TSX-equivalent of roughly C$233-236, which would corroborate the still-uncorroborated C$236.45 lead from last cycle, but this is an indirect FX-based inference, not a direct same-currency match. A separate WealthAwesome Oct15 figure (C$223.20) remains between stored and that implied level. Kept stored (219.08); very close to resolution -- prioritize next cycle for a direct TSX CAD close on Oct22."
   },
   {
     "exchange": "TSX",
@@ -1310,7 +1310,7 @@
     "asOfDate": "2026-09-23",
     "displaySymbol": "WPM.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-WPM/",
-    "note": "Oct28 cycle: Re-checked. A London-line figure (9,240, Oct22, likely pence) and an NYSE USD figure ($137.65, Oct6) surfaced, neither the TSX CAD line; TSX figures remain undated/scattered (C$183-216). Kept stored (207.45)."
+    "note": "Oct28 cycle: Re-checked. NYSE USD line shows $134.18 (Oct16, AAII) and London line 9,240p (Oct22, -5.9%); neither is the TSX CAD line, which remains undated/scattered (C$183-216). Kept stored (207.45)."
   },
   {
     "exchange": "TWSE",
@@ -1323,7 +1323,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "2330.TW",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/tsmc-stock-rises-2-60-percent-as-terafab-talks-emerge/70230762",
-    "note": "No new search performed this cycle. Kept stored (2575.0), consistent with trusted baseline."
+    "note": "Oct28 cycle: Re-checked (trusted baseline). Only a stale Jul30 Google Finance figure (NT$2,205.00) and an Apr21 MarketScreener figure surfaced; no fresher TWD print. Kept stored (2575.0), consistent with trusted baseline."
   },
   {
     "exchange": "XTRA",
@@ -1336,6 +1336,6 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "CBK.DE",
     "sourceUrl": "https://ca.marketscreener.com/quote/stock/COMMERZBANK-AG-13057331/valuation/",
-    "note": "Oct28 cycle: Re-checked. The same tradedesk.dk figure (EUR39.40, Oct5) recurred again, still single-sourced; MarketScreener's Apr17/Feb13 figures are stale. A Commerzbank share-buyback release (Oct6, no price given) adds context only. Kept stored (37.9)."
+    "note": "Oct28 cycle: Re-checked, reinforced. MarketScreener confirms EUR37.90 as of Oct9 (+0.69%, YTD +4.99%), matching stored exactly; tradedesk.dk's higher EUR39.40 (Oct5) figure remains a single-sourced outlier by comparison. Kept stored (37.9), now better supported."
   }
 ]
