@@ -112,10 +112,17 @@
     "date": "2026-10-22"
   },
   {
-    "ticker": "MARKET", "exchange": "", "company": "Fed holds rates steady in a 10-2 vote as stocks edge higher",
-    "headline": "Stocks rise modestly as the Fed holds rates at 3.75-4%, with two officials dissenting in favor of a hike",
-    "summary": "The Federal Reserve held its benchmark rate steady at 3.75-4% on Wednesday Oct 28, a widely-expected outcome (futures had priced in a ~93% chance of a hold), though the 10-2 vote saw two dissents (Cleveland Fed's Hammack and Governor Cook) favoring a hike rather than a cut. Fed Chair Warsh described economic activity as growing at a \"strong\" pace (upgraded from \"solid\" in September) and said politics played no role in the decision. Stocks closed modestly higher: the S&P 500 added 0.28% to 7,743.98, the Nasdaq Composite gained 0.27% to 26,549.85, and the Dow rose 0.19% to 52,475.10, while the 10-year yield rose to 5.02%. Microsoft reports its fiscal Q1 2027 results after today's close -- the next major catalyst for the fund's largest tech holdings.",
-    "url": "https://www.cnbc.com/2026/10/28/fed-meeting-today-live-updates.html",
-    "date": "2026-10-28"
+    "ticker": "GOOGL", "exchange": "NasdaqGS", "company": "Alphabet Inc.",
+    "headline": "Alphabet sinks on rare earnings miss and negative free cash flow despite Cloud revenue more than doubling",
+    "summary": "Alphabet's Q3 2026 report (Oct28 after close) marked the company's first top-and-bottom-line miss in nearly four years: revenue of $127.6B (vs ~$128B consensus, still +25% YoY) and adjusted EPS of $2.67 (vs $3.02 est.), with GAAP EPS of $2.12 down from $2.87 a year ago partly on an unrealized loss on its SpaceX stake. Free cash flow swung to -$9.1B (vs +$2.7B expected) as capex and inventory investment rose and the company paid a $5.2B EU Commission fine. Google Cloud revenue more than doubled (+103% YoY to $30.7B, backlog $561B) and full-year capex guidance held at $195-205B, but investors focused on the cash-flow miss -- shares fell sharply (~10-12% per multiple reports) on Oct29, dragging the broader market lower even as Microsoft's own strong Azure-driven beat (+48% YoY) landed the same evening.",
+    "url": "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html",
+    "date": "2026-10-29"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Nasdaq slides as Alphabet's earnings miss outweighs Microsoft's beat",
+    "headline": "Stocks slip as Alphabet sinks on a rare profit miss and negative free cash flow, even as Microsoft's Azure beat impresses",
+    "summary": "Stocks fell Thursday Oct 29 as Alphabet's first earnings miss in nearly four years overshadowed a strong Microsoft report: the Nasdaq Composite dropped roughly 1.3-1.6%, the S&P 500 fell about 0.5% to roughly 7,690-7,707, and the Dow slipped about 0.5%. Alphabet shares sank 10-12% after a profit miss and a swing to negative free cash flow (partly on a $5.2B EU fine), even though Cloud revenue more than doubled. Microsoft, by contrast, beat estimates with Azure growth of 48% but saw a more muted reaction given a 34% run-up into the print. The divergence highlights investors drawing sharper lines between AI spending that's paying off (Azure, Roper, Spotify) and spending that's raising cash-flow concerns (Alphabet, Meta). Amazon reports after today's close -- the next test of the AI-capex narrative.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
+    "date": "2026-10-29"
   }
 ]

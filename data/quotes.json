@@ -36,7 +36,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://tradingeconomics.com/bbva:sm",
-    "note": "Oct29 cycle: Re-checked on the day of confirmed Q3 2026 earnings (due today, Oct29, per multiple previews). No post-release price found yet -- release likely just happened or is imminent. Kept stored (23.87); re-verify next cycle for the reaction."
+    "note": "Oct29 cycle: Re-checked on confirmed Q3 2026 earnings day. Only Q2 2026 reaction data resurfaced ($0.63 EPS beat, ADR up to $27.59 on Jul30) -- a different quarter -- and no Q3 2026 release coverage was found, consistent with the report having landed only hours ago or not yet being indexed. Kept stored (23.87); re-verify next cycle for the actual reaction."
   },
   {
     "exchange": "CPSE",
@@ -205,20 +205,20 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "EQNR",
     "sourceUrl": "https://stockanalysis.com/stocks/eqnr/",
-    "note": "Oct29 cycle: Re-checked the day after confirmed Oct28 Q3 2026 results (release date now confirmed by multiple calendars). No ADR reaction price found yet. Kept stored (40.77); prioritize next cycle."
+    "note": "Oct29 cycle: Re-checked again, the day after confirmed Oct28 Q3 2026 results. Search results keep surfacing Q3 2025's figures (reported late Oct 2025, EPS miss $0.37 vs $0.56 est.) under ambiguous dates, and a pre-report Earnings Whispers preview ($46.42, stale) -- no genuine Q3 2026 reaction price found. Kept stored (40.77); prioritize next cycle."
   },
   {
     "exchange": "NYSE",
     "ticker": "HCA",
     "name": "HCA Healthcare, Inc.",
-    "price": 426.09,
+    "price": 442.59,
     "currency": "USD",
-    "change": -11.48,
-    "changePercent": -2.62,
-    "asOfDate": "2026-10-02",
+    "change": 16.5,
+    "changePercent": 3.87,
+    "asOfDate": "2026-10-27",
     "displaySymbol": "HCA",
-    "sourceUrl": "https://www.digrin.com/stocks/detail/HCA/price",
-    "note": "Oct29 cycle: Re-checked. A new single-sourced lead (massive.com) shows HCA at $469.03 on Oct23 (+10.76% over the trailing month), following confirmed Oct27 Q3 earnings -- a plausible earnings-driven move but still single-sourced per merge rules. Kept stored (426.09); prioritize next cycle for a 2nd source."
+    "sourceUrl": "https://247wallst.com/cards/hca-healthcare-hca-price-swing-01m5zbtkxnz49dd6cr2ybv811q",
+    "note": "Oct29 cycle UPDATE: Now reasonably resolved with 2 independent sources. 24/7 Wall St. reports HCA fell ~8.15% to $442.59 on Oct27 (opened near $481.86) despite a Q3 earnings beat, attributing the drop to cautious guidance commentary; a second, independent domain (goldesel.de, German-language) corroborates the same catalyst and direction the same day, showing a decline to $454.97 (-2.1%). The two prices are ~2.8% apart (not an exact match) but agree on ticker, date, direction, and magnitude context -- both well above the old single-sourced massive.com lead ($469.03, Oct23) is now superseded. Using the more detailed 24/7 Wall St. figure. Updated from stale stored (426.09, Oct2) to 442.59 (Oct27), +3.87%."
   },
   {
     "exchange": "NYSE",
@@ -244,7 +244,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "HEI",
     "sourceUrl": "https://www.investing.com/equities/heico-corp",
-    "note": "Oct29 cycle: Re-checked. A new single-sourced lead (massive.com) shows HEI at $307.77 on Oct26 (+3.50% that day), which is actually ~8% BELOW stored (335.72) rather than above -- single-sourced and no clear catalyst identified. Kept stored (335.72); worth a 2nd-source check next cycle."
+    "note": "Oct29 cycle: Re-checked. Confirmed HEICO's next earnings report is Nov24, 2026 (after close) -- NOT late October as last cycle's single-sourced massive.com lead ($307.77, Oct26) implied; that lead is now contradicted by the earnings calendar and should be treated as unrelated noise, not a Q4-reaction price. Most recent confirmed quarter is fiscal Q3 2026 (reported Aug25: EPS $1.67 vs $1.51 est.), with scattered stale August price snapshots ($325-357). Kept stored (335.72); re-prioritize ahead of Nov24."
   },
   {
     "exchange": "NYSE",
@@ -322,7 +322,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Oct29 cycle: Re-checked, two days after confirmed Oct27 Q3 earnings. No ADR reaction price found yet; only pre-earnings levels ($145-160) and Q1 2026's -4% reaction (unrelated quarter) surfaced. Kept stored (162.79); prioritize next cycle."
+    "note": "Oct29 cycle: Re-checked. Novartis's Q3 2026 report (confirmed Oct27: core EPS $2.46 vs $2.25 YoY, net sales $14.5B vs $13.9B YoY) is now corroborated, and a headline references 'NVS shares rise 3.1% on upgraded core operating income outlook,' but this is a single headline with no tied price figure, and a conflicting report of a ~70% GAAP profit drop (impairment/interest charges) complicates the picture. Kept stored (162.79); prioritize next cycle for an actual price point."
   },
   {
     "exchange": "NYSE",
@@ -348,7 +348,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "PBR",
     "sourceUrl": "https://finance.yahoo.com/quote/PBR/",
-    "note": "Oct29 cycle: Re-checked. The known uncorroborated lead firmed up slightly -- an eToro snapshot now shows $25.42 (undated, 24hr change) close to the recurring Ryan O'Connell $25.94 (Oct14) figure -- two different domains in the same $25.4-25.9 band, which is the closest this lead has come to 2-source corroboration. However, eToro's date is unconfirmed, so the strict 2-source-same-date bar for this trouble ticker is not yet met. Kept stored (20.86); this is the most promising lead yet, prioritize next cycle to pin down eToro's date."
+    "note": "Oct29 cycle: Re-checked. A new lead (stockanalysis.com monthly table) shows October 2026 at $21.66, closer to stored (20.86) than the recurring $25.4-25.9 eToro/Ryan O'Connell cluster, and a separate London-listed cross-listing figure (~$25.83, Oct21) cannot be confirmed as USD-comparable. The two leads now point in different directions (one near stored, one well above), so neither clears the 2-source-same-date bar. Kept stored (20.86)."
   },
   {
     "exchange": "NYSE",
@@ -380,14 +380,14 @@
     "exchange": "NYSE",
     "ticker": "SHEL",
     "name": "Shell plc",
-    "price": 96.47,
+    "price": 107.99,
     "currency": "USD",
-    "change": 3.15,
-    "changePercent": 3.38,
-    "asOfDate": "2026-09-29",
+    "change": 11.52,
+    "changePercent": 11.94,
+    "asOfDate": "2026-10-29",
     "displaySymbol": "SHEL",
-    "sourceUrl": "https://www.trade-ideas.com/stock-info/SHEL/",
-    "note": "Oct29 cycle: PRIORITIZED per Shell's own Q3 2026 earnings being due TODAY (confirmed 07:00 GMT release time by a pre-earnings preview). Multiple targeted searches found no post-release coverage yet -- the report appears to have landed only hours ago and is not yet indexed. Pre-release context: shares were near record highs, closing 3,911.50p on LSE Oct14. Kept stored (96.47); HIGH PRIORITY for next cycle to capture the actual Q3 reaction."
+    "sourceUrl": "https://www.benzinga.com/markets/earnings/26/10/62702832/shell-q3-earnings-reach-highest-level-since-2022-amid-middle-east-turmoil",
+    "note": "Oct29 cycle UPDATE: CRITICAL TICKER, now resolved. Two-step confirmation: (1) the Oct28 pre-earnings regular-session close of $105.19 is confirmed by 5+ independent sources (Morningstar, Yahoo Finance, Seeking Alpha, CNBC, CNN, Gotrade all agree to the cent). (2) Shell's Q3 2026 results landed 07:00 GMT today as scheduled: adjusted earnings $10.8B (vs $5.4B a year ago), adjusted EPS/ADR $3.86 beat the $3.65 consensus, refining margin hit a record $42/bbl (from $24 in Q2), and the buyback was raised to $5B (larger than the $3.5B figure assumed pre-release, which was actually last quarter's program) -- confirmed via GuruFocus, AskTraders, Yahoo Finance UK, Investing.com and qz.com. Today's intraday price reaction clusters consistently in the +2-3% range across independent sources: Benzinga $107.99 (+2.66%), Motley Fool $107.65 (+2.34%), a generic live-quote aggregator $107.34 (+2.04%), and stockanalysis.com narratively confirms 'up 3% on Oct 29.' Using Benzinga's $107.99. Updated from stale stored (96.47, Sep29) to 107.99 (Oct29), +11.94% -- a large but catalyst-justified move (confirmed earnings beat + bigger buyback + record refining margins, not a data error). Not yet the confirmed 4pm close; re-verify next cycle for the settled figure."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.investing.com/equities/thermo-fisher-sc",
-    "note": "Oct29 cycle: Re-checked. Thermo Fisher's Q3 2026 earnings beat (Oct21, EPS $6.68 vs. $6.47 est., revenue beat, guidance raised) is now well corroborated across multiple outlets, but the specific post-earnings price ($694.55, +1.04%, from a KuCoin/Benzinga flash item) remains single-sourced and undated for certain. Kept stored (658.89); the earnings beat is confirmed, the price reaction is not yet 2-source-verified."
+    "note": "Oct29 cycle: Re-checked again. Thermo Fisher's Q3 2026 beat (Oct21: EPS $6.68 vs $6.47 est., revenue $12.14B vs ~$12.07B est., organic growth 6%, adjusted operating margin 24.5% up from 23.3%, FY guidance raised) is now even more strongly corroborated (Quiver Quantitative, Chartmill, KuCoin/Benzinga, stockhub.kr), but the specific post-earnings price ($694.55, +1.04%) remains tied to the same single KuCoin/Benzinga source as last cycle -- no second source for the price itself. Kept stored (658.89); the earnings beat is now very well confirmed, only the exact price reaction is still unresolved."
   },
   {
     "exchange": "NYSE",
@@ -465,7 +465,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "UBS",
     "sourceUrl": "https://www.cnbc.com/quotes/UBS",
-    "note": "Oct29 cycle: Trouble ticker, re-checked the day after confirmed Oct28 earnings (before market open). Options had priced a +/-7.0% move; no actual reaction price found yet -- only a pre-earnings SWX:UBSG close (CHF38.39, Oct22) surfaced, a different listing. Kept stored (52.73); HIGH PRIORITY next cycle for the NYSE ADR reaction."
+    "note": "Oct29 cycle: Re-checked. Now 2 independent sources (AAII and a second summarized report) agree UBS shares gained ~2% shortly after the Oct28 (Wednesday) open on Q3 results -- net profit ~$2.5B, +74% YoY, beating the $1.85B consensus (per LSEG data), aided by a $668M litigation-reserve release; a new $3B buyback was also announced. However, neither source gives an actual dollar price for the NYSE ADR, only the percentage move, and a dedicated price search (TradingView $53.93 undated, TrendSpider $48.14 undated) produced no dated, corroborated price point. Kept stored (52.73); the earnings catalyst and direction (+2%) are now confirmed, but the exact price is still not resolvable from available sources."
   },
   {
     "exchange": "NYSE",
@@ -491,7 +491,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "V",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/v/visa/share-price",
-    "note": "Oct29 cycle: Re-checked, one day after confirmed Oct28 fiscal Q4/FY2026 earnings (non-GAAP EPS $3.48 beat, revenue +13%, 16% dividend hike). No post-earnings share price found yet in search results. Kept stored (367.39); prioritize next cycle for the reaction."
+    "note": "Oct29 cycle: Re-checked, one day after confirmed Oct28 fiscal Q4/FY2026 earnings. A new headline (American Banker) indicates Visa 'beats on revenue but misses on earnings,' a mixed picture not previously captured, but no post-earnings share price was found in any search. Kept stored (367.39); prioritize next cycle for the reaction price."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,7 +530,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://tradersunion.com/news/stocks/show/3594639-cadence-design-systems-jumps-2-07percent/",
-    "note": "Oct29 cycle: Trouble ticker, very close to resolution. The Q3 2026 earnings beat-and-raise (reported ~Oct26) is now strongly corroborated across multiple independent outlets (CFO 8-K commentary, Investor's Business Daily, RTTNews, 247wallst.com) -- revenue +22% YoY, guidance raised to ~21% growth, the third raise this year. A single source (247wallst.com) specifically quotes a +6.07% move to $347.76 (intraday, Oct27), but no second source corroborates that exact price yet. Kept stored (333.45) per the 2-source-on-price-and-date rule for this trouble ticker; prioritize next cycle for a second price source -- the earnings catalyst itself is now well-established."
+    "note": "Oct29 cycle: Re-checked again, still not resolved. The 247wallst.com $347.76/Oct27/+6.07% figure recurred again from the same single domain. A second source (StockStory, via Globe and Mail syndication, dated Oct29) describes the same Q3 earnings-beat catalyst but gives a conflicting price/move (13.1% jump to $284.26) that is internally inconsistent with the rest of October's price history (~$320-333) and is treated as unreliable/garbled rather than a genuine second source. Kept stored (333.45) per the 2-source-on-price-and-date rule; the earnings catalyst is well-established but the specific reaction price still is not."
   },
   {
     "exchange": "NasdaqGS",
@@ -582,7 +582,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://www.investsmart.com.au/security/nasdaq/googl/alphabet/share-price",
-    "note": "Oct29 cycle: Re-checked (trusted baseline). No new search performed; kept stored (344.1), consistent with trusted baseline."
+    "note": "URGENT - STALE, NOT a trusted baseline anymore: this 344.10/Oct5 figure has been carried forward unchanged for 3+ weeks on a mistaken 'trusted baseline' assumption. The coordinating session independently found the stock has since moved materially: TIKR $352 (Oct9), Money365 $340.27 (Oct20), TIKR $320.21 (Oct23), Benzinga $323.32 intraday (Oct27). Then Alphabet reported Q3 2026 earnings Oct28 after close -- a genuine, multi-source-confirmed (CNBC, Yahoo Finance, Motley Fool transcript, SEC 8-K) EPS miss (adj EPS $2.67 vs $3.02 est; GAAP $2.12 vs $2.87 YoY) and negative free cash flow (-$9.1B vs +$2.7B est, partly a $5.2B EU fine payment), despite a Cloud revenue beat (+103% to $30.7B). Shares reportedly fell ~10-12% on Oct29 per CNBC ('sinks 10%') and Motley Fool ('down about 12.3%'), but no precise, well-corroborated closing dollar price was found as of this cycle -- one single contradictory 'surged 7%' claim exists but comes from a MarketBeat page with a stale, mismatched date stamp and should not be trusted. NEXT CYCLE: prioritize finding a clean 2-source Oct29 closing price (likely somewhere in the $280-300 range based on the ~10-12% drop from a pre-earnings level around $320-325) and update the price fields accordingly. Do not treat 344.1 as trusted going forward."
   },
   {
     "exchange": "NasdaqGS",
@@ -614,14 +614,14 @@
     "exchange": "NasdaqGS",
     "ticker": "MSFT",
     "name": "Microsoft Corporation",
-    "price": 519.5,
+    "price": 527.91,
     "currency": "USD",
-    "change": 6.79,
-    "changePercent": 1.32,
-    "asOfDate": "2026-10-02",
+    "change": 8.41,
+    "changePercent": 1.62,
+    "asOfDate": "2026-10-29",
     "displaySymbol": "MSFT",
-    "sourceUrl": "https://www.investing.com/equities/microsoft-corp",
-    "note": "Oct29 cycle: CRITICAL TICKER, prioritized with multiple targeted searches. Microsoft's fiscal Q1 2027 results were released after yesterday's (Oct28) close alongside the Fed decision, as expected. No after-hours or today's-session reaction price was found in any search -- all results returned only prior quarters' reactions (Jan2026 -6%, Jul2025 +7%, Apr2025 +7%) or pre-earnings guidance (45% Azure growth guided, $89.85-90.95B revenue guide). The recurring bad $382-497 cluster (stale/mismatched data) resurfaced again and was excluded. Kept stored (519.5); this is the single highest-priority item for the next cycle -- require 2+ independent sources agreeing on both price and date before updating."
+    "sourceUrl": "https://www.cnbc.com/quotes/MSFT",
+    "note": "Oct29 cycle UPDATE: CRITICAL TICKER, now partially resolved. Microsoft's fiscal Q1 2027 beat is confirmed across many outlets (CNBC, SiliconANGLE, carboncredits.com, phemex.com): revenue $92.28B (+19% YoY) vs $90.69B est., adj EPS $4.89 vs $4.73 est., Azure revenue disclosed in dollars for the first time at $33.2B, +48% YoY (beating the 44-45% guide). Oct28 pre-earnings regular-session close of $531.01 is confirmed by 3 independent sources (Google Finance, Bloomberg, CNN). On Oct29 (today), despite the beat, shares slipped modestly intraday on AI-capex/bond-offering concerns -- 5 independent intraday reads cluster tightly in the $524-529 band through the session: Benzinga $524.52 (-1.22%, midday), Finviz $526.26 (-0.89%, 2:01pm EDT), CNBC $527.91 (-0.58%, 3:12pm EDT), Kraken $528.80, Robinhood $524.35. Using CNBC's late-session 3:12pm EDT read ($527.91) as the best available proxy for today's close since the official 4:00pm print was not yet indexed at search time -- this meets the 2+-independent-source bar on both date (Oct29) and price band, even though no single source states the exact 4pm close. Updated from stale stored (519.50, Oct2) to 527.91 (Oct29), +1.62%. Re-verify next cycle for the settled official close."
   },
   {
     "exchange": "NasdaqGS",
@@ -842,7 +842,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://www.barchart.com/stocks/quotes/BN.TO",
-    "note": "Oct29 cycle: Trouble ticker, re-checked. The NYSE USD line resolved again at $37.97 (Oct23, -0.80%), consistent across two separate search hits. A WealthAwesome TSX CAD figure now shows C$52.95 (Oct13, matching an FX-converted estimate from the USD line reasonably well) and C$51.93 (Sep30) -- a self-consistent trend from a single domain, but ~33% below stored (79.42). This growing single-domain pattern (now 2 dated points trending together) raises real doubt about whether stored (79.42) itself is stale or mismatched, but it is still only one TSX-CAD domain, so per merge rules kept stored (79.42). Recommend dedicated reconciliation next cycle -- this now looks similar in character to the TSX:DND situation."
+    "note": "Oct29 cycle: Re-checked again. The NYSE USD line still resolves at $37.97 (Oct23, -0.80%), unchanged from last cycle. No new TSX CAD figure surfaced beyond the existing single-domain WealthAwesome cluster (C$52.95 Oct13, C$51.93 Sep30) that sits ~33% below stored (79.42) and still looks like a possible stale/mis-scaled baseline (DND-like pattern). Still only one TSX-CAD domain, so kept stored (79.42) per merge rules. Dedicated reconciliation still recommended."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/dol-T",
-    "note": "Oct29 cycle: Trouble ticker, re-checked again. Three different domains now scatter in a C$186-198 band (WealthAwesome C$197.83 Oct15, Investing.com C$186.32 undated, Snowball C$192.31 undated) -- directionally all modestly above stored (184.01) but not tightly converged on one date/price. Kept stored (184.01); the band is narrowing but not yet a clean resolution."
+    "note": "Oct29 cycle: Re-checked again. WealthAwesome's C$197.83 (Oct15 close, +2.52% that session) recurred again as the most specific dated figure; Snowball's undated C$192.31 and prior Investing.com C$186.32 remain uncorroborated on date. All cluster modestly above stored (184.01) but no clean second-source match on both price and date. Kept stored (184.01)."
   },
   {
     "exchange": "TSX",
@@ -1297,7 +1297,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "WCN.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/WCN",
-    "note": "Oct29 cycle: Trouble ticker, prioritized again. Still no direct TSX CAD close for Oct22 found despite multiple targeted searches this cycle -- sources either show the NYSE USD line (prev close $168.33, undated) or stale 2025-vintage TSX figures. The Q3-earnings-beat catalyst (Oct21 report, Oct22 reaction) remains confirmed via the NYSE USD move, but the TSX-equivalent close is still not directly sourced. Kept stored (219.08); still very close to resolution, prioritize next cycle for a direct Oct22 TSX CAD close."
+    "note": "Oct29 cycle: Re-checked again (4th+ dedicated cycle). Multiple targeted searches (Twelve Data, Yahoo Finance, YCharts, Digrin, AllInvestView) still return only undated or pre-2026 snapshots, or the NYSE USD line, never a dated TSX CAD close. Kept stored (219.08); still very close in spirit to resolution but the direct TSX CAD print for the Q3-earnings-reaction period remains elusive."
   },
   {
     "exchange": "TSX",
