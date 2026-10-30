@@ -124,5 +124,12 @@
     "summary": "Stocks fell Thursday Oct 29 as Alphabet's first earnings miss in nearly four years overshadowed a strong Microsoft report: the Nasdaq Composite dropped roughly 1.3-1.6%, the S&P 500 fell about 0.5% to roughly 7,690-7,707, and the Dow slipped about 0.5%. Alphabet shares sank 10-12% after a profit miss and a swing to negative free cash flow (partly on a $5.2B EU fine), even though Cloud revenue more than doubled. Microsoft, by contrast, beat estimates with Azure growth of 48% but saw a more muted reaction given a 34% run-up into the print. The divergence highlights investors drawing sharper lines between AI spending that's paying off (Azure, Roper, Spotify) and spending that's raising cash-flow concerns (Alphabet, Meta). Amazon reports after today's close -- the next test of the AI-capex narrative.",
     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-earnings-130305714.html",
     "date": "2026-10-29"
+  },
+  {
+    "ticker": "AMZN", "exchange": "NasdaqGS", "company": "Amazon.com, Inc.",
+    "headline": "Amazon shares slide after hours as Q4 guidance disappoints despite a record-margin quarter and 39% AWS growth",
+    "summary": "Amazon's Q3 2026 report (Oct29 after close) also came in mixed: revenue of $201.9B and EPS of $1.89 both came in slightly below estimates, even as operating income jumped 61% to a record-high operating margin. AWS was the bright spot, growing 39.3% to ~$46B (topping the ~38% expected) with a $578B backlog, while advertising revenue of $19.6B missed. The real pressure point was Q4 guidance of $240-247B, largely below estimates, which pushed shares down roughly 7-10% in after-hours trading. Combined with Alphabet's selloff a day earlier, this marks a third straight week of hyperscalers facing investor skepticism over whether massive AI capex is translating into near-term profit -- a sharp contrast with Microsoft's well-received Azure beat.",
+    "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-amazon-q3-2026-misses-eps-as-shares-fall-after-hours-93CH-4985489",
+    "date": "2026-10-29"
   }
 ]
