@@ -497,14 +497,14 @@
     "exchange": "NasdaqGS",
     "ticker": "AMZN",
     "name": "Amazon.com, Inc.",
-    "price": 251.7,
+    "price": 240.35,
     "currency": "USD",
-    "change": -0.18,
-    "changePercent": -0.07,
-    "asOfDate": "2026-10-05",
+    "change": -3.44,
+    "changePercent": -1.41,
+    "asOfDate": "2026-10-30",
     "displaySymbol": "AMZN",
-    "sourceUrl": "https://www.investing.com/equities/amazon-com-inc",
-    "note": "Oct29 cycle: Re-checked. Search surfaced only recycled 2025-dated forecast articles (republished under 2026 URLs) referencing an FTC antitrust trial and $200B capex plan, no actual October 2026 price. Kept stored (251.7)."
+    "sourceUrl": "https://www.cnbc.com/quotes/AMZN",
+    "note": "Oct30 cycle UPDATE: PRIORITY #1, now RESOLVED with 2 independent sources agreeing to the penny on both price and date. Yahoo Finance's live market page and CNBC's quote page both show an identical official close of $240.35, -3.44 (-1.41%), 'At close: 4:00:01 PM EDT' on Oct30 2026, against a Thursday Oct29 prior close of $243.79. Full catalyst chain confirmed across many outlets (Investing.com, GuruFocus, indmoney, 247wallst, stocktitan, financefeeds, tradingkey, Yahoo, Deadline, CoinDCX): Amazon's Q3 2026 report landed after Thursday Oct29's close -- revenue $201.9B and EPS $1.89 both slightly missed estimates (~$202.2B / ~$1.97-1.96 est.) despite a record operating margin; AWS grew 39.3% to ~$46B (beat); Q4 guidance of $240-247B revenue came in only modestly above/in-line with estimates; free cash flow was deeply negative (-$33.5B to -$42.4B depending on methodology) on capex of ~$210-220B, which multiple outlets flagged as the most disappointing element. Reaction timeline: Thu Oct29 regular-session close $243.79 (-4.25%, pre-earnings-release); after-hours Thu fell further to a range of roughly $228-230 (-6% to -11% depending on source/timing); Fri Oct30 opened near $226.55 premarket (-7%) and traded as low as $224.43 intraday before recovering through the session (broader market AI-capex selloff also hit INTC -29-30%, Nasdaq -2-3.5%) to close at $240.35, a net -1.41% day-over-day and roughly -4.5% below the pre-earnings Oct29 close. This is a genuine, well-corroborated, catalyst-justified decline -- not a data error. Updated from stale stored (251.70, Oct5) to 240.35 (Oct30)."
   },
   {
     "exchange": "NasdaqGS",
