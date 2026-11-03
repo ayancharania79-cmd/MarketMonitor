@@ -36,7 +36,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://tradingeconomics.com/bbva:sm",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked on confirmed Q3 2026 earnings day (Oct29). A German-language source now confirms Q3 2026 net profit rose 19.2% YoY to EUR3.005B, but no EUR share price tied to the release was found (a Simply Wall St fair-value note implies ~EUR17.60, undated and not a market price). Kept stored (23.87); the earnings are now confirmed but the market reaction price remains unresolved."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked. A Vienna cross-listing (VIE:BBVA) shows a decline sequence: EUR23.36 (Oct9) -> EUR23.40 (Oct12) -> EUR21.83 (Oct29, -2.80% that session), the latter about 8.5% below stored (23.87, Oct2) -- single-sourced for Vienna (not the Madrid/BME primary listing) and not a wild divergence, but notable given confirmed-strong Q3 2026 earnings (net profit +19.2% YoY) reported the same week, which would not obviously explain a decline. No Madrid-specific dated close found. Kept stored (23.87) per single-source/cross-listing caution; the Vienna decline is worth confirming against a Madrid print next cycle."
   },
   {
     "exchange": "CPSE",
@@ -322,7 +322,7 @@
     "asOfDate": "2026-09-08",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.etoro.com/markets/nvs",
-    "note": "Nov3 cycle (Tuesday AM refresh): Re-checked. A new single-sourced lead (CleaRank) shows a close of $156.86 (+~2%) on Oct27, 2026 -- the day of Novartis's confirmed Q3 2026 beat (core EPS $2.46 vs $2.25 YoY). This lands close to (within 2% of) the previously-noted single-sourced $153.94 (Oct21) figure, suggesting a genuine post-Sep/pre-beat decline cluster in the $153-157 range, but each individual date still has only one source, so the 2-source/same-date bar is not cleared. Kept stored (162.79) per single-source caution; the $153-157 post-decline band is now reinforced by a second (differently-dated) data point and is high priority for confirmation next cycle."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked again, trouble ticker. A third single-sourced lead (Tickeron, AI-generated) shows a close near $151.12 on Oct23, 2026, which lands just below the previously-noted $153-157 decline cluster (CleaRank $156.86 Oct27; earlier $153.94 Oct21) -- all three leads now cluster in a tight $151-157 band, differently dated and differently sourced, which is a meaningful pattern. However each individual date still has only one source (no two sources agree on the SAME date), and the Tickeron source is explicitly automated/lower-reliability, so the strict 2-source-same-date bar is still not cleared. Kept stored (162.79) per single-source caution; the $151-157 band is now reinforced by a third data point and remains high priority -- a real decline here looks increasingly likely given three independent domains converging on the same range across different October dates."
   },
   {
     "exchange": "NYSE",
@@ -439,7 +439,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "TTE",
     "sourceUrl": "https://www.ideal-investisseur.fr/en/stock-news/totalenergies-stock-hits-historic-record-at-eur84-87-following-q3-results/28176.html",
-    "note": "Nov3 cycle (Tuesday AM refresh): Re-checked specifically for a pure native-USD NYSE closing print for late Oct/early Nov per standing priority. Still none found -- US-dollar-specific sources either repeat the already-used EUR-derived figure or show undated/unconfirmed-year snapshots ($86.11 undated-timestamp lead re-surfaced, which is the Oct9 level already superseded, not a new print). The Vienna EUR cross-listing continues to show EUR84.46 (Oct29), consistent with stored's derivation. No second native-USD NYSE close was located to replace the EUR-derived figure. Kept stored (93.98, Oct29 EUR-derived). Per explicit guidance, did NOT revert toward $55-70 or $84.37 (confirmed stale/wrong) despite some undated low-$80s snapshots resurfacing in search noise. PRIORITIZE next cycle: still need a direct NYSE:TTE USD closing print for Oct29-Nov2."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked again specifically for a pure native-USD NYSE closing print, per standing priority. Still none found -- search surfaced only the same old undated/stale snapshots seen in prior cycles ($86.11 undated lead, the superseded Oct9 level; a $92.79-as-of-Oct24 IST-timestamped figure, itself ambiguous/pre-US-close; and a stray $78.53 snapshot with no date, likely a different/stale instrument) plus assorted older Yahoo 'previous close' fields ($67.63, $69.48, $73.75) that are clearly stale/mismatched. No second native-USD NYSE close was located to replace the EUR-derived figure, and nothing contradicts the 93.98 level with a dated, reliable print. Kept stored (93.98, Oct29 EUR-derived). Per explicit guidance, did NOT revert toward $55-70 or $84.37 (confirmed stale/wrong) despite low-$80s/high-$60s snapshots resurfacing in search noise -- all double-checked for date/year and none postdates or outweighs the Oct29 EUR-derived figure. PRIORITIZE next cycle: still need a direct NYSE:TTE USD closing print for Oct30-Nov3."
   },
   {
     "exchange": "NYSE",
@@ -803,7 +803,7 @@
     "asOfDate": "2026-10-28",
     "displaySymbol": "BDGI.TO",
     "sourceUrl": "https://www.fool.com/quote/tsx/bdgi/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle). No fresher data searched beyond the existing Oct28 resolution. Kept stored (88.34, Oct28)."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked, reinforced. stockanalysis.com independently shows a close of C$84.06 (+2.60%) on Oct23, 2026 -- below stored (88.34, Oct28) but consistent with a rising trend into the already-resolved Oct28 figure (84.06 -> 88.34 over 5 sessions, +5.1%), not contradictory. Kept stored (88.34, Oct28)."
   },
   {
     "exchange": "TSX",
@@ -881,7 +881,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "CIGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CIGI/history/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct29 resolution. Kept stored (134.41, Oct29)."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked, reinforced. stockanalysis.com independently shows a close of C$130.12 (-3.48%) on Oct23, 2026 -- below stored (134.41, Oct29) but consistent with a rising trend into the already-resolved Oct29 figure (130.12 -> 134.41 over 6 sessions, +3.3%), not contradictory. Kept stored (134.41, Oct29)."
   },
   {
     "exchange": "TSX",
@@ -1037,20 +1037,20 @@
     "asOfDate": "2026-10-23",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://uk.marketscreener.com/quote/stock/INTACT-FINANCIAL-CORPORAT-198901291/",
-    "note": "Nov3 cycle (Tuesday AM refresh, EARNINGS DAY): Re-checked ahead of today's confirmed after-market-close Q3 2026 report (call Nov4). Only a single-sourced, undated Stockopedia snapshot (CA$277.96, 15-min delay) and a stale May2026 Investing.com figure (CA$261.66) surfaced; neither is a reliable fresh dated pre-earnings print, and the Stockopedia figure cannot be confirmed as pre- or post- a specific session. Kept stored (264.54, Oct23) as the best-corroborated pre-earnings level. PRIORITIZE next cycle: genuine Q3 2026 reaction price will be available after tonight's release / Nov4 call."
+    "note": "Nov3 cycle (Tuesday close refresh, EARNINGS DAY): Re-checked at US market close. Confirmed via Placera/company media advisory that Intact releases Q3 2026 results AFTER TODAY's market close (Nov3, 2026), with the analyst call tomorrow (Nov4) at 11:00am ET -- so as expected, no reaction price exists yet at this close; today's close reflects pre-earnings positioning only. Search surfaced only the same single-sourced, undated Stockopedia snapshot (CA$277.96, 15-min delay) and stale figures (CA$275.92 Jun5, CA$258.44 Apr29) seen in prior cycles -- none a reliable fresh dated pre-earnings close for Nov3 itself. Kept stored (264.54, Oct23) as the best-corroborated pre-earnings level. PRIORITIZE next cycle (Wed Nov4 AM): genuine Q3 2026 reaction price should be available after tonight's release and tomorrow's call."
   },
   {
     "exchange": "TSX",
     "ticker": "JWEL",
     "name": "Jamieson Wellness Inc.",
-    "price": 45.44,
+    "price": 45.49,
     "currency": "CAD",
-    "change": -0.01,
-    "changePercent": -0.02,
-    "asOfDate": "2026-10-02",
+    "change": 0.01,
+    "changePercent": 0.02,
+    "asOfDate": "2026-10-27",
     "displaySymbol": "JWEL.TO",
-    "sourceUrl": "https://www.tradingview.com/symbols/TSX-JWEL/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked. The pending Kirin acquisition (C$45.75/share cash, shareholder-approved) continues to anchor the price near the deal value; no contradicting evidence found. Kept stored (45.44), well supported by the deal-price anchor."
+    "sourceUrl": "https://stockchase.com/JWEL-T",
+    "note": "Nov3 cycle (Tuesday close refresh): UPDATE, 2-source confirmed. stockanalysis.com shows a close of C$45.48 (+0.04%) on Oct19, 2026, and Stockchase independently shows C$45.49 on Oct27, 2026 -- two different domains landing within one cent of each other across consecutive dated sessions, consistent with the price holding steady near the pending Kirin acquisition deal value (C$45.75/share cash, shareholder-approved, final court approval obtained Oct5, 2026). Updated from stored (45.44, Oct2) to 45.49 (Oct27), a trivial +0.11% move, well supported by the deal-price anchor and now corroborated by two independent sources."
   },
   {
     "exchange": "TSX",
@@ -1089,7 +1089,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "MEQ.TO",
     "sourceUrl": "https://in.tradingview.com/symbols/TSX-MEQ",
-    "note": "Nov3 cycle (Tuesday AM refresh): Re-checked, trouble ticker. No new October 2026 data found; search surfaced only a stale Apr2026 Seeking Alpha figure ($177.55) and undated snapshots in the C$164-186 range. The previously-noted single-sourced -14.3% lead (C$169.84, Oct15) was not re-confirmed or contradicted. Kept stored (198.1, Oct2) per single-source/no-catalyst caution; still high priority."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked again, trouble ticker. A second dated lead emerged: Motley Fool shows a close of C$171.14 on Oct28, 2026, which is a different date from (and roughly consistent in direction with, slightly above) the previously-noted single-sourced C$169.84 (Oct15) lead -- together these two differently-dated, differently-sourced points now cluster tightly around C$170-171, reinforcing that a real decline from stored (198.1, Oct2) to the ~C$170 area may have occurred, but still no single source confirms both price AND date together with a second independent source on the SAME day, so the strict bar is not cleared and no identified catalyst was found. Kept stored (198.1, Oct2) per single-source/no-catalyst caution; now higher priority given the converging ~C$170 cluster across two dates."
   },
   {
     "exchange": "TSX",
@@ -1258,7 +1258,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "TRI.TO",
     "sourceUrl": "https://stockanalysis.com/stocks/TRI/",
-    "note": "Nov3 cycle (Tuesday AM refresh): Re-checked. Only US-dollar-labeled monthly figures (digrin.com, Jul2026 $90.70) and an undated snapshot ($105.99) surfaced, neither clearly the TSX CAD line nor October-dated. Kept stored (141.48, Oct2)."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked, NEW large-divergence lead flagged (not accepted). Seeking Alpha shows a TSX close of C$165.36 (+1.66%) on Oct30, 2026, +16.9% above stored (141.48, Oct2) -- single-sourced for the TSX line. A Benzinga NASDAQ-listed USD quote ($123.17, Oct23) cross-converts at ~1.40 CAD/USD to roughly C$172, in the same ballpark but not a tight same-day match (unlike the prior CNQ/MX FX-cross resolutions). Crucially, no Q3 2026 earnings reaction was found -- search confirms TRI's Q3 2026 results had NOT yet been reported as of this check (consensus estimates only, no actual print), so there is no identified catalyst for a 15%+ move, and the lead could reflect a mismatched instrument or stale page. Per the wild-divergence-without-catalyst rule, kept stored (141.48, Oct2); flagging the C$165-172 cluster as a lead requiring a genuine second same-date TSX source before accepting next cycle."
   },
   {
     "exchange": "TSX",
