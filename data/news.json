@@ -131,5 +131,12 @@
     "summary": "A broader AI-capex selloff hit tech stocks Friday Oct30, capping a volatile week of hyperscaler earnings (Meta's legal charge, Alphabet's cash-flow miss, Amazon's weak guidance). Intel was the biggest casualty, plunging 28.6% to $65.76 after guiding Q4 EPS to just $0.25 vs. $0.43 expected. Amazon -- down as much as 7% premarket -- recovered through the session to close only modestly lower (-1.41% to $240.35). Index-level closing figures for the day were reported inconsistently across sources (roughly -0.3% to -1.8% for the S&P 500 depending on the outlet) but all agree the Nasdaq led the decline. The week reinforced a theme now running through Q3 earnings season: investors are discriminating sharply between AI infrastructure spending with a clear near-term payoff (Microsoft's Azure, Roper) and spending pressuring cash flow and guidance (Meta, Alphabet, Amazon, Intel).",
     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-30-212002526.html",
     "date": "2026-10-30"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Dow rises on oil drop as Nasdaq extends its AI-spending-led slide",
+    "headline": "Dow gains as oil tumbles on Iran diplomacy hopes, but Nasdaq falls to lowest close since July on continued AI-capex worries",
+    "summary": "Stocks were mixed Monday Nov2, with oil posting its sharpest one-day drop in three months on U.S.-Iran diplomacy hopes: the Dow rose 0.41% to 51,983.98, while the S&P 500 fell 0.51% to 7,541.40 (a third straight loss, its lowest close since July 31) and the Nasdaq Composite dropped 1.07% to roughly 25,164, extending the prior week's AI-spending-driven selloff. The VIX jumped nearly 9% to 21.15, moving back above its long-run average even as the Dow advanced -- a split that reflects falling energy costs helping value/cyclical names while AI-linked tech names stay under pressure. Traders were also positioning ahead of Tuesday's U.S. midterm elections.",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212103580.html",
+    "date": "2026-11-02"
   }
 ]
