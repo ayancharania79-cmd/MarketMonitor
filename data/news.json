@@ -138,5 +138,12 @@
     "summary": "Stocks were mixed Monday Nov2, with oil posting its sharpest one-day drop in three months on U.S.-Iran diplomacy hopes: the Dow rose 0.41% to 51,983.98, while the S&P 500 fell 0.51% to 7,541.40 (a third straight loss, its lowest close since July 31) and the Nasdaq Composite dropped 1.07% to roughly 25,164, extending the prior week's AI-spending-driven selloff. The VIX jumped nearly 9% to 21.15, moving back above its long-run average even as the Dow advanced -- a split that reflects falling energy costs helping value/cyclical names while AI-linked tech names stay under pressure. Traders were also positioning ahead of Tuesday's U.S. midterm elections.",
     "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-212103580.html",
     "date": "2026-11-02"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Chip stocks rebound on Election Day, but breadth stays weak",
+    "headline": "Nasdaq and S&P snap a 3-day losing streak as chip stocks rally on Election Day, though Apple drags the Dow down",
+    "summary": "Stocks ended mixed Tuesday Nov3 (U.S. Election Day) as semiconductor stocks rebounded: the Nasdaq Composite rose 0.83% to 25,372.01 and the S&P 500 added 0.36% to 7,568.92 (snapping a three-day losing streak), while the Dow fell 0.38% to 51,786.72, dragged down by Apple after it warned of margin pressure from rising memory-chip costs. Breadth was weak beneath the headline gains, with decliners outnumbering gainers by roughly 1.7-to-1 across large-, mid-, and small-cap indexes, and the VIX held above 20 heading into the midterm elections and AMD's earnings release.",
+    "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+    "date": "2026-11-03"
   }
 ]
