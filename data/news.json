@@ -145,5 +145,12 @@
     "summary": "Stocks ended mixed Tuesday Nov3 (U.S. Election Day) as semiconductor stocks rebounded: the Nasdaq Composite rose 0.83% to 25,372.01 and the S&P 500 added 0.36% to 7,568.92 (snapping a three-day losing streak), while the Dow fell 0.38% to 51,786.72, dragged down by Apple after it warned of margin pressure from rising memory-chip costs. Breadth was weak beneath the headline gains, with decliners outnumbering gainers by roughly 1.7-to-1 across large-, mid-, and small-cap indexes, and the VIX held above 20 heading into the midterm elections and AMD's earnings release.",
     "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
     "date": "2026-11-03"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Dow soars 3% in best day in over a year as Democrats sweep midterms",
+    "headline": "Dow jumps 1,569 points (3.03%) as Democrats win Congress and oil collapses 8%+, S&P and Nasdaq also rally hard",
+    "summary": "Stocks staged a massive rally Wednesday Nov4 after Democrats won a decisive midterm-election victory in Congress: the Dow Jones Industrial Average soared 1,569.40 points (3.03%) to 53,356.12 -- its best single day since April 2025's tariff-pause rally -- while the S&P 500 jumped 1.58% to 7,688.62 and the Nasdaq Composite gained 1.44% to 25,736.51. Oil prices plunged more than 8% and bond yields fell as markets priced in reduced policy uncertainty and a shift in the fiscal/regulatory outlook following the election result. The rally snapped back sharply from the prior week's AI-capex-driven selloff and reversed most of the month's earlier losses in a single session.",
+    "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
+    "date": "2026-11-04"
   }
 ]
