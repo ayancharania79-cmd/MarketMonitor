@@ -107,14 +107,14 @@
     "exchange": "LSE",
     "ticker": "HLMA",
     "name": "Halma plc",
-    "price": 3760.0,
+    "price": 3448.0,
     "currency": "GBP",
-    "change": 112.0,
-    "changePercent": 3.07,
-    "asOfDate": "2026-09-15",
+    "change": -51.64,
+    "changePercent": -1.49,
+    "asOfDate": "2026-10-30",
     "displaySymbol": "HLMA.L",
-    "sourceUrl": "https://www.investing.com/equities/halma",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked. A new single-sourced figure (InvestSmart) shows HLMA at 3,448.00p as of Oct30, 2026 (-1.49%), about 8.3% below stored -- a notable gap but single-domain only, with Halma's next earnings not due until Nov19, 2026 (no catalyst for a sharp move). Kept stored (3760.0, Sep15) per single-source caution; the 3,448p lead is worth corroborating next cycle."
+    "sourceUrl": "https://www.ajbell.co.uk/market-research/LSE:HLMA",
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): UPDATE, trouble ticker resolved with 2-source same-price/same-date match. AJ Bell's market-research page shows LSE:HLMA trading at 3,448p on 30/10/2026 (1-day total return -1.49%), independently matching the previously-flagged single-sourced JournalArta figure (3,448 GBp, -1.49%, dated 30 Oct 2026 ~16:35 UK time, around the London close). Two independent domains now agree on both price and date, clearing the resolution bar. No earnings catalyst identified (Halma's next report is due Nov19, 2026); the ~8.3% decline from the prior stored value is treated as general drift, well below the 15% large-move threshold. Updated from stale stored (3760.0, Sep15) to 3448.0 (Oct30)."
   },
   {
     "exchange": "LSE",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ametek-stock-gained-1-14-percent-as-rbc-set-a-usd-291-target/70228557",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked. Confirmed via SEC 8-K that AMETEK's earnings date was actually Nov3, 2026 (not Nov2 as the prior single-sourced $241.91 lead implied -- that figure therefore predates earnings and is not a reaction price). Q3 2026 results: record adjusted EPS of $2.21 (above the company's own $2.08-2.10 guidance range) and record GAAP operating income of $584.9M -- a clear beat. However, no source found yet reports how the stock actually traded on or after Nov3; searches turn up only the earnings release itself, not a reaction price. Kept stored (251.93, Oct2) per lack of any post-earnings print; PRIORITIZE the Nov3 earnings reaction next cycle now that the date confusion is resolved."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked. A new lead found: MarketChameleon shows AME closing at $248.58 on Nov3, 2026 (+2.8%, implying a prior close of ~$241.8), directionally consistent with the confirmed Q3 2026 EPS beat ($2.21, above the company's own $2.08-2.10 guidance range) reported that morning. However, this remains single-domain for the exact print, and the implied ~$241.8 prior close doesn't cleanly reconcile with the Oct2 stored baseline (251.93), so it does not yet meet the 2-source bar. Kept stored (251.93, Oct2) per single-source caution; PRIORITIZE a second source for the Nov3 close (target figure to confirm: $248.58) next cycle."
   },
   {
     "exchange": "NYSE",
@@ -452,7 +452,7 @@
     "asOfDate": "2026-09-26",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/uber/uber-technologies/share-price",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked. Uber's Q3 2026 earnings date is now confirmed as Nov4, 2026 before market open (options priced a +/-6.84% to +/-8.1% implied move). Results should now be out, but no reaction price was found this cycle -- only pre-report previews and prior-quarter context (Aug5 2026 report: stock closed ~5.3% lower despite an EPS beat; historical pattern shows the stock fell after 6 of its last 8 EPS beats). Kept stored (69.62, Sep26); PRIORITIZE the Nov4 earnings reaction next cycle."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked. Uber's Q3 2026 earnings date is confirmed as Nov4, 2026 before market open (options priced a +/-6.84% to +/-8.1% implied move). A new single-sourced Upstox lead shows UBER at $65.27 as of Oct30, 2026 (day range $64.05-65.80) -- this PREDATES the Nov4 earnings release (so it isn't a reaction price) and is single-sourced only; it is about 6.2% below stored, not a wild divergence. No Nov4/Nov5 post-earnings reaction price found yet. Kept stored (69.62, Sep26); PRIORITIZE the Nov4 earnings reaction next cycle."
   },
   {
     "exchange": "NYSE",
@@ -920,7 +920,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "CNR.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/cnr/canadian-national-railway-co/share-price",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked again, high priority, still unresolved. Confirmed CNI reported Q3 2026 results before the open on Oct30, 2026 (consensus EPS estimate $1.50 per Earnings Whispers); no source found yet reports the actual Oct30 close or move -- only pre-earnings prices (Yahoo, C$173.00 as of Oct26 close) and a prior-quarter average-reaction statistic (-1.7% next-day average over the last 3 reports, not specific to this quarter). Kept stored (170.58, Oct2); still the priority gap -- the genuine Oct30 earnings reaction remains unfound."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked again, high priority, still unresolved. BNN Bloomberg and Narcity (two independent domains) both confirm CN's Oct30, 2026 Q3 report: profit of C$1.21B (up from C$1.14B a year earlier), adjusted diluted EPS of C$2.16 (+18%), revenue also higher -- a genuine beat on both counts. However, neither domain, nor any other source found this cycle, reports the actual stock reaction; one undated Finviz note claims the stock is down 7.2% since its last report (vs. the S&P's +4.7%) but ties this to no specific date, so it cannot be used as an Oct30-dated price. Kept stored (170.58, Oct2); still the priority gap -- the genuine Oct30 earnings reaction remains unfound."
   },
   {
     "exchange": "TSX",
@@ -1037,7 +1037,7 @@
     "asOfDate": "2026-11-04",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://www.investing.com/news/company-news/intact-financial-q3-2026-slides-ai-push-drives-earnings-beat-93CH-5000776",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): PRIORITY #1, re-checked specifically for the official Nov4 4pm settled close per instruction. A Morningstar quote page shows a status of 'Closed' (9:00:02 PM delayed price) with a close of C$282.02 (+C$19.29, +7.34%) off the confirmed Nov3 previous close of C$262.73 -- this is the only source found so far that explicitly labels its figure as a settled close rather than an intraday print, and it sits just above (within 0.6% of) the previously-established 5-source intraday convergence band (C$278.44-281.77). However, it is single-domain for this exact number, so per the 2+ source corroboration standard it does NOT yet independently confirm 282.02 as the official close. Also found: TD raised its price target on IFC the same day (not a price datum). KEPT stored at 280.39 (the already multi-source-corroborated intraday figure) rather than moving to the single-sourced 282.02 print; the two figures are consistent (not contradictory), both reflecting the same ~7% earnings-beat rally off C$262.73. PRIORITIZE next cycle: find a second source explicitly confirming the settled Nov4 close (likely in the C$280-283 range) to replace this intraday-based figure."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): PRIORITY #1, re-checked again specifically for the official Nov4 4pm settled close. No second source for the Morningstar 'Closed' print (C$282.02, +7.34%) was found this cycle either; it remains single-domain. New context found but NOT price-corroborating: TD Securities raised its IFC price target to C$282 from C$270 (keeps Buy rating) -- a price TARGET, not a traded price, though notably it lands within 0.01% of the Morningstar 282.02 figure (coincidental or not, it is not usable as a second source for a settled close). A separately-dated (Nov2, pre-rally) snapshot shows a last close of C$260.63, consistent with the already-established Nov3 pre-earnings close of C$262.73 and not contradicting the subsequent rally. Still KEPT stored at 280.39 (the multi-source-corroborated intraday figure) rather than moving to the single-sourced 282.02 settled-close print; the two figures remain consistent (both reflecting the same ~7% earnings-beat rally off 262.73), so this is not a regression. PRIORITIZE next cycle: still need a second independent source explicitly confirming the settled Nov4 close."
   },
   {
     "exchange": "TSX",
@@ -1180,7 +1180,7 @@
     "asOfDate": "2026-10-01",
     "displaySymbol": "SHOP.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/SHOP/",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked. Shopify reported Q3 2026 results on Nov3, 2026 as scheduled (options had priced a +/-13.6% move per Oct27 data). Results are now out, but search results remain entirely pre-report previews and prior-quarter context (Q2 2026/Aug5 report: stock +16.98% to $144.24) -- no Nov3/Nov4 reaction price found yet. Kept stored (206.42, Oct1); PRIORITIZE the Nov3 reaction next cycle now that results have actually been released."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked. Shopify reported Q3 2026 results Nov3, 2026 as scheduled. A Stocktwits headline ('Shopify Stock Soars Pre-Market After Strong Q3 Earnings') and an RTTNews headline ('Shopify Inc Profit Retreats In Q3') both reference the release, but neither gives a specific settled closing price, and the two headlines are directionally in tension (premarket pop vs. profit retreat) without a resolved print or date-matched price. No dated, sourced Nov3/Nov4 close found. Kept stored (206.42, Oct1); PRIORITIZE the Nov3/Nov4 reaction next cycle now that conflicting (but still unpriced) post-earnings commentary exists."
   },
   {
     "exchange": "TSX",
