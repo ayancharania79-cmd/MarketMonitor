@@ -152,5 +152,12 @@
     "summary": "Stocks staged a massive rally Wednesday Nov4 after Democrats won a decisive midterm-election victory in Congress: the Dow Jones Industrial Average soared 1,569.40 points (3.03%) to 53,356.12 -- its best single day since April 2025's tariff-pause rally -- while the S&P 500 jumped 1.58% to 7,688.62 and the Nasdaq Composite gained 1.44% to 25,736.51. Oil prices plunged more than 8% and bond yields fell as markets priced in reduced policy uncertainty and a shift in the fiscal/regulatory outlook following the election result. The rally snapped back sharply from the prior week's AI-capex-driven selloff and reversed most of the month's earlier losses in a single session.",
     "url": "https://www.cnbc.com/2026/11/03/stock-market-today-live-updates.html",
     "date": "2026-11-04"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Nasdaq plunges into correction as AI-spending fears erupt",
+    "headline": "Nasdaq crashes 5.52% into correction territory, S&P's worst day since April 2025, as AI-chip selloff wipes out the midterm rally",
+    "summary": "Markets suffered a severe reversal Thursday Nov5, completely erasing the prior day's midterm-election rally: the Nasdaq Composite plunged 5.52% to 24,315.00 (entering correction territory), the S&P 500 dropped 4.36% to 7,353.73 (its worst single day since April 2025), and the Dow fell 3.44% (1,833.06 points) to 51,523.06. Chip and AI-infrastructure stocks led the rout across all eleven sectors -- Nvidia alone fell about 9.2%, erasing more than $440B in market value, while the Nasdaq-100 lost roughly $2.3 trillion, reportedly the largest single-day dollar loss on record for the index. The move intensifies the AI-capex skepticism theme that has run through Q3 earnings season (Meta, Alphabet, Amazon, Intel) into a full-blown selloff, and underscores how fragile the sector's recent gains have become.",
+    "url": "https://www.washingtonpost.com/business/2026/11/05/us-stocks-slide-wiping-out-post-midterm-gains/",
+    "date": "2026-11-05"
   }
 ]
