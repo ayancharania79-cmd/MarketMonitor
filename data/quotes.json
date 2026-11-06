@@ -62,7 +62,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://stockanalysis.com/stocks/asml/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker (16th+ cycle). Same Xetra (Frankfurt) cross-listing figure persists (EUR1,468.00, Oct27, +2.66%), plus an undated Lang & Schwarz Euronext-Amsterdam-tagged print (EUR1,602.70, 'primary exchange: Euronext Amsterdam', no date confirmed) and a USD Nasdaq-ADR figure ($1,657.44, Oct15, not directly convertible with confidence). Still no genuine dated Amsterdam(AEX)-specific second source found despite another dedicated search. Kept stored (1478.4, Sep14)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker (17th+ cycle). Search returned only undated/unconvertible cross-listings (a Nasdaq ADR snapshot ~$1,780, undated; a Bangkok DR listing; an SWX listing) and an undated AEX index level -- no genuine dated Euronext Amsterdam (AEX) print found despite another dedicated search. Kept stored (1478.4, Sep14)."
   },
   {
     "exchange": "ENXTPA",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ametek-stock-gained-1-14-percent-as-rbc-set-a-usd-291-target/70228557",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. MEXC shows a 'last close' of $248.13 as of Oct29, 2026 -- within 0.18% of the still-single-sourced MarketChameleon print of $248.58 on Nov3, 2026 (+2.8%). However, this timing actually complicates rather than confirms the MarketChameleon figure: if AME was already near $248 on Oct29, a further +2.8% move landing at exactly $248.58 on Nov3 doesn't cleanly reconcile (it would imply a dip to ~$241.8 and back, as flagged previously), rather than a clean two-domain same-date match. Both figures nonetheless sit in the same $248-252 band as stored (251.93), not a wild divergence, and are directionally consistent with the confirmed Q3 2026 EPS beat ($2.21 vs $2.08-2.10 guidance). Kept stored (251.93, Oct2) per single-source-per-date caution; PRIORITIZE a genuinely dated second source for the Nov3 close next cycle."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. The previously-flagged single-sourced MarketChameleon Nov3 figure ($248.58, +2.8%) remains uncorroborated by a second source; no new data this cycle. Kept stored (251.93, Oct2) per single-source-per-date caution; PRIORITIZE a genuinely dated second source for the Nov3 close next cycle."
   },
   {
     "exchange": "NYSE",
@@ -270,7 +270,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, trouble ticker, still unresolved. Q3 2026 results reconfirmed in more detail: net revenue $2.8B (+15% YoY), adjusted diluted EPS $2.02 (+18% YoY, beat the $1.97 estimate by ~2.4%). Quiver Quantitative's headline ('ICE rises after earnings beat and MarketAxess timeline update') confirms a positive reaction but gives no price or percentage. No settled Oct29/Oct30 close found (an undated Earnings Whispers snapshot of $155.96 isn't usable). Kept stored (157.85, Sep15) per lack of corroboration; the Oct29 reaction remains the priority gap."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. Only 2025-dated Q3 earnings-reaction coverage surfaced (correctly identified by year and discarded) -- no Q3 2026/Oct29-30 2026 settled close found this cycle. Kept stored (157.85, Sep15); the Oct29/30 2026 reaction remains the priority gap."
   },
   {
     "exchange": "NYSE",
@@ -374,7 +374,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "SE",
     "sourceUrl": "https://www.investing.com/equities/sea-limited",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked, trouble ticker, still unresolved (rejected 4th time now). New search surfaced several single-sourced, mutually-inconsistent leads: Massive.com cites SE down ~16.6% over 1 week and ~25.9% over 1 month (implying a price well below stored, but gives no absolute price or exact date); InvestSmart shows $112.09 undated; a MarketBeat alert cites a 4.7% one-day drop tied to insider selling around Oct19; separate rallies.ai pieces attribute other partial drops to 'risk-off' macro conditions and lingering post-earnings skepticism, again without pinned absolute prices. None of these converge on a single confirmed price/date pair, and no second source corroborates any specific print. Per the wild-divergence-without-corroboration rule, kept stored (124.1, Sep16)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, trouble ticker, still unresolved (rejected 5th time now). A new single-sourced lead (Motley Fool, $74.01 close Oct26, 2026, -26% over the prior month) surfaced, well below stored and not corroborated by any second source; other undated snapshots ($123.91, $112.09, $92.84) remain inconsistent and unusable. SE's Q3 2026 earnings are not due until Nov10, 2026, so no earnings catalyst yet explains a move. Per the wild-divergence-without-corroboration rule, kept stored (124.1, Sep16)."
   },
   {
     "exchange": "NYSE",
@@ -452,7 +452,7 @@
     "asOfDate": "2026-09-26",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/uber/uber-technologies/share-price",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked specifically for the Nov4 earnings reaction. Uber reported Q3 2026 results Nov4 before the open as scheduled (options had priced a +/-6.84% to +/-8.75% implied move), but no source found this cycle gives a dated Nov4/Nov5 close or percentage move -- only pre-report previews and a reminder that Uber's prior (Aug5, 2026) post-earnings reaction was -5.3% despite a +41% EPS beat, which is context, not a current price. Kept stored (69.62, Sep26); still PRIORITIZE the Nov4 earnings reaction next cycle."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked specifically for the Nov4 earnings reaction. Confirmed Uber reported Q3 2026 results Nov4 before the open as scheduled (options had priced a +/-8.1% implied move), but no source found this cycle gives a settled Nov4/Nov5 close or percentage move -- only pre-report previews and historical pattern context (stock closed lower the day after 6 of its last 8 earnings reports). Kept stored (69.62, Sep26); still PRIORITIZE the Nov4 earnings reaction next cycle."
   },
   {
     "exchange": "NYSE",
@@ -497,14 +497,14 @@
     "exchange": "NasdaqGS",
     "ticker": "AMZN",
     "name": "Amazon.com, Inc.",
-    "price": 240.35,
+    "price": 260.21,
     "currency": "USD",
-    "change": -3.44,
-    "changePercent": -1.41,
-    "asOfDate": "2026-10-30",
+    "change": -5.82,
+    "changePercent": -2.19,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "AMZN",
-    "sourceUrl": "https://www.cnbc.com/quotes/AMZN",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked (resolved in a prior cycle, trusted/priority ticker). A broad joint search for Nov3/Nov4/Nov5, 2026 closes across AMZN/META/MSFT/GOOGL again surfaced no reliable dated figures for those sessions -- only undated snapshot tables (mixing figures from different, unconfirmed dates) and unrelated Q1/Q2-2026-era earnings commentary. Publication years on all surprising/divergent figures were checked and none applied to a confirmed Nov2026 session. No fresh contradicting or corroborating data found. Kept stored."
+    "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-amazon-shares-slide-as-technology-selloff-erases-early-gains/",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and multi-source confirmed. Morningstar, Motley Fool, Macrotrends and Massive.com all independently show AMZN closed at $260.21 (-5.82, -2.19%) on Nov5, 2026 (prior close $266.03), after an early-session pop on the new Uber Eats delivery partnership was erased by the broad market selloff (confirmed Nasdaq -5.5%, worst day since Apr2025). AMZN's Nov5 close remains ABOVE the previously-stored Oct30 figure (240.35), consistent with AMZN rallying strongly (record-high territory per multiple sources) between Oct30 and Nov4 before the Nov5 pullback -- not a data error. Updated from stored (240.35, Oct30) to 260.21 (Nov5), +8.3% net."
   },
   {
     "exchange": "NasdaqGS",
@@ -523,105 +523,105 @@
     "exchange": "NasdaqGS",
     "ticker": "CDNS",
     "name": "Cadence Design Systems, Inc.",
-    "price": 342.46,
+    "price": 311.43,
     "currency": "USD",
-    "change": null,
-    "changePercent": null,
-    "asOfDate": "2026-10-29",
+    "change": -18.09,
+    "changePercent": -5.49,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "CDNS",
-    "sourceUrl": "https://www.marketbeat.com/stocks/NASDAQ/CDNS/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct29 resolution. Kept stored (342.46, Oct29)."
+    "sourceUrl": "https://www.gurufocus.com/news/9177250/a-look-at-cadence-design-systems-inc-cdns-after-55-decline-gf-value-41011-vs-price-31143",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. GuruFocus and Morningstar both independently show CDNS closed at $311.43 on Nov5, 2026, down 5.49% from a Nov4 close of $329.52 (day range $308.05-$322.88). Consistent with, though a bit sharper than, the broad market move (Nasdaq -5.5%) -- a Wall Street Zen Buy-to-Hold downgrade issued the same day may have added incremental pressure. Updated from stored (342.46, Oct29) to 311.43 (Nov5), -9.1% net -- below the 15% threshold."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "DPZ",
     "name": "Domino's Pizza, Inc.",
-    "price": 313.61,
+    "price": 341.63,
     "currency": "USD",
-    "change": 13.31,
-    "changePercent": 4.43,
-    "asOfDate": "2026-10-23",
+    "change": 0.94,
+    "changePercent": 0.28,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "DPZ",
-    "sourceUrl": "https://massive.com/quote/dpz",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved, trusted baseline). No fresher data searched beyond the existing Oct23 resolution. Kept stored (313.61, Oct23)."
+    "sourceUrl": "https://ca.finance.yahoo.com/quote/DPZ/",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 price found, 3-source confirmed. Yahoo Finance, CNN and MarketBeat all independently show DPZ closed at $341.63 (+0.94, +0.28%) on Nov5, 2026 (prior close $340.69), effectively flat despite the broad market selloff that day -- consistent with Domino's being largely insulated from the AI/chip-spending narrative. Updated from stored (313.61, Oct23) to 341.63 (Nov5), +9.0% net -- below the 15% threshold, general drift/strength, no specific catalyst identified."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "FTNT",
     "name": "Fortinet, Inc.",
-    "price": 184.05,
+    "price": 122.51,
     "currency": "USD",
-    "change": -6.71,
-    "changePercent": -3.52,
-    "asOfDate": "2026-10-14",
+    "change": -6.88,
+    "changePercent": -5.32,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "FTNT",
-    "sourceUrl": "https://finance.yahoo.com/quote/ftnt/analysis",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), now reinforced. A separate search independently reproduced the exact stored figure ($184.05 at close Oct14, 2026) from a dated Yahoo Finance-style source, confirming the trusted baseline directly rather than via the previously-noted date-confusion issue. Kept stored (184.05), now better corroborated."
+    "sourceUrl": "https://finance.yahoo.com/quote/FTNT/",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- large move, but now well-corroborated across two sequential, independently-confirmed catalysts. (1) FTNT's own Q3 2026 earnings (reported after the bell Oct28) triggered a sell-the-news reaction tied to a cut service-revenue guide and a disclosed cyber breach: Investing.com and Trefis agree the Oct28 regular session closed at $174.29 (-5.8%, pre-earnings), and multiple independent sources (Zacks, Yahoo, Motley Fool, Koalagains, TradingKey, MarketBeat) agree the Oct29 session then fell ~20-22%, with Trefis giving an explicit close of $139.10 (consistent with that %% move off $174.29). (2) The Nov5 broad AI/chip selloff added a further confirmed leg down: Yahoo Finance, Morningstar, Finviz and Investing.com all independently show FTNT closed at $122.51/$122.42 (-5.32%) on Nov5, 2026, versus a Nov4 close of $129.39 (matching Heygotrade's separately-reported $129.39 Nov4 close). This full chain (174.29 -> 139.10 -> ...-> 129.39 -> 122.51) is corroborated by many independent domains at each step. Updated from long-stale stored (184.05, Oct14) to 122.51 (Nov5), -33.4% net -- exceeds the 15% threshold but accepted given the clear, multi-source, two-catalyst chain (earnings guidance cut + broad AI selloff), consistent with this file's established precedent for large corroborated catalyst-driven moves."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "GMAB",
     "name": "Genmab A/S",
-    "price": 36.89,
+    "price": 52.74,
     "currency": "USD",
-    "change": 0.32,
-    "changePercent": 0.88,
-    "asOfDate": "2026-10-14",
+    "change": -2.38,
+    "changePercent": -4.32,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "GMAB",
-    "sourceUrl": "https://ryanoconnellfinance.com/stock-dashboard/gmab/",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked (trusted baseline). The same suspected-bad-data lead resurfaced again this cycle ($57.29 Oct28 / $56.49 Oct29, implying a 28% one-day jump) with still no corroborating second source or catalyst -- reconfirming this is very likely a data/instrument error, not a genuine price. Kept stored (36.89) per the wild-divergence-without-catalyst rule."
+    "sourceUrl": "https://www.morningstar.com/stocks/xnas/gmab/quote",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- trouble ticker RESOLVED. This cycle's search surfaced a tight, internally-consistent, multi-source, multi-day cluster that supersedes the long-stale stored value: Macrotrends/dated-quote sources show GMAB closed at $55.52 on Nov3, 2026 and $55.12 on Nov4, 2026; Heygotrade AND Morningstar then independently agree GMAB closed at $52.74 (-4.32%) on Nov5, 2026 (prior close $55.12, matching the Nov4 figure exactly) -- a genuine 2-source same-price/same-date match, following a Q3 2026 report where Epkinly sales slightly missed and guidance was held rather than raised (a 'sell the news' reaction, confirmed via Investing.com). This $52-56 band is consistent with, and finally corroborates, leads flagged as likely data errors in prior cycles (the previously-rejected $57.29/$56.49 Oct28/29 leads) -- the stored $36.89 (Oct14) appears to have been the stale/erroneous figure all along. Updated from stored (36.89, Oct14) to 52.74 (Nov5), +43.0% -- a large change versus the old stored baseline, but accepted because it is now the clearly correct, multi-source-and-multi-date-corroborated current price, not a one-off spike; the stored baseline itself is what was wrong."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "GOOGL",
     "name": "Alphabet Inc.",
-    "price": 283.82,
+    "price": 282.57,
     "currency": "USD",
-    "change": -41.07,
-    "changePercent": -12.64,
-    "asOfDate": "2026-10-29",
+    "change": -6.36,
+    "changePercent": -2.2,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "GOOGL",
-    "sourceUrl": "https://www.cnbc.com/quotes/GOOGL",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked (resolved in a prior cycle, trusted/priority ticker). A broad joint search for Nov3/Nov4/Nov5, 2026 closes across AMZN/META/MSFT/GOOGL again surfaced no reliable dated figures for those sessions -- only undated snapshot tables (mixing figures from different, unconfirmed dates) and unrelated Q1/Q2-2026-era earnings commentary. Publication years on all surprising/divergent figures were checked and none applied to a confirmed Nov2026 session. No fresh contradicting or corroborating data found. Kept stored."
+    "sourceUrl": "https://www.google.com/finance/quote/GOOGL:NASDAQ",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. Gotrade and Google Finance both independently show GOOGL closed at $282.57 (-2.20%) on Nov5, 2026 (prior close ~$288.93 per Trefis), a notably smaller decline than the Nasdaq's -5.5% that day. This is distinct from, and should not be confused with, the already-stored Oct29 figure (283.82, -12.64%, a separate earnings-driven selloff) -- both events confirmed as real but on different dates; year/date carefully checked. Updated from stored (283.82, Oct29) to 282.57 (Nov5), a trivial -0.4% net change, reflecting that GOOGL had recovered somewhat between Oct29 and Nov4 before the broad Nov5 pullback."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "MELI",
     "name": "MercadoLibre, Inc.",
-    "price": 1696.56,
+    "price": 1530.28,
     "currency": "USD",
-    "change": 11.44,
-    "changePercent": 0.68,
-    "asOfDate": "2026-10-02",
+    "change": -209.6,
+    "changePercent": -12.05,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "MELI",
-    "sourceUrl": "https://www.investing.com/equities/mercadolibre",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked (trusted baseline), no fresh October print found this cycle (only a stale Aug27 figure, $1,947.26, and a July monthly figure). Kept stored (1696.56, Oct2) per single-source caution on the previously-noted unconfirmed Oct5 lead."
+    "sourceUrl": "https://www.heygotrade.com/en/us-stock/meli/",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 reaction price found, 2-source confirmed. Heygotrade and Finviz (whose Nov6 'previous close' field independently matches) both show MELI closed at $1,530.28 (-12.05%) on Nov5, 2026 (prior close $1,739.88), one day after a Q3 2026 earnings report that came in below expectations (per Motley Fool/Benzinga, both dated Nov5/6 2026) and amid the broader Nasdaq -5.5% selloff. Updated from long-stale stored (1696.56, Oct2) to 1530.28 (Nov5), -9.8% net -- below the 15% threshold, consistent with a genuine earnings-miss-plus-market-selloff catalyst."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "META",
     "name": "Meta Platforms, Inc.",
-    "price": 648.85,
+    "price": 605.08,
     "currency": "USD",
-    "change": -48.67,
-    "changePercent": -6.98,
-    "asOfDate": "2026-10-22",
+    "change": -24.92,
+    "changePercent": -3.96,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "META",
-    "sourceUrl": "https://www.investing.com/news/stock-market-news/meta-earnings-analysis-questions-answered-and-next-catalysts-93CH-4967047",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked (resolved in a prior cycle, trusted/priority ticker). A broad joint search for Nov3/Nov4/Nov5, 2026 closes across AMZN/META/MSFT/GOOGL again surfaced no reliable dated figures for those sessions -- only undated snapshot tables (mixing figures from different, unconfirmed dates) and unrelated Q1/Q2-2026-era earnings commentary. Publication years on all surprising/divergent figures were checked and none applied to a confirmed Nov2026 session. No fresh contradicting or corroborating data found. Kept stored."
+    "sourceUrl": "https://www.cnbc.com/quotes/META",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. Cryptonomist and CNBC's quote page both independently show META closed at $605.08 (-24.92, -3.96%) on Nov5, 2026 (prior close $630.00), consistent with the confirmed market-wide Nov5 crash (Nasdaq -5.5%, worst day since Apr2025) tied to midterm-election AI-regulation fears; a Fortune piece separately corroborates a ~$1.13T combined Magnificent-7 market-cap loss that day. Publication year double-checked (2026, not the similar Nov2025 AI selloff). Updated from stored (648.85, Oct22) to 605.08 (Nov5), -6.7% net -- below the 15% threshold."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "MSFT",
     "name": "Microsoft Corporation",
-    "price": 527.91,
+    "price": 535.93,
     "currency": "USD",
-    "change": 8.41,
-    "changePercent": 1.62,
-    "asOfDate": "2026-10-29",
+    "change": -19.87,
+    "changePercent": -3.58,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "MSFT",
-    "sourceUrl": "https://www.cnbc.com/quotes/MSFT",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked (resolved in a prior cycle, trusted/priority ticker). A broad joint search for Nov3/Nov4/Nov5, 2026 closes across AMZN/META/MSFT/GOOGL again surfaced no reliable dated figures for those sessions -- only undated snapshot tables (mixing figures from different, unconfirmed dates) and unrelated Q1/Q2-2026-era earnings commentary. Publication years on all surprising/divergent figures were checked and none applied to a confirmed Nov2026 session. No fresh contradicting or corroborating data found. Kept stored."
+    "sourceUrl": "https://www.macrotrends.net/stocks/charts/MSFT/microsoft/stock-price-history",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- the Nov5, 2026 AI/chip selloff reaction price is now findable and multi-source confirmed. Confirmed independently via multiple dated historical-price sources (Yahoo Finance history, stockanalysis.com, twelvedata, macrotrends) that MSFT closed at $535.93 on Nov5, 2026, down ~3.58% from a Nov4 close of $555.80 (day range $532.67-$557.62). This fits the well-documented, multi-source-confirmed Nov5 market-wide event: Nasdaq Composite -5.5% (correction territory, worst day since Apr2025), S&P500 -4.4%, Dow -3.4%, triggered by midterm-election AI-regulation/data-center-spending fears plus a weak Qualcomm forecast (confirmed via CNBC, Yahoo Finance, Benzinga, 247wallst, thenationalnews -- all dated 2026-11-05/06, years double-checked to rule out the similar Nov2025 AI-selloff). Note MSFT's Nov5 close (535.93) is still ABOVE the prior stored Oct29 figure (527.91), consistent with MSFT having rallied into early Nov before the crash. Updated from stored (527.91, Oct29) to 535.93 (Nov5), +1.5% net -- a modest move, not a large-move-threshold issue."
   },
   {
     "exchange": "NasdaqGS",
@@ -640,27 +640,27 @@
     "exchange": "NasdaqGS",
     "ticker": "ROP",
     "name": "Roper Technologies, Inc.",
-    "price": 438.98,
+    "price": 490.96,
     "currency": "USD",
-    "change": 0.83,
-    "changePercent": 0.19,
-    "asOfDate": "2026-10-26",
+    "change": -1.26,
+    "changePercent": -0.26,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "ROP",
-    "sourceUrl": "https://benzinga.com/analyst-stock-ratings/upgrades/26/10/62597302/roper-technologies-analyst-turns-bullish-after-q3-print",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline, confirmed distinct from SWX:ROP/Roche). No fresher data searched beyond the existing Oct26 resolution. Kept stored (438.98, Oct26)."
+    "sourceUrl": "https://pitchbook.com/profiles/company/10970-65",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 reaction price found, 3-source confirmed, and confirmed distinct from SWX:ROP/Roche. Finviz, PitchBook and TradingView all independently show Roper Technologies (NasdaqGS:ROP) closed at $490.96 on Nov5, 2026, down just 0.26% from a prior close of $492.22 -- essentially flat despite the broad Nasdaq -5.5% selloff that day, consistent with Roper being far less AI/chip-exposed than MSFT/META/GOOGL/NVDA. Updated from stored (438.98, Oct26) to 490.96 (Nov5), +11.8% net -- a genuine multi-session rally (not a crash-related drop), below the 15% threshold."
   },
   {
     "exchange": "NasdaqGS",
     "ticker": "TXN",
     "name": "Texas Instruments Incorporated",
-    "price": 312.94,
+    "price": 278.15,
     "currency": "USD",
-    "change": 37.2,
-    "changePercent": 13.49,
-    "asOfDate": "2026-10-29",
+    "change": -33.34,
+    "changePercent": -10.7,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "TXN",
-    "sourceUrl": "https://stockanalysis.com/stocks/txn/history",
-    "note": "Nov3 cycle (Tuesday AM refresh): UPDATE, trouble ticker now 2-source corroborated. stockanalysis.com confirms a close of $312.94 (open $306.03, high $313.07, volume ~5.66M) on Oct29, 2026. Benzinga's TXN quote page independently shows the price at approximately $313 as of that same evening, a second, different domain landing within rounding of the stockanalysis.com figure. This is consistent with the already-well-confirmed Q3 2026 earnings beat (revenue $6.06B, EPS $2.62, +28% YoY) reported the same day. Updated from long-stale stored (275.74, Oct2) to 312.94 (Oct29), +13.5% -- a large, earnings-beat-driven, now-2-source-confirmed move, below the 15% threshold. Search results mixing in October 2025 TXN data were identified by year and discarded."
+    "sourceUrl": "https://finance.yahoo.com/quote/TXN/history/",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 chip-selloff reaction price found, multi-source confirmed. Yahoo Finance and Morningstar (citing the same $311.49 prior close) both show TXN closed at $278.15 on Nov5, 2026, down 10.70% (day range $277.87-$307.00), consistent with the confirmed, severe semiconductor-sector selloff that day (Philadelphia Semiconductor Index -12%+, Nvidia -8.9%/-8.7%, AMD -17.4%, confirmed via CNBC/Benzinga/247wallst, all dated 2026-11-05/06). A JKN outlier ($297.27, -4.57%) and some intraday snapshots ($287-289) were checked and discarded as inconsistent/pre-close. Updated from stored (312.94, Oct29) to 278.15 (Nov5), -11.1% net -- large but below the 15% threshold and clearly catalyst-driven."
   },
   {
     "exchange": "SGX",
@@ -829,7 +829,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BIP-UN.TO",
     "sourceUrl": "https://www.marketbeat.com/stocks/TSE/BIP-UN/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. No October/November 2026 TSX-dated close found again this cycle; only a stale MarketBeat figure (C$54.90, last updated Jul2026) and an undated Barchart snapshot (53.92) surfaced, both bracketing stored reasonably. Kept stored (55.66, Oct2)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. Only undated/stale snapshots surfaced (Motley Fool ~C$54.04 undated, likely mid-2026; Snowball Analytics C$55.66 likely Aug2026, matching stored almost exactly) plus unconfirmed estimates that Q3 2026 earnings were due Nov5/6, 2026 -- no settled November close found yet. Kept stored (55.66, Oct2)."
   },
   {
     "exchange": "TSX",
@@ -855,7 +855,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BYD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/BYD",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, trouble ticker, still unresolved. No October/November 2026 TSX:BYD.TO print found again this cycle (search mostly surfaced unrelated BYD Company Limited -- the Chinese EV maker -- OTC/Frankfurt quotes, reinforcing the standing concern about ticker confusion between TSX:BYD/Boyd Group and BYD Company). Kept stored (111.85, Sep29)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. Search again mostly surfaced the NYSE-listed BGSI line (Boyd Group Services' new US ticker post-redomicile, ~$82.31 Oct29) and stale pre-2024 TSX:BYD.TO filler pages -- no current TSX:BYD.TO print found, and the standing BGSI/BYD-ticker-confusion caution still applies. Kept stored (111.85, Sep29)."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/dol-T",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, still unresolved. Only a stale June21, 2026 figure (C$184.85, close to stored) and a 50-day moving-average reference (C$176.55) surfaced; no fresh October/November dated print found. Kept stored (184.01, Oct5) per single-source/internal-inconsistency caution."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, still unresolved. Only stale 2026 snapshots surfaced (June12 C$190.94; March13 $194.75; Feb7 $192.27), all in a band around stored but none dated to October/November. A Dollarama fiscal Q3 2026 earnings-beat article (Barchart) was noted but gave no settled post-earnings price. Kept stored (184.01, Oct5) per lack of a fresh dated print."
   },
   {
     "exchange": "TSX",
@@ -1011,7 +1011,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "DTOL.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DTOL/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker. Same WealthAwesome cluster (C$10.66 Oct6, C$10.34 Oct8, C$10.88 Oct13-14) and the Yahoo Finance Oct16 figure (C$11.12) persist; no second independent domain corroborating any single date found this cycle either. Kept stored (8.97, Sep15); second-source confirmation still needed."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker. Search surfaced only a large volume of automated 2024-dated Globe and Mail 'Closing Bell' filler pages (stock in the low-$12 range, 2023-2024 52-week range) -- no 2026-dated TSX print found. Kept stored (8.97, Sep15); second-source confirmation still needed."
   },
   {
     "exchange": "TSX",
@@ -1037,7 +1037,7 @@
     "asOfDate": "2026-11-04",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://www.investing.com/news/company-news/intact-financial-q3-2026-slides-ai-push-drives-earnings-beat-93CH-5000776",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY #1, re-checked again specifically for the official Nov4 settled close. Still no clean, explicitly-dated 2-domain match for a single Nov4 print, but the evidence now forms a tight convergent cluster: Simply Wall St's Q3-2026-earnings-beat writeup independently cites a 'last close of CA$280.17' (within 0.08% of stored 280.39), and the previously-flagged single-sourced Morningstar 'Closed' print (C$282.02, +7.34%) remains in the mix -- three independent figures (280.17 / 280.39 / 282.02) now cluster within 0.7% of each other, all consistent with the same ~7% post-earnings-beat rally off the already-confirmed Nov3 pre-earnings close of C$262.73. Also reconfirmed: Simply Wall St separately cites a 1-week share-price gain of 7.1% tied to the Q3 beat, consistent with this cluster and not contradicting it. No source gives a one-day percentage tied explicitly to Nov4, so the literal 'official 4pm settled close' pin remains technically open, but the convergent cluster now reasonably supports stored 280.39 as accurate to within rounding. KEPT stored at 280.39 (no regression); PRIORITIZE next cycle: still ideally want one source to explicitly label a print 'Nov4 close' rather than 'last close' as of publication."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY #1, re-checked again. Confirmed in more detail: Intact's Q3 2026 results (reported Nov3 after close) showed net operating income per share of C$3.63 (beat), revenue ~C$6.18B (beat by 1.64%), combined ratio 94% (incl. 4pts of elevated cat losses), operating ROE 16% (10th straight quarter >15%), and management cited ~C$250M in recurring AI-related pretax earnings. Stock-reaction sources remain consistent with, not contradicting, stored: one post-earnings after-hours figure shows +6.39% to $279.52 (prior close $262.73), another shows +6.72% to $280.39 -- both within 0.3% of stored. Still no single source explicitly labelled as the official Nov4 (or later) SETTLED regular-session close, so the literal pin remains open, but the convergent cluster (279.52 / 280.39 / 282.02, all within 0.9%) continues to support stored as accurate to within rounding. No regression; KEPT stored at 280.39. PRIORITIZE next cycle: still want one source to explicitly label a print as a settled close rather than an after-hours/intraday snapshot."
   },
   {
     "exchange": "TSX",
@@ -1173,14 +1173,14 @@
     "exchange": "TSX",
     "ticker": "SHOP",
     "name": "Shopify Inc.",
-    "price": 206.42,
+    "price": 201.23,
     "currency": "CAD",
-    "change": 4.45,
-    "changePercent": 2.2,
-    "asOfDate": "2026-10-01",
+    "change": -11.48,
+    "changePercent": -5.4,
+    "asOfDate": "2026-11-05",
     "displaySymbol": "SHOP.TO",
-    "sourceUrl": "https://stockanalysis.com/quote/tsx/SHOP/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. Shopify's Q3 2026 results (reported Nov3, 2026) are now confirmed in more detail via multiple sources: EPS of $0.49 vs $0.46 consensus (+6.2% beat); revenue of $3.68B vs ~$3.70B consensus (-0.6%, a slight miss); a Canadian Press item (via CTV News) separately reports net income of US$462M with revenue up more than 30% YoY and a Q4 guide for low-thirties-percent revenue growth. The share-price reaction remains genuinely unresolved and contradictory: a Stocktwits headline claims a pre-market pop ('soars pre-market'), RTTNews separately headlines 'profit retreats in Q3', and one undated/unverified snippet shows a NASDAQ-listed SHOP print of $142.65 (-8.77%) loosely tied to a 'shares outstanding as of 3 November 2026' context -- this last figure is single-sourced, not clearly dated to a specific session, and not corroborated, so it is NOT used. No settled TSX-listed (CAD) close found for Nov3/Nov4/Nov5. Kept stored (206.42, Oct1) per lack of corroboration and internally-conflicting leads; still PRIORITIZE the Nov3-6 reaction next cycle, including chasing that unverified $142.65/-8.77% NASDAQ print for a possible second source."
+    "sourceUrl": "https://money.tmx.com/en/quote/SHOP",
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): UPDATE -- long-standing trouble ticker RESOLVED. TMX Money (the official exchange-data source) shows the TSX-listed close at C$201.23 at 4:00 PM ET on Nov5, 2026 (prior close C$212.71), and Bloomberg's Toronto listing independently shows a matching C$201.62 snapshot taken just after that same close -- two independent domains agreeing closely on the same date. This also finally corroborates the previously-flagged-but-rejected unverified NASDAQ-listed figure: the Nasdaq line is now separately confirmed at $143.75 on Nov5, 2026 (via the same TMX-sourced search), close to the earlier single-sourced $142.65/-8.77% lead that had been rejected for lack of corroboration -- that lead is now substantially validated. The decline reflects both Shopify's Q3 2026 results (reported Nov3: EPS beat but a slight revenue miss) and the broad Nov5 market selloff. Updated from stored (206.42, Oct1) to 201.23 (Nov5), -2.5% net -- a modest, well-corroborated move."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TSU/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. No new TSX-dated print surfaced this cycle beyond the same single-domain WealthAwesome figures (C$40.76 Oct7, C$40.62 Oct15); Trisura reported earnings Nov5, 2026 but no reaction price found yet. Kept stored (44.37, Oct5); watch for the Nov5 earnings reaction next cycle."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. Trisura's Q3 2026 earnings date itself is unconfirmed across sources (one aggregator projects Nov5, 2026; last confirmed actual report was Q1, May7, 2026) -- no actual Q3 2026 results or a post-earnings price were found this cycle, only an undated C$40.81 snapshot. Kept stored (44.37, Oct5); watch for a confirmed Q3 2026 earnings reaction next cycle."
   },
   {
     "exchange": "TSX",

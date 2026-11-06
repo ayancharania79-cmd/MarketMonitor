@@ -159,5 +159,12 @@
     "summary": "Markets suffered a severe reversal Thursday Nov5, completely erasing the prior day's midterm-election rally: the Nasdaq Composite plunged 5.52% to 24,315.00 (entering correction territory), the S&P 500 dropped 4.36% to 7,353.73 (its worst single day since April 2025), and the Dow fell 3.44% (1,833.06 points) to 51,523.06. Chip and AI-infrastructure stocks led the rout across all eleven sectors -- Nvidia alone fell about 9.2%, erasing more than $440B in market value, while the Nasdaq-100 lost roughly $2.3 trillion, reportedly the largest single-day dollar loss on record for the index. The move intensifies the AI-capex skepticism theme that has run through Q3 earnings season (Meta, Alphabet, Amazon, Intel) into a full-blown selloff, and underscores how fragile the sector's recent gains have become.",
     "url": "https://www.washingtonpost.com/business/2026/11/05/us-stocks-slide-wiping-out-post-midterm-gains/",
     "date": "2026-11-05"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Chipmakers rebound as dip-buyers return after the AI-selloff",
+    "headline": "Nasdaq and S&P rebound as chipmakers bounce back and a stronger-than-expected jobs report eases growth fears",
+    "summary": "Stocks partially recovered Friday Nov6 from Thursday's severe selloff: the Nasdaq Composite rose roughly 1.4% to around 24,657, the S&P 500 added about 0.6% to roughly 7,396-7,400, while the Dow lagged, roughly flat to slightly lower. Chipmakers led the bounce -- the Nasdaq-100's semiconductor gauge jumped about 4% -- as dip-buyers returned following Thursday's rout, helped by a stronger-than-expected October jobs report (+165K). Even with the rebound, the week ended lower across the board: the S&P 500 down nearly 3%, the Nasdaq off roughly 5%, and the Dow down about 1%, as investors continue to reassess the durability of AI-driven capex spending across the sector.",
+    "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+    "date": "2026-11-06"
   }
 ]
