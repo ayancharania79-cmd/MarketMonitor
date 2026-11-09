@@ -10,7 +10,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BHP.AX",
     "sourceUrl": "https://www.investsmart.com.au/security/asx/bhp/bhp-group-limited/share-price",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked again. Same InvestSmart AGM-period figure (~A$57.56, Oct22, post-AGM) persists; a separate NYSE-listed (BHP ADR) figure shows USD85.75 as of Oct2, 2026, which at ~1.54 AUD/USD and the 1 ADR = 2 ordinary-share ratio implies roughly A$66/share -- noticeably above stored and inconsistent with the AGM-period figure, so neither single-sourced lead is used to override stored. Kept stored (60.47)."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked again. Same InvestSmart AGM-period figure (~A$57.56, Oct22, post-AGM) persists; a separate NYSE-listed (BHP ADR) figure shows USD85.75 as of Oct2, 2026, which at ~1.54 AUD/USD and the 1 ADR = 2 ordinary-share ratio implies roughly A$66/share -- noticeably above stored and inconsistent with the AGM-period figure, so neither single-sourced lead is used to override stored. Kept stored (60.47). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no BHP-specific results surfaced. Kept stored."
   },
   {
     "exchange": "BIT",
@@ -23,7 +23,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ISP.MI",
     "sourceUrl": "https://www.etoro.com/markets/isp.mi",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked jointly with BHP; no ISP-specific results surfaced this cycle (search returned BHP-only data). Kept stored (6.417, Oct5); Intesa's Q3 2026 earnings reaction (results due Oct30) remains unfound."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked jointly with BHP; no ISP-specific results surfaced this cycle (search returned BHP-only data). Kept stored (6.417, Oct5); Intesa's Q3 2026 earnings reaction (results due Oct30) remains unfound. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no ISP-specific results surfaced. Kept stored."
   },
   {
     "exchange": "BME",
@@ -36,7 +36,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "BBVA.MC",
     "sourceUrl": "https://www.marketscreener.com/quote/stock/BBVA-69719/quotes/",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): UPDATE, the previously-requested direct BME close now reasonably found. MarketScreener's dated historical table shows a close of EUR21.87 (-2.58%) on Oct29, 2026 -- within 0.2% of, and on the same date as, the previously-used Vienna cross-listing figure (stockanalysis.com, EUR21.83, -2.80%, Oct29). Two different venues/domains now converge tightly on the same date and the same Q3-2026-miss catalyst (Spain-segment profit miss) already confirmed last cycle via GBM/Reuters. Updated from 21.83 (Vienna proxy) to 21.87 (Madrid-attributed figure), a trivial +0.2% refinement. Change/changePercent now reflect the single Oct29 session move per MarketScreener rather than the multi-week drift from the old stored baseline."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): UPDATE, the previously-requested direct BME close now reasonably found. MarketScreener's dated historical table shows a close of EUR21.87 (-2.58%) on Oct29, 2026 -- within 0.2% of, and on the same date as, the previously-used Vienna cross-listing figure (stockanalysis.com, EUR21.83, -2.80%, Oct29). Two different venues/domains now converge tightly on the same date and the same Q3-2026-miss catalyst (Spain-segment profit miss) already confirmed last cycle via GBM/Reuters. Updated from 21.83 (Vienna proxy) to 21.87 (Madrid-attributed figure), a trivial +0.2% refinement. Change/changePercent now reflect the single Oct29 session move per MarketScreener rather than the multi-week drift from the old stored baseline. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated EUR18.64 snapshot surfaced, not usable. Kept stored."
   },
   {
     "exchange": "CPSE",
@@ -49,7 +49,7 @@
     "asOfDate": "2026-10-15",
     "displaySymbol": "NOVO-B.CO",
     "sourceUrl": "https://www.bolsamania.com/accion/NOVO-B",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. Bolsamania's dated table independently confirms a close of DKK263.45 on Oct15, 2026 (+2.93%), matching stored exactly. Kept stored (263.45), now reinforced by an independent domain."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. Bolsamania's dated table independently confirms a close of DKK263.45 on Oct15, 2026 (+2.93%), matching stored exactly. Kept stored (263.45), now reinforced by an independent domain. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no Copenhagen NOVO B print found; only stale/cross-listed figures (London Oct22 close 39.71; US ADR Aug19 close 46.48; Toronto Sep CA$18.21) surfaced. Kept stored."
   },
   {
     "exchange": "ENXTAM",
@@ -62,7 +62,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "ASML.AS",
     "sourceUrl": "https://stockanalysis.com/stocks/asml/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker (17th+ cycle). Search returned only undated/unconvertible cross-listings (a Nasdaq ADR snapshot ~$1,780, undated; a Bangkok DR listing; an SWX listing) and an undated AEX index level -- no genuine dated Euronext Amsterdam (AEX) print found despite another dedicated search. Kept stored (1478.4, Sep14)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker (17th+ cycle). Search returned only undated/unconvertible cross-listings (a Nasdaq ADR snapshot ~$1,780, undated; a Bangkok DR listing; an SWX listing) and an undated AEX index level -- no genuine dated Euronext Amsterdam (AEX) print found despite another dedicated search. Kept stored (1478.4, Sep14). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker (19th+ cycle). Search again surfaced only undated/stale cross-listings (a Yahoo Finance Canada figure labelled Oct13 but with ambiguous year, EUR1,509.60, -4.20%; a stale May13 MarketScreener EUR1,362.00; a stale June25 ~EUR1,613.40) and no genuine dated Euronext Amsterdam (AEX) print for Oct/Nov2026. Kept stored (1478.4, Sep14)."
   },
   {
     "exchange": "ENXTPA",
@@ -75,7 +75,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "MC.PA",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/armani-stake-talk-and-analyst-downgrades-frame-lvmh-s-pre-earnings-moment/70226529",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, only an Oct7 single-sourced figure (~EUR381.45, intraday) surfaced, slightly above stored and not a wild divergence; no late-October close found. Kept stored (377.85, Oct5)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, only an Oct7 single-sourced figure (~EUR381.45, intraday) surfaced, slightly above stored and not a wild divergence; no late-October close found. Kept stored (377.85, Oct5). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only undated/conflicting EUR471-511 snapshots surfaced. Kept stored."
   },
   {
     "exchange": "ENXTPA",
@@ -88,7 +88,7 @@
     "asOfDate": "2026-10-14",
     "displaySymbol": "RMS.PA",
     "sourceUrl": "https://www.ideal-investisseur.fr/actions-b/hermes-laction-grimpe-de-pres-de-2-parmi-les-plus-fortes-hausses-du-cac-40/27083.html",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced then a new single-sourced lead. Idéal Investisseur independently confirms the Oct14 intraday level matching stored exactly (EUR1,309.50, +2%). The same domain separately reports a later Oct23 intraday pullback to EUR1,270.00 (-1.24%), a modest ~3% decline, single-sourced only. Kept stored (1309.5); the Oct23 pullback lead is worth confirming next cycle."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced then a new single-sourced lead. Idéal Investisseur independently confirms the Oct14 intraday level matching stored exactly (EUR1,309.50, +2%). The same domain separately reports a later Oct23 intraday pullback to EUR1,270.00 (-1.24%), a modest ~3% decline, single-sourced only. Kept stored (1309.5); the Oct23 pullback lead is worth confirming next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated EUR1,678.50 snapshot surfaced. Kept stored."
   },
   {
     "exchange": "ENXTPA",
@@ -101,7 +101,7 @@
     "asOfDate": "2026-10-23",
     "displaySymbol": "SAF.PA",
     "sourceUrl": "https://culture-financiere.com/?p=6757",
-    "note": "Nov2 cycle (Monday close refresh): UPDATE, trouble ticker resolved (9th+ cycle). Two independent French-language sources now agree closely: Culture Financière states Safran closed at EUR275.30 on Oct23, 2026, down 8.9% that single session; ABC Bourse shows EUR275.00 intraday (-8.94%) at 12:55 on the same day. Multiple further sources (Boursedirect, Goldesel (German), Tradingsat, Easybourse) independently corroborate the catalyst: Safran's Q3 2026 revenue rose 14.7% to EUR9,003M (beat), but the stock fell sharply because 2026 guidance/targets were only reconfirmed (not raised, as the market had hoped after GE Aerospace's upgrade three days earlier) and investment spending is set to rise to keep pace with Airbus/Boeing production rates. Prior-session close (Oct22) was ~EUR302.00 (-3.79%), consistent with the chain down from EUR308.20 (Oct21). Updated from long-stale stored (328.9, Oct5) to 275.30 (Oct23), -16.3% -- exceeds the 15% threshold but is accepted given the strong, multi-source, catalyst-confirmed single-day drop."
+    "note": "Nov2 cycle (Monday close refresh): UPDATE, trouble ticker resolved (9th+ cycle). Two independent French-language sources now agree closely: Culture Financière states Safran closed at EUR275.30 on Oct23, 2026, down 8.9% that single session; ABC Bourse shows EUR275.00 intraday (-8.94%) at 12:55 on the same day. Multiple further sources (Boursedirect, Goldesel (German), Tradingsat, Easybourse) independently corroborate the catalyst: Safran's Q3 2026 revenue rose 14.7% to EUR9,003M (beat), but the stock fell sharply because 2026 guidance/targets were only reconfirmed (not raised, as the market had hoped after GE Aerospace's upgrade three days earlier) and investment spending is set to rise to keep pace with Airbus/Boeing production rates. Prior-session close (Oct22) was ~EUR302.00 (-3.79%), consistent with the chain down from EUR308.20 (Oct21). Updated from long-stale stored (328.9, Oct5) to 275.30 (Oct23), -16.3% -- exceeds the 15% threshold but is accepted given the strong, multi-source, catalyst-confirmed single-day drop. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new Safran-specific results surfaced. Kept stored."
   },
   {
     "exchange": "LSE",
@@ -114,7 +114,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "HLMA.L",
     "sourceUrl": "https://www.ajbell.co.uk/market-research/LSE:HLMA",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): UPDATE, trouble ticker resolved with 2-source same-price/same-date match. AJ Bell's market-research page shows LSE:HLMA trading at 3,448p on 30/10/2026 (1-day total return -1.49%), independently matching the previously-flagged single-sourced JournalArta figure (3,448 GBp, -1.49%, dated 30 Oct 2026 ~16:35 UK time, around the London close). Two independent domains now agree on both price and date, clearing the resolution bar. No earnings catalyst identified (Halma's next report is due Nov19, 2026); the ~8.3% decline from the prior stored value is treated as general drift, well below the 15% large-move threshold. Updated from stale stored (3760.0, Sep15) to 3448.0 (Oct30)."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): UPDATE, trouble ticker resolved with 2-source same-price/same-date match. AJ Bell's market-research page shows LSE:HLMA trading at 3,448p on 30/10/2026 (1-day total return -1.49%), independently matching the previously-flagged single-sourced JournalArta figure (3,448 GBp, -1.49%, dated 30 Oct 2026 ~16:35 UK time, around the London close). Two independent domains now agree on both price and date, clearing the resolution bar. No earnings catalyst identified (Halma's next report is due Nov19, 2026); the ~8.3% decline from the prior stored value is treated as general drift, well below the 15% large-move threshold. Updated from stale stored (3760.0, Sep15) to 3448.0 (Oct30). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new Halma-specific results surfaced. Kept stored."
   },
   {
     "exchange": "LSE",
@@ -127,7 +127,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "RR.L",
     "sourceUrl": "https://www.digrin.com/stocks/detail/RR.L/price",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked again, same Oct7 support/resistance figures (~1,404-1,505p) and Oct9 Xetra EUR cross-listing (EUR16.34) persist; Digrin's Sep2026 monthly figure (1,466.40p) remains the most recent reliable point. No October LSE close found. Kept stored (1529.4, Oct2)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked again, same Oct7 support/resistance figures (~1,404-1,505p) and Oct9 Xetra EUR cross-listing (EUR16.34) persist; Digrin's Sep2026 monthly figure (1,466.40p) remains the most recent reliable point. No October LSE close found. Kept stored (1529.4, Oct2). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated GBp1,150.50 snapshot surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -140,7 +140,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "AME",
     "sourceUrl": "https://www.ad-hoc-news.de/boerse/news/corporate-news/ametek-stock-gained-1-14-percent-as-rbc-set-a-usd-291-target/70228557",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. The previously-flagged single-sourced MarketChameleon Nov3 figure ($248.58, +2.8%) remains uncorroborated by a second source; no new data this cycle. Kept stored (251.93, Oct2) per single-source-per-date caution; PRIORITIZE a genuinely dated second source for the Nov3 close next cycle."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. The previously-flagged single-sourced MarketChameleon Nov3 figure ($248.58, +2.8%) remains uncorroborated by a second source; no new data this cycle. Kept stored (251.93, Oct2) per single-source-per-date caution; PRIORITIZE a genuinely dated second source for the Nov3 close next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked, trouble ticker. Q3 2026 results reconfirmed (EPS $2.21 vs $2.11 est., revenue ~$2.22B, shares '+2.8%' per one recap) and full-year EPS guidance raised to $8.53-8.57, but a new single-sourced Trefis data point ($237.09 as of 11/4/2026) conflicts with the previously-flagged single-sourced MarketChameleon figure ($248.58, Nov3) -- two different single-sourced leads that disagree with each other, reinforcing rather than resolving the single-source caution. Kept stored (251.93, Oct2); PRIORITIZE a genuinely 2-source-confirmed Nov3/4 close next cycle."
   },
   {
     "exchange": "NYSE",
@@ -153,7 +153,7 @@
     "asOfDate": "2026-10-12",
     "displaySymbol": "APG",
     "sourceUrl": "https://finance.yahoo.com/quote/APG/chart/",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked, still unresolved but now with a second, independently-sourced data point in the same direction. The Upstox Oct31 lead ($44.34) persists, and a new single-sourced Investing.com lead reports a Nov4 premarket price of $47.58 (-2.22% premarket, i.e. prior close ~$48.67) following an earnings beat (APi's Q3 2026 results were due Nov4 before open) -- analysts keeping Strong Buy ratings with $50-54 targets. This is a second domain, but still not a second source for the SAME date/price as any other lead, so the single-source caution still applies. The two leads ($44.34 Oct31 -> ~$48.67 pre-Nov4) are directionally consistent with a continued rally, not contradictory. Kept stored (40.39, Oct12) per single-source-per-date caution; PRIORITIZE the confirmed Nov4 earnings reaction next cycle."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked, still unresolved but now with a second, independently-sourced data point in the same direction. The Upstox Oct31 lead ($44.34) persists, and a new single-sourced Investing.com lead reports a Nov4 premarket price of $47.58 (-2.22% premarket, i.e. prior close ~$48.67) following an earnings beat (APi's Q3 2026 results were due Nov4 before open) -- analysts keeping Strong Buy ratings with $50-54 targets. This is a second domain, but still not a second source for the SAME date/price as any other lead, so the single-source caution still applies. The two leads ($44.34 Oct31 -> ~$48.67 pre-Nov4) are directionally consistent with a continued rally, not contradictory. Kept stored (40.39, Oct12) per single-source-per-date caution; PRIORITIZE the confirmed Nov4 earnings reaction next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for the Nov4 earnings reaction. Q3 2026 results reconfirmed (adjusted EPS $0.50 vs $0.47 consensus, revenue $2.55B vs ~$2.4B est., a beat) via TipRanks/TheFly, with Stocktwits listing the report date as Oct29 (not Nov4 as previously assumed -- a useful date correction), but still no settled post-earnings close found; price results remain undated/stale (Digrin $39.57 no date; Benzinga Korean-language page $40.48 Oct2). Kept stored (40.39, Oct12) per single-source-per-date caution; PRIORITIZE the confirmed earnings-reaction close next cycle, now with the corrected Oct29 report date."
   },
   {
     "exchange": "NYSE",
@@ -166,7 +166,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "BRK.B",
     "sourceUrl": "https://www.rankia.cl/acciones/berkshire-hathaway-brk-b/foro",
-    "note": "Nov2 cycle (Monday AM refresh): UPDATE, resolved with converging multi-source trend. Multiple independent domains now place BRK.B in the $540-549 band through late Oct: 247wallst.com confirmed a record close of $548.56 on Oct26; massive.com showed $542.99 (-1.02%) as of Oct27 close; a Rankia (Spanish-language) live-quote page shows $541.96 (+0.30%) on Oct30 against a stated previous close of $540.34 (itself corroborated by a separate Oct28 figure). These independent domains agree on both the general price band and the sequential day-over-day chain (548.56 -> 542.99 -> ~540.34 -> 541.96), which is a consistent drift, not a single-source spike. Updated from stale stored (502.98, Oct7) to 541.96 (Oct30), +7.75% -- a genuine multi-week drift (Berkshire hit repeated 52-week highs in Oct per multiple sources), not a data error, and below the 15% large-move threshold. No single dramatic catalyst identified; attributed to sustained strength through October."
+    "note": "Nov2 cycle (Monday AM refresh): UPDATE, resolved with converging multi-source trend. Multiple independent domains now place BRK.B in the $540-549 band through late Oct: 247wallst.com confirmed a record close of $548.56 on Oct26; massive.com showed $542.99 (-1.02%) as of Oct27 close; a Rankia (Spanish-language) live-quote page shows $541.96 (+0.30%) on Oct30 against a stated previous close of $540.34 (itself corroborated by a separate Oct28 figure). These independent domains agree on both the general price band and the sequential day-over-day chain (548.56 -> 542.99 -> ~540.34 -> 541.96), which is a consistent drift, not a single-source spike. Updated from stale stored (502.98, Oct7) to 541.96 (Oct30), +7.75% -- a genuine multi-week drift (Berkshire hit repeated 52-week highs in Oct per multiple sources), not a data error, and below the 15% large-move threshold. No single dramatic catalyst identified; attributed to sustained strength through October. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated StockTwits figure ($489.44) and stale Jun2 figure ($468.73) surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -179,7 +179,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "CSL",
     "sourceUrl": "https://markets.financialcontent.com/poteaudailynews/quote?Symbol=321%3A916251",
-    "note": "Nov2 cycle (Monday AM refresh): UPDATE, resolved. financialcontent.com shows an official close of $371.36 (+26.15, +7.58%) on Oct29, 2026, up from a prior close of $345.21 (matching the previously-seen Oct23 level of ~$345.04 from a separate source). This is independently corroborated in direction and timing by StockStory's Oct29-dated article reporting Carlisle shares 'jumped' (cited intraday at +5.2%) after Q3 2026 results beat estimates (Zacks/TheFly separately confirm Q3 2026 EPS $5.61 vs $5.36 consensus, a sales beat, and a boosted buyback to $1.3B) -- same date, same direction, same catalyst, magnitude consistent with a large one-day earnings-beat rally. Updated from stale stored (352.14, Sep14) to 371.36 (Oct29), +5.46% vs prior stored value, a catalyst-justified post-earnings move below the 15% large-move threshold."
+    "note": "Nov2 cycle (Monday AM refresh): UPDATE, resolved. financialcontent.com shows an official close of $371.36 (+26.15, +7.58%) on Oct29, 2026, up from a prior close of $345.21 (matching the previously-seen Oct23 level of ~$345.04 from a separate source). This is independently corroborated in direction and timing by StockStory's Oct29-dated article reporting Carlisle shares 'jumped' (cited intraday at +5.2%) after Q3 2026 results beat estimates (Zacks/TheFly separately confirm Q3 2026 EPS $5.61 vs $5.36 consensus, a sales beat, and a boosted buyback to $1.3B) -- same date, same direction, same catalyst, magnitude consistent with a large one-day earnings-beat rally. Updated from stale stored (352.14, Sep14) to 371.36 (Oct29), +5.46% vs prior stored value, a catalyst-justified post-earnings move below the 15% large-move threshold. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated Yahoo snippet (previous close 367.41) surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -192,7 +192,7 @@
     "asOfDate": "2026-10-23",
     "displaySymbol": "DHR",
     "sourceUrl": "https://massive.com/quote/dhr",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct23 2-source resolution. Kept stored (230.5, Oct23)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct23 2-source resolution. Kept stored (230.5, Oct23). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated Yahoo snippet (previous close 267.11) surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -205,7 +205,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "EQNR",
     "sourceUrl": "https://marketchameleon.com/Overview/EQNR/Summary/",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE, trouble ticker resolved with multi-source-confirmed catalyst (earnings-date confusion from prior cycles now resolved: Q3 2026 was reported in the Oct27-29 window). Independent sources (OGJ, RTTNews, iTiger, Finanzen.net) all confirm the same dramatic swing: Q3 2026 net income of $2.54bn (vs a $204m LOSS a year earlier), adjusted operating income nearly doubling to $12.35bn, adjusted EPS of $1.20 (vs $0.37 YoY), plus raised 2026 production-growth guidance (~4% from ~3%) and a new buyback tranche. MarketChameleon shows a dated close of $48.75 (+2.5%) on Oct30, 2026; a second source (EarningsWhispers) separately places shares in the $46.15-47.01 post-earnings range, the same general band. Updated from stale stored (40.77, Sep15) to 48.75 (Oct30), +19.6% -- exceeds the 15% threshold but accepted given the well-corroborated, dramatic loss-to-profit earnings catalyst (consistent with this file's precedent for PAC/SAF/TXN). Primary price source is still single-domain for the exact print; corroborate further next cycle."
+    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE, trouble ticker resolved with multi-source-confirmed catalyst (earnings-date confusion from prior cycles now resolved: Q3 2026 was reported in the Oct27-29 window). Independent sources (OGJ, RTTNews, iTiger, Finanzen.net) all confirm the same dramatic swing: Q3 2026 net income of $2.54bn (vs a $204m LOSS a year earlier), adjusted operating income nearly doubling to $12.35bn, adjusted EPS of $1.20 (vs $0.37 YoY), plus raised 2026 production-growth guidance (~4% from ~3%) and a new buyback tranche. MarketChameleon shows a dated close of $48.75 (+2.5%) on Oct30, 2026; a second source (EarningsWhispers) separately places shares in the $46.15-47.01 post-earnings range, the same general band. Updated from stale stored (40.77, Sep15) to 48.75 (Oct30), +19.6% -- exceeds the 15% threshold but accepted given the well-corroborated, dramatic loss-to-profit earnings catalyst (consistent with this file's precedent for PAC/SAF/TXN). Primary price source is still single-domain for the exact print; corroborate further next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked (trusted baseline), reinforced. Digrin independently confirms EQNR closed at $48.75 (+2.5%) on Oct30, 2026, matching stored exactly; a separate Oct24 figure ($48.82) is consistent. Kept stored (48.75)."
   },
   {
     "exchange": "NYSE",
@@ -218,7 +218,7 @@
     "asOfDate": "2026-10-27",
     "displaySymbol": "HCA",
     "sourceUrl": "https://247wallst.com/cards/hca-healthcare-hca-price-swing-01m5zbtkxnz49dd6cr2ybv811q",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked (resolved earlier cycle, 2-source). Only stale Jul/Aug2026 figures ($373.09 Jul monthly; $409.64 Aug6) and non-actionable model forecasts surfaced this cycle; neither is dated near or after Oct27. Kept stored (442.59, Oct27)."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked (resolved earlier cycle, 2-source). Only stale Jul/Aug2026 figures ($373.09 Jul monthly; $409.64 Aug6) and non-actionable model forecasts surfaced this cycle; neither is dated near or after Oct27. Kept stored (442.59, Oct27). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a figure referencing Oct2026 news context (day range $461.77-473.46) with no clear date surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -231,7 +231,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "HDB",
     "sourceUrl": "https://www.trendlyne.com/us/equity/consensus-estimates/1403853/HDB/hdfc-bank-ltd-adr",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked jointly with HCA. Same stale July2026 monthly figure ($23.13) reconfirmed; the underlying NSE:HDFCBANK line shows INR726.95 as of Aug21, 2026, also stale and not directly convertible. No October/November ADR print found. Kept stored (23.1, Oct2)."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked jointly with HCA. Same stale July2026 monthly figure ($23.13) reconfirmed; the underlying NSE:HDFCBANK line shows INR726.95 as of Aug21, 2026, also stale and not directly convertible. No October/November ADR print found. Kept stored (23.1, Oct2). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no HDB-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -244,7 +244,7 @@
     "asOfDate": "2026-10-27",
     "displaySymbol": "HEI",
     "sourceUrl": "https://ycharts.com/companies/HEI",
-    "note": "Nov2 cycle (Monday close refresh): UPDATE, trouble ticker reasonably resolved. YCharts shows a close of $308.91 (-0.80, -0.26%) on Oct27, 2026. Upstox independently shows a day range of $308.91-$312.85 as of Oct28 with an implied previous close of ~$309.26 -- within 0.1% of the YCharts Oct27 figure, from a different domain. Updated from stale stored (335.72, Sep14) to 308.91 (Oct27), -7.99% -- below the 15% threshold, no specific catalyst identified (no earnings; HEICO's next report remains confirmed for Nov24, 2026), treated as general market drift."
+    "note": "Nov2 cycle (Monday close refresh): UPDATE, trouble ticker reasonably resolved. YCharts shows a close of $308.91 (-0.80, -0.26%) on Oct27, 2026. Upstox independently shows a day range of $308.91-$312.85 as of Oct28 with an implied previous close of ~$309.26 -- within 0.1% of the YCharts Oct27 figure, from a different domain. Updated from stale stored (335.72, Sep14) to 308.91 (Oct27), -7.99% -- below the 15% threshold, no specific catalyst identified (no earnings; HEICO's next report remains confirmed for Nov24, 2026), treated as general market drift. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only stale Jul2026 figures (Eulerpool $354.19, Digrin $357.15) surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -257,7 +257,7 @@
     "asOfDate": "2026-10-15",
     "displaySymbol": "IBN",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/ibn/icici-bank-limited/share-price",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked. Same Oct15 figure reconfirmed from the same domain (previous session Oct14 $28.54 -> Oct15 $28.27, matching stored exactly); a monthly adjusted figure ($27.89, ambiguous MTD vs month-end) and a London-listed cross-quote (29.83, Oct22, different instrument) don't add a clean late-October print. Kept stored (28.27, Oct15)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked. Same Oct15 figure reconfirmed from the same domain (previous session Oct14 $28.54 -> Oct15 $28.27, matching stored exactly); a monthly adjusted figure ($27.89, ambiguous MTD vs month-end) and a London-listed cross-quote (29.83, Oct22, different instrument) don't add a clean late-October print. Kept stored (28.27, Oct15). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked jointly with EQNR/ACQ/BYD; no IBN-specific results surfaced (only an undated, unreliable comparison page mixing EQNR/IBN figures without clear attribution). Kept stored (28.27, Oct15)."
   },
   {
     "exchange": "NYSE",
@@ -270,7 +270,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "ICE",
     "sourceUrl": "https://www.investing.com/equities/intercontintlex",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. Only 2025-dated Q3 earnings-reaction coverage surfaced (correctly identified by year and discarded) -- no Q3 2026/Oct29-30 2026 settled close found this cycle. Kept stored (157.85, Sep15); the Oct29/30 2026 reaction remains the priority gap."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. Only 2025-dated Q3 earnings-reaction coverage surfaced (correctly identified by year and discarded) -- no Q3 2026/Oct29-30 2026 settled close found this cycle. Kept stored (157.85, Sep15); the Oct29/30 2026 reaction remains the priority gap. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. Q3 2026 beat reconfirmed (adjusted EPS $2.02 vs $1.96 est., revenue $2.8B, +15% YoY, FY2026 recurring-revenue guidance raised, reported Oct29 2026) and a premarket +6.2% move to $165.58 is noted, but no settled regular-session close for Oct29/30 or later was found. Kept stored (157.85, Sep15); the settled Oct29/30 2026 reaction remains the priority gap."
   },
   {
     "exchange": "NYSE",
@@ -283,7 +283,7 @@
     "asOfDate": "2026-10-13",
     "displaySymbol": "JPM",
     "sourceUrl": "https://www.fool.com/quote/nyse/jpm/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). massive.com independently shows JPM at $331.58 (-1.47% that session) as of Oct23, 2026 close -- within $0.15 of stored (331.43), reinforcing rather than contradicting the trusted baseline. Kept stored (331.43); no fresher dated print found beyond Oct23 reinforcement."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). massive.com independently shows JPM at $331.58 (-1.47% that session) as of Oct23, 2026 close -- within $0.15 of stored (331.43), reinforcing rather than contradicting the trusted baseline. Kept stored (331.43); no fresher dated print found beyond Oct23 reinforcement. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no JPM-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -296,7 +296,7 @@
     "asOfDate": "2026-10-16",
     "displaySymbol": "LOW",
     "sourceUrl": "https://finance.yahoo.com/quote/LOW/",
-    "note": "Oct29 cycle: Re-checked (trusted baseline). No new search performed this cycle; kept stored (197.38), consistent with trusted baseline."
+    "note": "Oct29 cycle: Re-checked (trusted baseline). No new search performed this cycle; kept stored (197.38), consistent with trusted baseline. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no LOW-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -309,7 +309,7 @@
     "asOfDate": "2026-10-28",
     "displaySymbol": "MA",
     "sourceUrl": "https://www.heygotrade.com/en/us-stock/ma/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. A dated pre-earnings quote ($609.85, -0.59%, as of 7:45:33 PM EDT Oct27, 2026) reinforces the level just ahead of the stored Oct28 figure (610.31) -- consistent with, not contradicting, stored. Still no settled Oct29/Oct30 post-earnings close found this cycle. Kept stored (610.31, Oct28); still PRIORITIZE a genuine settled Oct29/30 close next cycle to resolve the direction of the post-earnings reaction (pre-earnings $623.60 Oct23 vs a single-sourced $635.32 Benzinga intraday Oct30 lead remain in tension)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. A dated pre-earnings quote ($609.85, -0.59%, as of 7:45:33 PM EDT Oct27, 2026) reinforces the level just ahead of the stored Oct28 figure (610.31) -- consistent with, not contradicting, stored. Still no settled Oct29/Oct30 post-earnings close found this cycle. Kept stored (610.31, Oct28); still PRIORITIZE a genuine settled Oct29/30 close next cycle to resolve the direction of the post-earnings reaction (pre-earnings $623.60 Oct23 vs a single-sourced $635.32 Benzinga intraday Oct30 lead remain in tension). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a settled Oct29/30 post-earnings close; still not found (results only reconfirmed the pre-earnings Oct23 level, $623.60, and a 2025-dated Oct30 close that was correctly identified by year and discarded). Kept stored (610.31, Oct28); still PRIORITIZE a genuine settled Oct29/30 close next cycle."
   },
   {
     "exchange": "NYSE",
@@ -322,7 +322,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "NVS",
     "sourceUrl": "https://www.fool.com/quote/nyse/nvs/",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): UPDATE, trouble ticker now resolved with a genuine 2-source same-date match. Motley Fool's NVS quote page and Macrotrends both independently show a close of $160.79 on Oct30, 2026 -- two different domains agreeing on both price AND date, clearing the resolution bar set for this ticker. This fits the post-Q3-earnings uptrend chain also seen this cycle (Oct26 $153.81 -> Oct27 $156.86 post-earnings-beat -> Oct29 +3.22% per TradingKey -> Oct30 $160.79), a consistent upward drift, not a contradiction. Updated from stale/single-sourced stored (162.79, Sep8) to 160.79 (Oct30), a modest -1.2% net change -- well below any threshold concern. Change/changePercent left null (exact prior-session close not confidently pinned from available sources)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): UPDATE, trouble ticker now resolved with a genuine 2-source same-date match. Motley Fool's NVS quote page and Macrotrends both independently show a close of $160.79 on Oct30, 2026 -- two different domains agreeing on both price AND date, clearing the resolution bar set for this ticker. This fits the post-Q3-earnings uptrend chain also seen this cycle (Oct26 $153.81 -> Oct27 $156.86 post-earnings-beat -> Oct29 +3.22% per TradingKey -> Oct30 $160.79), a consistent upward drift, not a contradiction. Updated from stale/single-sourced stored (162.79, Sep8) to 160.79 (Oct30), a modest -1.2% net change -- well below any threshold concern. Change/changePercent left null (exact prior-session close not confidently pinned from available sources). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no NVS-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -335,7 +335,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "PAC",
     "sourceUrl": "https://stockanalysis.com/stocks/pac/history/",
-    "note": "Nov2 cycle (Monday close refresh): UPDATE, now multi-source confirmed with catalyst. The Oct30 close of $230.59 (+3.12, +1.37%, day range $221.50-231.94, 4:00 PM EDT) is now corroborated by THREE independent domains: stockanalysis.com (close print), tickertape.in ($230.91 as of Oct30 after-hours, consistent), and tradingkey.com, which explains the rally as tied to PAC's Q3 2026 results (reported Oct19) with the stock up ~7.54% on Oct20 alone and continuing to climb into Oct30 -- a genuine, catalyst-driven, multi-week rally (not a single-day data error), despite underlying passenger-traffic declines (-1.4% YoY Q3) being offset by stronger financial results. Updated from stored (196.61, Oct1) to 230.59 (Oct30), +17.3% -- exceeds the 15% large-move threshold but is accepted given the clear, multi-source-confirmed earnings catalyst and consistent cross-domain agreement."
+    "note": "Nov2 cycle (Monday close refresh): UPDATE, now multi-source confirmed with catalyst. The Oct30 close of $230.59 (+3.12, +1.37%, day range $221.50-231.94, 4:00 PM EDT) is now corroborated by THREE independent domains: stockanalysis.com (close print), tickertape.in ($230.91 as of Oct30 after-hours, consistent), and tradingkey.com, which explains the rally as tied to PAC's Q3 2026 results (reported Oct19) with the stock up ~7.54% on Oct20 alone and continuing to climb into Oct30 -- a genuine, catalyst-driven, multi-week rally (not a single-day data error), despite underlying passenger-traffic declines (-1.4% YoY Q3) being offset by stronger financial results. Updated from stored (196.61, Oct1) to 230.59 (Oct30), +17.3% -- exceeds the 15% large-move threshold but is accepted given the clear, multi-source-confirmed earnings catalyst and consistent cross-domain agreement. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Sep4 figure ($208.23) and an undated TipRanks figure ($222.22) surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -348,7 +348,7 @@
     "asOfDate": "2026-10-28",
     "displaySymbol": "PBR",
     "sourceUrl": "https://www.marketbeat.com/stocks/NYSE/PBR/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct28 2-source resolution. Kept stored (22.02, Oct28)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct28 2-source resolution. Kept stored (22.02, Oct28). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a Buenos Aires peso-line figure (Nov2 close) surfaced, not directly comparable. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -361,7 +361,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "RIO",
     "sourceUrl": "https://stockanalysis.com/stocks/rio/history/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced then a mild single-sourced pullback lead. stockanalysis.com independently confirms the Oct8 figure matches stored exactly (93.34, +0.19%). A separate single-sourced lead (Ryan O'Connell Finance) shows a modest pullback to $91.25 on Oct14 (-1.94%), within 2.2% of stored and not a wild divergence. Kept stored (93.34)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced then a mild single-sourced pullback lead. stockanalysis.com independently confirms the Oct8 figure matches stored exactly (93.34, +0.19%). A separate single-sourced lead (Ryan O'Connell Finance) shows a modest pullback to $91.25 on Oct14 (-1.94%), within 2.2% of stored and not a wild divergence. Kept stored (93.34). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only forecast/projection pages surfaced, no actual print. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -374,7 +374,7 @@
     "asOfDate": "2026-09-16",
     "displaySymbol": "SE",
     "sourceUrl": "https://www.investing.com/equities/sea-limited",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, trouble ticker, still unresolved (rejected 5th time now). A new single-sourced lead (Motley Fool, $74.01 close Oct26, 2026, -26% over the prior month) surfaced, well below stored and not corroborated by any second source; other undated snapshots ($123.91, $112.09, $92.84) remain inconsistent and unusable. SE's Q3 2026 earnings are not due until Nov10, 2026, so no earnings catalyst yet explains a move. Per the wild-divergence-without-corroboration rule, kept stored (124.1, Sep16)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, trouble ticker, still unresolved (rejected 5th time now). A new single-sourced lead (Motley Fool, $74.01 close Oct26, 2026, -26% over the prior month) surfaced, well below stored and not corroborated by any second source; other undated snapshots ($123.91, $112.09, $92.84) remain inconsistent and unusable. SE's Q3 2026 earnings are not due until Nov10, 2026, so no earnings catalyst yet explains a move. Per the wild-divergence-without-corroboration rule, kept stored (124.1, Sep16). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked, trouble ticker, still unresolved (rejected 6th+ time now). A new single-sourced lead (Tickertape, $80.23 as of Nov5, 2026, day range $79.03-81.84) is in the same ballpark as the previously-rejected Motley Fool Oct26 lead ($74.01) and the long-standing single-sourced Investing.com lead, but still lacks a second corroborating source for the same date/price. SE's Q3 2026 earnings are due Nov10, 2026 (tomorrow), so still no earnings catalyst explains a move of this size. Per the wild-divergence-without-corroboration rule, kept stored (124.1, Sep16); this remains the ticker's single most persistent gap in the file and is very likely to resolve once Nov10 earnings hit and get multi-sourced."
   },
   {
     "exchange": "NYSE",
@@ -387,7 +387,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "SHEL",
     "sourceUrl": "https://www.benzinga.com/markets/earnings/26/10/62702832/shell-q3-earnings-reach-highest-level-since-2022-amid-middle-east-turmoil",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 5+ source). No fresher data searched beyond the existing Oct29 well-corroborated resolution. Kept stored (107.99, Oct29)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 5+ source). No fresher data searched beyond the existing Oct29 well-corroborated resolution. Kept stored (107.99, Oct29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no SHEL-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -400,7 +400,7 @@
     "asOfDate": "2026-10-22",
     "displaySymbol": "SPOT",
     "sourceUrl": "https://www.rttnews.com/story.aspx?Id=3701927",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved, trusted baseline). No fresher data searched beyond the existing Oct22 2-source resolution. Kept stored (571.85, Oct22)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved, trusted baseline). No fresher data searched beyond the existing Oct22 2-source resolution. Kept stored (571.85, Oct22). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated screener figure ($496.95) surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -413,7 +413,7 @@
     "asOfDate": "2026-10-26",
     "displaySymbol": "TDG",
     "sourceUrl": "https://massive.com/quote/tdg",
-    "note": "Nov2 cycle (Monday close refresh): UPDATE, trouble ticker now loosely 2-source corroborated. massive.com shows $1,124.47 (+1.78%) as of 2:22:49 PM EDT Oct26, 2026. A separate domain (investing.com) shows $1,136.53 as of Oct29, 2026, about 1.1% higher -- consistent with a continued mild uptrend over 3 trading days (though investing.com's page suspiciously shows an identical 'previous close,' so it is treated as a weaker secondary confirmation rather than full corroboration). Updated from stale stored (1090.38, Oct5) to 1124.47 (Oct26), +3.13% -- a small, low-risk move. Analyst price-target cuts (Morgan Stanley, RBC) noted previously suggest no strong catalyst either way; treated as modest drift. Kept the more precisely-timestamped Oct26 figure as primary; still worth finding a cleaner official close next cycle."
+    "note": "Nov2 cycle (Monday close refresh): UPDATE, trouble ticker now loosely 2-source corroborated. massive.com shows $1,124.47 (+1.78%) as of 2:22:49 PM EDT Oct26, 2026. A separate domain (investing.com) shows $1,136.53 as of Oct29, 2026, about 1.1% higher -- consistent with a continued mild uptrend over 3 trading days (though investing.com's page suspiciously shows an identical 'previous close,' so it is treated as a weaker secondary confirmation rather than full corroboration). Updated from stale stored (1090.38, Oct5) to 1124.47 (Oct26), +3.13% -- a small, low-risk move. Analyst price-target cuts (Morgan Stanley, RBC) noted previously suggest no strong catalyst either way; treated as modest drift. Kept the more precisely-timestamped Oct26 figure as primary; still worth finding a cleaner official close next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale EUR-denominated German price table (through early Aug2026) and an undated figure surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -426,7 +426,7 @@
     "asOfDate": "2026-10-27",
     "displaySymbol": "TMO",
     "sourceUrl": "https://www.heygotrade.com/en/us-stock/tmo/",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE, trouble ticker (many cycles unresolved) now multi-source confirmed. Thermo Fisher reported Q3 2026 results Oct21, 2026 (adjusted EPS $6.68 vs $6.40 consensus, revenue $12.14B vs ~$11.95B expected, organic growth +6%, raised guidance) -- confirmed via AlphaStreet and ad-hoc-news.de. Multiple independent domains now show a consistent post-earnings uptrend: two separate 24/7 Wall St. pieces report the stock jumping 4.25-4.3% intraday on earnings day (to ~$693-694 from an open of $666.14); AlphaStreet shows $687.37 (+1.2%) the same day; MarketBeat shows a close of $684.92 on Oct26; Heygotrade shows a close of $693.02 on Oct27; a further report cites a 52-week high of $704.15 on Oct28. These five independent sources agree on both direction and a tight magnitude band. Updated from stale stored (658.89, Oct2) to 693.02 (Oct27), +5.2% -- a modest, clearly earnings-beat-driven, now well-corroborated move, below the 15% threshold."
+    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE, trouble ticker (many cycles unresolved) now multi-source confirmed. Thermo Fisher reported Q3 2026 results Oct21, 2026 (adjusted EPS $6.68 vs $6.40 consensus, revenue $12.14B vs ~$11.95B expected, organic growth +6%, raised guidance) -- confirmed via AlphaStreet and ad-hoc-news.de. Multiple independent domains now show a consistent post-earnings uptrend: two separate 24/7 Wall St. pieces report the stock jumping 4.25-4.3% intraday on earnings day (to ~$693-694 from an open of $666.14); AlphaStreet shows $687.37 (+1.2%) the same day; MarketBeat shows a close of $684.92 on Oct26; Heygotrade shows a close of $693.02 on Oct27; a further report cites a 52-week high of $704.15 on Oct28. These five independent sources agree on both direction and a tight magnitude band. Updated from stale stored (658.89, Oct2) to 693.02 (Oct27), +5.2% -- a modest, clearly earnings-beat-driven, now well-corroborated move, below the 15% threshold. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a Buenos Aires peso-line figure (Nov2 close) surfaced, not directly comparable. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -439,7 +439,7 @@
     "asOfDate": "2026-11-03",
     "displaySymbol": "TTE",
     "sourceUrl": "https://www.cnbc.com/quotes/TTE",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, RESOLVED value reconfirmed, no regression. No Nov4/Nov5 close found; the most relevant new data point is a dated Yahoo Finance close of $89.95 (-1.52%) on Oct19, 2026, which is consistent with an upward path into the already-confirmed Nov3 $92.70 print (3-source: Yahoo/CNBC/Coinglass) rather than contradicting it. Publication year double-checked (confirmed 2026, not an older TTE snapshot) given this ticker's flagged history of year-mislabeled articles. Kept stored (92.70, Nov3); the long-discredited $55-70 range remains disregarded per standing instruction."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, RESOLVED value reconfirmed, no regression. No Nov4/Nov5 close found; the most relevant new data point is a dated Yahoo Finance close of $89.95 (-1.52%) on Oct19, 2026, which is consistent with an upward path into the already-confirmed Nov3 $92.70 print (3-source: Yahoo/CNBC/Coinglass) rather than contradicting it. Publication year double-checked (confirmed 2026, not an older TTE snapshot) given this ticker's flagged history of year-mislabeled articles. Kept stored (92.70, Nov3); the long-discredited $55-70 range remains disregarded per standing instruction. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new TTE-specific results surfaced this batch. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -452,7 +452,7 @@
     "asOfDate": "2026-09-26",
     "displaySymbol": "UBER",
     "sourceUrl": "https://www.investsmart.com.au/security/nyse/uber/uber-technologies/share-price",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked specifically for the Nov4 earnings reaction. Confirmed Uber reported Q3 2026 results Nov4 before the open as scheduled (options had priced a +/-8.1% implied move), but no source found this cycle gives a settled Nov4/Nov5 close or percentage move -- only pre-report previews and historical pattern context (stock closed lower the day after 6 of its last 8 earnings reports). Kept stored (69.62, Sep26); still PRIORITIZE the Nov4 earnings reaction next cycle."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked specifically for the Nov4 earnings reaction. Confirmed Uber reported Q3 2026 results Nov4 before the open as scheduled (options had priced a +/-8.1% implied move), but no source found this cycle gives a settled Nov4/Nov5 close or percentage move -- only pre-report previews and historical pattern context (stock closed lower the day after 6 of its last 8 earnings reports). Kept stored (69.62, Sep26); still PRIORITIZE the Nov4 earnings reaction next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked specifically for the Nov4 earnings reaction. Confirmed again that Uber reported Q3 2026 before the Nov4 open as scheduled (options had priced +/-6.8% to +/-8.1% implied moves); no source found this cycle gives a settled Nov4/5/6 close or percentage move -- only pre-earnings previews and a 2025-dated post-earnings article mistakenly surfaced (correctly identified by year and discarded). Kept stored (69.62, Sep26); still PRIORITIZE the Nov4 earnings reaction next cycle."
   },
   {
     "exchange": "NYSE",
@@ -465,7 +465,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "UBS",
     "sourceUrl": "https://markets.financialcontent.com/stocks/quote?Symbol=NY%3AUBS",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct29 2-source resolution. Kept stored (48.13, Oct29)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct29 2-source resolution. Kept stored (48.13, Oct29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Jul2026 monthly figure ($52.73) surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -478,7 +478,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "UL",
     "sourceUrl": "https://www.gurufocus.com/stock/UL/summary",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no relevant UL-specific results surfaced at all this cycle (joint search with HDB returned nothing usable). Kept stored (65.28, Oct2)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no relevant UL-specific results surfaced at all this cycle (joint search with HDB returned nothing usable). Kept stored (65.28, Oct2). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no UL-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NYSE",
@@ -491,7 +491,7 @@
     "asOfDate": "2026-10-28",
     "displaySymbol": "V",
     "sourceUrl": "https://www.tikr.com/blog/visa-stock-slips-q4-2026-earnings-incentives-outlook",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): Re-checked (resolved last cycle). A TIKR article independently reconfirms the already-known narrative: Visa closed around $402 on Oct27 (pre-earnings), reported fiscal Q4 2026 results Oct28 (adjusted EPS $3.48 vs $3.44 est., a beat, but shares slipped ~1.4% in extended trading on rising client-incentive costs and FY2027 outlook concerns) -- consistent with, not contradicting, the existing stored resolution (400.60, Oct28). Kept stored."
+    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): Re-checked (resolved last cycle). A TIKR article independently reconfirms the already-known narrative: Visa closed around $402 on Oct27 (pre-earnings), reported fiscal Q4 2026 results Oct28 (adjusted EPS $3.48 vs $3.44 est., a beat, but shares slipped ~1.4% in extended trading on rising client-incentive costs and FY2027 outlook concerns) -- consistent with, not contradicting, the existing stored resolution (400.60, Oct28). Kept stored. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no V-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -504,7 +504,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "AMZN",
     "sourceUrl": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-amazon-shares-slide-as-technology-selloff-erases-early-gains/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and multi-source confirmed. Morningstar, Motley Fool, Macrotrends and Massive.com all independently show AMZN closed at $260.21 (-5.82, -2.19%) on Nov5, 2026 (prior close $266.03), after an early-session pop on the new Uber Eats delivery partnership was erased by the broad market selloff (confirmed Nasdaq -5.5%, worst day since Apr2025). AMZN's Nov5 close remains ABOVE the previously-stored Oct30 figure (240.35), consistent with AMZN rallying strongly (record-high territory per multiple sources) between Oct30 and Nov4 before the Nov5 pullback -- not a data error. Updated from stored (240.35, Oct30) to 260.21 (Nov5), +8.3% net."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and multi-source confirmed. Morningstar, Motley Fool, Macrotrends and Massive.com all independently show AMZN closed at $260.21 (-5.82, -2.19%) on Nov5, 2026 (prior close $266.03), after an early-session pop on the new Uber Eats delivery partnership was erased by the broad market selloff (confirmed Nasdaq -5.5%, worst day since Apr2025). AMZN's Nov5 close remains ABOVE the previously-stored Oct30 figure (240.35), consistent with AMZN rallying strongly (record-high territory per multiple sources) between Oct30 and Nov4 before the Nov5 pullback -- not a data error. Updated from stored (240.35, Oct30) to 260.21 (Nov5), +8.3% net. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a Nov6 close; only intraday snapshots found (e.g. $260.56 at 8:36am EST pre-open, $262.31 at 1:29pm EST), no settled close. Kept stored (260.21, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -517,7 +517,7 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "APP",
     "sourceUrl": "https://coincentral.com/applovin-app-stock-drops-5-after-wells-fargo-pixel-warning",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no fresh USD Nasdaq print found this cycle (only non-comparable cross-listings: Vienna EUR~237 Oct28, Mexico peso-line, Toronto CA$8.81). Kept stored (290.43, Sep30); the single-sourced Oct8 $281.29 lead from last cycle remains unconfirmed."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no fresh USD Nasdaq print found this cycle (only non-comparable cross-listings: Vienna EUR~237 Oct28, Mexico peso-line, Toronto CA$8.81). Kept stored (290.43, Sep30); the single-sourced Oct8 $281.29 lead from last cycle remains unconfirmed. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Aug14 figure ($315.44) and a non-comparable Mexican peso-line figure surfaced. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -530,7 +530,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "CDNS",
     "sourceUrl": "https://www.gurufocus.com/news/9177250/a-look-at-cadence-design-systems-inc-cdns-after-55-decline-gf-value-41011-vs-price-31143",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. GuruFocus and Morningstar both independently show CDNS closed at $311.43 on Nov5, 2026, down 5.49% from a Nov4 close of $329.52 (day range $308.05-$322.88). Consistent with, though a bit sharper than, the broad market move (Nasdaq -5.5%) -- a Wall Street Zen Buy-to-Hold downgrade issued the same day may have added incremental pressure. Updated from stored (342.46, Oct29) to 311.43 (Nov5), -9.1% net -- below the 15% threshold."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. GuruFocus and Morningstar both independently show CDNS closed at $311.43 on Nov5, 2026, down 5.49% from a Nov4 close of $329.52 (day range $308.05-$322.88). Consistent with, though a bit sharper than, the broad market move (Nasdaq -5.5%) -- a Wall Street Zen Buy-to-Hold downgrade issued the same day may have added incremental pressure. Updated from stored (342.46, Oct29) to 311.43 (Nov5), -9.1% net -- below the 15% threshold. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a Nov6 close given the confirmed Friday chip-sector rebound (AMD +10.8%, Nvidia +3.9%, per TheStreet/StockTitan); no settled CDNS print newer than Nov5 found (results returned only an Aug20 $313.59 close and undated comparison figures). As an EDA/chip-design name, CDNS plausibly participated in the rebound, but this is not corroborated at the individual-ticker level this cycle. Kept stored (311.43, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -543,7 +543,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "DPZ",
     "sourceUrl": "https://ca.finance.yahoo.com/quote/DPZ/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 price found, 3-source confirmed. Yahoo Finance, CNN and MarketBeat all independently show DPZ closed at $341.63 (+0.94, +0.28%) on Nov5, 2026 (prior close $340.69), effectively flat despite the broad market selloff that day -- consistent with Domino's being largely insulated from the AI/chip-spending narrative. Updated from stored (313.61, Oct23) to 341.63 (Nov5), +9.0% net -- below the 15% threshold, general drift/strength, no specific catalyst identified."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 price found, 3-source confirmed. Yahoo Finance, CNN and MarketBeat all independently show DPZ closed at $341.63 (+0.94, +0.28%) on Nov5, 2026 (prior close $340.69), effectively flat despite the broad market selloff that day -- consistent with Domino's being largely insulated from the AI/chip-spending narrative. Updated from stored (313.61, Oct23) to 341.63 (Nov5), +9.0% net -- below the 15% threshold, general drift/strength, no specific catalyst identified. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked; no fresher dated print found beyond the already-resolved Nov5 3-source close. Kept stored (341.63, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -556,7 +556,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "FTNT",
     "sourceUrl": "https://finance.yahoo.com/quote/FTNT/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- large move, but now well-corroborated across two sequential, independently-confirmed catalysts. (1) FTNT's own Q3 2026 earnings (reported after the bell Oct28) triggered a sell-the-news reaction tied to a cut service-revenue guide and a disclosed cyber breach: Investing.com and Trefis agree the Oct28 regular session closed at $174.29 (-5.8%, pre-earnings), and multiple independent sources (Zacks, Yahoo, Motley Fool, Koalagains, TradingKey, MarketBeat) agree the Oct29 session then fell ~20-22%, with Trefis giving an explicit close of $139.10 (consistent with that %% move off $174.29). (2) The Nov5 broad AI/chip selloff added a further confirmed leg down: Yahoo Finance, Morningstar, Finviz and Investing.com all independently show FTNT closed at $122.51/$122.42 (-5.32%) on Nov5, 2026, versus a Nov4 close of $129.39 (matching Heygotrade's separately-reported $129.39 Nov4 close). This full chain (174.29 -> 139.10 -> ...-> 129.39 -> 122.51) is corroborated by many independent domains at each step. Updated from long-stale stored (184.05, Oct14) to 122.51 (Nov5), -33.4% net -- exceeds the 15% threshold but accepted given the clear, multi-source, two-catalyst chain (earnings guidance cut + broad AI selloff), consistent with this file's established precedent for large corroborated catalyst-driven moves."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- large move, but now well-corroborated across two sequential, independently-confirmed catalysts. (1) FTNT's own Q3 2026 earnings (reported after the bell Oct28) triggered a sell-the-news reaction tied to a cut service-revenue guide and a disclosed cyber breach: Investing.com and Trefis agree the Oct28 regular session closed at $174.29 (-5.8%, pre-earnings), and multiple independent sources (Zacks, Yahoo, Motley Fool, Koalagains, TradingKey, MarketBeat) agree the Oct29 session then fell ~20-22%, with Trefis giving an explicit close of $139.10 (consistent with that %% move off $174.29). (2) The Nov5 broad AI/chip selloff added a further confirmed leg down: Yahoo Finance, Morningstar, Finviz and Investing.com all independently show FTNT closed at $122.51/$122.42 (-5.32%) on Nov5, 2026, versus a Nov4 close of $129.39 (matching Heygotrade's separately-reported $129.39 Nov4 close). This full chain (174.29 -> 139.10 -> ...-> 129.39 -> 122.51) is corroborated by many independent domains at each step. Updated from long-stale stored (184.05, Oct14) to 122.51 (Nov5), -33.4% net -- exceeds the 15% threshold but accepted given the clear, multi-source, two-catalyst chain (earnings guidance cut + broad AI selloff), consistent with this file's established precedent for large corroborated catalyst-driven moves. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a Nov6 close; no settled print newer than Nov5 found (only a stale Nov2 $128.20 figure and an Oct monthly $178.72 figure, both pre-dating or inconsistent with the already-resolved Nov5 chain). Kept stored (122.51, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -569,7 +569,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "GMAB",
     "sourceUrl": "https://www.morningstar.com/stocks/xnas/gmab/quote",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- trouble ticker RESOLVED. This cycle's search surfaced a tight, internally-consistent, multi-source, multi-day cluster that supersedes the long-stale stored value: Macrotrends/dated-quote sources show GMAB closed at $55.52 on Nov3, 2026 and $55.12 on Nov4, 2026; Heygotrade AND Morningstar then independently agree GMAB closed at $52.74 (-4.32%) on Nov5, 2026 (prior close $55.12, matching the Nov4 figure exactly) -- a genuine 2-source same-price/same-date match, following a Q3 2026 report where Epkinly sales slightly missed and guidance was held rather than raised (a 'sell the news' reaction, confirmed via Investing.com). This $52-56 band is consistent with, and finally corroborates, leads flagged as likely data errors in prior cycles (the previously-rejected $57.29/$56.49 Oct28/29 leads) -- the stored $36.89 (Oct14) appears to have been the stale/erroneous figure all along. Updated from stored (36.89, Oct14) to 52.74 (Nov5), +43.0% -- a large change versus the old stored baseline, but accepted because it is now the clearly correct, multi-source-and-multi-date-corroborated current price, not a one-off spike; the stored baseline itself is what was wrong."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- trouble ticker RESOLVED. This cycle's search surfaced a tight, internally-consistent, multi-source, multi-day cluster that supersedes the long-stale stored value: Macrotrends/dated-quote sources show GMAB closed at $55.52 on Nov3, 2026 and $55.12 on Nov4, 2026; Heygotrade AND Morningstar then independently agree GMAB closed at $52.74 (-4.32%) on Nov5, 2026 (prior close $55.12, matching the Nov4 figure exactly) -- a genuine 2-source same-price/same-date match, following a Q3 2026 report where Epkinly sales slightly missed and guidance was held rather than raised (a 'sell the news' reaction, confirmed via Investing.com). This $52-56 band is consistent with, and finally corroborates, leads flagged as likely data errors in prior cycles (the previously-rejected $57.29/$56.49 Oct28/29 leads) -- the stored $36.89 (Oct14) appears to have been the stale/erroneous figure all along. Updated from stored (36.89, Oct14) to 52.74 (Nov5), +43.0% -- a large change versus the old stored baseline, but accepted because it is now the clearly correct, multi-source-and-multi-date-corroborated current price, not a one-off spike; the stored baseline itself is what was wrong. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a fresher close; no settled print newer than Nov5 found (only a stale/undated Oct29 Copenhagen DKK3,868.0 figure and undated Robinhood $32.40 snapshot, both unusable). Kept stored (52.74, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -582,7 +582,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "GOOGL",
     "sourceUrl": "https://www.google.com/finance/quote/GOOGL:NASDAQ",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. Gotrade and Google Finance both independently show GOOGL closed at $282.57 (-2.20%) on Nov5, 2026 (prior close ~$288.93 per Trefis), a notably smaller decline than the Nasdaq's -5.5% that day. This is distinct from, and should not be confused with, the already-stored Oct29 figure (283.82, -12.64%, a separate earnings-driven selloff) -- both events confirmed as real but on different dates; year/date carefully checked. Updated from stored (283.82, Oct29) to 282.57 (Nov5), a trivial -0.4% net change, reflecting that GOOGL had recovered somewhat between Oct29 and Nov4 before the broad Nov5 pullback."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. Gotrade and Google Finance both independently show GOOGL closed at $282.57 (-2.20%) on Nov5, 2026 (prior close ~$288.93 per Trefis), a notably smaller decline than the Nasdaq's -5.5% that day. This is distinct from, and should not be confused with, the already-stored Oct29 figure (283.82, -12.64%, a separate earnings-driven selloff) -- both events confirmed as real but on different dates; year/date carefully checked. Updated from stored (283.82, Oct29) to 282.57 (Nov5), a trivial -0.4% net change, reflecting that GOOGL had recovered somewhat between Oct29 and Nov4 before the broad Nov5 pullback. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a Nov6 close. A single source (massive.com) shows GOOGL at $284.78 (+0.78%) as of 4:28:30pm EST Nov6, 2026, consistent in direction and magnitude with the broad, chip-led but narrow Nasdaq rally that day (+1.09%) -- but this is single-sourced for the exact date/price, so per the single-source-caution rule it is NOT used to override stored. Kept stored (282.57, Nov5); the $284.78 Nov6 lead is worth a second-source check next cycle."
   },
   {
     "exchange": "NasdaqGS",
@@ -595,7 +595,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "MELI",
     "sourceUrl": "https://www.heygotrade.com/en/us-stock/meli/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 reaction price found, 2-source confirmed. Heygotrade and Finviz (whose Nov6 'previous close' field independently matches) both show MELI closed at $1,530.28 (-12.05%) on Nov5, 2026 (prior close $1,739.88), one day after a Q3 2026 earnings report that came in below expectations (per Motley Fool/Benzinga, both dated Nov5/6 2026) and amid the broader Nasdaq -5.5% selloff. Updated from long-stale stored (1696.56, Oct2) to 1530.28 (Nov5), -9.8% net -- below the 15% threshold, consistent with a genuine earnings-miss-plus-market-selloff catalyst."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 reaction price found, 2-source confirmed. Heygotrade and Finviz (whose Nov6 'previous close' field independently matches) both show MELI closed at $1,530.28 (-12.05%) on Nov5, 2026 (prior close $1,739.88), one day after a Q3 2026 earnings report that came in below expectations (per Motley Fool/Benzinga, both dated Nov5/6 2026) and amid the broader Nasdaq -5.5% selloff. Updated from long-stale stored (1696.56, Oct2) to 1530.28 (Nov5), -9.8% net -- below the 15% threshold, consistent with a genuine earnings-miss-plus-market-selloff catalyst. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a fresher close; no settled print newer than Nov5 found (an Upstox Oct30 figure, $1,659.58, and assorted undated snapshots $1,696-1,743 don't add a new dated point). Kept stored (1530.28, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -608,7 +608,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "META",
     "sourceUrl": "https://www.cnbc.com/quotes/META",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. Cryptonomist and CNBC's quote page both independently show META closed at $605.08 (-24.92, -3.96%) on Nov5, 2026 (prior close $630.00), consistent with the confirmed market-wide Nov5 crash (Nasdaq -5.5%, worst day since Apr2025) tied to midterm-election AI-regulation fears; a Fortune piece separately corroborates a ~$1.13T combined Magnificent-7 market-cap loss that day. Publication year double-checked (2026, not the similar Nov2025 AI selloff). Updated from stored (648.85, Oct22) to 605.08 (Nov5), -6.7% net -- below the 15% threshold."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 AI-selloff reaction price found and 2-source confirmed. Cryptonomist and CNBC's quote page both independently show META closed at $605.08 (-24.92, -3.96%) on Nov5, 2026 (prior close $630.00), consistent with the confirmed market-wide Nov5 crash (Nasdaq -5.5%, worst day since Apr2025) tied to midterm-election AI-regulation fears; a Fortune piece separately corroborates a ~$1.13T combined Magnificent-7 market-cap loss that day. Publication year double-checked (2026, not the similar Nov2025 AI selloff). Updated from stored (648.85, Oct22) to 605.08 (Nov5), -6.7% net -- below the 15% threshold. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a Nov6 close; no settled print found (search results for META's Nov6 date returned only stale Aug2026/2025-dated pages). Given META is less semiconductor-adjacent than MSFT/GOOGL, no strong basis to assume it tracked the narrow chip-led Nov6 rally. Kept stored (605.08, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -621,7 +621,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "MSFT",
     "sourceUrl": "https://www.macrotrends.net/stocks/charts/MSFT/microsoft/stock-price-history",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- the Nov5, 2026 AI/chip selloff reaction price is now findable and multi-source confirmed. Confirmed independently via multiple dated historical-price sources (Yahoo Finance history, stockanalysis.com, twelvedata, macrotrends) that MSFT closed at $535.93 on Nov5, 2026, down ~3.58% from a Nov4 close of $555.80 (day range $532.67-$557.62). This fits the well-documented, multi-source-confirmed Nov5 market-wide event: Nasdaq Composite -5.5% (correction territory, worst day since Apr2025), S&P500 -4.4%, Dow -3.4%, triggered by midterm-election AI-regulation/data-center-spending fears plus a weak Qualcomm forecast (confirmed via CNBC, Yahoo Finance, Benzinga, 247wallst, thenationalnews -- all dated 2026-11-05/06, years double-checked to rule out the similar Nov2025 AI-selloff). Note MSFT's Nov5 close (535.93) is still ABOVE the prior stored Oct29 figure (527.91), consistent with MSFT having rallied into early Nov before the crash. Updated from stored (527.91, Oct29) to 535.93 (Nov5), +1.5% net -- a modest move, not a large-move-threshold issue."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- the Nov5, 2026 AI/chip selloff reaction price is now findable and multi-source confirmed. Confirmed independently via multiple dated historical-price sources (Yahoo Finance history, stockanalysis.com, twelvedata, macrotrends) that MSFT closed at $535.93 on Nov5, 2026, down ~3.58% from a Nov4 close of $555.80 (day range $532.67-$557.62). This fits the well-documented, multi-source-confirmed Nov5 market-wide event: Nasdaq Composite -5.5% (correction territory, worst day since Apr2025), S&P500 -4.4%, Dow -3.4%, triggered by midterm-election AI-regulation/data-center-spending fears plus a weak Qualcomm forecast (confirmed via CNBC, Yahoo Finance, Benzinga, 247wallst, thenationalnews -- all dated 2026-11-05/06, years double-checked to rule out the similar Nov2025 AI-selloff). Note MSFT's Nov5 close (535.93) is still ABOVE the prior stored Oct29 figure (527.91), consistent with MSFT having rallied into early Nov before the crash. Updated from stored (527.91, Oct29) to 535.93 (Nov5), +1.5% net -- a modest move, not a large-move-threshold issue. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a Nov6 settled close. Confirmed broad market context via multiple independent outlets (TheStreet, Yahoo Finance, StockTitan/Upstox): Nasdaq Composite closed Nov6, 2026 at 24,579.42 (+1.09%), S&P500 at 7,376.86 (+0.31%), Dow at 51,285.73 (-0.46%), led by a chip-stock rebound (AMD +10.8%, Nvidia +3.9%) a day after Thursday's rout; multiple sources also note 'more S&P500 stocks fell than rose' that day, i.e. a narrow, chip-led rally. No settled Nov6 MSFT print found this cycle (only a 9:59am intraday snapshot, $529.56, -1.19%, from massive.com, inconsistent with a broad-market up day and likely a stale/mid-session read). Kept stored (535.93, Nov5) pending a genuine Nov6+ settled close; year-labeling double-checked (no Nov2025 mix-up found)."
   },
   {
     "exchange": "NasdaqGS",
@@ -634,7 +634,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "NFLX",
     "sourceUrl": "https://www.benzinga.com/trading-ideas/movers/25/10/48571277/why-is-netflix-stock-up-today",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked, no reliable October/November close found this cycle (same stale Jun26 figure ($73.81) and mismatched low-value instrument quotes surfaced again, discarded as before). Kept stored (67.58, Oct6)."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): Re-checked, no reliable October/November close found this cycle (same stale Jun26 figure ($73.81) and mismatched low-value instrument quotes surfaced again, discarded as before). Kept stored (67.58, Oct6). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no NFLX-specific results surfaced. Kept stored."
   },
   {
     "exchange": "NasdaqGS",
@@ -647,7 +647,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "ROP",
     "sourceUrl": "https://pitchbook.com/profiles/company/10970-65",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 reaction price found, 3-source confirmed, and confirmed distinct from SWX:ROP/Roche. Finviz, PitchBook and TradingView all independently show Roper Technologies (NasdaqGS:ROP) closed at $490.96 on Nov5, 2026, down just 0.26% from a prior close of $492.22 -- essentially flat despite the broad Nasdaq -5.5% selloff that day, consistent with Roper being far less AI/chip-exposed than MSFT/META/GOOGL/NVDA. Updated from stored (438.98, Oct26) to 490.96 (Nov5), +11.8% net -- a genuine multi-session rally (not a crash-related drop), below the 15% threshold."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 reaction price found, 3-source confirmed, and confirmed distinct from SWX:ROP/Roche. Finviz, PitchBook and TradingView all independently show Roper Technologies (NasdaqGS:ROP) closed at $490.96 on Nov5, 2026, down just 0.26% from a prior close of $492.22 -- essentially flat despite the broad Nasdaq -5.5% selloff that day, consistent with Roper being far less AI/chip-exposed than MSFT/META/GOOGL/NVDA. Updated from stored (438.98, Oct26) to 490.96 (Nov5), +11.8% net -- a genuine multi-session rally (not a crash-related drop), below the 15% threshold. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked and reinforced. New dated points -- Upstox $466.62 (+3.7%) Oct31, Benzinga $441.65 close Oct26 -- fit consistently beneath the already-stored Nov5 figure (490.96, essentially flat vs a Nov4 close of ~492.22), i.e. a steady multi-session rise from Oct26 through early Nov that is not contradicted by anything found this cycle. Confirmed again distinct from SWX:ROP/Roche Holding. Kept stored (490.96, Nov5)."
   },
   {
     "exchange": "NasdaqGS",
@@ -660,7 +660,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "TXN",
     "sourceUrl": "https://finance.yahoo.com/quote/TXN/history/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 chip-selloff reaction price found, multi-source confirmed. Yahoo Finance and Morningstar (citing the same $311.49 prior close) both show TXN closed at $278.15 on Nov5, 2026, down 10.70% (day range $277.87-$307.00), consistent with the confirmed, severe semiconductor-sector selloff that day (Philadelphia Semiconductor Index -12%+, Nvidia -8.9%/-8.7%, AMD -17.4%, confirmed via CNBC/Benzinga/247wallst, all dated 2026-11-05/06). A JKN outlier ($297.27, -4.57%) and some intraday snapshots ($287-289) were checked and discarded as inconsistent/pre-close. Updated from stored (312.94, Oct29) to 278.15 (Nov5), -11.1% net -- large but below the 15% threshold and clearly catalyst-driven."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY, UPDATE -- Nov5 chip-selloff reaction price found, multi-source confirmed. Yahoo Finance and Morningstar (citing the same $311.49 prior close) both show TXN closed at $278.15 on Nov5, 2026, down 10.70% (day range $277.87-$307.00), consistent with the confirmed, severe semiconductor-sector selloff that day (Philadelphia Semiconductor Index -12%+, Nvidia -8.9%/-8.7%, AMD -17.4%, confirmed via CNBC/Benzinga/247wallst, all dated 2026-11-05/06). A JKN outlier ($297.27, -4.57%) and some intraday snapshots ($287-289) were checked and discarded as inconsistent/pre-close. Updated from stored (312.94, Oct29) to 278.15 (Nov5), -11.1% net -- large but below the 15% threshold and clearly catalyst-driven. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked for a Nov6 close given the confirmed broad chip-sector rebound; no settled TXN print newer than Nov5 found (only stale Jan/Apr/Jul2026 references and non-US-listing cross-quotes surfaced). Kept stored (278.15, Nov5); TXN plausibly rebounded with peers Nov6 but unconfirmed."
   },
   {
     "exchange": "SGX",
@@ -673,7 +673,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "D05.SI",
     "sourceUrl": "https://growbeansprout.com/quote/D05.SI",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no D05.SI-specific results surfaced at all this cycle. Kept stored (77.21, Oct2)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no D05.SI-specific results surfaced at all this cycle. Kept stored (77.21, Oct2). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no D05-specific results surfaced. Kept stored."
   },
   {
     "exchange": "SWX",
@@ -686,7 +686,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "ROG.SW",
     "sourceUrl": "https://tradingeconomics.com/rog:vx",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline, Roche Holding, distinct from NasdaqGS:ROP/Roper). Only a stale Aug4 figure (CHF363.20) surfaced, close to stored and not a wild divergence; no October print found. Kept stored (371.4)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline, Roche Holding, distinct from NasdaqGS:ROP/Roper). Only a stale Aug4 figure (CHF363.20) surfaced, close to stored and not a wild divergence; no October print found. Kept stored (371.4). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked (trusted baseline, Roche Holding, distinct from NasdaqGS:ROP/Roper Technologies -- confirmed still correctly kept separate). Only a stale Aug2026 figure (CHF322.30, appearing for both July and August entries on one source, suggesting a stale cached page) surfaced, well below stored and not dated to Oct/Nov. No October/November print found. Kept stored (371.4, Oct2)."
   },
   {
     "exchange": "TSE",
@@ -699,7 +699,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "8001.T",
     "sourceUrl": "https://finance.yahoo.com/quote/8001.T/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. No Tokyo (TSE, JPY) print found for October/November 2026; only a Vienna EUR cross-listing (different venue/currency, not convertible with confidence) and a stale June3, 2026 Tokyo figure (JPY1,858.50) surfaced. Kept stored (2175.5, Oct2)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked. No Tokyo (TSE, JPY) print found for October/November 2026; only a Vienna EUR cross-listing (different venue/currency, not convertible with confidence) and a stale June3, 2026 Tokyo figure (JPY1,858.50) surfaced. Kept stored (2175.5, Oct2). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); a same-domain (gyokaidigest.com) comparison page states an Oct30, 2026 close of ¥2,326.5, ~6.9% above stored, but it is single-domain (two pages from the same site, not independent sources) so is NOT used to override stored per the single-source caution. Kept stored."
   },
   {
     "exchange": "TSE",
@@ -712,7 +712,7 @@
     "asOfDate": "2026-10-06",
     "displaySymbol": "8031.T",
     "sourceUrl": "https://www.investing.com/equities/mitsui---co.,-ltd.",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked, reinforced. MarketScreener shows a dated close of JPY4,942 (-0.80%) on Oct23, 2026, within 0.5% of stored (4964, Oct6) -- consistent, not a wild divergence. Kept stored (4964.0)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked, reinforced. MarketScreener shows a dated close of JPY4,942 (-0.80%) on Oct23, 2026, within 0.5% of stored (4964, Oct6) -- consistent, not a wild divergence. Kept stored (4964.0). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); a monthly Oct2026 average of ¥4,925 surfaced, reinforcing stored (4964, Oct6), not contradicting it. Kept stored."
   },
   {
     "exchange": "TSE",
@@ -725,7 +725,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "8058.T",
     "sourceUrl": "https://www.google.com/finance/quote/8058:TYO",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, same single-sourced stockanalysis.com figure (JPY4,712, Oct20, -1.03% that day) reconfirmed again from the same domain, still no second source found. Kept stored (5005.0, Oct7) per single-source caution."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, same single-sourced stockanalysis.com figure (JPY4,712, Oct20, -1.03% that day) reconfirmed again from the same domain, still no second source found. Kept stored (5005.0, Oct7) per single-source caution. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); a same-domain (gyokaidigest.com) comparison page states an Oct30, 2026 close of ¥4,805, below stored, but it is single-domain so is NOT used to override stored per the single-source caution; the already-known single-sourced Oct20 figure (¥4,712) persists unconfirmed. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -738,7 +738,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "ACQ.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ACQ-T/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. No new AutoCanada-specific results surfaced this cycle (joint search with DTOL/DOL returned nothing ACQ-specific). Kept stored (22.62, Oct5)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. No new AutoCanada-specific results surfaced this cycle (joint search with DTOL/DOL returned nothing ACQ-specific). Kept stored (22.62, Oct5). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked again jointly with EQNR/IBN/BYD; no AutoCanada-specific results surfaced. Kept stored (22.62, Oct5)."
   },
   {
     "exchange": "TSX",
@@ -751,7 +751,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "AIF.TO",
     "sourceUrl": "https://www.fool.com/quote/tsx/aif/",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE. Motley Fool shows a close of C$50.26 on Oct29, 2026 -- the latest in a consistent, multi-point progression documented across several WealthAwesome dated articles this month (C$44.34 Oct2, matching stored almost exactly; C$44.75 Oct8), all from dated, sequential snapshots that corroborate each other's trend even though the Oct29 end-point itself is single-domain (Motley Fool). Updated from stored (44.84, Oct2) to 50.26 (Oct29), +12.1% -- below the 15% threshold; no specific catalyst identified for the rise. PRIORITIZE a second-domain confirmation of the Oct29 figure next cycle."
+    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE. Motley Fool shows a close of C$50.26 on Oct29, 2026 -- the latest in a consistent, multi-point progression documented across several WealthAwesome dated articles this month (C$44.34 Oct2, matching stored almost exactly; C$44.75 Oct8), all from dated, sequential snapshots that corroborate each other's trend even though the Oct29 end-point itself is single-domain (Motley Fool). Updated from stored (44.84, Oct2) to 50.26 (Oct29), +12.1% -- below the 15% threshold; no specific catalyst identified for the rise. PRIORITIZE a second-domain confirmation of the Oct29 figure next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only conflicting undated figures (Eulerpool C$46.76 Jul17; Simply Wall St undated C$58.34) surfaced beyond the existing Oct29 resolution. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -764,7 +764,7 @@
     "asOfDate": "2026-09-28",
     "displaySymbol": "ATD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/ATD",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, trouble ticker. No new dated TSX print surfaced this cycle beyond the already-known brackets (C$77.16 Oct6; ~C$78.49 Oct9-13 Irving-deal context), both close to stored and not a wild divergence. Kept stored (78.67, Sep28)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked, trouble ticker. No new dated TSX print surfaced this cycle beyond the already-known brackets (C$77.16 Oct6; ~C$78.49 Oct9-13 Irving-deal context), both close to stored and not a wild divergence. Kept stored (78.67, Sep28). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked, trouble ticker. Only undated/unclear figures surfaced (a Chartmill Jul31 close, C$91.01; an undated Marketlog C$84.31; a Motley Fool Jan8 C$75.49) -- none dated to Oct/Nov 2026 and none clearly superior to the existing bracketed range already in the stored note. Kept stored (78.67, Sep28)."
   },
   {
     "exchange": "TSX",
@@ -777,7 +777,7 @@
     "asOfDate": "2026-10-23",
     "displaySymbol": "ATS.TO",
     "sourceUrl": "https://www.marketbeat.com/instant-alerts/price-ats-tse-ats-trading-at-c2674-2026-10-23/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle). No fresher data searched beyond the existing Oct23 resolution. Kept stored (26.74, Oct23)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle). No fresher data searched beyond the existing Oct23 resolution. Kept stored (26.74, Oct23). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new ATS-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -790,7 +790,7 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "ATZ.TO",
     "sourceUrl": "https://www.marketbeat.com/instant-alerts/price-aritzia-tse-atz-stock-price-up-166-time-to-buy-2026-10-09/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. A Sep17 figure (C$118.80) is consistent with the math implied by the confirmed Oct9 +16.58% spike (118.80 x 1.1658 = ~138.5, close to stored 142.10), supporting the stored post-spike level as genuine. Kept stored (142.1)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. A Sep17 figure (C$118.80) is consistent with the math implied by the confirmed Oct9 +16.58% spike (118.80 x 1.1658 = ~138.5, close to stored 142.10), supporting the stored post-spike level as genuine. Kept stored (142.1). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new ATZ-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -803,7 +803,7 @@
     "asOfDate": "2026-10-28",
     "displaySymbol": "BDGI.TO",
     "sourceUrl": "https://www.fool.com/quote/tsx/bdgi/",
-    "note": "Nov3 cycle (Tuesday close refresh): Re-checked, reinforced. stockanalysis.com independently shows a close of C$84.06 (+2.60%) on Oct23, 2026 -- below stored (88.34, Oct28) but consistent with a rising trend into the already-resolved Oct28 figure (84.06 -> 88.34 over 5 sessions, +5.1%), not contradictory. Kept stored (88.34, Oct28)."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked, reinforced. stockanalysis.com independently shows a close of C$84.06 (+2.60%) on Oct23, 2026 -- below stored (88.34, Oct28) but consistent with a rising trend into the already-resolved Oct28 figure (84.06 -> 88.34 over 5 sessions, +5.1%), not contradictory. Kept stored (88.34, Oct28). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an analyst price-target note (CIBC to C$82) surfaced, no new price print. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -816,7 +816,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BDI.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/BDI-T/",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no BDI-specific results surfaced at all this cycle (joint search with MAL/TCS returned nothing). Kept stored (19.94, Sep29)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no BDI-specific results surfaced at all this cycle (joint search with MAL/TCS returned nothing). Kept stored (19.94, Sep29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new BDI-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -829,7 +829,7 @@
     "asOfDate": "2026-10-02",
     "displaySymbol": "BIP-UN.TO",
     "sourceUrl": "https://www.marketbeat.com/stocks/TSE/BIP-UN/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. Only undated/stale snapshots surfaced (Motley Fool ~C$54.04 undated, likely mid-2026; Snowball Analytics C$55.66 likely Aug2026, matching stored almost exactly) plus unconfirmed estimates that Q3 2026 earnings were due Nov5/6, 2026 -- no settled November close found yet. Kept stored (55.66, Oct2)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. Only undated/stale snapshots surfaced (Motley Fool ~C$54.04 undated, likely mid-2026; Snowball Analytics C$55.66 likely Aug2026, matching stored almost exactly) plus unconfirmed estimates that Q3 2026 earnings were due Nov5/6, 2026 -- no settled November close found yet. Kept stored (55.66, Oct2). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked. Brookfield Infrastructure's own Q3 2026 press release (dated Nov6, 2026) confirms FFO per unit of $0.91 (3rd straight quarter hitting the 10% growth target, data segment FFO +25% YoY) -- a genuine, confirmed earnings event -- but no reliable current share price accompanied it; the price data found (a Trading Economics TSX figure dated mid-August, a Benzinga NYSE figure dated Aug24, an undated Barchart figure) are stale, inconsistent with each other, or undated. Kept stored (55.66, Oct2); PRIORITIZE the Nov6 earnings-reaction price next cycle."
   },
   {
     "exchange": "TSX",
@@ -842,7 +842,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "BN.TO",
     "sourceUrl": "https://ca.finance.yahoo.com/quote/BN.TO/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 3-way corroborated). No fresher data searched beyond the existing Oct29 resolution. Kept stored (55.21, Oct29)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 3-way corroborated). No fresher data searched beyond the existing Oct29 resolution. Kept stored (55.21, Oct29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated MarketBeat figure (C$64.52) surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -855,7 +855,7 @@
     "asOfDate": "2026-09-29",
     "displaySymbol": "BYD.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/BYD",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. Search again mostly surfaced the NYSE-listed BGSI line (Boyd Group Services' new US ticker post-redomicile, ~$82.31 Oct29) and stale pre-2024 TSX:BYD.TO filler pages -- no current TSX:BYD.TO print found, and the standing BGSI/BYD-ticker-confusion caution still applies. Kept stored (111.85, Sep29)."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. Search again mostly surfaced the NYSE-listed BGSI line (Boyd Group Services' new US ticker post-redomicile, ~$82.31 Oct29) and stale pre-2024 TSX:BYD.TO filler pages -- no current TSX:BYD.TO print found, and the standing BGSI/BYD-ticker-confusion caution still applies. Kept stored (111.85, Sep29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker, still unresolved. No new results surfaced jointly with EQNR/IBN/ACQ; the standing BGSI/BYD-ticker-confusion caution (Boyd Group's new NYSE-listed ticker post-redomicile vs. the legacy TSX:BYD.TO line) still applies. Kept stored (111.85, Sep29)."
   },
   {
     "exchange": "TSX",
@@ -868,7 +868,7 @@
     "asOfDate": "2026-09-14",
     "displaySymbol": "CGY.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-CGY/",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked despite stale-filler history. Only a June5 figure (C$85.08) and the already-known Aug13 Q3 2026 earnings beat surfaced; no October print. Kept stored (79.65, Sep14)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked despite stale-filler history. Only a June5 figure (C$85.08) and the already-known Aug13 Q3 2026 earnings beat surfaced; no October print. Kept stored (79.65, Sep14). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated figure (C$82.01) surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -881,7 +881,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "CIGI.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CIGI/history/",
-    "note": "Nov3 cycle (Tuesday close refresh): Re-checked, reinforced. stockanalysis.com independently shows a close of C$130.12 (-3.48%) on Oct23, 2026 -- below stored (134.41, Oct29) but consistent with a rising trend into the already-resolved Oct29 figure (130.12 -> 134.41 over 6 sessions, +3.3%), not contradictory. Kept stored (134.41, Oct29)."
+    "note": "Nov3 cycle (Tuesday close refresh): Re-checked, reinforced. stockanalysis.com independently shows a close of C$130.12 (-3.48%) on Oct23, 2026 -- below stored (134.41, Oct29) but consistent with a rising trend into the already-resolved Oct29 figure (130.12 -> 134.41 over 6 sessions, +3.3%), not contradictory. Kept stored (134.41, Oct29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no fresher data than the existing Oct29 resolution surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -894,7 +894,7 @@
     "asOfDate": "2026-10-15",
     "displaySymbol": "CJT.TO",
     "sourceUrl": "https://www.halo-technologies.com/markets/shares/tse/cjt/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. A separate dated lead independently confirms CAD84.71 on Oct15, 2026, matching stored exactly; other October points (C$87.42 Oct8, C$85.19 Oct20 intraday) bracket this consistently. Kept stored (84.71)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. A separate dated lead independently confirms CAD84.71 on Oct15, 2026, matching stored exactly; other October points (C$87.42 Oct8, C$85.19 Oct20 intraday) bracket this consistently. Kept stored (84.71). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated Trading Economics figure (82.90, referencing May2026 market cap) surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -907,7 +907,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "CNQ.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/CNQ/",
-    "note": "Nov3 cycle (Tuesday AM refresh): UPDATE, resolved via FX cross-validation (same methodology as the prior MX/Methanex resolution). A TSX-specific aggregator shows C$78.42 (+1.78%) as of Oct30, 2026 close. Independently, the NYSE-listed USD line (same underlying company) shows a close of $56.11 (+1.9%) on the same date, Oct30, 2026. At the prevailing ~1.40 CAD/USD rate, $56.11 implies ~C$78.55 -- within 0.2% of the C$78.42 TSX figure, a tight cross-venue match on the same day that is not plausible as a coincidence. Updated from stale stored (69.1, Oct2) to 78.42 (Oct30), +13.5% -- a genuine oil-price-driven rally, below the 15% threshold, cross-validated across two independent exchange listings/domains. Next earnings due Nov5."
+    "note": "Nov3 cycle (Tuesday AM refresh): UPDATE, resolved via FX cross-validation (same methodology as the prior MX/Methanex resolution). A TSX-specific aggregator shows C$78.42 (+1.78%) as of Oct30, 2026 close. Independently, the NYSE-listed USD line (same underlying company) shows a close of $56.11 (+1.9%) on the same date, Oct30, 2026. At the prevailing ~1.40 CAD/USD rate, $56.11 implies ~C$78.55 -- within 0.2% of the C$78.42 TSX figure, a tight cross-venue match on the same day that is not plausible as a coincidence. Updated from stale stored (69.1, Oct2) to 78.42 (Oct30), +13.5% -- a genuine oil-price-driven rally, below the 15% threshold, cross-validated across two independent exchange listings/domains. Next earnings due Nov5. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no fresher data than the existing Oct30 FX-cross-validated resolution surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -920,7 +920,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "CNR.TO",
     "sourceUrl": "https://markets.financialcontent.com/dowtheoryletters/quote?Symbol=321:112938",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): UPDATE, PRIORITY #2 resolved via cross-venue FX validation (same methodology precedent as CNQ/CP/MX/TRI/WPM in this file), ending a very long unresolved streak. Two independent domains both give an explicitly Oct30, 2026-dated price for the NYSE-listed CNI line: markets.financialcontent.com (dowtheoryletters quote) shows $123.69 (\"Delayed Quote Updated: 7:00 PM EDT, Oct 30, 2026\"), and Upstox shows $124.08 (\"last updated on 30 Oct, 2026\", previous close $124.35) -- two different domains landing within 0.3% of each other on the SAME date, a tight match clearing the resolution bar used elsewhere in this file. Converting the financialcontent print ($123.69) at the prevailing ~1.3999 CAD/USD rate gives ~C$173.15. This is consistent with CN's confirmed Q3 2026 earnings beat (BNN Bloomberg/Narcity, 2-source: adjusted diluted EPS C$2.16, +18% YoY, profit C$1.21B vs C$1.14B a year earlier) reported before the open that same day -- a modest, not-dramatic reaction (~+1.5% vs the stale Oct2 stored baseline), consistent with a solid-but-not-blowout beat. Updated from long-stale stored (170.58, Oct2) to 173.15 (Oct30) -- a small, well below-threshold move. This finally closes the multi-cycle priority gap on CN's earnings-reaction price; the exact settled TSX CAD print (as opposed to the FX-derived figure) is still worth finding directly next cycle for extra precision."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): UPDATE, PRIORITY #2 resolved via cross-venue FX validation (same methodology precedent as CNQ/CP/MX/TRI/WPM in this file), ending a very long unresolved streak. Two independent domains both give an explicitly Oct30, 2026-dated price for the NYSE-listed CNI line: markets.financialcontent.com (dowtheoryletters quote) shows $123.69 (\"Delayed Quote Updated: 7:00 PM EDT, Oct 30, 2026\"), and Upstox shows $124.08 (\"last updated on 30 Oct, 2026\", previous close $124.35) -- two different domains landing within 0.3% of each other on the SAME date, a tight match clearing the resolution bar used elsewhere in this file. Converting the financialcontent print ($123.69) at the prevailing ~1.3999 CAD/USD rate gives ~C$173.15. This is consistent with CN's confirmed Q3 2026 earnings beat (BNN Bloomberg/Narcity, 2-source: adjusted diluted EPS C$2.16, +18% YoY, profit C$1.21B vs C$1.14B a year earlier) reported before the open that same day -- a modest, not-dramatic reaction (~+1.5% vs the stale Oct2 stored baseline), consistent with a solid-but-not-blowout beat. Updated from long-stale stored (170.58, Oct2) to 173.15 (Oct30) -- a small, well below-threshold move. This finally closes the multi-cycle priority gap on CN's earnings-reaction price; the exact settled TSX CAD print (as opposed to the FX-derived figure) is still worth finding directly next cycle for extra precision. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Oct19 figure (168.55, -2.23%) surfaced, below and pre-dating the existing Oct30 resolution -- consistent with, not contradicting, a subsequent earnings-driven rise. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -933,7 +933,7 @@
     "asOfDate": "2026-10-28",
     "displaySymbol": "CP.TO",
     "sourceUrl": "https://www.heygotrade.com/en/news/canadian-pacific-kansas-city-declares-quarterly-dividend/",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE via FX cross-validation (same methodology as CNQ/MX precedent in this file), trouble ticker (many cycles unresolved) now reasonably resolved. Gotrade shows a dated NYSE-listed (CP) close of $89.43 (-1.87%) on Oct28, 2026; separate undated snapshots (massive.com day range $89.33-90.37; Upstox $89.70-89.77 as of Oct31) cluster tightly in the same $89-90 band through late October, reinforcing the level. Converting the Oct28 NYSE figure at the prevailing ~1.3999 CAD/USD rate gives ~C$125.19. No direct TSX CAD print was found (several undated/ambiguous TSX figures -- C$101.95, C$125.88 dated '06-12-2026' -- were checked and discarded as unreliable or wrong-period). Updated from stale stored (120.31, Oct8) to 125.19 (Oct28), +4.1% -- a modest, below-threshold move; CP's Q3 2026 earnings were expected Oct26 after close but no specific catalyst was confirmed tied to this move. PRIORITIZE a genuine TSX-native print next cycle."
+    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE via FX cross-validation (same methodology as CNQ/MX precedent in this file), trouble ticker (many cycles unresolved) now reasonably resolved. Gotrade shows a dated NYSE-listed (CP) close of $89.43 (-1.87%) on Oct28, 2026; separate undated snapshots (massive.com day range $89.33-90.37; Upstox $89.70-89.77 as of Oct31) cluster tightly in the same $89-90 band through late October, reinforcing the level. Converting the Oct28 NYSE figure at the prevailing ~1.3999 CAD/USD rate gives ~C$125.19. No direct TSX CAD print was found (several undated/ambiguous TSX figures -- C$101.95, C$125.88 dated '06-12-2026' -- were checked and discarded as unreliable or wrong-period). Updated from stale stored (120.31, Oct8) to 125.19 (Oct28), +4.1% -- a modest, below-threshold move; CP's Q3 2026 earnings were expected Oct26 after close but no specific catalyst was confirmed tied to this move. PRIORITIZE a genuine TSX-native print next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new CP-specific results surfaced; the genuine TSX-native print remains outstanding. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -946,7 +946,7 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "CSU.TO",
     "sourceUrl": "https://www.morningstar.com/stocks/xtse/csu/quote",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). A single-sourced WealthAwesome lead (C$3,125.64, Oct14, +1.05%) is ~4% above stored (3003.78, Oct9) but single-sourced only. Kept stored (3003.78)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). A single-sourced WealthAwesome lead (C$3,125.64, Oct14, +1.05%) is ~4% above stored (3003.78, Oct9) but single-sourced only. Kept stored (3003.78). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new CSU-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -959,7 +959,7 @@
     "asOfDate": "2026-10-07",
     "displaySymbol": "DHT-UN.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/DHT-UN-T/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked. Only stale/undated figures (YCharts Jan13 16.22; undated Simply Wall St 15.45) surfaced, both below stored and date-unconfirmed. Kept stored (17.47)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked. Only stale/undated figures (YCharts Jan13 16.22; undated Simply Wall St 15.45) surfaced, both below stored and date-unconfirmed. Kept stored (17.47). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new DHT.UN-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -972,7 +972,7 @@
     "asOfDate": "2026-10-23",
     "displaySymbol": "DND.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/DND",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle via TMX exchange data). No fresher data searched beyond the existing Oct23 resolution. Kept stored (1.58, Oct23)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle via TMX exchange data). No fresher data searched beyond the existing Oct23 resolution. Kept stored (1.58, Oct23). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new DND-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -985,7 +985,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "DOL.TO",
     "sourceUrl": "https://www.theglobeandmail.com/investing/markets/stocks/dol-T",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, still unresolved. Only stale 2026 snapshots surfaced (June12 C$190.94; March13 $194.75; Feb7 $192.27), all in a band around stored but none dated to October/November. A Dollarama fiscal Q3 2026 earnings-beat article (Barchart) was noted but gave no settled post-earnings price. Kept stored (184.01, Oct5) per lack of a fresh dated print."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, still unresolved. Only stale 2026 snapshots surfaced (June12 C$190.94; March13 $194.75; Feb7 $192.27), all in a band around stored but none dated to October/November. A Dollarama fiscal Q3 2026 earnings-beat article (Barchart) was noted but gave no settled post-earnings price. Kept stored (184.01, Oct5) per lack of a fresh dated print. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked again, still unresolved. Confirmed Dollarama's fiscal Q3 2026 results were reported (net profit $321.7M, up from $275.8M a year earlier, a beat) but no settled post-earnings share price was found -- only an undated Snowball Analytics figure (C$192.31) and a MarketScreener calendar entry that appears to list an upcoming Q1 FY2027 report for 11/06/2026 (likely a calendar/fiscal-year-labelling artifact, not a second Q3 report). Kept stored (184.01, Oct5) per lack of a fresh dated print."
   },
   {
     "exchange": "TSX",
@@ -998,7 +998,7 @@
     "asOfDate": "2026-10-19",
     "displaySymbol": "DSG.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DSG/history/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. stockanalysis.com independently reproduced the exact stored figure (C$122.17, -0.85%, Oct19, 4:00 PM EST). Kept stored (122.17)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline), reinforced. stockanalysis.com independently reproduced the exact stored figure (C$122.17, -0.85%, Oct19, 4:00 PM EST). Kept stored (122.17). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only undated/conflicting figures (123.20 'Dec22' no year; 158.79 undated; TipRanks C$123.87 undated) surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1011,7 +1011,7 @@
     "asOfDate": "2026-09-15",
     "displaySymbol": "DTOL.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/DTOL/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker. Search surfaced only a large volume of automated 2024-dated Globe and Mail 'Closing Bell' filler pages (stock in the low-$12 range, 2023-2024 52-week range) -- no 2026-dated TSX print found. Kept stored (8.97, Sep15); second-source confirmation still needed."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker. Search surfaced only a large volume of automated 2024-dated Globe and Mail 'Closing Bell' filler pages (stock in the low-$12 range, 2023-2024 52-week range) -- no 2026-dated TSX print found. Kept stored (8.97, Sep15); second-source confirmation still needed. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked again, trouble ticker. Search surfaced only a large volume of automated 2023/2024-dated Globe and Mail 'Closing Bell' filler pages (stock in the $12-13 range, 2023-2024 context) -- no 2026-dated TSX print found at all. Kept stored (8.97, Sep15); second-source confirmation still needed."
   },
   {
     "exchange": "TSX",
@@ -1024,7 +1024,7 @@
     "asOfDate": "2026-09-17",
     "displaySymbol": "EFN.TO",
     "sourceUrl": "https://wealthawesome.com/element-fleet-management-corp-efnto-slides-6-this-week-amid-acquisition-withdrawal",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no EFN-specific results surfaced at all this cycle (a joint search with MTY/PET returned nothing EFN-specific). Kept stored (22.65, Sep17)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no EFN-specific results surfaced at all this cycle (a joint search with MTY/PET returned nothing EFN-specific). Kept stored (22.65, Sep17). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no EFN-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1037,7 +1037,7 @@
     "asOfDate": "2026-11-04",
     "displaySymbol": "IFC.TO",
     "sourceUrl": "https://www.investing.com/news/company-news/intact-financial-q3-2026-slides-ai-push-drives-earnings-beat-93CH-5000776",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY #1, re-checked again. Confirmed in more detail: Intact's Q3 2026 results (reported Nov3 after close) showed net operating income per share of C$3.63 (beat), revenue ~C$6.18B (beat by 1.64%), combined ratio 94% (incl. 4pts of elevated cat losses), operating ROE 16% (10th straight quarter >15%), and management cited ~C$250M in recurring AI-related pretax earnings. Stock-reaction sources remain consistent with, not contradicting, stored: one post-earnings after-hours figure shows +6.39% to $279.52 (prior close $262.73), another shows +6.72% to $280.39 -- both within 0.3% of stored. Still no single source explicitly labelled as the official Nov4 (or later) SETTLED regular-session close, so the literal pin remains open, but the convergent cluster (279.52 / 280.39 / 282.02, all within 0.9%) continues to support stored as accurate to within rounding. No regression; KEPT stored at 280.39. PRIORITIZE next cycle: still want one source to explicitly label a print as a settled close rather than an after-hours/intraday snapshot."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): PRIORITY #1, re-checked again. Confirmed in more detail: Intact's Q3 2026 results (reported Nov3 after close) showed net operating income per share of C$3.63 (beat), revenue ~C$6.18B (beat by 1.64%), combined ratio 94% (incl. 4pts of elevated cat losses), operating ROE 16% (10th straight quarter >15%), and management cited ~C$250M in recurring AI-related pretax earnings. Stock-reaction sources remain consistent with, not contradicting, stored: one post-earnings after-hours figure shows +6.39% to $279.52 (prior close $262.73), another shows +6.72% to $280.39 -- both within 0.3% of stored. Still no single source explicitly labelled as the official Nov4 (or later) SETTLED regular-session close, so the literal pin remains open, but the convergent cluster (279.52 / 280.39 / 282.02, all within 0.9%) continues to support stored as accurate to within rounding. No regression; KEPT stored at 280.39. PRIORITIZE next cycle: still want one source to explicitly label a print as a settled close rather than an after-hours/intraday snapshot. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked yet again specifically for an explicitly-labelled settled close. Still no source found that explicitly labels a print as a settled regular-session close rather than an after-hours/intraday snapshot; the convergent cluster (279.52 / 280.39 / 282.02, all within ~1%) continues to support stored as accurate to within rounding. No regression; kept stored (280.39, Nov4)."
   },
   {
     "exchange": "TSX",
@@ -1050,7 +1050,7 @@
     "asOfDate": "2026-10-27",
     "displaySymbol": "JWEL.TO",
     "sourceUrl": "https://stockchase.com/JWEL-T",
-    "note": "Nov3 cycle (Tuesday close refresh): UPDATE, 2-source confirmed. stockanalysis.com shows a close of C$45.48 (+0.04%) on Oct19, 2026, and Stockchase independently shows C$45.49 on Oct27, 2026 -- two different domains landing within one cent of each other across consecutive dated sessions, consistent with the price holding steady near the pending Kirin acquisition deal value (C$45.75/share cash, shareholder-approved, final court approval obtained Oct5, 2026). Updated from stored (45.44, Oct2) to 45.49 (Oct27), a trivial +0.11% move, well supported by the deal-price anchor and now corroborated by two independent sources."
+    "note": "Nov3 cycle (Tuesday close refresh): UPDATE, 2-source confirmed. stockanalysis.com shows a close of C$45.48 (+0.04%) on Oct19, 2026, and Stockchase independently shows C$45.49 on Oct27, 2026 -- two different domains landing within one cent of each other across consecutive dated sessions, consistent with the price holding steady near the pending Kirin acquisition deal value (C$45.75/share cash, shareholder-approved, final court approval obtained Oct5, 2026). Updated from stored (45.44, Oct2) to 45.49 (Oct27), a trivial +0.11% move, well supported by the deal-price anchor and now corroborated by two independent sources. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no JWEL-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1063,7 +1063,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "KXS.TO",
     "sourceUrl": "https://www.marketscreener.com/quote/stock/KINAXIS-INC-16665657/quotes/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 3-source). No fresher data searched beyond the existing Oct29 resolution. Kept stored (192.64, Oct29)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 3-source). No fresher data searched beyond the existing Oct29 resolution. Kept stored (192.64, Oct29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated TipRanks figure (C$169.84) surfaced, below and pre-dating the existing Oct29 resolution. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1076,7 +1076,7 @@
     "asOfDate": "2026-09-25",
     "displaySymbol": "MAL.TO",
     "sourceUrl": "https://www.investing.com/equities/magellan-aerospace-corporation",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked despite stale-filler history. A ycharts figure shows C$32.62 as of Sep11, 2026 (close to, slightly below stored); other dated figures (C$33.74 Jul10, C$35.10 Jul24) are older still. No October print found. Kept stored (34.87, Sep25)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked despite stale-filler history. A ycharts figure shows C$32.62 as of Sep11, 2026 (close to, slightly below stored); other dated figures (C$33.74 Jul10, C$35.10 Jul24) are older still. No October print found. Kept stored (34.87, Sep25). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Mar20 figure ($21.54) and an undated figure surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1089,7 +1089,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "MEQ.TO",
     "sourceUrl": "https://www.fool.com/quote/tsx/meq/",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): UPDATE, trouble ticker now resolved via convergent-cluster corroboration (not a single-day 2-source match, but four independent dated points now agree closely). TMX Money (an official exchange data source) shows a close of C$176.62 on Oct23, 2026 (prior close C$177.09, last trade 4:00 PM ET); Motley Fool shows a close of C$175.02 on Oct29, 2026. These two land within 1% of each other six trading days apart, and both sit squarely inside the same C$169-177 band already suggested by the two previously-flagged single-sourced leads (C$169.84 Oct15; C$171.14 Oct28) -- four independent dated snapshots across two weeks now cluster tightly, a pattern inconsistent with a data error and clearly distinct from stored. Updated from long-stale stored (198.10, Oct2) to 175.02 (Oct29), -11.7% -- below the 15% threshold; no specific catalyst identified, treated as a multi-week drift now well-evidenced. Change/changePercent left null (exact day-over-day move not confidently derivable from the sources found)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): UPDATE, trouble ticker now resolved via convergent-cluster corroboration (not a single-day 2-source match, but four independent dated points now agree closely). TMX Money (an official exchange data source) shows a close of C$176.62 on Oct23, 2026 (prior close C$177.09, last trade 4:00 PM ET); Motley Fool shows a close of C$175.02 on Oct29, 2026. These two land within 1% of each other six trading days apart, and both sit squarely inside the same C$169-177 band already suggested by the two previously-flagged single-sourced leads (C$169.84 Oct15; C$171.14 Oct28) -- four independent dated snapshots across two weeks now cluster tightly, a pattern inconsistent with a data error and clearly distinct from stored. Updated from long-stale stored (198.10, Oct2) to 175.02 (Oct29), -11.7% -- below the 15% threshold; no specific catalyst identified, treated as a multi-week drift now well-evidenced. Change/changePercent left null (exact day-over-day move not confidently derivable from the sources found). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new MEQ-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1102,7 +1102,7 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "MTY.TO",
     "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/09/3377955/0/en/mty-reports-third-quarter-results-for-fiscal-2026-announces-end-of-strategic-review-and-increases-dividend-by-35.html",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no new October print found this cycle (only a Yahoo snippet showing C$31.97 on an 'Oct16' date whose year could not be confirmed, plus a noted Nov3 ex-dividend date of C$0.50). Kept stored (30.25, Oct9)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no new October print found this cycle (only a Yahoo snippet showing C$31.97 on an 'Oct16' date whose year could not be confirmed, plus a noted Nov3 ex-dividend date of C$0.50). Kept stored (30.25, Oct9). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new MTY-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1115,7 +1115,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "MX.TO",
     "sourceUrl": "https://markets.financialcontent.com/poteaudailynews/quote?Symbol=tsx%3Amx",
-    "note": "Nov2 cycle (Monday AM refresh): UPDATE, trouble ticker (many cycles unresolved) now reasonably resolved. financialcontent.com shows a direct, exchange-sourced TSX:MX quote of C$87.77 (-1.6%) at 4:00 PM EDT Oct29, 2026, with bid/ask and volume detail consistent with genuine exchange data (not a filler page). This cross-validates well against the Nasdaq-listed MEOH USD line: PitchBook shows MEOH at $63.20 on Oct23, 2026, which at a ~1.40 USD/CAD rate implies ~C$88.5 -- squarely matching the C$87.77 TSX figure. Two further undated-but-plausible leads (trade-ideas.com C$89.82, tradingeconomics.com C$90.57) also cluster in the same C$87-90 band. Updated from long-stale stored (80.20, Sep9) to 87.77 (Oct29), +9.4% -- a modest, cross-validated drift via FX arbitrage with the US-dollar listing, not a data error, and below the 15% large-move threshold."
+    "note": "Nov2 cycle (Monday AM refresh): UPDATE, trouble ticker (many cycles unresolved) now reasonably resolved. financialcontent.com shows a direct, exchange-sourced TSX:MX quote of C$87.77 (-1.6%) at 4:00 PM EDT Oct29, 2026, with bid/ask and volume detail consistent with genuine exchange data (not a filler page). This cross-validates well against the Nasdaq-listed MEOH USD line: PitchBook shows MEOH at $63.20 on Oct23, 2026, which at a ~1.40 USD/CAD rate implies ~C$88.5 -- squarely matching the C$87.77 TSX figure. Two further undated-but-plausible leads (trade-ideas.com C$89.82, tradingeconomics.com C$90.57) also cluster in the same C$87-90 band. Updated from long-stale stored (80.20, Sep9) to 87.77 (Oct29), +9.4% -- a modest, cross-validated drift via FX arbitrage with the US-dollar listing, not a data error, and below the 15% large-move threshold. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Mar27 figure (90.57) and an undated MarketScreener figure (83.19) surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1128,7 +1128,7 @@
     "asOfDate": "2026-09-21",
     "displaySymbol": "NA.TO",
     "sourceUrl": "https://ca.investing.com/equities/national-bank-of-canada",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked again. Same Yahoo Finance Oct16 figure (C$204.20, -0.06%) reconfirmed; a Wealth Awesome figure (C$203.34, undated) is consistent but doesn't add a new date. No month-end October print found. Kept stored (213.08, Sep21)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked again. Same Yahoo Finance Oct16 figure (C$204.20, -0.06%) reconfirmed; a Wealth Awesome figure (C$203.34, undated) is consistent but doesn't add a new date. No month-end October print found. Kept stored (213.08, Sep21). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new NA-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1141,7 +1141,7 @@
     "asOfDate": "2026-10-14",
     "displaySymbol": "PET.TO",
     "sourceUrl": "https://wealthawesome.com/whats-going-on-with-pet-valu-holdings-ltd-stock-wednesday-10142026-wgo",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no new Pet Valu-specific results surfaced at all this cycle (a joint search with MTY/EFN returned nothing PET-specific). Kept stored (19.02, Oct14)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, no new Pet Valu-specific results surfaced at all this cycle (a joint search with MTY/EFN returned nothing PET-specific). Kept stored (19.02, Oct14). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new PET-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1154,7 +1154,7 @@
     "asOfDate": "2026-10-19",
     "displaySymbol": "RCH.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/RCH/history/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct19 resolution. Kept stored (37.64, Oct19)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct19 resolution. Kept stored (37.64, Oct19). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Feb13 figure (43.83) and a 2025-dated MarketBeat figure surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1167,7 +1167,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "RY.TO",
     "sourceUrl": "https://www.investsmart.com.au/security/tse/ry/royal-bank-of-canada/share-price",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): Re-checked (trusted baseline), reinforced via FX cross-check. A dated NYSE-listed (RY) close of $202.98 (-1.5%) on Oct30, 2026 converts, at the prevailing ~1.3999 CAD/USD rate, to approximately C$284.17 -- within 0.5% of stored (285.63), a reassuring cross-venue reinforcement rather than a contradiction. Kept stored (285.63)."
+    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): Re-checked (trusted baseline), reinforced via FX cross-check. A dated NYSE-listed (RY) close of $202.98 (-1.5%) on Oct30, 2026 converts, at the prevailing ~1.3999 CAD/USD rate, to approximately C$284.17 -- within 0.5% of stored (285.63), a reassuring cross-venue reinforcement rather than a contradiction. Kept stored (285.63). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only undated/conflicting figures (one showing an implausible USD144.32, another CAD277.86) surfaced; neither usable. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1180,7 +1180,7 @@
     "asOfDate": "2026-11-05",
     "displaySymbol": "SHOP.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/SHOP",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): UPDATE -- long-standing trouble ticker RESOLVED. TMX Money (the official exchange-data source) shows the TSX-listed close at C$201.23 at 4:00 PM ET on Nov5, 2026 (prior close C$212.71), and Bloomberg's Toronto listing independently shows a matching C$201.62 snapshot taken just after that same close -- two independent domains agreeing closely on the same date. This also finally corroborates the previously-flagged-but-rejected unverified NASDAQ-listed figure: the Nasdaq line is now separately confirmed at $143.75 on Nov5, 2026 (via the same TMX-sourced search), close to the earlier single-sourced $142.65/-8.77% lead that had been rejected for lack of corroboration -- that lead is now substantially validated. The decline reflects both Shopify's Q3 2026 results (reported Nov3: EPS beat but a slight revenue miss) and the broad Nov5 market selloff. Updated from stored (206.42, Oct1) to 201.23 (Nov5), -2.5% net -- a modest, well-corroborated move."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): UPDATE -- long-standing trouble ticker RESOLVED. TMX Money (the official exchange-data source) shows the TSX-listed close at C$201.23 at 4:00 PM ET on Nov5, 2026 (prior close C$212.71), and Bloomberg's Toronto listing independently shows a matching C$201.62 snapshot taken just after that same close -- two independent domains agreeing closely on the same date. This also finally corroborates the previously-flagged-but-rejected unverified NASDAQ-listed figure: the Nasdaq line is now separately confirmed at $143.75 on Nov5, 2026 (via the same TMX-sourced search), close to the earlier single-sourced $142.65/-8.77% lead that had been rejected for lack of corroboration -- that lead is now substantially validated. The decline reflects both Shopify's Q3 2026 results (reported Nov3: EPS beat but a slight revenue miss) and the broad Nov5 market selloff. Updated from stored (206.42, Oct1) to 201.23 (Nov5), -2.5% net -- a modest, well-corroborated move. Nov9 cycle (Monday AM refresh, Dixon Mitchell): Re-checked; no fresher data found beyond the already-resolved Nov5 2-source TMX/Bloomberg close. Kept stored (201.23, Nov5)."
   },
   {
     "exchange": "TSX",
@@ -1193,7 +1193,7 @@
     "asOfDate": "2026-10-22",
     "displaySymbol": "SJ.TO",
     "sourceUrl": "https://www.marketscreener.com/quote/stock/STELLA-JONES-INC-1411670/quotes/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct22 resolution. Kept stored (67.54, Oct22)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct22 resolution. Kept stored (67.54, Oct22). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only an undated figure (81.02) surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1206,7 +1206,7 @@
     "asOfDate": "2026-09-03",
     "displaySymbol": "TCS.TO",
     "sourceUrl": "https://stockanalysis.com/quote/tsx/TCS/",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked despite stale-filler history, no TCS-specific results surfaced at all this cycle (joint search with MAL/BDI returned nothing). Kept stored (35.52, Sep3)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked despite stale-filler history, no TCS-specific results surfaced at all this cycle (joint search with MAL/BDI returned nothing). Kept stored (35.52, Sep3). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only stale 2024-dated filler pages surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1219,7 +1219,7 @@
     "asOfDate": "2026-10-28",
     "displaySymbol": "TD.TO",
     "sourceUrl": "https://seekingalpha.com/symbol/TD:CA",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): Re-checked (loosely resolved last cycle). No new reliable TSX-specific close found this cycle (only an ambiguous monthly figure, $117.88, of unclear listing/currency). Kept stored (176.0, Oct28)."
+    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): Re-checked (loosely resolved last cycle). No new reliable TSX-specific close found this cycle (only an ambiguous monthly figure, $117.88, of unclear listing/currency). Kept stored (176.0, Oct28). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only undated/conflicting figures (one showing an implausible USD77.47, another CAD167.39) surfaced; neither usable. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1232,7 +1232,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "TFII.TO",
     "sourceUrl": "https://www.narcity.com/tfi-shares-drop-after-earnings-miss",
-    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): UPDATE, trouble ticker now resolved -- the exact price level flagged as unreconciled last cycle is now independently corroborated. Narcity (new, independent domain) reports TFI International 'shares plunge as high fuel costs drive earnings miss,' stating the stock 'dropped 17 per cent to close at $130.05 on the Toronto Stock Exchange' on Oct30, 2026 -- this is the SAME exact price (C$130.05) and SAME percentage (-17%) that last cycle's single-sourced Investing.com transcript summary had already surfaced (previously rejected for lack of corroboration). A second source (TIKR) independently confirms the same -15% to -17% range and ties it to a confirmed catalyst: Q3 2026 adjusted EPS of US$1.67 missed the ~US$1.75-1.76 consensus, and Q4 guidance (US$1.30-1.40) came in well below the ~US$1.65 estimate, driven by a 43% drop in LTL segment operating income. Two independent domains now agree on both price AND date, clearing the resolution bar. Updated from stale stored (172.45, Oct2) to 130.05 (Oct30), -17.0% -- exceeds the 15% threshold but accepted given the clear, multi-source-confirmed earnings-miss-and-guidance-cut catalyst, consistent with this file's established precedent for large corroborated catalyst-driven moves. Implied previous close ~$156.69 (from the same reconciled chain)."
+    "note": "Nov5 cycle (Thursday AM refresh, Dixon Mitchell): UPDATE, trouble ticker now resolved -- the exact price level flagged as unreconciled last cycle is now independently corroborated. Narcity (new, independent domain) reports TFI International 'shares plunge as high fuel costs drive earnings miss,' stating the stock 'dropped 17 per cent to close at $130.05 on the Toronto Stock Exchange' on Oct30, 2026 -- this is the SAME exact price (C$130.05) and SAME percentage (-17%) that last cycle's single-sourced Investing.com transcript summary had already surfaced (previously rejected for lack of corroboration). A second source (TIKR) independently confirms the same -15% to -17% range and ties it to a confirmed catalyst: Q3 2026 adjusted EPS of US$1.67 missed the ~US$1.75-1.76 consensus, and Q4 guidance (US$1.30-1.40) came in well below the ~US$1.65 estimate, driven by a 43% drop in LTL segment operating income. Two independent domains now agree on both price AND date, clearing the resolution bar. Updated from stale stored (172.45, Oct2) to 130.05 (Oct30), -17.0% -- exceeds the 15% threshold but accepted given the clear, multi-source-confirmed earnings-miss-and-guidance-cut catalyst, consistent with this file's established precedent for large corroborated catalyst-driven moves. Implied previous close ~$156.69 (from the same reconciled chain). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Jul2026 figure ($152.44) and an undated figure surfaced, both pre-dating the existing Oct30 resolution. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1245,20 +1245,20 @@
     "asOfDate": "2026-09-30",
     "displaySymbol": "TFPM.TO",
     "sourceUrl": "https://money.tmx.com/en/quote/TFPM",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, trouble ticker. No new data found again this cycle (search returned nothing TFPM-specific beyond a stale May2025 Barchart listing). Kept stored (43.79, Sep30)."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): Re-checked, trouble ticker. No new data found again this cycle (search returned nothing TFPM-specific beyond a stale May2025 Barchart listing). Kept stored (43.79, Sep30). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new TFPM-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
     "ticker": "TRI",
     "name": "Thomson Reuters Corporation",
-    "price": 165.36,
+    "price": 154.24,
     "currency": "CAD",
-    "change": 23.88,
-    "changePercent": 16.88,
-    "asOfDate": "2026-10-30",
+    "change": -16.96,
+    "changePercent": -9.9,
+    "asOfDate": "2026-11-03",
     "displaySymbol": "TRI.TO",
-    "sourceUrl": "https://seekingalpha.com/symbol/TRI:CA/earnings",
-    "note": "Nov4 cycle (Wednesday AM refresh, Dixon Mitchell): UPDATE, trouble ticker resolved via cross-venue FX validation (same methodology precedent as CNQ/MX in this file). Confirmed via SEC 6-K/press coverage that Thomson Reuters actually reported Q3 2026 results on Nov3, 2026 (total and organic revenue +10%; full-year outlook updated to exclude the Global Print stake sold to KKR-advised accounts Oct1) -- so the earnings-date-confusion flagged last cycle is now resolved (last cycle's rejection, which said earnings 'had NOT yet been reported,' is superseded: they were reported, just one day later than this search first found). The previously-flagged single-sourced Seeking Alpha TSX figure (C$165.36, Oct30, PRE-earnings) is now cross-validated: a separate domain's NYSE-listed USD line shows TRI at $118.25 (+1.6%) as of the same date (Oct30); converting at the prevailing ~1.3999 CAD/USD rate gives ~C$165.55, within 0.1% of the TSX figure -- a tight same-day cross-venue match from two different exchanges/currencies/domains, not plausible as a coincidence. No clean single catalyst was identified for the Oct30 level itself (it predates the Nov3 earnings release; possibly reflects AI-product/buyback narrative or pre-earnings positioning), but the price itself is now well-corroborated. Updated from long-stale stored (141.48, Oct2) to 165.36 (Oct30), +16.9% -- exceeds the 15% threshold but accepted on cross-venue-FX-validation grounds consistent with established precedent. PRIORITIZE next cycle: a genuine POST-Nov3-earnings reaction price is still needed."
+    "sourceUrl": "https://www.trefis.com/stock/tri/articles/622648/what-just-happened-to-thomson-reuters-stock/2026-11-05",
+    "note": "Nov9 cycle (Monday AM refresh, Dixon Mitchell): UPDATE -- the long-sought POST-Nov3-earnings reaction price is now found. Trefis (\"What Just Happened To Thomson Reuters Stock?\", dated 2026-11-05) reports TRI (NYSE-listed USD line) fell 9.9% on Tuesday, Nov3, 2026 (the day TRI reported Q3 2026 results) to close at $110.18 -- a move Trefis attributes to results that missed analysts' EPS/revenue estimates plus investor concern over AI-investment costs weighing on margins (adjusted EBITDA margin 35.5%, -30bps) despite a 'beat-and-raise' framing elsewhere; a second, independent source (QuiverQuant, \"Thomson Reuters Falls Despite Beat-and-Raise Quarter as Investors Focus on Near-Term Margins\") and a third (WeissRatings, \"TRI Down 6.1%\") independently corroborate a large decline tied to the same Nov3 earnings/margin-AI-spend narrative, though they differ slightly on magnitude (6-10%), consistent with intraday-vs-close measurement differences rather than a contradiction. Converting the Trefis $110.18 USD close at the prevailing ~1.3999 CAD/USD rate (same FX-cross-validation methodology already established in this file for CNQ/CP/MX/TRI/WPM) gives ~C$154.24. A separate single-domain WealthAwesome piece published the same day (Nov3) implies a lower ~C$122 level via its stated analyst-target/upside math, which is inconsistent with the Trefis-derived figure -- flagged but not used, since the Trefis figure is explicitly dated/priced and independently corroborated on direction+catalyst by two more sources, while the WealthAwesome number is an inference from an upside percentage, not a stated close, and TRI's historical currency-labeling has been unreliable in past cycles. Updated from stored (165.36, Oct30 pre-earnings) to 154.24 (Nov3), -6.72% net -- below the 15% threshold and clearly catalyst-driven. PRIORITIZE next cycle: a native TSX CAD settled close for Nov3 (or later) to replace this FX-derived figure, and the exact previous-close used by Trefis (back-solved here at ~$122.29 USD / ~C$171.20) is itself not independently confirmed."
   },
   {
     "exchange": "TSX",
@@ -1271,7 +1271,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "TSU.TO",
     "sourceUrl": "https://www.tradingview.com/symbols/TSX-TSU/",
-    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. Trisura's Q3 2026 earnings date itself is unconfirmed across sources (one aggregator projects Nov5, 2026; last confirmed actual report was Q1, May7, 2026) -- no actual Q3 2026 results or a post-earnings price were found this cycle, only an undated C$40.81 snapshot. Kept stored (44.37, Oct5); watch for a confirmed Q3 2026 earnings reaction next cycle."
+    "note": "Nov6 cycle (Friday AM refresh, Dixon Mitchell): Re-checked again. Trisura's Q3 2026 earnings date itself is unconfirmed across sources (one aggregator projects Nov5, 2026; last confirmed actual report was Q1, May7, 2026) -- no actual Q3 2026 results or a post-earnings price were found this cycle, only an undated C$40.81 snapshot. Kept stored (44.37, Oct5); watch for a confirmed Q3 2026 earnings reaction next cycle. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new TSU-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1284,7 +1284,7 @@
     "asOfDate": "2026-10-08",
     "displaySymbol": "TVK.TO",
     "sourceUrl": "https://in.marketscreener.com/r/42378498",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). No fresher data searched beyond the existing Oct8 resolution. Kept stored (119.52)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). No fresher data searched beyond the existing Oct8 resolution. Kept stored (119.52). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no new TVK-specific results surfaced. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1297,7 +1297,7 @@
     "asOfDate": "2026-10-29",
     "displaySymbol": "WCN.TO",
     "sourceUrl": "https://www.marketbeat.com/stocks/TSE/WCN/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct29 resolution. Kept stored (254.46, Oct29)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (resolved last cycle, 2-source). No fresher data searched beyond the existing Oct29 resolution. Kept stored (254.46, Oct29). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only a stale Oct30 NYSE-listed figure ($184.08, +1.16%) surfaced, consistent with but not adding to the existing Oct29 resolution. Kept stored."
   },
   {
     "exchange": "TSX",
@@ -1310,7 +1310,7 @@
     "asOfDate": "2026-10-30",
     "displaySymbol": "WPM.TO",
     "sourceUrl": "https://stockanalysis.com/stocks/wpm/history/",
-    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): UPDATE, trouble ticker resolved via FX cross-validation (same methodology precedent as CNQ/CP/MX/TRI in this file), now with genuine multi-source support that was previously missing. THREE independent domains (stockanalysis.com, Fool, GuruFocus) now agree the NYSE-listed WPM line closed at $116.58 (-5.4%) on Oct30, 2026 -- a real same-price-and-date match, unlike the single Oct23 NYSE figure used in the prior rejected cross-check. This also now cross-validates reasonably with the TSX line: the NYSE Oct27/Oct28 closes ($125.92, $126.57) convert at ~1.3999 CAD/USD to ~C$176-177, closely matching a Morningstar TSX quote of C$174.56-176.85 for the same two days -- confirming the conversion methodology works for this name once comparable dates are used. Converting the 3-source-confirmed Oct30 NYSE close ($116.58 x 1.3999) gives ~C$163.20. Multiple further dated articles (rallies.ai, Globe and Mail 'closing bell' pieces) independently corroborate a genuine, catalyst-driven multi-week decline in precious-metals-streaming names tied to gold/silver pulling back from highs (stronger dollar, higher yields, hawkish Fed commentary) -- consistent with, not contradicting, the scale of this move. Updated from stale stored (207.45, Sep23) to 163.20 (Oct30), -21.3% -- exceeds the 15% threshold but accepted given the well-corroborated NYSE print, the now-working cross-venue validation, and the clear sector-wide precious-metals catalyst, consistent with this file's established precedent for large, corroborated, catalyst-driven moves."
+    "note": "Nov4 cycle (Wednesday US-close refresh, Dixon Mitchell): UPDATE, trouble ticker resolved via FX cross-validation (same methodology precedent as CNQ/CP/MX/TRI in this file), now with genuine multi-source support that was previously missing. THREE independent domains (stockanalysis.com, Fool, GuruFocus) now agree the NYSE-listed WPM line closed at $116.58 (-5.4%) on Oct30, 2026 -- a real same-price-and-date match, unlike the single Oct23 NYSE figure used in the prior rejected cross-check. This also now cross-validates reasonably with the TSX line: the NYSE Oct27/Oct28 closes ($125.92, $126.57) convert at ~1.3999 CAD/USD to ~C$176-177, closely matching a Morningstar TSX quote of C$174.56-176.85 for the same two days -- confirming the conversion methodology works for this name once comparable dates are used. Converting the 3-source-confirmed Oct30 NYSE close ($116.58 x 1.3999) gives ~C$163.20. Multiple further dated articles (rallies.ai, Globe and Mail 'closing bell' pieces) independently corroborate a genuine, catalyst-driven multi-week decline in precious-metals-streaming names tied to gold/silver pulling back from highs (stronger dollar, higher yields, hawkish Fed commentary) -- consistent with, not contradicting, the scale of this move. Updated from stale stored (207.45, Sep23) to 163.20 (Oct30), -21.3% -- exceeds the 15% threshold but accepted given the well-corroborated NYSE print, the now-working cross-venue validation, and the clear sector-wide precious-metals catalyst, consistent with this file's established precedent for large, corroborated, catalyst-driven moves. Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); only stale figures pre-dating the existing Oct30 FX-cross-validated resolution surfaced (massive.com Oct23 $120.89; Coinglass Oct14 129.58). Kept stored."
   },
   {
     "exchange": "TWSE",
@@ -1323,7 +1323,7 @@
     "asOfDate": "2026-10-05",
     "displaySymbol": "2330.TW",
     "sourceUrl": "https://ad-hoc-news.de/boerse/news/corporate-news/tsmc-stock-rises-2-60-percent-as-terafab-talks-emerge/70230762",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). No fresh Taiwan NT$ print found; US ADR (TSM) shows $424.37 on Oct26 (+1.40%), consistent with continued strength but not directly convertible to a TWSE print without share-ratio/FX assumptions. Kept stored (2575.0)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). No fresh Taiwan NT$ print found; US ADR (TSM) shows $424.37 on Oct26 (+1.40%), consistent with continued strength but not directly convertible to a TWSE print without share-ratio/FX assumptions. Kept stored (2575.0). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no fresh Taiwan NT$ print found this batch. Kept stored."
   },
   {
     "exchange": "XTRA",
@@ -1336,6 +1336,6 @@
     "asOfDate": "2026-10-09",
     "displaySymbol": "CBK.DE",
     "sourceUrl": "https://ca.marketscreener.com/quote/stock/COMMERZBANK-AG-13057331/valuation/",
-    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). Only a stale Aug5 Frankfurt figure (EUR39.20-39.41) and June Xetra data (EUR36-37) surfaced; no October print found, both bracket stored reasonably. Kept stored (37.9)."
+    "note": "Nov2 cycle (Monday AM refresh): Re-checked (trusted baseline). Only a stale Aug5 Frankfurt figure (EUR39.20-39.41) and June Xetra data (EUR36-37) surfaced; no October print found, both bracket stored reasonably. Kept stored (37.9). Nov9 cycle (Monday AM refresh, Dixon Mitchell): re-checked (grouped batch search); no CBK-specific results surfaced. Kept stored."
   }
 ]
