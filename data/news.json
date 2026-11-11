@@ -166,5 +166,12 @@
     "summary": "Stocks partially recovered Friday Nov6 from Thursday's severe selloff: the Nasdaq Composite closed up 1.09% to 24,579.42, the S&P 500 added 0.31% to 7,376.86, while the Dow fell 0.46% to 51,285.73. Chip stocks led the bounce -- the semiconductor index rose about 4.2%, with AMD surging 11% -- as dip-buyers returned following Thursday's rout. October payrolls rose by 165,000 (well above expectations) and unemployment fell to 4.1%, pushing bond yields higher on renewed Fed-hike expectations. Breadth stayed narrow (318 S&P 500 decliners vs. 184 advancers), and the week still ended lower across the board after Thursday's correction-territory plunge.",
     "url": "https://www.cnbc.com/2026/11/05/stock-market-today-live-updates.html",
     "date": "2026-11-06"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Stocks rally in best day since April as oil collapses",
+    "headline": "Dow jumps 2.2%, S&P 2.3%, Nasdaq 2.7% in the best session since April as oil sinks 5.8% and markets claw back last week's AI-selloff losses",
+    "summary": "Stocks surged Monday Nov9 in their best day since April 2025, clawing back more of the prior week's steep AI-driven selloff: the S&P 500 rose about 2.3% to roughly 7,549.94 (its second straight gain), the Dow gained about 2.2% to roughly 52,389.75, and the Nasdaq Composite rallied about 2.7% to roughly 25,253.14. Brent crude fell 5.8% on easing supply concerns, helping risk sentiment broadly even as Nvidia -- one of the market's most influential stocks -- bucked the rally and sank. Breadth and sector leadership were reported inconsistently across outlets this soon after the close; index-level figures above are corroborated by two independent sources (Xinhua/The Star, AP/La Nacion) agreeing closely on both the percentage moves and date.",
+    "url": "https://www.thestar.com.my/news/world/2026/11/10/us-stocks-close-higher",
+    "date": "2026-11-09"
   }
 ]
