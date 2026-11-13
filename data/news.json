@@ -173,5 +173,12 @@
     "summary": "Stocks surged Monday Nov9 in their best day since April 2025, clawing back more of the prior week's steep AI-driven selloff: the S&P 500 rose about 2.3% to roughly 7,549.94 (its second straight gain), the Dow gained about 2.2% to roughly 52,389.75, and the Nasdaq Composite rallied about 2.7% to roughly 25,253.14. Brent crude fell 5.8% on easing supply concerns, helping risk sentiment broadly even as Nvidia -- one of the market's most influential stocks -- bucked the rally and sank. Breadth and sector leadership were reported inconsistently across outlets this soon after the close; index-level figures above are corroborated by two independent sources (Xinhua/The Star, AP/La Nacion) agreeing closely on both the percentage moves and date.",
     "url": "https://www.thestar.com.my/news/world/2026/11/10/us-stocks-close-higher",
     "date": "2026-11-09"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Hot inflation data revives Fed rate-hike fears",
+    "headline": "Wall Street retreats as hotter-than-expected inflation data and hawkish Fed comments heighten rate-hike worries",
+    "summary": "Stocks closed lower Tuesday Nov10 after a hotter-than-expected inflation reading pushed traders to price in a more hawkish Fed: the S&P 500 slipped 0.4% to 7,520.93, the Dow lost 0.3% to 52,231.89, and the Nasdaq Composite dropped 0.7% to 25,065.87 (Russell 2000 -0.7% to 2,821.38). Fed Governor Christopher Waller said the Fed should raise short-term rates in December even if inflation cooled, and could consider a half-point hike if it worsened; Dallas Fed President Lorie Logan said the Fed needs at least two more quarter-point increases. CME FedWatch showed markets fully pricing in at least a quarter-point December hike (up from 84% the day before), with the odds of a half-point hike rising to 11.8%; the 10-year Treasury yield jumped to about 4.74%. Despite the day's decline, the S&P 500 and Nasdaq were each still up about 2% on the week (Dow +1.8%) after the prior week's rebound from the AI-selloff.",
+    "url": "https://gvwire.com/2026/11/10/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/",
+    "date": "2026-11-10"
   }
 ]
