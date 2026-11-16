@@ -180,5 +180,12 @@
     "summary": "Stocks closed lower Tuesday Nov10 after a hotter-than-expected inflation reading pushed traders to price in a more hawkish Fed: the S&P 500 slipped 0.4% to 7,520.93, the Dow lost 0.3% to 52,231.89, and the Nasdaq Composite dropped 0.7% to 25,065.87 (Russell 2000 -0.7% to 2,821.38). Fed Governor Christopher Waller said the Fed should raise short-term rates in December even if inflation cooled, and could consider a half-point hike if it worsened; Dallas Fed President Lorie Logan said the Fed needs at least two more quarter-point increases. CME FedWatch showed markets fully pricing in at least a quarter-point December hike (up from 84% the day before), with the odds of a half-point hike rising to 11.8%; the 10-year Treasury yield jumped to about 4.74%. Despite the day's decline, the S&P 500 and Nasdaq were each still up about 2% on the week (Dow +1.8%) after the prior week's rebound from the AI-selloff.",
     "url": "https://gvwire.com/2026/11/10/wall-st-ends-lower-as-hot-inflation-data-fed-comments-heighten-rate-worries/",
     "date": "2026-11-10"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "AI stocks rebound, nearly erasing the prior week's selloff",
+    "headline": "Nasdaq jumps 1.6%, S&P 1.3% as investors return to AI stocks, nearly recovering last week's AI-slowdown selloff",
+    "summary": "Stocks rallied Wednesday Nov11 as investors returned to AI stocks following several days of volatility: the Nasdaq Composite jumped 1.6% to 25,466.19, the S&P 500 added 1.3% to 7,619.38, and the Dow rose about 0.5% to roughly 52,486. The session nearly recovered the S&P 500's losses from the prior week's AI-slowdown-driven selloff, continuing the choppy week-to-week pattern since the Nov5 correction-territory plunge. Confirmed via three independent sources (La Nacion/AP, StockMarketWatch, Alain Guillot) agreeing closely on both the index levels and date.",
+    "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11112026-nid11112026/",
+    "date": "2026-11-11"
   }
 ]
