@@ -187,5 +187,19 @@
     "summary": "Stocks rallied Wednesday Nov11 as investors returned to AI stocks following several days of volatility: the Nasdaq Composite jumped 1.6% to 25,466.19, the S&P 500 added 1.3% to 7,619.38, and the Dow rose about 0.5% to roughly 52,486. The session nearly recovered the S&P 500's losses from the prior week's AI-slowdown-driven selloff, continuing the choppy week-to-week pattern since the Nov5 correction-territory plunge. Confirmed via three independent sources (La Nacion/AP, StockMarketWatch, Alain Guillot) agreeing closely on both the index levels and date.",
     "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-wednesday-11112026-nid11112026/",
     "date": "2026-11-11"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Nvidia CEO Jensen Huang resigns amid scandal, markets wobble",
+    "headline": "Nvidia's board ousts CEO Jensen Huang amid an affair and alleged-spy scandal; stocks dip as oil rises on Iran tensions",
+    "summary": "Nvidia's board announced Nov12 that Jensen Huang resigned as President, CEO and a board member effective immediately, following an internal investigation into an affair with a subordinate executive and an unconfirmed allegation she may be a Chinese intelligence asset; CFO Colette Kress became interim CEO and Harvey C. Jones the board's first-ever chair. Nvidia hired Wachtell Lipton to probe whether the matter compromised company secrets or national security, and three House committees have since summoned Huang for a closed-door interview; the board has said it is not considering bringing him back despite a 180,000-signature petition and President Trump voicing openness to his return. Markets were mixed Thursday Nov12 as this news added to AI-sector jitters: the S&P 500 fell 0.4% to 7,592.40, the Dow fell 0.4% to 52,297.09, and the Nasdaq fell 0.4% to 25,366.09 (Russell 2000 -1.7%), with oil climbing after Trump said he was no longer interested in an Iran deal. For the week to date the indexes were still well ahead (S&P +2.9%, Dow +2%, Nasdaq +3.2%). Note: this fund holds no direct Nvidia position, but the episode is driving broad chip/AI-sector volatility relevant to several AI-adjacent holdings.",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "date": "2026-11-12"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Chip selloff deepens into the weekend as Nvidia slides on CEO fallout",
+    "headline": "Nasdaq falls as a chip-sector selloff deepens (Nvidia -13% for the week) and hot producer-price data fuels rate-hike fears, but stocks still post their first winning week since early October",
+    "summary": "Stocks fell Friday Nov13 as the chip selloff triggered by Nvidia's CEO scandal deepened: a closely watched semiconductor index dropped 3.4%, with Nvidia down roughly 13% for the week (its worst week since April 2025), AMD -8.8% and Broadcom nearly -5%. The S&P 500 closed down about 0.4%, the Dow was roughly flat (+0.1%), and the Nasdaq fell 0.9% (Nasdaq-100 -1.2%). Hot October producer-price data (+6.5% YoY) and hawkish Fed commentary pushed the 10-year Treasury yield to a 4-week high. Despite Friday's slide, all three major indexes still closed the week higher -- the S&P 500's and Nasdaq's first winning week since early October (S&P +2.5%, Nasdaq +2.3% on the week). Nvidia was scheduled to report earnings after the close Tuesday Nov17.",
+    "url": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
+    "date": "2026-11-13"
   }
 ]
