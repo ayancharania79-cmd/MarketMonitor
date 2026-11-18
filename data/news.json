@@ -201,5 +201,12 @@
     "summary": "Stocks fell Friday Nov13 as the chip selloff triggered by Nvidia's CEO scandal deepened: a closely watched semiconductor index dropped 3.4%, with Nvidia down roughly 13% for the week (its worst week since April 2025), AMD -8.8% and Broadcom nearly -5%. The S&P 500 closed down about 0.4%, the Dow was roughly flat (+0.1%), and the Nasdaq fell 0.9% (Nasdaq-100 -1.2%). Hot October producer-price data (+6.5% YoY) and hawkish Fed commentary pushed the 10-year Treasury yield to a 4-week high. Despite Friday's slide, all three major indexes still closed the week higher -- the S&P 500's and Nasdaq's first winning week since early October (S&P +2.5%, Nasdaq +2.3% on the week). Nvidia was scheduled to report earnings after the close Tuesday Nov17.",
     "url": "https://www.nasdaq.com/articles/stock-indexes-settle-mostly-lower-chipmakers-slide",
     "date": "2026-11-13"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "AI/chip selloff deepens ahead of Nvidia's earnings",
+    "headline": "S&P falls 1.9%, Nasdaq 2.5% as the AI/chip selloff deepens ahead of Nvidia's Tuesday earnings; new curbs on remote access to advanced US AI chips add pressure",
+    "summary": "Stocks fell sharply Monday Nov16 as the chip-sector selloff tied to Nvidia's leadership crisis deepened: the S&P 500 dropped about 1.9% to roughly 7,416.59 (its worst day since Nov5), the Nasdaq fell about 2.5% to roughly 24,509.76, and the Dow fell about 739 points (-1.4%) to roughly 51,608.17. Nvidia itself fell further (~2.4%) as new US restrictions on remote access to advanced AI chips through overseas data centers added to the pressure, on top of the ongoing fallout from CEO Jensen Huang's Nov12 resignation. The 10-year Treasury yield held near 5.1-5.15%, a multi-week high, on hawkish Fed expectations. Nvidia was scheduled to report Q3 earnings after Tuesday Nov17's close -- the next major catalyst for the AI-stock narrative. Confirmed via two independent sources (StockMarketWatch, TheStreet) agreeing closely on the percentage moves.",
+    "url": "https://pro.thestreet.com/stock-market-today/ai-stocks-drag-the-sp-500-back-toward-the-november-5th-lows",
+    "date": "2026-11-16"
   }
 ]
