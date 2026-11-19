@@ -208,5 +208,12 @@
     "summary": "Stocks fell sharply Monday Nov16 as the chip-sector selloff tied to Nvidia's leadership crisis deepened: the S&P 500 dropped about 1.9% to roughly 7,416.59 (its worst day since Nov5), the Nasdaq fell about 2.5% to roughly 24,509.76, and the Dow fell about 739 points (-1.4%) to roughly 51,608.17. Nvidia itself fell further (~2.4%) as new US restrictions on remote access to advanced AI chips through overseas data centers added to the pressure, on top of the ongoing fallout from CEO Jensen Huang's Nov12 resignation. The 10-year Treasury yield held near 5.1-5.15%, a multi-week high, on hawkish Fed expectations. Nvidia was scheduled to report Q3 earnings after Tuesday Nov17's close -- the next major catalyst for the AI-stock narrative. Confirmed via two independent sources (StockMarketWatch, TheStreet) agreeing closely on the percentage moves.",
     "url": "https://pro.thestreet.com/stock-market-today/ai-stocks-drag-the-sp-500-back-toward-the-november-5th-lows",
     "date": "2026-11-16"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Another AI-stock wipeout hits Wall Street as Nvidia reports",
+    "headline": "Dow drops 848 points (-1.6%), S&P falls 1%, as Nvidia and other jittery AI stocks swing lower ahead of Nvidia's post-close earnings report",
+    "summary": "Stocks fell again Tuesday Nov17 as Nvidia and other AI stocks swung lower: the S&P 500 dropped 76.06 points (-1.0%) to 7,340.53, the Dow fell 848.75 points (-1.6%) to 50,759.42, and the Nasdaq Composite fell 181.37 points (-0.7%) to 24,328.38. Treasury yields eased as investors rotated into perceived safe havens, while oil prices rose. The pressure was on interim CEO Colette Kress to show Nvidia's growth could continue following Jensen Huang's resignation, with Nvidia reporting Q3 earnings after today's close. Confirmed via two independent sources (AP wire, La Nacion) agreeing on the S&P figure and the Dow/Nasdaq percentage moves (La Nacion's own numeric table had an apparent template glitch, but its prose matched the AP figures exactly).",
+    "url": "https://www.ajc.com/news/2026/11/another-wipeout-hits-wall-street-as-nvidia-and-other-jittery-ai-stocks-swing-lower/",
+    "date": "2026-11-17"
   }
 ]
