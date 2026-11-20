@@ -215,5 +215,12 @@
     "summary": "Stocks fell again Tuesday Nov17 as Nvidia and other AI stocks swung lower: the S&P 500 dropped 76.06 points (-1.0%) to 7,340.53, the Dow fell 848.75 points (-1.6%) to 50,759.42, and the Nasdaq Composite fell 181.37 points (-0.7%) to 24,328.38. Treasury yields eased as investors rotated into perceived safe havens, while oil prices rose. The pressure was on interim CEO Colette Kress to show Nvidia's growth could continue following Jensen Huang's resignation, with Nvidia reporting Q3 earnings after today's close. Confirmed via two independent sources (AP wire, La Nacion) agreeing on the S&P figure and the Dow/Nasdaq percentage moves (La Nacion's own numeric table had an apparent template glitch, but its prose matched the AP figures exactly).",
     "url": "https://www.ajc.com/news/2026/11/another-wipeout-hits-wall-street-as-nvidia-and-other-jittery-ai-stocks-swing-lower/",
     "date": "2026-11-17"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Nvidia beats big but stock falls anyway; Dow drops, Nasdaq rises",
+    "headline": "Nvidia's Q3 revenue surges 103% YoY and beats estimates, but shares close 2.9% lower as investors book profits; Dow -1.1%, Nasdaq +0.4%, S&P -0.2%",
+    "summary": "Markets closed mixed Wednesday Nov18 in the first full session after Nvidia's Q3 report: the Dow fell 561.25 points (-1.11%) to 50,198.17 and the S&P 500 slipped 16.90 points (-0.23%) to 7,323.63, while the Nasdaq Composite managed a gain of 101.50 points (+0.42%) to 24,429.88. Nvidia itself reported revenue up 103% YoY to $115.8B (beating the ~$109B consensus) and EPS of $2.68 (vs $2.48 expected), with Q4 guidance of roughly $130B -- but shares surrendered an early gain and closed down about 2.9% as investors booked profits on the 'sell the news' reaction, continuing a volatile stretch for the stock since CEO Jensen Huang's Nov12 resignation. Confirmed via two independent outlets (Korea Herald/mbiz.heraldcorp.com, IBTimes) agreeing on the exact index levels.",
+    "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938",
+    "date": "2026-11-18"
   }
 ]
