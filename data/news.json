@@ -229,5 +229,12 @@
     "summary": "Stocks tumbled again Thursday Nov19 as AI-spending concerns, rising borrowing costs and geopolitical uncertainty weighed on sentiment: the Dow fell about 1,100 points (-2.2%), the S&P 500 dropped 2% for its sixth consecutive losing session (longest streak since 2024), and the Nasdaq Composite shed about 2.3%. More than 90% of S&P 500 constituents fell. The session's bright spot was Anthropic's Nasdaq debut -- priced at $83, the stock briefly traded above $115 before paring gains to close at $97.17 (+17.1%) -- but the successful IPO did little to calm broader worries about AI profitability and spending sustainability. Confirmed via multiple independent outlets (AP/AJC, NBC affiliates, IBTimes, Stocktwits) agreeing on the index moves and Anthropic's close.",
     "url": "https://www.ajc.com/news/2026/11/wall-street-tumbles-to-its-longest-losing-streak-since-2024-as-the-dow-drops-1100-points/",
     "date": "2026-11-19"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "S&P and Dow enter correction as AI/semiconductor rout intensifies",
+    "headline": "Nasdaq plunges 5.3%, S&P and Dow enter correction territory as the AI/chip selloff intensifies on a reported SEC probe into Nvidia; worst week since April 2025",
+    "summary": "Stocks crashed Friday Nov20 in an intensifying AI and semiconductor selloff: the S&P 500 fell 3.70% to 6,910.39 (its 7th straight loss, now in correction territory, -8.6% for the week -- the worst week since April 2025), the Dow dropped 1.93% to 48,147.33 (also in correction, -8.0% on the week), and the Nasdaq Composite plunged 5.28% to 22,617.73 (-10.0% on the week, now down 2.7% YTD). The VIX jumped 26.2% to 35.89, its highest close since late March. Nvidia had its worst day since the DeepSeek selloff after Reuters/WSJ reported the SEC opened a civil inquiry into whether the company misled investors with its disclosures, adding to the fallout from CEO Jensen Huang's Nov12 resignation; investors also took profits on Anthropic's IPO gains rather than extend the AI rally. Consumer staples was the only S&P sector to finish higher as investors rotated defensive. Confirmed via multiple independent sources (Yahoo Finance index recap, CNBC, StockMarketWatch) agreeing closely on the closing levels; a same-day Zacks figure was identified as a pre-close snapshot published before the final numbers and not used.",
+    "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+    "date": "2026-11-20"
   }
 ]
