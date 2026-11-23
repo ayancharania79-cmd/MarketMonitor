@@ -222,5 +222,12 @@
     "summary": "Markets closed mixed Wednesday Nov18 in the first full session after Nvidia's Q3 report: the Dow fell 561.25 points (-1.11%) to 50,198.17 and the S&P 500 slipped 16.90 points (-0.23%) to 7,323.63, while the Nasdaq Composite managed a gain of 101.50 points (+0.42%) to 24,429.88. Nvidia itself reported revenue up 103% YoY to $115.8B (beating the ~$109B consensus) and EPS of $2.68 (vs $2.48 expected), with Q4 guidance of roughly $130B -- but shares surrendered an early gain and closed down about 2.9% as investors booked profits on the 'sell the news' reaction, continuing a volatile stretch for the stock since CEO Jensen Huang's Nov12 resignation. Confirmed via two independent outlets (Korea Herald/mbiz.heraldcorp.com, IBTimes) agreeing on the exact index levels.",
     "url": "https://www.ibtimes.com/us-stocks-dow-falls-nvidia-earnings-fed-rate-hikes-3809938",
     "date": "2026-11-18"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "AI-spending fears deepen; S&P posts longest losing streak since 2024, even as Anthropic's IPO pops",
+    "headline": "Dow plunges ~1,100 points (-2.2%), S&P falls 2% for its 6th straight loss, as AI-spending worries deepen despite a strong Anthropic stock-market debut",
+    "summary": "Stocks tumbled again Thursday Nov19 as AI-spending concerns, rising borrowing costs and geopolitical uncertainty weighed on sentiment: the Dow fell about 1,100 points (-2.2%), the S&P 500 dropped 2% for its sixth consecutive losing session (longest streak since 2024), and the Nasdaq Composite shed about 2.3%. More than 90% of S&P 500 constituents fell. The session's bright spot was Anthropic's Nasdaq debut -- priced at $83, the stock briefly traded above $115 before paring gains to close at $97.17 (+17.1%) -- but the successful IPO did little to calm broader worries about AI profitability and spending sustainability. Confirmed via multiple independent outlets (AP/AJC, NBC affiliates, IBTimes, Stocktwits) agreeing on the index moves and Anthropic's close.",
+    "url": "https://www.ajc.com/news/2026/11/wall-street-tumbles-to-its-longest-losing-streak-since-2024-as-the-dow-drops-1100-points/",
+    "date": "2026-11-19"
   }
 ]
