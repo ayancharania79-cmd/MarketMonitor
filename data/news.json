@@ -243,5 +243,12 @@
     "summary": "In a dramatic reversal, Nvidia's board voted unanimously Monday Nov23 to reinstate Jensen Huang as President, CEO and a board member, effective immediately -- despite having told investors on the Nov17 earnings call it had no intention of doing so. Reports indicate the board faced pressure from President Trump, who said the administration had assured the board Huang had not broken national security laws; the board said it remains satisfied as to Huang's candor, and an independent-director committee will continue investigating the earlier allegations (including a claimed foreign-intelligence targeting effort) to conclusion. Colette Kress returns to her CFO role. Nvidia shares rocketed 31.5% to $165.05, its best day since 2003 and nearly $1T in market cap gained, lifting the whole market: the Dow jumped 3.01% to 49,595.31, the S&P 500 surged 4.73% to 7,237.17, and the Nasdaq Composite soared 6.51% to 24,089.56 -- all three posting their best day since April 2025 and recovering slightly more than half of last week's correction-territory losses (78% of stocks advanced vs. 19.6% declining). Confirmed via Nvidia's own press release plus multiple independent outlets (CNBC, PBS, CNN, Yahoo Finance) agreeing on the facts and closing levels.",
     "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
     "date": "2026-11-23"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Chip stocks give back much of Monday's Nvidia-led rally",
+    "headline": "Dow reclaims 50,000 (+0.85%) on a value rotation, but Nasdaq falls 1.5% as chip stocks give back much of Monday's Huang-reinstatement rally",
+    "summary": "Stocks were mixed Tuesday Nov24 as investors rotated out of the prior day's AI/chip winners: the Dow Jones rose 423.39 points (+0.85%) to 50,018.70 (back above the 50,000 mark), while the S&P 500 fell 0.50% to 7,201.09 (its 8th loss in 9 sessions) and the Nasdaq Composite dropped 1.48% to 23,733.54 (Nasdaq-100 -1.99%). Chip stocks gave back much of Monday's Nvidia-led rally (Nvidia itself fell roughly 6%), while investors favored value sectors -- healthcare led gains, helped by Sanofi's agreed acquisition of Insmed. Confirmed via multiple independent sources (Yahoo Finance, Reuters/NBC, StockMarketWatch, BigGo Finance) agreeing closely on the index closes.",
+    "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html",
+    "date": "2026-11-24"
   }
 ]
