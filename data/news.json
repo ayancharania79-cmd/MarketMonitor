@@ -250,5 +250,12 @@
     "summary": "Stocks were mixed Tuesday Nov24 as investors rotated out of the prior day's AI/chip winners: the Dow Jones rose 423.39 points (+0.85%) to 50,018.70 (back above the 50,000 mark), while the S&P 500 fell 0.50% to 7,201.09 (its 8th loss in 9 sessions) and the Nasdaq Composite dropped 1.48% to 23,733.54 (Nasdaq-100 -1.99%). Chip stocks gave back much of Monday's Nvidia-led rally (Nvidia itself fell roughly 6%), while investors favored value sectors -- healthcare led gains, helped by Sanofi's agreed acquisition of Insmed. Confirmed via multiple independent sources (Yahoo Finance, Reuters/NBC, StockMarketWatch, BigGo Finance) agreeing closely on the index closes.",
     "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html",
     "date": "2026-11-24"
+  },
+  {
+    "ticker": "MARKET", "exchange": "", "company": "Stocks claw back from a steep morning plunge ahead of Thanksgiving",
+    "headline": "S&P and Nasdaq claw back from a 3-4% morning plunge to close only modestly lower as Nvidia, Oracle and Micron weigh on an otherwise-positive market",
+    "summary": "Stocks swung sharply Wednesday Nov25 (the last full session before the Thanksgiving holiday): the S&P 500 fell as much as 3.2% and the Nasdaq more than 4% intraday before clawing back most of the losses to close at S&P 7,182.78 (-0.25%), Nasdaq Composite 23,585.80 (-0.62%), while the Dow actually finished higher at 50,182.95 (+0.33%). AI leaders Nvidia, Oracle and Micron weighed on the headline indexes even as most S&P 500 stocks rose (S&P MidCap 400 +1.23%, Russell 2000 +0.71%), underscoring the market's continued split between AI-megacap jitters and broader strength. Year-to-date the S&P 500 is up 4.9% and the Dow 4.4%. US markets were closed Thursday for Thanksgiving and close early (1pm ET) Friday Nov27. Confirmed via multiple independent sources (theweekendspread, cappnotes, portfolio-terminal, swingfolio) agreeing closely on the closing levels; a same-day Yahoo figure matching the prior session's (Nov24) close was identified and not used.",
+    "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-211718440.html",
+    "date": "2026-11-25"
   }
 ]
